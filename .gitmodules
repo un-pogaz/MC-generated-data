@@ -1,3 +1,3 @@
-[submodule "builder"]
-	path = builder
-	url = https://github.com/un-pogaz/MC-generated-data-builder
+[submodule "utility-tools"]
+	path = utility-tools
+	url = https://github.com/un-pogaz/MC-utility-tools.git
