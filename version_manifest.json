@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "1.18.2",
-    "snapshot": "22w12a"
+    "snapshot": "22w13a"
   },
   "versions": [
+    {
+      "id": "22w13a",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/5f73acb0bfadc51f9535464c6f03b84c358d2b9b/22w13a.json",
+      "time": "2022-03-31T14:58:33+00:00",
+      "releaseTime": "2022-03-31T14:53:25+00:00"
+    },
     {
       "id": "22w12a",
       "type": "snapshot",
@@ -4488,7 +4495,9 @@
   "pack_format": {
     "data_pack": {
       "10": [
-        "22w11a"
+        "22w11a",
+        "22w12a",
+        "22w13a"
       ],
       "9": [
         "1.18.2",
@@ -4795,7 +4804,9 @@
     },
     "resource_pack": {
       "9": [
-        "22w11a"
+        "22w11a",
+        "22w12a",
+        "22w13a"
       ],
       "8": [
         "1.18.2",
@@ -5364,7 +5375,9 @@
         "1.19_deep_dark_experimental_snapshot-1"
       ],
       "snapshots": [
-        "22w11a"
+        "22w11a",
+        "22w12a",
+        "22w13a"
       ]
     },
     "1.18": {
