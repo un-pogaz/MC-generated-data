@@ -1,9 +1,37 @@
 {
   "latest": {
     "release": "1.18.2",
-    "snapshot": "22w19a"
+    "snapshot": "1.19-pre4"
   },
   "versions": [
+    {
+      "id": "1.19-pre4",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/083d22635d00f82ef1ca830cbc0495dde0840e3b/1.19-pre4.json",
+      "time": "2022-05-30T14:48:18+00:00",
+      "releaseTime": "2022-05-30T14:43:01+00:00"
+    },
+    {
+      "id": "1.19-pre3",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/aee623cf240961d604eda8e853c265f397ed4f1c/1.19-pre3.json",
+      "time": "2022-05-25T10:01:12+00:00",
+      "releaseTime": "2022-05-25T09:56:47+00:00"
+    },
+    {
+      "id": "1.19-pre2",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/b4b573ba1d0882dd5150655804d58cfe1e82a3b1/1.19-pre2.json",
+      "time": "2022-05-23T14:58:43+00:00",
+      "releaseTime": "2022-05-23T14:54:00+00:00"
+    },
+    {
+      "id": "1.19-pre1",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/e6252b857aa30ca29c7edd6fc063c38dd4599ae3/1.19-pre1.json",
+      "time": "2022-05-18T13:59:45+00:00",
+      "releaseTime": "2022-05-18T13:51:54+00:00"
+    },
     {
       "id": "22w19a",
       "type": "snapshot",
@@ -4551,6 +4579,10 @@
   "pack_format": {
     "data_pack": {
       "10": [
+        "1.19-pre4",
+        "1.19-pre3",
+        "1.19-pre2",
+        "1.19-pre1",
         "22w19a",
         "22w18a",
         "22w17a",
@@ -4868,6 +4900,10 @@
     },
     "resource_pack": {
       "9": [
+        "1.19-pre4",
+        "1.19-pre3",
+        "1.19-pre2",
+        "1.19-pre1",
         "22w19a",
         "22w18a",
         "22w17a",
@@ -5458,6 +5494,16 @@
         "22w13a",
         "22w12a",
         "22w11a"
+      ],
+      "pre-releases": [
+        "1.19-pre4",
+        "1.19-pre3",
+        "1.19-pre2",
+        "1.19-pre1"
+      ],
+      "releases-candidate": [],
+      "releases": [
+        "1.19"
       ]
     },
     "1.18": {
