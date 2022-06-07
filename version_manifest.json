@@ -1,9 +1,37 @@
 {
   "latest": {
-    "release": "1.18.2",
-    "snapshot": "1.19-pre4"
+    "release": "1.19",
+    "snapshot": "1.19"
   },
   "versions": [
+    {
+      "id": "1.19",
+      "type": "release",
+      "url": "https://launchermeta.mojang.com/v1/packages/76839fc33609dfd354b9c519f46bbea2afac9e06/1.19.json",
+      "time": "2022-06-07T09:47:48+00:00",
+      "releaseTime": "2022-06-07T09:42:18+00:00"
+    },
+    {
+      "id": "1.19-rc2",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/ea216ac54c9f99ebac8e980db232aae1bad96e1c/1.19-rc2.json",
+      "time": "2022-06-07T07:47:37+00:00",
+      "releaseTime": "2022-06-03T11:47:25+00:00"
+    },
+    {
+      "id": "1.19-rc1",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/df8cf10ff16ae0e5feada63e989bf8574d713dc2/1.19-rc1.json",
+      "time": "2022-06-02T12:17:17+00:00",
+      "releaseTime": "2022-06-02T12:12:52+00:00"
+    },
+    {
+      "id": "1.19-pre5",
+      "type": "snapshot",
+      "url": "https://launchermeta.mojang.com/v1/packages/af6607252a13b3df876de97ebcd35f3386abbc5e/1.19-pre5.json",
+      "time": "2022-06-01T11:01:06+00:00",
+      "releaseTime": "2022-06-01T10:56:23+00:00"
+    },
     {
       "id": "1.19-pre4",
       "type": "snapshot",
@@ -4579,6 +4607,10 @@
   "pack_format": {
     "data_pack": {
       "10": [
+        "1.19",
+        "1.19-rc2",
+        "1.19-rc1",
+        "1.19-pre5",
         "1.19-pre4",
         "1.19-pre3",
         "1.19-pre2",
@@ -4900,6 +4932,10 @@
     },
     "resource_pack": {
       "9": [
+        "1.19",
+        "1.19-rc2",
+        "1.19-rc1",
+        "1.19-pre5",
         "1.19-pre4",
         "1.19-pre3",
         "1.19-pre2",
@@ -5496,12 +5532,16 @@
         "22w11a"
       ],
       "pre-releases": [
+        "1.19-pre5",
         "1.19-pre4",
         "1.19-pre3",
         "1.19-pre2",
         "1.19-pre1"
       ],
-      "releases-candidate": [],
+      "releases-candidate": [
+        "1.19-rc2",
+        "1.19-rc1"
+      ],
       "releases": [
         "1.19"
       ]
