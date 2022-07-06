@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "1.19",
-    "snapshot": "1.19.1-pre2"
+    "snapshot": "1.19.1-pre3"
   },
   "versions": [
+    {
+      "id": "1.19.1-pre3",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/4a91baff04c8c13f718d3e6aa599b83174f3cd05/1.19.1-pre3.json",
+      "time": "2022-07-06T14:55:23+00:00",
+      "releaseTime": "2022-07-06T14:50:46+00:00"
+    },
     {
       "id": "1.19.1-pre2",
       "type": "snapshot",
@@ -4635,6 +4642,9 @@
   "pack_format": {
     "data_pack": {
       "10": [
+        "1.19.1-pre3",
+        "1.19.1-pre2",
+        "1.19.1-rc1",
         "1.19.1-pre1",
         "22w24a",
         "1.19",
@@ -4962,6 +4972,9 @@
     },
     "resource_pack": {
       "9": [
+        "1.19.1-pre3",
+        "1.19.1-pre2",
+        "1.19.1-rc1",
         "1.19.1-pre1",
         "22w24a",
         "1.19",
@@ -4976,10 +4989,10 @@
         "22w18a",
         "22w17a",
         "22w16b",
+        "22w13oneblockatatime",
         "22w16a",
         "22w15a",
         "22w14a",
-        "22w13oneblockatatime",
         "22w13a",
         "22w12a",
         "22w11a"
@@ -5565,6 +5578,8 @@
         "22w11a"
       ],
       "pre-releases": [
+        "1.19.1-pre3",
+        "1.19.1-pre2",
         "1.19.1-pre1",
         "1.19-pre5",
         "1.19-pre4",
@@ -5573,6 +5588,7 @@
         "1.19-pre1"
       ],
       "releases-candidate": [
+        "1.19.1-rc1",
         "1.19-rc2",
         "1.19-rc1"
       ],
