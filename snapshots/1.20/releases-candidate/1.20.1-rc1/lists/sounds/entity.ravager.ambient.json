@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/ravager/idle1",
+    "mob/ravager/idle2",
+    "mob/ravager/idle3",
+    "mob/ravager/idle4",
+    "mob/ravager/idle5",
+    "mob/ravager/idle6",
+    "mob/ravager/idle7",
+    "mob/ravager/idle8"
+  ],
+  "subtitle": "subtitles.entity.ravager.ambient"
+}
