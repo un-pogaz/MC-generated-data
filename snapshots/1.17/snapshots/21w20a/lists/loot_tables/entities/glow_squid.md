@@ -1,0 +1,4 @@
+| Name                   | Count | Chance | Comment |
+| ---------------------- | ----- | ------ | ------- |
+| 1 time                 |    -- |     -- |         |
+| minecraft:glow_ink_sac |  1..3 |   100% |         |
