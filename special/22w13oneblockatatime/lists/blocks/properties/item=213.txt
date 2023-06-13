@@ -1,0 +1,1 @@
+minecraft:generic_item_block
