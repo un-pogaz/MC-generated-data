@@ -1,0 +1,8 @@
+minecraft:lily_pad
+minecraft:name_tag
+minecraft:saddle
+minecraft:bow
+minecraft:fishing_rod
+minecraft:enchanted_book
+minecraft:nautilus_shell
+minecraft:blue_key
