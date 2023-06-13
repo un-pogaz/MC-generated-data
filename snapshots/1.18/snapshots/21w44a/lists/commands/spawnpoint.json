@@ -1,0 +1,29 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "parser": "minecraft:entity",
+      "properties": {
+        "amount": "multiple",
+        "type": "players"
+      },
+      "children": {
+        "pos": {
+          "type": "argument",
+          "parser": "minecraft:block_pos",
+          "children": {
+            "angle": {
+              "type": "argument",
+              "parser": "minecraft:angle",
+              "executable": true
+            }
+          },
+          "executable": true
+        }
+      },
+      "executable": true
+    }
+  },
+  "executable": true
+}
