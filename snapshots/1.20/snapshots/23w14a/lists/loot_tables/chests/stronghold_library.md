@@ -1,0 +1,11 @@
+| Name                                       | Count | Chance | Comment |
+| ------------------------------------------ | ----- | ------ | ------- |
+| 2 to 10 time                               |    -- |     -- |         |
+| minecraft:book                             |  1..3 |  38.5% |         |
+| minecraft:paper                            |  2..7 |  38.5% |         |
+| minecraft:map                              |     1 |   1.9% |         |
+| minecraft:compass                          |     1 |   1.9% |         |
+| minecraft:enchanted_book                   |     1 |  19.2% |         |
+|                                            |       |        |         |
+| 1 time                                     |    -- |     -- |         |
+| minecraft:eye_armor_trim_smithing_template |     1 |   100% |         |
