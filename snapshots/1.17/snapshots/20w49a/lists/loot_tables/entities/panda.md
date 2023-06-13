@@ -1,0 +1,4 @@
+| Name             | Count | Chance | Comment |
+| ---------------- | ----- | ------ | ------- |
+| 1 time           |    -- |     -- |         |
+| minecraft:bamboo |     1 |   100% |         |
