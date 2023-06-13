@@ -1,0 +1,17 @@
+| Name                   | Count | Chance | Comment |
+| ---------------------- | ----- | ------ | ------- |
+| 1 time                 |    -- |     -- |         |
+| minecraft:arrow        |     1 |  66.7% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
+| minecraft:tipped_arrow |  0..1 |   2.6% |         |
