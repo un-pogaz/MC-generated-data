@@ -1,0 +1,8 @@
+"Name","Count","Chance","Comment"
+,,,
+"1 time","--","--",
+"minecraft:string","0..2","100%",
+,,,
+"1 time","--","--","killed by player"
+"minecraft:spider_eye","1","33.3%",
+"empty",,"66.7%",
