@@ -1,0 +1,23 @@
+{
+  "type": "literal",
+  "children": {
+    "start": {
+      "type": "literal",
+      "executable": true
+    },
+    "stop": {
+      "type": "literal",
+      "executable": true
+    },
+    "function": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "parser": "minecraft:function",
+          "executable": true
+        }
+      }
+    }
+  }
+}

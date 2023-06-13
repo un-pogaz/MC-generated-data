@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/pillager/celebrate1",
+    "mob/pillager/celebrate2",
+    "mob/pillager/celebrate3",
+    "mob/pillager/celebrate4",
+    "mob/pillager/horn_celebrate"
+  ],
+  "subtitle": "subtitles.entity.pillager.celebrate"
+}
