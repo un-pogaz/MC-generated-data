@@ -1,0 +1,17 @@
+{
+  "type": "literal",
+  "children": {
+    "start": {
+      "type": "literal",
+      "executable": true
+    },
+    "stop": {
+      "type": "literal",
+      "executable": true
+    },
+    "report": {
+      "type": "literal",
+      "executable": true
+    }
+  }
+}
