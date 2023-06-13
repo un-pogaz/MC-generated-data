@@ -1,0 +1,11 @@
+| Name                   | Count | Chance | Comment |
+| ---------------------- | ----- | ------ | ------- |
+| 3 to 8 time            |    -- |     -- |         |
+| minecraft:diamond      |  1..3 |   1.9% |         |
+| minecraft:iron_ingot   |  1..5 |   9.4% |         |
+| minecraft:gold_ingot   |  1..3 |   1.9% |         |
+| minecraft:bread        |  1..3 |  28.3% |         |
+| minecraft:iron_pickaxe |     1 |   9.4% |         |
+| minecraft:coal         |  1..3 |   1.9% |         |
+| minecraft:stick        |  1..3 |  37.7% |         |
+| minecraft:iron_shovel  |     1 |   9.4% |         |
