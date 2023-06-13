@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "cracked": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
