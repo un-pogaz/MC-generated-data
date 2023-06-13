@@ -1,0 +1,3 @@
+minecraft:lime_wool
+
+loot_table[]minecraft:entities/sheep
