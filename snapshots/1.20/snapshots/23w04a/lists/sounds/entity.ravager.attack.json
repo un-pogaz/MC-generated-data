@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/ravager/bite1",
+    "mob/ravager/bite2",
+    "mob/ravager/bite3"
+  ],
+  "subtitle": "subtitles.entity.ravager.attack"
+}
