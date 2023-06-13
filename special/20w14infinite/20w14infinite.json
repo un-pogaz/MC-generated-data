@@ -1,0 +1,13 @@
+{
+  "id": "20w14infinite",
+  "type": "snapshot",
+  "time": "2020-04-01T12:47:08+00:00",
+  "releaseTime": "2020-04-01T12:47:08+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/394eb84b4082b11470f82e9c889ad324727d98c2/20w14infinite.json",
+  "assets": "1.16",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json",
+  "client": "https://launcher.mojang.com/v1/objects/cc5cb23748614a6396ffb77427b4f11f4b6ae99b/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/20111b1ba89e3fd2dd4c06323f832cb9d5b42050/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/c0711cd9608d1af3d6f05ac423dd8f4199780225/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/69f8af8ba7a9957c36a3c19dac94ec80f02a334e/server.txt"
+}
