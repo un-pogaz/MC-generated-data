@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/ravager/step1",
+    "mob/ravager/step2",
+    "mob/ravager/step3",
+    "mob/ravager/step4",
+    "mob/ravager/step5"
+  ],
+  "subtitle": "subtitles.entity.ravager.step"
+}
