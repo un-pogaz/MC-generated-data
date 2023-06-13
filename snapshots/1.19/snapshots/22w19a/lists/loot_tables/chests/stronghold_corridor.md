@@ -1,0 +1,23 @@
+| Name                           | Count | Chance | Comment |
+| ------------------------------ | ----- | ------ | ------- |
+| 2 to 3 time                    |    -- |     -- |         |
+| minecraft:ender_pearl          |     1 |    10% |         |
+| minecraft:diamond              |  1..3 |     3% |         |
+| minecraft:iron_ingot           |  1..5 |    10% |         |
+| minecraft:gold_ingot           |  1..3 |     5% |         |
+| minecraft:redstone             |  4..9 |     5% |         |
+| minecraft:bread                |  1..3 |    15% |         |
+| minecraft:apple                |  1..3 |    15% |         |
+| minecraft:iron_pickaxe         |     1 |     5% |         |
+| minecraft:iron_sword           |     1 |     5% |         |
+| minecraft:iron_chestplate      |     1 |     5% |         |
+| minecraft:iron_helmet          |     1 |     5% |         |
+| minecraft:iron_leggings        |     1 |     5% |         |
+| minecraft:iron_boots           |     1 |     5% |         |
+| minecraft:golden_apple         |     1 |     1% |         |
+| minecraft:saddle               |     1 |     1% |         |
+| minecraft:iron_horse_armor     |     1 |     1% |         |
+| minecraft:golden_horse_armor   |     1 |     1% |         |
+| minecraft:diamond_horse_armor  |     1 |     1% |         |
+| minecraft:music_disc_otherside |     1 |     1% |         |
+| minecraft:enchanted_book       |     1 |     1% |         |
