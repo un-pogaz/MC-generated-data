@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/panda/cant_breed1",
+    "mob/panda/cant_breed2",
+    "mob/panda/cant_breed3",
+    "mob/panda/cant_breed4",
+    "mob/panda/cant_breed5"
+  ],
+  "subtitle": "subtitles.entity.panda.cant_breed"
+}
