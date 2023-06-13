@@ -1,0 +1,23 @@
+{
+  "type": "literal",
+  "children": {
+    "clear": {
+      "type": "literal",
+      "executable": true
+    },
+    "set": {
+      "type": "literal",
+      "children": {
+        "warning_level": {
+          "type": "argument",
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0,
+            "max": 3
+          },
+          "executable": true
+        }
+      }
+    }
+  }
+}

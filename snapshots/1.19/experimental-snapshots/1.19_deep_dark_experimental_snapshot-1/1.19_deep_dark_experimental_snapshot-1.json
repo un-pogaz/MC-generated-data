@@ -1,0 +1,13 @@
+{
+  "id": "1.19_deep_dark_experimental_snapshot-1",
+  "type": "pending",
+  "time": "2022-02-17T13:55:59+00:00",
+  "releaseTime": "2022-02-17T13:55:59+00:00",
+  "url": "https://launcher.mojang.com/v1/objects/b1e589c1d6ed73519797214bc796e53f5429ac46/1_19_deep_dark_experimental_snapshot-1.zip",
+  "assets": "1.19_deep_dark_side_snapshot",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/f91cf48b5e282816e251797d3406d4514e20c3a8/1.19_deep_dark_side_snapshot.json",
+  "client": "https://launcher.mojang.com/v1/objects/17f03648f0956343d4ae35260067d200a5aabc56/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/668d017c0c3bfc47a7b4c9e75e0841b31123c5e0/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/973e76b8067bab5410fef92bf4412ada1f7b0f97/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/7c6d4d114bfb0cb482a549dda1b587aece9c04af/server.txt"
+}

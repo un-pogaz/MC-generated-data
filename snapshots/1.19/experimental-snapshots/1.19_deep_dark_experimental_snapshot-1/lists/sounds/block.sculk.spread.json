@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk/spread1",
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/sculk/spread2",
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/sculk/spread3",
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/sculk/spread4",
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/sculk/spread5",
+      "volume": 1,
+      "pitch": 0.9
+    }
+  ]
+}

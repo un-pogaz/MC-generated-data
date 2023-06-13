@@ -1,0 +1,11 @@
+minecraft:enchanted_book
+minecraft:sculk_catalyst
+minecraft:name_tag
+minecraft:sculk_sensor
+minecraft:potion
+minecraft:enchanted_book
+minecraft:sculk
+minecraft:book
+minecraft:candle
+minecraft:snowball
+minecraft:bone

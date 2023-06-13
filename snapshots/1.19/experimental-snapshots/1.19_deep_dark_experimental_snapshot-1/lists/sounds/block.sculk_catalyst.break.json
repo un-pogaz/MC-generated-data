@@ -1,0 +1,45 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_catalyst/break1",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break2",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break3",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break4",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break5",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break6",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break7",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break8",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break9",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/break10",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

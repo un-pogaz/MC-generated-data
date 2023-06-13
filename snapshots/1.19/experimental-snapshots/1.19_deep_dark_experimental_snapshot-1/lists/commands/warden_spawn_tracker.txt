@@ -1,0 +1,2 @@
+warden_spawn_tracker clear
+warden_spawn_tracker set <warning_level brigadier:integer[min="0", max="3"]>
