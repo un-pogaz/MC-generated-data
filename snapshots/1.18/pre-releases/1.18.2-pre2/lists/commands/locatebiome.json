@@ -1,0 +1,13 @@
+{
+  "type": "literal",
+  "children": {
+    "biome": {
+      "type": "argument",
+      "parser": "minecraft:resource_or_tag",
+      "properties": {
+        "registry": "minecraft:worldgen/biome"
+      },
+      "executable": true
+    }
+  }
+}
