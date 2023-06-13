@@ -1,0 +1,10 @@
+| Name                     | Count | Chance | Comment |
+| ------------------------ | ----- | ------ | ------- |
+| 1 time                   |    -- |     -- |         |
+| minecraft:lily_pad       |     1 |  14.3% |         |
+| minecraft:name_tag       |     1 |  14.3% |         |
+| minecraft:saddle         |     1 |  14.3% |         |
+| minecraft:bow            |     1 |  14.3% |         |
+| minecraft:fishing_rod    |     1 |  14.3% |         |
+| minecraft:enchanted_book |     1 |  14.3% |         |
+| minecraft:nautilus_shell |     1 |  14.3% |         |
