@@ -1,0 +1,30 @@
+| Name                             | Count  | Chance | Comment |
+| -------------------------------- | ------ | ------ | ------- |
+| 3 time                           |     -- |     -- |         |
+| minecraft:netherite_ingot        |      1 |    15% |         |
+| minecraft:ancient_debris         |      1 |    10% |         |
+| minecraft:netherite_scrap        |      1 |     8% |         |
+| minecraft:ancient_debris         |      2 |     4% |         |
+| minecraft:diamond_sword          |      1 |     6% |         |
+| minecraft:diamond_chestplate     |      1 |     6% |         |
+| minecraft:diamond_helmet         |      1 |     6% |         |
+| minecraft:diamond_leggings       |      1 |     6% |         |
+| minecraft:diamond_boots          |      1 |     6% |         |
+| minecraft:diamond_sword          |      1 |     6% |         |
+| minecraft:diamond_chestplate     |      1 |     5% |         |
+| minecraft:diamond_helmet         |      1 |     5% |         |
+| minecraft:diamond_boots          |      1 |     5% |         |
+| minecraft:diamond_leggings       |      1 |     5% |         |
+| minecraft:diamond                |   2..6 |     5% |         |
+| minecraft:enchanted_golden_apple |      1 |     2% |         |
+|                                  |        |        |         |
+| 3 to 4 time                      |     -- |     -- |         |
+| minecraft:spectral_arrow         | 12..25 |  11.1% |         |
+| minecraft:gold_block             |   2..5 |  11.1% |         |
+| minecraft:iron_block             |   2..5 |  11.1% |         |
+| minecraft:gold_ingot             |   3..9 |  11.1% |         |
+| minecraft:iron_ingot             |   3..9 |  11.1% |         |
+| minecraft:crying_obsidian        |   3..5 |  11.1% |         |
+| minecraft:quartz                 |  8..23 |  11.1% |         |
+| minecraft:gilded_blackstone      |  5..15 |  11.1% |         |
+| minecraft:magma_cream            |   3..8 |  11.1% |         |
