@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/polarbear/step1",
+    "mob/polarbear/step2",
+    "mob/polarbear/step3",
+    "mob/polarbear/step4"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}
