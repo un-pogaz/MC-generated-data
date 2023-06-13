@@ -1,0 +1,11 @@
+minecraft:coast
+minecraft:dune
+minecraft:eye
+minecraft:rib
+minecraft:sentry
+minecraft:snout
+minecraft:spire
+minecraft:tide
+minecraft:vex
+minecraft:ward
+minecraft:wild
