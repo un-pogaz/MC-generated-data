@@ -1,0 +1,30 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:stone"
+        },
+        "state": {
+          "Name": "minecraft:emerald_ore"
+        }
+      },
+      "type": "minecraft:emerald_ore"
+    },
+    "decorator": {
+      "config": {
+        "height": {
+          "min_inclusive": {
+            "above_bottom": 0
+          },
+          "max_inclusive": {
+            "below_top": 0
+          },
+          "type": "minecraft:uniform"
+        }
+      },
+      "type": "minecraft:range"
+    }
+  },
+  "type": "minecraft:decorated"
+}
