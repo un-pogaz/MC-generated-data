@@ -1,0 +1,24 @@
+vote dump_all
+vote dump_all long
+vote dump_all short
+vote io flush
+vote io reload
+vote pending discard *
+vote pending discard <id minecraft:uuid>
+vote pending finish *
+vote pending finish <id minecraft:uuid>
+vote pending repeal
+vote pending start
+vote pending start <rule minecraft:resource[registry="minecraft:rules"]>
+vote pending vote <id minecraft:uuid> <option brigadier:integer[min="0"]>
+vote pending vote <id minecraft:uuid> <option brigadier:integer[min="0"]> <count brigadier:integer>
+vote rule * repeal
+vote rule ? approve
+vote rule ? repeal
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> approve
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> approve ?
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> approve <value minecraft:nbt_tag>
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> repeal
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> repeal *
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> repeal ?
+vote rule <rule minecraft:resource[registry="minecraft:rules"]> repeal <value minecraft:nbt_tag>

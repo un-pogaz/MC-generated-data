@@ -1,0 +1,53 @@
+{
+  "type": "literal",
+  "children": {
+    "clear": {
+      "type": "literal",
+      "executable": true
+    },
+    "into": {
+      "type": "literal",
+      "children": {
+        "entity": {
+          "type": "argument",
+          "children": {
+            "nbt": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:nbt_compound_tag"
+            }
+          },
+          "executable": true,
+          "parser": "minecraft:resource",
+          "properties": {
+            "registry": "minecraft:entity_type"
+          }
+        },
+        "player": {
+          "type": "literal",
+          "children": {
+            "player": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:game_profile"
+            }
+          }
+        }
+      }
+    },
+    "scale": {
+      "type": "literal",
+      "children": {
+        "scale": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:float",
+          "properties": {
+            "max": 16.0,
+            "min": 0.1
+          }
+        }
+      }
+    }
+  }
+}

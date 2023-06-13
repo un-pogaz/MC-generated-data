@@ -1,0 +1,4 @@
+minecraft:dispenser
+minecraft:dropper
+minecraft:pickaxe_block
+minecraft:place_block

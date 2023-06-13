@@ -1,0 +1,5 @@
+transform clear
+transform into <entity minecraft:resource[registry="minecraft:entity_type"]>
+transform into <entity minecraft:resource[registry="minecraft:entity_type"]> <nbt minecraft:nbt_compound_tag>
+transform into player <player minecraft:game_profile>
+transform scale <scale brigadier:float[max="16.0", min="0.1"]>
