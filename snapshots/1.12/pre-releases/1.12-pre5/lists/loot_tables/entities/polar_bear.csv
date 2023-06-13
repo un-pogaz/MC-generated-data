@@ -1,0 +1,5 @@
+"Name","Count","Chance","Comment"
+,,,
+"1 time","--","--",
+"minecraft:fish","0..2","75%",
+"minecraft:fish","0..2","25%",
