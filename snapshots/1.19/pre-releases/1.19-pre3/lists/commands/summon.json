@@ -1,0 +1,24 @@
+{
+  "type": "literal",
+  "children": {
+    "entity": {
+      "type": "argument",
+      "children": {
+        "pos": {
+          "type": "argument",
+          "children": {
+            "nbt": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:nbt_compound_tag"
+            }
+          },
+          "executable": true,
+          "parser": "minecraft:vec3"
+        }
+      },
+      "executable": true,
+      "parser": "minecraft:entity_summon"
+    }
+  }
+}
