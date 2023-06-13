@@ -1,0 +1,10 @@
+{
+  "type": "literal",
+  "children": {
+    "structure": {
+      "type": "argument",
+      "parser": "minecraft:resource_location",
+      "executable": true
+    }
+  }
+}
