@@ -1,0 +1,11 @@
+| Name                      | Count | Chance | Comment |
+| ------------------------- | ----- | ------ | ------- |
+| 1 to 5 time               |    -- |     -- |         |
+| minecraft:white_wool      |  1..8 |  26.1% |         |
+| minecraft:black_wool      |  1..3 |    13% |         |
+| minecraft:gray_wool       |  1..3 |   8.7% |         |
+| minecraft:brown_wool      |  1..3 |   8.7% |         |
+| minecraft:light_gray_wool |  1..3 |   8.7% |         |
+| minecraft:emerald         |     1 |   4.3% |         |
+| minecraft:shears          |     1 |   4.3% |         |
+| minecraft:wheat           |  1..6 |  26.1% |         |
