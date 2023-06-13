@@ -1,0 +1,55 @@
+{
+  size: [2, 2, 3],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 0],
+      state: 1
+    },
+    {
+      pos: [0, 0, 1],
+      state: 1
+    },
+    {
+      pos: [1, 0, 1],
+      state: 1
+    },
+    {
+      pos: [0, 0, 2],
+      state: 0
+    },
+    {
+      pos: [1, 0, 2],
+      state: 1
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/plains/streets",
+        final_state: "minecraft:structure_void",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:street"
+      },
+      pos: [1, 1, 1],
+      state: 2
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:air"
+    },
+    {
+      Name: "minecraft:grass_path"
+    },
+    {
+      Properties: {
+        facing: "east"
+      },
+      Name: "minecraft:jigsaw"
+    }
+  ],
+  DataVersion: 1976
+}
