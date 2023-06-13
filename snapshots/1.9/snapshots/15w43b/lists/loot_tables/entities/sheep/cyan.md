@@ -1,0 +1,7 @@
+| Name             | Count | Chance | Comment       |
+| ---------------- | ----- | ------ | ------------- |
+| 1 time           |    -- |     -- |               |
+| minecraft:wool   |     1 |   100% |               |
+|                  |       |        |               |
+| 1 time           |    -- |     -- |               |
+| minecraft:mutton |  1..2 |   100% | furnace smelt |

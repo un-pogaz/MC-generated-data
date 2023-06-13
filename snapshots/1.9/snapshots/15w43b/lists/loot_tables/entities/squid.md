@@ -1,0 +1,4 @@
+| Name          | Count | Chance | Comment |
+| ------------- | ----- | ------ | ------- |
+| 1 time        |    -- |     -- |         |
+| minecraft:dye |  0..2 |   100% |         |
