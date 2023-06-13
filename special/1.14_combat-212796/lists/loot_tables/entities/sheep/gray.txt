@@ -1,0 +1,3 @@
+minecraft:gray_wool
+
+loot_table[]minecraft:entities/sheep
