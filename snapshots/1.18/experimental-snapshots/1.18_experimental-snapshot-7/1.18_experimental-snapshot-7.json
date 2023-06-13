@@ -1,0 +1,13 @@
+{
+  "id": "1.18_experimental-snapshot-7",
+  "type": "pending",
+  "time": "2021-09-08T12:33:23+00:00",
+  "releaseTime": "2021-09-08T12:33:23+00:00",
+  "url": "https://launcher.mojang.com/v1/objects/ab4ecebb133f56dd4c4c4c3257f030a947ddea84/1_18_experimental-snapshot-7.zip",
+  "assets": "1.17",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/e5af543d9b3ce1c063a97842c38e50e29f961f00/1.17.json",
+  "client": "https://launcher.mojang.com/v1/objects/744c5dd5480cea91b5ed5e29b06aad08a3f6f982/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/076329c73e01c93fd9bd9c1092b78ef02950abd8/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/965974baf3de259cda0306c29e20860d74b4a297/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/e27634f15d4a94762f7784a9e71ec521517ef572/server.txt"
+}
