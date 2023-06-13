@@ -1,0 +1,13 @@
+{
+  "id": "1.16_combat-0",
+  "type": "pending",
+  "time": "2020-08-07T10:44:47+00:00",
+  "releaseTime": "2020-08-07T10:44:47+00:00",
+  "url": "https://launcher.mojang.com/experiments/combat/5a8ceec8681ed96ab6ecb9607fb5d19c8a755559/1_16_combat-0.zip",
+  "assets": "1.16",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/17cc2f37d6eaa3cd36e7165e2c66dbe85209083a/1.16.json",
+  "client": "https://launcher.mojang.com/v1/objects/4f08b4667575cbfc35e44c9556a0667bd3d0f5cc/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/185a362b6b301bfb71e12f788ce8fb998b806217/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/1c35c493ade7a39e2d02bcc326498aaab96f1a09/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/6ddb98ca992d93fd654bf89f801223b1c4d98695/server.txt"
+}
