@@ -1,0 +1,11 @@
+| Name                           | Count | Chance | Comment |
+| ------------------------------ | ----- | ------ | ------- |
+| 1 time                         |    -- |     -- |         |
+| minecraft:archer_pottery_shard |     1 |  12.5% |         |
+| minecraft:miner_pottery_shard  |     1 |  12.5% |         |
+| minecraft:prize_pottery_shard  |     1 |  12.5% |         |
+| minecraft:skull_pottery_shard  |     1 |  12.5% |         |
+| minecraft:diamond              |     1 |  12.5% |         |
+| minecraft:tnt                  |     1 |  12.5% |         |
+| minecraft:gunpowder            |     1 |  12.5% |         |
+| minecraft:emerald              |     1 |  12.5% |         |

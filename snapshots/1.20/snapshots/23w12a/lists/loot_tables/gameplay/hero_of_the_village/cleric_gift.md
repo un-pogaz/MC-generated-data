@@ -1,0 +1,5 @@
+| Name                   | Count | Chance | Comment |
+| ---------------------- | ----- | ------ | ------- |
+| 1 time                 |    -- |     -- |         |
+| minecraft:redstone     |     1 |    50% |         |
+| minecraft:lapis_lazuli |     1 |    50% |         |
