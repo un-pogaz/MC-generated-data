@@ -1,0 +1,28 @@
+| Name                                    | Count | Chance | Comment |
+| --------------------------------------- | ----- | ------ | ------- |
+| 4 to 8 time                             |    -- |     -- |         |
+| minecraft:obsidian                      |  1..2 |   9.5% |         |
+| minecraft:flint                         |  1..4 |   9.5% |         |
+| minecraft:iron_nugget                   | 9..18 |   9.5% |         |
+| minecraft:flint_and_steel               |     1 |   9.5% |         |
+| minecraft:fire_charge                   |     1 |   9.5% |         |
+| minecraft:golden_apple                  |     1 |   9.5% |         |
+| minecraft:gold_nugget                   | 4..24 |   3.5% |         |
+| minecraft:golden_sword                  |     1 |   3.5% |         |
+| minecraft:golden_axe                    |     1 |   3.5% |         |
+| minecraft:golden_hoe                    |     1 |   3.5% |         |
+| minecraft:golden_shovel                 |     1 |   3.5% |         |
+| minecraft:golden_pickaxe                |     1 |   3.5% |         |
+| minecraft:golden_boots                  |     1 |   3.5% |         |
+| minecraft:golden_chestplate             |     1 |   3.5% |         |
+| minecraft:golden_helmet                 |     1 |   3.5% |         |
+| minecraft:golden_leggings               |     1 |   3.5% |         |
+| minecraft:glistering_melon_slice        | 4..12 |   1.2% |         |
+| minecraft:golden_horse_armor            |     1 |   1.2% |         |
+| minecraft:light_weighted_pressure_plate |     1 |   1.2% |         |
+| minecraft:golden_carrot                 | 4..12 |   1.2% |         |
+| minecraft:clock                         |     1 |   1.2% |         |
+| minecraft:gold_ingot                    |  2..8 |   1.2% |         |
+| minecraft:bell                          |     1 |  0.24% |         |
+| minecraft:enchanted_golden_apple        |     1 |  0.24% |         |
+| minecraft:gold_block                    |  1..2 |  0.24% |         |
