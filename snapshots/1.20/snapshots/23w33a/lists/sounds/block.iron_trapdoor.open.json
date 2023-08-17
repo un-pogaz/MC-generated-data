@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/iron_trapdoor/open1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_trapdoor/open2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_trapdoor/open3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_trapdoor/open4",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.iron_trapdoor.open"
+}
