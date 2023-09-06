@@ -10,4 +10,4 @@
 "1 time","--","--",
 "minecraft:leather_chestplate","1","8.3%",
 "minecraft:golden_helmet","1","8.3%",
-"minecraft:fishing_rod","1","83.3%",
+"minecraft:fishing_rod","1","83.3%","enchantments: *"

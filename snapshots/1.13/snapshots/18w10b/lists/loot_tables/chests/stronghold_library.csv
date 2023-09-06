@@ -5,4 +5,4 @@
 "minecraft:paper","2..7","38.5%",
 "minecraft:map","1","1.9%",
 "minecraft:compass","1","1.9%",
-"minecraft:enchanted_book","1","19.2%",
+"minecraft:enchanted_book","1","19.2%","enchantments: {level: 30, treasure: true}"

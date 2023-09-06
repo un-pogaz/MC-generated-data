@@ -8,7 +8,7 @@
 ,,,
 "1 time","--","--",
 "minecraft:golden_apple","1","5.6%",
-"minecraft:enchanted_book","1","27.8%",
+"minecraft:enchanted_book","1","27.8%","enchantments: *"
 "minecraft:leather_chestplate","1","5.6%",
 "minecraft:golden_helmet","1","5.6%",
-"minecraft:fishing_rod","1","55.6%",
+"minecraft:fishing_rod","1","55.6%","enchantments: *"
