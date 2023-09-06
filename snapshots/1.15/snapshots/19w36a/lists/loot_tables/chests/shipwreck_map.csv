@@ -1,7 +1,7 @@
 "Name","Count","Chance","Comment"
 ,,,
 "1 time","--","--",
-"minecraft:explorer_map","1","100%",
+"minecraft:explorer_map","1","100%","destination: #minecraft:buried_treasure"
 ,,,
 "3 time","--","--",
 "minecraft:compass","1","2.6%",
