@@ -8,8 +8,8 @@
 ,,,
 "1 time","--","--",
 "minecraft:golden_apple","1","4.3%",
-"minecraft:enchanted_book","1","21.7%",
+"minecraft:enchanted_book","1","21.7%","enchantments: *"
 "minecraft:leather_chestplate","1","4.3%",
 "minecraft:golden_helmet","1","4.3%",
-"minecraft:fishing_rod","1","21.7%",
-"minecraft:explorer_map","1","43.5%",
+"minecraft:fishing_rod","1","21.7%","enchantments: *"
+"minecraft:explorer_map","1","43.5%","destination: #minecraft:buried_treasure"
