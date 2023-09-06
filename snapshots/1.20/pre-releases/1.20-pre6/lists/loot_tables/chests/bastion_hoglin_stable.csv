@@ -1,8 +1,8 @@
 "Name","Count","Chance","Comment"
 ,,,
 "1 time","--","--",
-"minecraft:diamond_shovel","1","15%",
-"minecraft:diamond_pickaxe","1","12%",
+"minecraft:diamond_shovel","1","15%","enchantments: *"
+"minecraft:diamond_pickaxe","1","12%","enchantments: *"
 "minecraft:netherite_scrap","1","8%",
 "minecraft:ancient_debris","1","12%",
 "minecraft:ancient_debris","2","5%",
@@ -12,7 +12,7 @@
 "minecraft:golden_apple","1","10%",
 ,,,
 "3 to 4 time","--","--",
-"minecraft:golden_axe","1","7.1%",
+"minecraft:golden_axe","1","7.1%","enchantments: *"
 "minecraft:crying_obsidian","1..5","7.1%",
 "minecraft:glowstone","3..6","7.1%",
 "minecraft:gilded_blackstone","2..5","7.1%",

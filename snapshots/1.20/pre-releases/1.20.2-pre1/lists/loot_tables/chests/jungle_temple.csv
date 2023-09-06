@@ -12,7 +12,7 @@
 "minecraft:iron_horse_armor","1","1.1%",
 "minecraft:golden_horse_armor","1","1.1%",
 "minecraft:diamond_horse_armor","1","1.1%",
-"minecraft:enchanted_book","1","1.1%",
+"minecraft:enchanted_book","1","1.1%","enchantments: {level: 30.0, treasure: true}"
 ,,,
 "1 time","--","--",
 "empty",,"66.7%",
@@ -20,4 +20,4 @@
 ,,,
 "1 time","--","--",
 "empty",,"50%",
-"minecraft:enchanted_book","1","50%",
+"minecraft:enchanted_book","1","50%","enchantments: minecraft:unbreaking"

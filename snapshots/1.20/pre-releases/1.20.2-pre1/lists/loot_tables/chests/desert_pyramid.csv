@@ -12,7 +12,7 @@
 "minecraft:iron_horse_armor","1","6.8%",
 "minecraft:golden_horse_armor","1","4.5%",
 "minecraft:diamond_horse_armor","1","2.3%",
-"minecraft:enchanted_book","1","4.5%",
+"minecraft:enchanted_book","1","4.5%","enchantments: *"
 "minecraft:golden_apple","1","9%",
 "minecraft:enchanted_golden_apple","1","0.9%",
 "empty",,"6.8%",
@@ -27,4 +27,4 @@
 "1 time","--","--",
 "empty",,"57.1%",
 "minecraft:dune_armor_trim_smithing_template","2","14.3%",
-"minecraft:enchanted_book","1","28.6%",
+"minecraft:enchanted_book","1","28.6%","enchantments: minecraft:unbreaking"
