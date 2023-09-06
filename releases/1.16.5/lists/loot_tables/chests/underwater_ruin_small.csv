@@ -10,5 +10,5 @@
 "1 time","--","--",
 "minecraft:leather_chestplate","1","8.3%",
 "minecraft:golden_helmet","1","8.3%",
-"minecraft:fishing_rod","1","41.7%",
-"minecraft:explorer_map","1","41.7%",
+"minecraft:fishing_rod","1","41.7%","enchantments: *"
+"minecraft:explorer_map","1","41.7%","destination: #minecraft:on_treasure_maps"

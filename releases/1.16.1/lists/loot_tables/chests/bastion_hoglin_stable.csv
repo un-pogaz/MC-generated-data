@@ -1,12 +1,12 @@
 "Name","Count","Chance","Comment"
 ,,,
 "1 time","--","--",
-"minecraft:diamond_shovel","1","4.8%",
+"minecraft:diamond_shovel","1","4.8%","enchantments: *"
 "minecraft:netherite_scrap","1","1.9%",
 "minecraft:ancient_debris","1","2.9%",
 "minecraft:saddle","1","9.5%",
 "minecraft:gold_block","2..4","23.8%",
-"minecraft:golden_hoe","1","14.3%",
+"minecraft:golden_hoe","1","14.3%","enchantments: *"
 "empty",,"42.9%",
 ,,,
 "3 to 4 time","--","--",
