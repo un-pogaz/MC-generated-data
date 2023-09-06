@@ -5,11 +5,11 @@
 "minecraft:ancient_debris","1","10%",
 "minecraft:netherite_scrap","1","8%",
 "minecraft:ancient_debris","2","4%",
-"minecraft:diamond_sword","1","6%",
-"minecraft:diamond_chestplate","1","6%",
-"minecraft:diamond_helmet","1","6%",
-"minecraft:diamond_leggings","1","6%",
-"minecraft:diamond_boots","1","6%",
+"minecraft:diamond_sword","1","6%","enchantments: *"
+"minecraft:diamond_chestplate","1","6%","enchantments: *"
+"minecraft:diamond_helmet","1","6%","enchantments: *"
+"minecraft:diamond_leggings","1","6%","enchantments: *"
+"minecraft:diamond_boots","1","6%","enchantments: *"
 "minecraft:diamond_sword","1","6%",
 "minecraft:diamond_chestplate","1","5%",
 "minecraft:diamond_helmet","1","5%",
