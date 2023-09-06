@@ -1,7 +1,7 @@
 "Name","Count","Chance","Comment"
 ,,,
 "1 time","--","--",
-"minecraft:crossbow","1","16.7%",
+"minecraft:crossbow","1","16.7%","enchantments: *"
 "minecraft:ancient_debris","1","8.3%",
 "minecraft:netherite_scrap","1","8.3%",
 "minecraft:spectral_arrow","5..20","16.7%",
@@ -10,8 +10,8 @@
 "empty",,"16.7%",
 ,,,
 "2 time","--","--",
-"minecraft:enchanted_book","1","7.7%",
-"minecraft:golden_boots","1","7.7%",
+"minecraft:enchanted_book","1","7.7%","enchantments: minecraft:soul_speed"
+"minecraft:golden_boots","1","7.7%","enchantments: minecraft:soul_speed"
 "minecraft:gold_block","1","7.7%",
 "minecraft:crossbow","1","7.7%",
 "minecraft:gold_ingot","1..6","7.7%",

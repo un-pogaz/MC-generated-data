@@ -2,8 +2,8 @@
 ,,,
 "1 time","--","--",
 "minecraft:netherite_hoe","1","0.24%",
-"minecraft:enchanted_book","1","0.24%",
-"minecraft:iron_boots","1","1.2%",
+"minecraft:enchanted_book","1","0.24%","enchantments: minecraft:soul_speed"
+"minecraft:iron_boots","1","1.2%","enchantments: minecraft:soul_speed"
 "minecraft:potion","1","2.4%",
 "minecraft:splash_potion","1","2.4%",
 "minecraft:iron_nugget","9..36","2.4%",
