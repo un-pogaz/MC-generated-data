@@ -12,7 +12,7 @@
 "minecraft:iron_horse_armor","1","6.5%",
 "minecraft:golden_horse_armor","1","4.3%",
 "minecraft:diamond_horse_armor","1","2.2%",
-"minecraft:enchanted_book","1","8.6%",
+"minecraft:enchanted_book","1","8.6%","enchantments: *"
 "minecraft:golden_apple","1","8.6%",
 "minecraft:enchanted_golden_apple","1","0.86%",
 "empty",,"6.5%",
