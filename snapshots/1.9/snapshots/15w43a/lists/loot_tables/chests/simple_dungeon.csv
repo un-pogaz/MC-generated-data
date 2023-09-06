@@ -16,4 +16,4 @@
 "minecraft:golden_horse_armor","1","1.9%",
 "minecraft:iron_horse_armor","1","4.6%",
 "minecraft:diamond_horse_armor","1","0.93%",
-"minecraft:enchanted_book","1","0.93%",
+"minecraft:enchanted_book","1","0.93%","enchantments: {level: 30, treasure: true}"
