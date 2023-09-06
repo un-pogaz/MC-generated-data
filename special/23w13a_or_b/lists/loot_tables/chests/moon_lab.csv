@@ -7,7 +7,7 @@
 "minecraft:water_bucket","1","5%",
 "minecraft:lava_bucket","1","5%",
 "minecraft:spyglass","1","2%",
-"minecraft:diamond_pickaxe","1","2%",
+"minecraft:diamond_pickaxe","1","2%","enchantments: *"
 "minecraft:end_stone","1..4","10%",
 "minecraft:budding_amethyst","1","10%",
 "minecraft:brain_coral_block","1..4","1%",
