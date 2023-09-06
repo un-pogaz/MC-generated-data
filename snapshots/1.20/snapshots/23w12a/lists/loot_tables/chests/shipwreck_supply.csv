@@ -14,10 +14,10 @@
 "minecraft:bamboo","1..3","2.4%",
 "minecraft:gunpowder","1..5","3.6%",
 "minecraft:tnt","1..2","1.2%",
-"minecraft:leather_helmet","1","3.6%",
-"minecraft:leather_chestplate","1","3.6%",
-"minecraft:leather_leggings","1","3.6%",
-"minecraft:leather_boots","1","3.6%",
+"minecraft:leather_helmet","1","3.6%","enchantments: *"
+"minecraft:leather_chestplate","1","3.6%","enchantments: *"
+"minecraft:leather_leggings","1","3.6%","enchantments: *"
+"minecraft:leather_boots","1","3.6%","enchantments: *"
 ,,,
 "1 time","--","--",
 "empty",,"83.3%",

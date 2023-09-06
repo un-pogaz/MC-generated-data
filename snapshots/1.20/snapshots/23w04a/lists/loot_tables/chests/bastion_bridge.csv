@@ -4,7 +4,7 @@
 "minecraft:lodestone","1","100%",
 ,,,
 "1 to 2 time","--","--",
-"minecraft:crossbow","1","7.7%",
+"minecraft:crossbow","1","7.7%","enchantments: *"
 "minecraft:spectral_arrow","10..28","7.7%",
 "minecraft:gilded_blackstone","8..12","7.7%",
 "minecraft:crying_obsidian","3..8","7.7%",
@@ -12,11 +12,11 @@
 "minecraft:gold_ingot","4..9","7.7%",
 "minecraft:iron_ingot","4..9","7.7%",
 "minecraft:golden_sword","1","7.7%",
-"minecraft:golden_chestplate","1","7.7%",
-"minecraft:golden_helmet","1","7.7%",
-"minecraft:golden_leggings","1","7.7%",
-"minecraft:golden_boots","1","7.7%",
-"minecraft:golden_axe","1","7.7%",
+"minecraft:golden_chestplate","1","7.7%","enchantments: *"
+"minecraft:golden_helmet","1","7.7%","enchantments: *"
+"minecraft:golden_leggings","1","7.7%","enchantments: *"
+"minecraft:golden_boots","1","7.7%","enchantments: *"
+"minecraft:golden_axe","1","7.7%","enchantments: *"
 ,,,
 "2 to 4 time","--","--",
 "minecraft:string","1..6","20%",
