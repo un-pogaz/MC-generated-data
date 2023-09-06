@@ -11,7 +11,7 @@
 "minecraft:golden_horse_armor","1","7.8%",
 "minecraft:iron_horse_armor","1","11.6%",
 "minecraft:diamond_horse_armor","1","3.9%",
-"minecraft:enchanted_book","1","7.8%",
+"minecraft:enchanted_book","1","7.8%","enchantments: *"
 ,,,
 "1 to 4 time","--","--",
 "minecraft:iron_ingot","1..4","8%",
