@@ -1,0 +1,13 @@
+{
+  "type": "literal",
+  "children": {
+    "run": {
+      "type": "literal"
+    },
+    "value": {
+      "type": "argument",
+      "executable": true,
+      "parser": "brigadier:integer"
+    }
+  }
+}
