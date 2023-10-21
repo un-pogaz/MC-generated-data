@@ -1,0 +1,3 @@
+minecraft:snow
+minecraft:powder_snow
+minecraft:sculk_vein
