@@ -1,0 +1,4 @@
+#minecraft:stairs
+#minecraft:waterlogged
+#minecraft:slabs
+minecraft:chest
