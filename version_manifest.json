@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "1.20.2",
-    "snapshot": "23w43a"
+    "snapshot": "23w43b"
   },
   "versions": [
+    {
+      "id": "23w43b",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/75c25311ac5098c9a5c0b7747e932537752243f0/23w43b.json",
+      "time": "2023-10-26T13:54:32+00:00",
+      "releaseTime": "2023-10-26T13:46:16+00:00"
+    },
     {
       "id": "23w43a",
       "type": "snapshot",
@@ -5111,6 +5118,7 @@
   "pack_format": {
     "data_pack": {
       "22": [
+        "23w43b",
         "23w43a"
       ],
       "21": [
@@ -5532,6 +5540,7 @@
     },
     "resource_pack": {
       "20": [
+        "23w43b",
         "23w43a"
       ],
       "19": [
@@ -6210,6 +6219,7 @@
   "versioning": {
     "1.21": {
       "snapshots": [
+        "23w43b",
         "23w43a",
         "23w42a"
       ],
