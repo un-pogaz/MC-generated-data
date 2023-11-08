@@ -1,0 +1,12 @@
+| Name                      | Count | Chance | Comment         |
+| ------------------------- | ----- | ------ | --------------- |
+| 1 to 3 time               |    -- |     -- |                 |
+| minecraft:diamond_axe     |     1 |     3% | enchantments: * |
+| minecraft:diamond_pickaxe |     1 |     3% |                 |
+| minecraft:diamond         |  1..3 |     3% |                 |
+| minecraft:compass         |     1 |     3% |                 |
+| minecraft:bucket          |  1..2 |     3% |                 |
+| minecraft:golden_axe      |     1 |  12.1% |                 |
+| minecraft:golden_pickaxe  |     1 |  12.1% |                 |
+| minecraft:bamboo_planks   | 5..15 |  30.3% |                 |
+| minecraft:baked_potato    | 6..10 |  30.3% |                 |
