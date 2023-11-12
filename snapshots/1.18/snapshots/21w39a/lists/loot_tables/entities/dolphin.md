@@ -1,4 +1,4 @@
-| Name          | Count | Chance | Comment       |
-| ------------- | ----- | ------ | ------------- |
-| 1 time        |    -- |     -- |               |
-| minecraft:cod |  0..1 |   100% | furnace smelt |
+| Name          | Count | Chance | Weight | Comment       |
+| ------------- | ----- | ------ | ------ | ------------- |
+| 1 time        |    -- |     -- |     -- |               |
+| minecraft:cod |  0..1 |   100% |      1 | furnace smelt |
