@@ -1,5 +1,5 @@
 "Name","Count","Chance","Weight","Comment"
-——,——,——,——,——
+,,,,
 "1 to 4 time","--","--","--",
 "minecraft:bow","1","4.5%","1/22","enchantments: {levels: 1..30}"
 "minecraft:arrow","1..20","4.5%","1/22",
