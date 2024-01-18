@@ -1,0 +1,47 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/floating_dream",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    },
+    {
+      "name": "music/game/living_mice",
+      "stream": true
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/dry_hands",
+      "stream": true
+    },
+    {
+      "name": "music/game/wet_hands",
+      "stream": true
+    },
+    {
+      "name": "music/game/mice_on_venus",
+      "stream": true
+    },
+    {
+      "name": "music/game/stand_tall",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/wending",
+      "stream": true,
+      "volume": 0.4
+    }
+  ]
+}
