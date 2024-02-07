@@ -1,0 +1,17 @@
+{
+  "type": "literal",
+  "children": {
+    "fail": {
+      "type": "literal",
+      "executable": true
+    },
+    "run": {
+      "type": "literal"
+    },
+    "value": {
+      "type": "argument",
+      "executable": true,
+      "parser": "brigadier:integer"
+    }
+  }
+}
