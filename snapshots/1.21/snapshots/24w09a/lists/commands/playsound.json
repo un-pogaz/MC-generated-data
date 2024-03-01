@@ -1,0 +1,552 @@
+{
+  "type": "literal",
+  "children": {
+    "sound": {
+      "type": "argument",
+      "children": {
+        "ambient": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "block": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "hostile": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "master": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "music": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "neutral": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "player": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "record": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "voice": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        },
+        "weather": {
+          "type": "literal",
+          "children": {
+            "targets": {
+              "type": "argument",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "volume": {
+                      "type": "argument",
+                      "children": {
+                        "pitch": {
+                          "type": "argument",
+                          "children": {
+                            "minVolume": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:float",
+                              "properties": {
+                                "max": 1.0,
+                                "min": 0.0
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "properties": {
+                            "max": 2.0,
+                            "min": 0.0
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "min": 0.0
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:vec3"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "players",
+                "amount": "multiple"
+              }
+            }
+          },
+          "executable": true
+        }
+      },
+      "executable": true,
+      "parser": "minecraft:resource_location"
+    }
+  }
+}
