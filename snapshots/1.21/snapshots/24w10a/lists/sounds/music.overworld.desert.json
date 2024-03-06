@@ -1,0 +1,39 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/crescent_dunes",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/haggstrom",
+      "stream": true
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/living_mice",
+      "stream": true
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    }
+  ]
+}
