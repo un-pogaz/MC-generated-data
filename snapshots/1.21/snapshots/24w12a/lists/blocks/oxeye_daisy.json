@@ -1,0 +1,11 @@
+{
+  "definition": {
+    "type": "minecraft:flower",
+    "properties": {},
+    "suspicious_stew_effects": [
+      {
+        "id": "minecraft:regeneration"
+      }
+    ]
+  }
+}

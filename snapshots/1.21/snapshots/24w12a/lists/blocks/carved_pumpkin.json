@@ -1,0 +1,14 @@
+{
+  "definition": {
+    "type": "minecraft:carved_pumpkin",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}
