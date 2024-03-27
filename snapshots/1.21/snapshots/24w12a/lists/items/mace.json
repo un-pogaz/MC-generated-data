@@ -1,15 +1,24 @@
 {
   "components": [
     {
-      "type": "minecraft:repair_cost",
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
+    },
+    {
+      "type": "minecraft:damage",
       "value": 0
     },
     {
-      "type": "minecraft:tool",
+      "type": "minecraft:enchantments",
       "value": {
-        "damage_per_block": 2,
-        "rules": []
+        "levels": {}
       }
+    },
+    {
+      "type": "minecraft:lore",
+      "value": []
     },
     {
       "type": "minecraft:max_damage",
@@ -20,27 +29,18 @@
       "value": 1
     },
     {
-      "type": "minecraft:lore",
-      "value": []
-    },
-    {
-      "type": "minecraft:attribute_modifiers",
-      "value": {
-        "modifiers": []
-      }
-    },
-    {
       "type": "minecraft:rarity",
       "value": "common"
     },
     {
-      "type": "minecraft:damage",
+      "type": "minecraft:repair_cost",
       "value": 0
     },
     {
-      "type": "minecraft:enchantments",
+      "type": "minecraft:tool",
       "value": {
-        "levels": {}
+        "damage_per_block": 2,
+        "rules": []
       }
     }
   ]

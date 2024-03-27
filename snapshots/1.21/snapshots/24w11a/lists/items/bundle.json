@@ -1,7 +1,13 @@
 {
   "components": [
     {
-      "type": "minecraft:lore",
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
+    },
+    {
+      "type": "minecraft:bundle_contents",
       "value": []
     },
     {
@@ -11,18 +17,12 @@
       }
     },
     {
+      "type": "minecraft:lore",
+      "value": []
+    },
+    {
       "type": "minecraft:repair_cost",
       "value": 0
-    },
-    {
-      "type": "minecraft:attribute_modifiers",
-      "value": {
-        "modifiers": []
-      }
-    },
-    {
-      "type": "minecraft:bundle_contents",
-      "value": []
     }
   ]
 }

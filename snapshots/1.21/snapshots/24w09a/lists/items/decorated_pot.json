@@ -1,8 +1,10 @@
 {
   "components": [
     {
-      "type": "minecraft:lore",
-      "value": []
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
     },
     {
       "type": "minecraft:enchantments",
@@ -11,14 +13,8 @@
       }
     },
     {
-      "type": "minecraft:repair_cost",
-      "value": 0
-    },
-    {
-      "type": "minecraft:attribute_modifiers",
-      "value": {
-        "modifiers": []
-      }
+      "type": "minecraft:lore",
+      "value": []
     },
     {
       "type": "minecraft:pot_decorations",
@@ -28,6 +24,10 @@
         "minecraft:brick",
         "minecraft:brick"
       ]
+    },
+    {
+      "type": "minecraft:repair_cost",
+      "value": 0
     }
   ]
 }

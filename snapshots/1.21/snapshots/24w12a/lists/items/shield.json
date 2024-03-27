@@ -1,11 +1,27 @@
 {
   "components": [
     {
-      "type": "minecraft:repair_cost",
-      "value": 0
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
     },
     {
       "type": "minecraft:banner_patterns",
+      "value": []
+    },
+    {
+      "type": "minecraft:damage",
+      "value": 0
+    },
+    {
+      "type": "minecraft:enchantments",
+      "value": {
+        "levels": {}
+      }
+    },
+    {
+      "type": "minecraft:lore",
       "value": []
     },
     {
@@ -17,28 +33,12 @@
       "value": 1
     },
     {
-      "type": "minecraft:lore",
-      "value": []
-    },
-    {
-      "type": "minecraft:attribute_modifiers",
-      "value": {
-        "modifiers": []
-      }
-    },
-    {
       "type": "minecraft:rarity",
       "value": "common"
     },
     {
-      "type": "minecraft:damage",
+      "type": "minecraft:repair_cost",
       "value": 0
-    },
-    {
-      "type": "minecraft:enchantments",
-      "value": {
-        "levels": {}
-      }
     }
   ]
 }
