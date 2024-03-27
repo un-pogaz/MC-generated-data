@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:decorated_pot",
+    "properties": {}
+  },
+  "properties": {
+    "cracked": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "definition": {
+    "type": "minecraft:pink_petals",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "flower_amount": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  }
+}

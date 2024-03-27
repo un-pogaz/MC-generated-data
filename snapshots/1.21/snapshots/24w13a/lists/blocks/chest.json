@@ -1,0 +1,23 @@
+{
+  "definition": {
+    "type": "minecraft:chest",
+    "properties": {}
+  },
+  "properties": {
+    "type": [
+      "single",
+      "left",
+      "right"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
