@@ -1,3 +1,6 @@
 [submodule "releases"]
 	path = releases
 	url = https://github.com/un-pogaz/MC-generated-data-module-releases.git
+[submodule "specials"]
+	path = specials
+	url = https://github.com/un-pogaz/MC-generated-data-module-specials.git
