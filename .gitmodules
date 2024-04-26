@@ -49,3 +49,6 @@
 [submodule "snapshots/1.18"]
 	path = snapshots/1.18
 	url = https://github.com/un-pogaz/MC-generated-data-module-1.18.git
+[submodule "snapshots/1.19"]
+	path = snapshots/1.19
+	url = https://github.com/un-pogaz/MC-generated-data-module-1.19.git
