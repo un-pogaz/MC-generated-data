@@ -6367,7 +6367,6 @@
         "22w18a",
         "22w17a",
         "22w16b",
-        "22w13oneblockatatime",
         "22w16a",
         "22w15a",
         "22w14a",
@@ -7068,9 +7067,6 @@
       ]
     },
     "1.19": {
-      "experimental-snapshots": [
-        "1.19_deep_dark_experimental_snapshot-1"
-      ],
       "snapshots": [
         "22w24a",
         "22w19a",
@@ -7128,15 +7124,6 @@
       ]
     },
     "1.18": {
-      "experimental-snapshots": [
-        "1.18_experimental-snapshot-7",
-        "1.18_experimental-snapshot-6",
-        "1.18_experimental-snapshot-5",
-        "1.18_experimental-snapshot-4",
-        "1.18_experimental-snapshot-3",
-        "1.18_experimental-snapshot-2",
-        "1.18_experimental-snapshot-1"
-      ],
       "snapshots": [
         "22w07a",
         "22w06a",
@@ -7927,6 +7914,14 @@
       "24w14potato",
       "23w13a_or_b",
       "22w13oneblockatatime",
+      "1.19_deep_dark_experimental_snapshot-1",
+      "1.18_experimental-snapshot-7",
+      "1.18_experimental-snapshot-6",
+      "1.18_experimental-snapshot-5",
+      "1.18_experimental-snapshot-4",
+      "1.18_experimental-snapshot-3",
+      "1.18_experimental-snapshot-2",
+      "1.18_experimental-snapshot-1",
       "1.16_combat-6",
       "1.16_combat-5",
       "1.16_combat-3",
