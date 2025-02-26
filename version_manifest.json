@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "1.21.4",
-    "snapshot": "25w08a"
+    "snapshot": "25w09a"
   },
   "versions": [
+    {
+      "id": "25w09a",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/c5f008cb23e91680ad24c67f66ddb612d7bcd513/25w09a.json",
+      "time": "2025-02-26T15:26:26+00:00",
+      "releaseTime": "2025-02-26T15:16:02+00:00"
+    },
     {
       "id": "25w08a",
       "type": "snapshot",
@@ -5852,6 +5859,9 @@
   ],
   "pack_format": {
     "data_pack": {
+      "69": [
+        "25w09a"
+      ],
       "68": [
         "25w08a"
       ],
@@ -6451,6 +6461,7 @@
     },
     "resource_pack": {
       "53": [
+        "25w09a",
         "25w08a"
       ],
       "52": [
@@ -7275,6 +7286,7 @@
   "versioning": {
     "1.21": {
       "snapshots": [
+        "25w09a",
         "25w08a",
         "25w07a",
         "25w06a",
@@ -8363,6 +8375,7 @@
     ]
   },
   "versions_history": [
+    "25w09a",
     "25w08a",
     "25w07a",
     "25w06a",
