@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "1.21.5",
-    "snapshot": "25w15a"
+    "snapshot": "25w16a"
   },
   "versions": [
+    {
+      "id": "25w16a",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/b76c3306819ec687217b8ca5c7d8375d6c8abe18/25w16a.json",
+      "time": "2025-04-15T12:13:23+00:00",
+      "releaseTime": "2025-04-15T12:01:58+00:00"
+    },
     {
       "id": "25w15a",
       "type": "snapshot",
@@ -5929,6 +5936,9 @@
   ],
   "pack_format": {
     "data": {
+      "73": [
+        "25w16a"
+      ],
       "72": [
         "25w15a"
       ],
@@ -6548,6 +6558,9 @@
       ]
     },
     "resource": {
+      "57": [
+        "25w16a"
+      ],
       "56": [
         "25w15a"
       ],
@@ -7391,6 +7404,7 @@
   "versioning": {
     "1.21": {
       "snapshots": [
+        "25w16a",
         "25w15a",
         "25w10a",
         "25w09b",
@@ -8490,6 +8504,7 @@
     ]
   },
   "versions_history": [
+    "25w16a",
     "25w15a",
     "25w14craftmine",
     "1.21.5",
