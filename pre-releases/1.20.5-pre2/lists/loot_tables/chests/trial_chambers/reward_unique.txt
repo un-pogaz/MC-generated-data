@@ -1,0 +1,4 @@
+minecraft:golden_apple
+minecraft:bolt_armor_trim_smithing_template
+minecraft:guster_banner_pattern
+minecraft:trident
