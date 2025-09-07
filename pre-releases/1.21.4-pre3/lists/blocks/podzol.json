@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:snowy_dirt",
+    "properties": {}
+  },
+  "properties": {
+    "snowy": [
+      "true",
+      "false"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+minecraft:emerald
+minecraft:shield
+minecraft:bow
+minecraft:crossbow
+minecraft:iron_axe
+minecraft:iron_chestplate
+minecraft:golden_carrot
+minecraft:enchanted_book
+minecraft:enchanted_book
+minecraft:diamond_chestplate
+minecraft:diamond_axe
