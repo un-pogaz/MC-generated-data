@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/swamp/aerie",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/swamp/firebugs",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/swamp/labyrinthine",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/menu/menu1",
+      "stream": true
+    },
+    {
+      "name": "music/menu/menu2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/menu3",
+      "stream": true
+    },
+    {
+      "name": "music/menu/menu4",
+      "stream": true
+    }
+  ]
+}
