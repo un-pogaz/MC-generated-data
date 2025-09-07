@@ -1,0 +1,21 @@
+{
+  "definition": {
+    "type": "minecraft:creaking_heart",
+    "properties": {}
+  },
+  "properties": {
+    "active": [
+      "true",
+      "false"
+    ],
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "natural": [
+      "true",
+      "false"
+    ]
+  }
+}

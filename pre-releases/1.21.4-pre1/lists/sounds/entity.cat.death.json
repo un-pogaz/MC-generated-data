@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/hitt1",
+      "pitch": 0.9,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/cat/hitt2",
+      "pitch": 0.9,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/cat/hitt3",
+      "pitch": 0.9,
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.cat.death"
+}
