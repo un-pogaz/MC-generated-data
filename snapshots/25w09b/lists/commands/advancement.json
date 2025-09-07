@@ -1,0 +1,167 @@
+{
+  "type": "literal",
+  "children": {
+    "grant": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "children": {
+            "everything": {
+              "type": "literal",
+              "executable": true
+            },
+            "from": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "only": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "children": {
+                    "criterion": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "brigadier:string",
+                      "properties": {
+                        "type": "greedy"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "through": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "until": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      }
+    },
+    "revoke": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "children": {
+            "everything": {
+              "type": "literal",
+              "executable": true
+            },
+            "from": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "only": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "children": {
+                    "criterion": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "brigadier:string",
+                      "properties": {
+                        "type": "greedy"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "through": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            },
+            "until": {
+              "type": "literal",
+              "children": {
+                "advancement": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_key",
+                  "properties": {
+                    "registry": "minecraft:advancement"
+                  }
+                }
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      }
+    }
+  }
+}
