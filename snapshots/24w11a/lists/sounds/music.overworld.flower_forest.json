@@ -1,0 +1,43 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/bromeliad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/echo_in_the_wind",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/haggstrom",
+      "stream": true
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/living_mice",
+      "stream": true
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    }
+  ]
+}
