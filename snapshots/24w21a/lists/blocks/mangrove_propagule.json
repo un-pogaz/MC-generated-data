@@ -1,0 +1,28 @@
+{
+  "definition": {
+    "type": "minecraft:mangrove_propagule",
+    "properties": {},
+    "tree": "mangrove"
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "hanging": [
+      "true",
+      "false"
+    ],
+    "stage": [
+      "0",
+      "1"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
