@@ -872,6 +872,7 @@
     {
       Properties: {
         attachment: "floor",
+        powered: "false",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -886,5 +887,5 @@
       Name: "minecraft:torch"
     }
   ],
-  DataVersion: 1976
+  DataVersion: 2225
 }

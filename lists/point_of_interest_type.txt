@@ -1,4 +1,6 @@
 minecraft:armorer
+minecraft:bee_nest
+minecraft:beehive
 minecraft:butcher
 minecraft:cartographer
 minecraft:cleric
@@ -10,6 +12,7 @@ minecraft:leatherworker
 minecraft:librarian
 minecraft:mason
 minecraft:meeting
+minecraft:nether_portal
 minecraft:nitwit
 minecraft:shepherd
 minecraft:toolsmith

@@ -275,6 +275,12 @@ minecraft:recipes/building_blocks/stone_slab
 minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting
 minecraft:recipes/building_blocks/stone_stairs
 minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting
+minecraft:recipes/building_blocks/stripped_acacia_wood
+minecraft:recipes/building_blocks/stripped_birch_wood
+minecraft:recipes/building_blocks/stripped_dark_oak_wood
+minecraft:recipes/building_blocks/stripped_jungle_wood
+minecraft:recipes/building_blocks/stripped_oak_wood
+minecraft:recipes/building_blocks/stripped_spruce_wood
 minecraft:recipes/building_blocks/terracotta
 minecraft:recipes/building_blocks/white_concrete_powder
 minecraft:recipes/building_blocks/white_stained_glass
@@ -318,6 +324,7 @@ minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting
 minecraft:recipes/decorations/anvil
 minecraft:recipes/decorations/armor_stand
 minecraft:recipes/decorations/barrel
+minecraft:recipes/decorations/beehive
 minecraft:recipes/decorations/birch_fence
 minecraft:recipes/decorations/birch_sign
 minecraft:recipes/decorations/black_banner
@@ -395,6 +402,8 @@ minecraft:recipes/decorations/green_glazed_terracotta
 minecraft:recipes/decorations/green_stained_glass_pane
 minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/grindstone
+minecraft:recipes/decorations/honey_block
+minecraft:recipes/decorations/honeycomb_block
 minecraft:recipes/decorations/iron_bars
 minecraft:recipes/decorations/item_frame
 minecraft:recipes/decorations/jukebox
@@ -545,6 +554,7 @@ minecraft:recipes/food/dried_kelp_from_campfire_cooking
 minecraft:recipes/food/dried_kelp_from_smelting
 minecraft:recipes/food/dried_kelp_from_smoking
 minecraft:recipes/food/golden_apple
+minecraft:recipes/food/honey_bottle
 minecraft:recipes/food/mushroom_stew
 minecraft:recipes/food/pumpkin_pie
 minecraft:recipes/food/rabbit_stew_from_brown_mushroom
@@ -636,7 +646,8 @@ minecraft:recipes/misc/skull_banner_pattern
 minecraft:recipes/misc/slime_ball
 minecraft:recipes/misc/stick
 minecraft:recipes/misc/stick_from_bamboo_item
-minecraft:recipes/misc/sugar
+minecraft:recipes/misc/sugar_from_honey_bottle
+minecraft:recipes/misc/sugar_from_sugar_cane
 minecraft:recipes/misc/wheat
 minecraft:recipes/misc/white_dye
 minecraft:recipes/misc/white_dye_from_lily_of_the_valley

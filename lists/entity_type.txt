@@ -2,6 +2,7 @@ minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
 minecraft:bat
+minecraft:bee
 minecraft:blaze
 minecraft:boat
 minecraft:cat
@@ -100,5 +101,7 @@ minecraft:zombie
 minecraft:zombie_horse
 minecraft:zombie_pigman
 minecraft:zombie_villager
+#minecraft:arrows
+#minecraft:beehive_inhabitors
 #minecraft:raiders
 #minecraft:skeletons

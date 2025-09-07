@@ -4955,10 +4955,11 @@
     {
       Properties: {
         attachment: "floor",
+        powered: "false",
         facing: "north"
       },
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 1976
+  DataVersion: 2225
 }
