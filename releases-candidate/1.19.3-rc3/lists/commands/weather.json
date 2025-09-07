@@ -1,0 +1,50 @@
+{
+  "type": "literal",
+  "children": {
+    "clear": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 1000000,
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "rain": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 1000000,
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "thunder": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 1000000,
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    }
+  }
+}
