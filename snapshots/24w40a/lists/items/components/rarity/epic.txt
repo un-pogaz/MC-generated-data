@@ -1,0 +1,17 @@
+minecraft:barrier
+minecraft:chain_command_block
+minecraft:command_block
+minecraft:command_block_minecart
+minecraft:debug_stick
+minecraft:dragon_egg
+minecraft:dragon_head
+minecraft:elytra
+minecraft:heavy_core
+minecraft:jigsaw
+minecraft:knowledge_book
+minecraft:light
+minecraft:mace
+minecraft:repeating_command_block
+minecraft:silence_armor_trim_smithing_template
+minecraft:structure_block
+minecraft:structure_void
