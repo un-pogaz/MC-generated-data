@@ -1,0 +1,32 @@
+{
+  "definition": {
+    "type": "minecraft:weathering_copper_trap_door",
+    "block_set_type": "copper",
+    "properties": {},
+    "weathering_state": "oxidized"
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "half": [
+      "top",
+      "bottom"
+    ],
+    "open": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
