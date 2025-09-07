@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/wandering_trader/no1",
+    "mob/wandering_trader/no2",
+    "mob/wandering_trader/no3",
+    "mob/wandering_trader/no4",
+    "mob/wandering_trader/no5"
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.no"
+}
