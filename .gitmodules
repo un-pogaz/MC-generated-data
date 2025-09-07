@@ -2,6 +2,10 @@
 	path = releases
 	url = https://github.com/un-pogaz/MC-generated-data.git
 	branch = releases
+[submodule "specials"]
+	path = specials
+	url = https://github.com/un-pogaz/MC-generated-data.git
+	branch = specials
 [submodule "snapshots/1.3"]
 	path = snapshots/1.3
 	url = https://github.com/un-pogaz/MC-generated-data.git
