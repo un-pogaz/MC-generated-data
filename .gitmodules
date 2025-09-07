@@ -46,3 +46,7 @@
 	path = snapshots/1.12
 	url = https://github.com/un-pogaz/MC-generated-data.git
 	branch = snapshots/1.12
+[submodule "snapshots/1.13"]
+	path = snapshots/1.13
+	url = https://github.com/un-pogaz/MC-generated-data.git
+	branch = snapshots/1.13
