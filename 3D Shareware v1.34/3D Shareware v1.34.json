@@ -1,0 +1,13 @@
+{
+  "id": "3D Shareware v1.34",
+  "type": "snapshot",
+  "time": "2019-04-01T11:18:08+00:00",
+  "releaseTime": "2019-04-01T11:18:08+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/fe072c0f3f14f254407068b9515efd825b736a2e/3D%20Shareware%20v1.34.json",
+  "assets": "1.14-af",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/dadd12315f0620650a72b5f2a402c8a28aca578d/1.14-af.json",
+  "client": "https://launcher.mojang.com/v1/objects/44db7d7bcd5a1bee6f54f6a623f26a1b3d1e293f/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f/server.jar",
+  "server_mappings": null
+}
