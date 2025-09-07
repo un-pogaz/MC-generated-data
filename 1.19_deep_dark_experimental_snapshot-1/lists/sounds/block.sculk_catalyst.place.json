@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_catalyst/place1",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/place2",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/place3",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/place4",
+      "volume": 1
+    },
+    {
+      "name": "block/sculk_catalyst/place5",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

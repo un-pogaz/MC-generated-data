@@ -1,0 +1,3 @@
+#minecraft:vibrations
+minecraft:sculk_sensor_tendrils_clicking
+minecraft:shriek

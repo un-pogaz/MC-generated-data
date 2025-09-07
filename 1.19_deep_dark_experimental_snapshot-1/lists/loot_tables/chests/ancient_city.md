@@ -1,0 +1,14 @@
+| Name                     | Count | Chance | Weight | Comment                   |
+| ------------------------ | ----- | ------ | ------ | ------------------------- |
+| 2 to 6 time              |    -- |     -- |     -- |                           |
+| minecraft:enchanted_book |     1 |   2.2% |   2/93 | enchantments: swift_sneak |
+| minecraft:sculk_catalyst |  1..2 |   2.2% |   2/93 |                           |
+| minecraft:name_tag       |     1 |   2.2% |   2/93 |                           |
+| minecraft:sculk_sensor   |  1..3 |   5.4% |   5/93 |                           |
+| minecraft:potion         |  1..3 |   7.5% |   7/93 | healing (strong)          |
+| minecraft:enchanted_book |     1 |  10.8% |  10/93 | enchantments: *           |
+| minecraft:sculk          | 4..10 |  10.8% |  10/93 |                           |
+| minecraft:book           | 3..10 |  10.8% |  10/93 |                           |
+| minecraft:candle         |  1..4 |  10.8% |  10/93 |                           |
+| minecraft:snowball       |  2..6 |  10.8% |  10/93 |                           |
+| minecraft:bone           | 1..15 |  26.9% |  25/93 |                           |

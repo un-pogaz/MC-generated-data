@@ -1,0 +1,12 @@
+minecraft:mob/warden/idle_1
+minecraft:mob/warden/idle_2
+minecraft:mob/warden/idle_3
+minecraft:mob/warden/idle_4
+minecraft:mob/warden/idle_5
+minecraft:mob/warden/idle_6
+minecraft:mob/warden/idle_7
+minecraft:mob/warden/idle_8
+minecraft:mob/warden/idle_9
+minecraft:mob/warden/idle_10
+minecraft:mob/warden/idle_11
+minecraft:mob/warden/idle_12

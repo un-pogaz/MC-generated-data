@@ -1,0 +1,53 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/idle_1",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_2",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_3",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_4",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_5",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_6",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_7",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_8",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_9",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_10",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_11",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/idle_12",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.ambient"
+}
