@@ -1,0 +1,13 @@
+{
+  "id": "1.14_combat-0",
+  "type": "pending",
+  "time": "2019-08-13T07:33:42+00:00",
+  "releaseTime": "2019-08-13T07:33:42+00:00",
+  "url": "https://launcher.mojang.com/experiments/combat/d164bb6ecc5fca9ac02878c85f11befae61ac1ca/1_14_combat-0.zip",
+  "assets": "1.14",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/695d8e3d95465bece605c92e9b0385278018eff9/1.14.json",
+  "client": "https://launcher.mojang.com/v1/objects/307045ecb6de9a9436d333d32440f5dbfc367c20/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/dbed2de0763a834bfaa851c0478c56aeee654010/server.jar",
+  "server_mappings": null
+}
