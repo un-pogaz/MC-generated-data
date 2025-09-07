@@ -82,7 +82,7 @@ gameMode.adventure=Adventure Mode
 gameMode.hardcore=Hardcore Mode!
 gameMode.changed=Your game mode has been updated
 
-selectWorld.gameMode=Game Mode:
+selectWorld.gameMode=Game Mode
 selectWorld.gameMode.survival=Survival
 selectWorld.gameMode.survival.line1=Search for resources, crafting, gain
 selectWorld.gameMode.survival.line2=levels, health and hunger
@@ -1124,6 +1124,8 @@ commands.generic.double.tooSmall=The number you have entered (%.2f) is too small
 commands.generic.double.tooBig=The number you have entered (%.2f) is too big, it must be at most %.2f
 commands.generic.usage=Usage: %s
 
+commands.setidletimeout.usage=/setidletimeout <Minutes until kick>
+commands.setidletimeout.success=Successfully set the idle timeout to %d minutes.
 commands.xp.failure.widthdrawXp=Cannot give player negative experience points
 commands.xp.success=Given %d experience to %s
 commands.xp.success.levels=Given %d levels to %s
