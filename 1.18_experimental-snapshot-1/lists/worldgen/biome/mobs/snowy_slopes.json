@@ -1,0 +1,16 @@
+{
+  "creature": [
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:goat",
+      "weight": 5
+    },
+    {
+      "maxCount": 3,
+      "minCount": 2,
+      "type": "minecraft:rabbit",
+      "weight": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "creature": [
+    {
+      "maxCount": 4,
+      "minCount": 4,
+      "type": "minecraft:donkey",
+      "weight": 8
+    },
+    {
+      "maxCount": 3,
+      "minCount": 2,
+      "type": "minecraft:rabbit",
+      "weight": 4
+    }
+  ]
+}

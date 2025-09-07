@@ -1,0 +1,7 @@
+minecraft:chicken
+minecraft:cow
+minecraft:fox
+minecraft:pig
+minecraft:rabbit
+minecraft:sheep
+minecraft:wolf
