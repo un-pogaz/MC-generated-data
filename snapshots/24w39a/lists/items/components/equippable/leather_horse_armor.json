@@ -1,0 +1,8 @@
+{
+  "allowed_entities": "minecraft:horse",
+  "equip_sound": {
+    "sound_id": "minecraft:entity.horse.armor"
+  },
+  "model": "minecraft:leather",
+  "slot": "body"
+}
