@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/player/hurt/drown1",
+    "entity/player/hurt/drown2",
+    "entity/player/hurt/drown3",
+    "entity/player/hurt/drown4"
+  ]
+}
