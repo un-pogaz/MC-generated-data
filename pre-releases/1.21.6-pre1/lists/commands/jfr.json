@@ -1,0 +1,14 @@
+{
+  "type": "literal",
+  "children": {
+    "start": {
+      "type": "literal",
+      "executable": true
+    },
+    "stop": {
+      "type": "literal",
+      "executable": true
+    }
+  },
+  "required_level": 4
+}

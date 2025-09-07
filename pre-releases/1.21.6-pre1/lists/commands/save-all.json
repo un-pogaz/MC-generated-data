@@ -1,0 +1,11 @@
+{
+  "type": "literal",
+  "children": {
+    "flush": {
+      "type": "literal",
+      "executable": true
+    }
+  },
+  "executable": true,
+  "required_level": 4
+}
