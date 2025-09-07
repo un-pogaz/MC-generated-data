@@ -1,0 +1,5 @@
+{
+  "asset_id": "minecraft:chainmail",
+  "equip_sound": "minecraft:item.armor.equip_chain",
+  "slot": "chest"
+}
