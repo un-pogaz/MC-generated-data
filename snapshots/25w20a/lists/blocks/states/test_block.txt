@@ -1,0 +1,4 @@
+mode=start  [default]
+mode=log
+mode=fail
+mode=accept
