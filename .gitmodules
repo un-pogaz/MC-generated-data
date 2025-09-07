@@ -1,0 +1,4 @@
+[submodule "releases"]
+	path = releases
+	url = https://github.com/un-pogaz/MC-generated-data.git
+	branch = releases
