@@ -1,0 +1,2 @@
+((required_level: 0))
+teammsg <message minecraft:message>

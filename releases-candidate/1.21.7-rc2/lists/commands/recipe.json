@@ -1,0 +1,60 @@
+{
+  "type": "literal",
+  "children": {
+    "give": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "children": {
+            "*": {
+              "type": "literal",
+              "executable": true
+            },
+            "recipe": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:resource_key",
+              "properties": {
+                "registry": "minecraft:recipe"
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      }
+    },
+    "take": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "children": {
+            "*": {
+              "type": "literal",
+              "executable": true
+            },
+            "recipe": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:resource_key",
+              "properties": {
+                "registry": "minecraft:recipe"
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      }
+    }
+  },
+  "required_level": 2
+}
