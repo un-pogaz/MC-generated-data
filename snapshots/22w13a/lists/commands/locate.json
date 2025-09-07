@@ -1,0 +1,13 @@
+{
+  "type": "literal",
+  "children": {
+    "structure": {
+      "type": "argument",
+      "parser": "minecraft:resource_or_tag",
+      "properties": {
+        "registry": "minecraft:worldgen/structure"
+      },
+      "executable": true
+    }
+  }
+}
