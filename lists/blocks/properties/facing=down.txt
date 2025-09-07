@@ -1,3 +1,4 @@
+minecraft:barrel
 minecraft:black_shulker_box
 minecraft:blue_shulker_box
 minecraft:brown_shulker_box
@@ -10,6 +11,7 @@ minecraft:end_rod
 minecraft:gray_shulker_box
 minecraft:green_shulker_box
 minecraft:hopper
+minecraft:jigsaw
 minecraft:light_blue_shulker_box
 minecraft:light_gray_shulker_box
 minecraft:lime_shulker_box

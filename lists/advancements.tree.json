@@ -56,6 +56,35 @@
           }
         }
       },
+      "minecraft:adventure/ol_betsy": {
+        "icon": "minecraft:crossbow",
+        "title": "Ol' Betsy",
+        "description": "Shoot a crossbow",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/arbalistic": {
+            "icon": "minecraft:crossbow",
+            "title": "Arbalistic",
+            "description": "Kill five unique mobs with one crossbow shot",
+            "frame": "challenge",
+            "rewards": "85 xp",
+            "hidden": true
+          },
+          "minecraft:adventure/two_birds_one_arrow": {
+            "icon": "minecraft:crossbow",
+            "title": "Two Birds, One Arrow",
+            "description": "Kill two Phantoms with a piercing arrow",
+            "frame": "challenge",
+            "rewards": "65 xp"
+          },
+          "minecraft:adventure/whos_the_pillager_now": {
+            "icon": "minecraft:crossbow",
+            "title": "Who's the Pillager Now?",
+            "description": "Give a Pillager a taste of their own medicine",
+            "frame": "task"
+          }
+        }
+      },
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
         "title": "Sweet Dreams",
@@ -82,6 +111,23 @@
             "title": "Hired Help",
             "description": "Summon an Iron Golem to help defend a village",
             "frame": "goal"
+          }
+        }
+      },
+      "minecraft:adventure/voluntary_exile": {
+        "icon": "minecraft:white_banner",
+        "title": "Voluntary Exile",
+        "description": "Kill a raid captain.\nMaybe consider staying away from villages for the time being...",
+        "frame": "task",
+        "hidden": true,
+        "childs": {
+          "minecraft:adventure/hero_of_the_village": {
+            "icon": "minecraft:white_banner",
+            "title": "Hero of the Village",
+            "description": "Successfully defend a village from a raid",
+            "frame": "challenge",
+            "rewards": "100 xp",
+            "hidden": true
           }
         }
       }
@@ -213,7 +259,16 @@
         "icon": "minecraft:lead",
         "title": "Best Friends Forever",
         "description": "Tame an animal",
-        "frame": "task"
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/complete_catalogue": {
+            "icon": "minecraft:cod",
+            "title": "A Complete Catalogue",
+            "description": "Tame all cat variants!",
+            "frame": "challenge",
+            "rewards": "50 xp"
+          }
+        }
       }
     }
   },

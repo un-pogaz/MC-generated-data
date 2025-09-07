@@ -48,14 +48,6 @@
         }
       }
     },
-    "minecraft:polar_bear": {
-      "trigger": "minecraft:player_killed_entity",
-      "conditions": {
-        "entity": {
-          "type": "minecraft:polar_bear"
-        }
-      }
-    },
     "minecraft:blaze": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
@@ -207,6 +199,22 @@
           "type": "minecraft:drowned"
         }
       }
+    },
+    "minecraft:pillager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:pillager"
+        }
+      }
+    },
+    "minecraft:ravager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ravager"
+        }
+      }
     }
   },
   "requirements": [
@@ -215,7 +223,6 @@
       "minecraft:spider",
       "minecraft:zombie_pigman",
       "minecraft:enderman",
-      "minecraft:polar_bear",
       "minecraft:blaze",
       "minecraft:creeper",
       "minecraft:evoker",
@@ -234,7 +241,9 @@
       "minecraft:zombie",
       "minecraft:zombie_villager",
       "minecraft:phantom",
-      "minecraft:drowned"
+      "minecraft:drowned",
+      "minecraft:pillager",
+      "minecraft:ravager"
     ]
   ]
 }

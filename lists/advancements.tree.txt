@@ -6,10 +6,16 @@ adventure/root
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
+└>adventure/ol_betsy
+│ └>adventure/arbalistic
+│ └>adventure/two_birds_one_arrow
+│ └>adventure/whos_the_pillager_now
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
 └>adventure/trade
-  └>adventure/summon_iron_golem
+│ └>adventure/summon_iron_golem
+└>adventure/voluntary_exile
+  └>adventure/hero_of_the_village
 
 end/root
 └>end/kill_dragon
@@ -30,6 +36,7 @@ husbandry/root
 │ └>husbandry/balanced_diet
 │ └>husbandry/break_diamond_hoe
 └>husbandry/tame_an_animal
+  └>husbandry/complete_catalogue
 
 nether/root
 └>nether/fast_travel
