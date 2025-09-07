@@ -1,0 +1,32 @@
+[
+  {
+    "type": "minecraft:armor",
+    "amount": 8.0,
+    "display": {
+      "type": "default"
+    },
+    "id": "minecraft:armor.chestplate",
+    "operation": "add_value",
+    "slot": "chest"
+  },
+  {
+    "type": "minecraft:armor_toughness",
+    "amount": 3.0,
+    "display": {
+      "type": "default"
+    },
+    "id": "minecraft:armor.chestplate",
+    "operation": "add_value",
+    "slot": "chest"
+  },
+  {
+    "type": "minecraft:knockback_resistance",
+    "amount": 0.10000000149011612,
+    "display": {
+      "type": "default"
+    },
+    "id": "minecraft:armor.chestplate",
+    "operation": "add_value",
+    "slot": "chest"
+  }
+]
