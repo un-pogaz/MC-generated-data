@@ -21,11 +21,11 @@
   },
   "az_az": {
     "region": "Azərbaycan",
-    "name": "Azəri dili",
+    "name": "Azərbaycanca",
     "bidirectional": false
   },
   "bg_bg": {
-    "region": "СЩ",
+    "region": "България",
     "name": "Български",
     "bidirectional": false
   },
@@ -110,8 +110,8 @@
     "bidirectional": false
   },
   "et_ee": {
-    "region": "Eesti",
-    "name": "Eesti",
+    "region": "US",
+    "name": "Inglise",
     "bidirectional": false
   },
   "eu_es": {
@@ -120,8 +120,8 @@
     "bidirectional": false
   },
   "fa_ir": {
-    "region": "ایالات متحده",
-    "name": "انگلیسی",
+    "region": "ايران",
+    "name": "فارسی",
     "bidirectional": true
   },
   "fi_fi": {
@@ -160,7 +160,7 @@
     "bidirectional": false
   },
   "he_il": {
-    "region": "ארצות הברית",
+    "region": "ישראל",
     "name": "עברית",
     "bidirectional": true
   },
@@ -307,6 +307,11 @@
   "ru_ru": {
     "region": "Россия",
     "name": "Русский",
+    "bidirectional": false
+  },
+  "se_no": {
+    "region": "Sápmi",
+    "name": "Davvisámegiella",
     "bidirectional": false
   },
   "sk_sk": {

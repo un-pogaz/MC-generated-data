@@ -193,6 +193,12 @@
       "fire/ignite"
     ]
   },
+  "item.fireCharge.use": {
+    "category": "block",
+    "sounds": [
+      "mob/ghast/fireball4"
+    ]
+  },
   "fireworks.blast": {
     "category": "ambient",
     "sounds": [
@@ -371,6 +377,111 @@
       "mob/blaze/hit2",
       "mob/blaze/hit3",
       "mob/blaze/hit4"
+    ]
+  },
+  "mob.guardian.hit": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/guardian_hit1",
+      "mob/guardian/guardian_hit2",
+      "mob/guardian/guardian_hit3",
+      "mob/guardian/guardian_hit4"
+    ]
+  },
+  "mob.guardian.idle": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "mob/guardian/guardian_idle1",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/guardian/guardian_idle2",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/guardian/guardian_idle3",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/guardian/guardian_idle4",
+        "volume": 0.1
+      }
+    ]
+  },
+  "mob.guardian.death": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/guardian_death"
+    ]
+  },
+  "mob.guardian.elder.hit": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/elder_hit1",
+      "mob/guardian/elder_hit2",
+      "mob/guardian/elder_hit3",
+      "mob/guardian/elder_hit4"
+    ]
+  },
+  "mob.guardian.elder.idle": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/elder_idle1",
+      "mob/guardian/elder_idle2",
+      "mob/guardian/elder_idle3",
+      "mob/guardian/elder_idle4"
+    ]
+  },
+  "mob.guardian.elder.death": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/elder_death"
+    ]
+  },
+  "mob.guardian.land.hit": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/land_hit1",
+      "mob/guardian/land_hit2",
+      "mob/guardian/land_hit3",
+      "mob/guardian/land_hit4"
+    ]
+  },
+  "mob.guardian.land.idle": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/land_idle1",
+      "mob/guardian/land_idle2",
+      "mob/guardian/land_idle3",
+      "mob/guardian/land_idle4"
+    ]
+  },
+  "mob.guardian.land.death": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/land_death"
+    ]
+  },
+  "mob.guardian.curse": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/curse"
+    ]
+  },
+  "mob.guardian.attack": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/attack_loop"
+    ]
+  },
+  "mob.guardian.flop": {
+    "category": "hostile",
+    "sounds": [
+      "mob/guardian/flop1",
+      "mob/guardian/flop2",
+      "mob/guardian/flop3",
+      "mob/guardian/flop4"
     ]
   },
   "mob.cat.hiss": {
@@ -857,6 +968,78 @@
       "mob/pig/step3",
       "mob/pig/step4",
       "mob/pig/step5"
+    ]
+  },
+  "mob.rabbit.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "mob/rabbit/hurt1",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/rabbit/hurt2",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/rabbit/hurt3",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/rabbit/hurt4",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.rabbit.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "mob/rabbit/idle1",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/rabbit/idle2",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/rabbit/idle3",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/rabbit/idle4",
+        "volume": 0.25
+      }
+    ]
+  },
+  "mob.rabbit.hop": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "mob/rabbit/hop1",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/rabbit/hop2",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/rabbit/hop3",
+        "volume": 0.1
+      },
+      {
+        "name": "mob/rabbit/hop4",
+        "volume": 0.1
+      }
+    ]
+  },
+  "mob.rabbit.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "mob/rabbit/bunnymurder",
+        "volume": 0.5
+      }
     ]
   },
   "mob.sheep.say": {
@@ -1380,12 +1563,14 @@
   "random.door_close": {
     "category": "block",
     "sounds": [
-      "random/door_close"
+      "random/door_close",
+      "random/door_open"
     ]
   },
   "random.door_open": {
     "category": "block",
     "sounds": [
+      "random/door_close",
       "random/door_open"
     ]
   },
