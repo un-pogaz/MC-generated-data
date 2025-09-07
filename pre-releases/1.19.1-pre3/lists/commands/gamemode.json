@@ -1,0 +1,65 @@
+{
+  "type": "literal",
+  "children": {
+    "adventure": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      },
+      "executable": true
+    },
+    "creative": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      },
+      "executable": true
+    },
+    "spectator": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      },
+      "executable": true
+    },
+    "survival": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      },
+      "executable": true
+    }
+  }
+}
