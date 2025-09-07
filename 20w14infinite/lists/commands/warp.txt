@@ -1,0 +1,1 @@
+warp <target brigadier:string[type="greedy"]>

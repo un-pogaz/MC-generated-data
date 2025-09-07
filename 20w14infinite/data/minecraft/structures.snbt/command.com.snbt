@@ -1,0 +1,315 @@
+{
+  size: [32, 1, 12],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 0],
+      state: 0
+    },
+    {
+      pos: [2, 0, 0],
+      state: 0
+    },
+    {
+      pos: [3, 0, 0],
+      state: 0
+    },
+    {
+      pos: [4, 0, 0],
+      state: 0
+    },
+    {
+      pos: [5, 0, 0],
+      state: 0
+    },
+    {
+      pos: [6, 0, 0],
+      state: 0
+    },
+    {
+      pos: [7, 0, 0],
+      state: 0
+    },
+    {
+      pos: [0, 0, 1],
+      state: 0
+    },
+    {
+      pos: [1, 0, 1],
+      state: 0
+    },
+    {
+      pos: [2, 0, 1],
+      state: 0
+    },
+    {
+      pos: [3, 0, 1],
+      state: 0
+    },
+    {
+      pos: [4, 0, 1],
+      state: 0
+    },
+    {
+      pos: [5, 0, 1],
+      state: 0
+    },
+    {
+      pos: [6, 0, 1],
+      state: 0
+    },
+    {
+      pos: [7, 0, 1],
+      state: 0
+    },
+    {
+      pos: [9, 0, 2],
+      state: 1
+    },
+    {
+      pos: [26, 0, 2],
+      state: 1
+    },
+    {
+      pos: [27, 0, 2],
+      state: 1
+    },
+    {
+      pos: [28, 0, 2],
+      state: 1
+    },
+    {
+      pos: [29, 0, 2],
+      state: 1
+    },
+    {
+      pos: [9, 0, 3],
+      state: 1
+    },
+    {
+      pos: [10, 0, 3],
+      state: 1
+    },
+    {
+      pos: [19, 0, 3],
+      state: 1
+    },
+    {
+      pos: [20, 0, 3],
+      state: 1
+    },
+    {
+      pos: [25, 0, 3],
+      state: 1
+    },
+    {
+      pos: [26, 0, 3],
+      state: 1
+    },
+    {
+      pos: [29, 0, 3],
+      state: 1
+    },
+    {
+      pos: [30, 0, 3],
+      state: 1
+    },
+    {
+      pos: [9, 0, 4],
+      state: 1
+    },
+    {
+      pos: [10, 0, 4],
+      state: 1
+    },
+    {
+      pos: [11, 0, 4],
+      state: 1
+    },
+    {
+      pos: [19, 0, 4],
+      state: 1
+    },
+    {
+      pos: [20, 0, 4],
+      state: 1
+    },
+    {
+      pos: [25, 0, 4],
+      state: 1
+    },
+    {
+      pos: [30, 0, 4],
+      state: 1
+    },
+    {
+      pos: [31, 0, 4],
+      state: 1
+    },
+    {
+      pos: [10, 0, 5],
+      state: 1
+    },
+    {
+      pos: [11, 0, 5],
+      state: 1
+    },
+    {
+      pos: [12, 0, 5],
+      state: 1
+    },
+    {
+      pos: [30, 0, 5],
+      state: 1
+    },
+    {
+      pos: [31, 0, 5],
+      state: 1
+    },
+    {
+      pos: [11, 0, 6],
+      state: 1
+    },
+    {
+      pos: [12, 0, 6],
+      state: 1
+    },
+    {
+      pos: [13, 0, 6],
+      state: 1
+    },
+    {
+      pos: [30, 0, 6],
+      state: 1
+    },
+    {
+      pos: [31, 0, 6],
+      state: 1
+    },
+    {
+      pos: [12, 0, 7],
+      state: 1
+    },
+    {
+      pos: [13, 0, 7],
+      state: 1
+    },
+    {
+      pos: [14, 0, 7],
+      state: 1
+    },
+    {
+      pos: [30, 0, 7],
+      state: 1
+    },
+    {
+      pos: [31, 0, 7],
+      state: 1
+    },
+    {
+      pos: [13, 0, 8],
+      state: 1
+    },
+    {
+      pos: [14, 0, 8],
+      state: 1
+    },
+    {
+      pos: [15, 0, 8],
+      state: 1
+    },
+    {
+      pos: [19, 0, 8],
+      state: 1
+    },
+    {
+      pos: [20, 0, 8],
+      state: 1
+    },
+    {
+      pos: [30, 0, 8],
+      state: 1
+    },
+    {
+      pos: [31, 0, 8],
+      state: 1
+    },
+    {
+      pos: [14, 0, 9],
+      state: 1
+    },
+    {
+      pos: [15, 0, 9],
+      state: 1
+    },
+    {
+      pos: [19, 0, 9],
+      state: 1
+    },
+    {
+      pos: [20, 0, 9],
+      state: 1
+    },
+    {
+      pos: [25, 0, 9],
+      state: 1
+    },
+    {
+      pos: [30, 0, 9],
+      state: 1
+    },
+    {
+      pos: [31, 0, 9],
+      state: 1
+    },
+    {
+      pos: [15, 0, 10],
+      state: 1
+    },
+    {
+      pos: [25, 0, 10],
+      state: 1
+    },
+    {
+      pos: [26, 0, 10],
+      state: 1
+    },
+    {
+      pos: [29, 0, 10],
+      state: 1
+    },
+    {
+      pos: [30, 0, 10],
+      state: 1
+    },
+    {
+      pos: [26, 0, 11],
+      state: 1
+    },
+    {
+      pos: [27, 0, 11],
+      state: 1
+    },
+    {
+      pos: [28, 0, 11],
+      state: 1
+    },
+    {
+      pos: [29, 0, 11],
+      state: 1
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:cursor"
+    },
+    {
+      Name: "minecraft:lime_concrete"
+    }
+  ],
+  DataVersion: 2519
+}
