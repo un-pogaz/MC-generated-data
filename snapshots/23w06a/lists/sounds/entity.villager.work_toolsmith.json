@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/smithing_table/smithing_table1",
+    "block/smithing_table/smithing_table2",
+    "block/smithing_table/smithing_table3"
+  ],
+  "subtitle": "subtitles.entity.villager.work_toolsmith"
+}
