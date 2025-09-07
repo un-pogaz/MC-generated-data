@@ -765,6 +765,8 @@ minecraft:zombie_wall_head
 #minecraft:anvil
 #minecraft:bamboo_plantable_on
 #minecraft:banners
+#minecraft:base_stone_nether
+#minecraft:base_stone_overworld
 #minecraft:beacon_base_blocks
 #minecraft:beds
 #minecraft:bee_growables
@@ -800,6 +802,7 @@ minecraft:zombie_wall_head
 #minecraft:leaves
 #minecraft:logs
 #minecraft:logs_that_burn
+#minecraft:mushroom_grow_block
 #minecraft:non_flammable_wood
 #minecraft:nylium
 #minecraft:oak_logs

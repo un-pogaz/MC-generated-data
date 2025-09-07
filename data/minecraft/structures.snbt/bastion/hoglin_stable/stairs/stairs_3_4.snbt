@@ -2778,6 +2778,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         hanging: "true"
       },
       Name: "minecraft:lantern"
@@ -2787,7 +2788,8 @@
     },
     {
       Properties: {
-        waterlogged: "false"
+        waterlogged: "false",
+        axis: "y"
       },
       Name: "minecraft:chain"
     },
@@ -2837,5 +2839,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2567
+  DataVersion: 2578
 }

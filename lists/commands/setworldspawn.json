@@ -4,6 +4,13 @@
     "pos": {
       "type": "argument",
       "parser": "minecraft:block_pos",
+      "children": {
+        "angle": {
+          "type": "argument",
+          "parser": "minecraft:angle",
+          "executable": true
+        }
+      },
       "executable": true
     }
   },
