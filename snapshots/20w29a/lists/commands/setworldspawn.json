@@ -1,0 +1,17 @@
+{
+  "type": "literal",
+  "children": {
+    "pos": {
+      "type": "argument",
+      "parser": "minecraft:block_pos",
+      "children": {
+        "angle": {
+          "type": "unknown",
+          "executable": true
+        }
+      },
+      "executable": true
+    }
+  },
+  "executable": true
+}
