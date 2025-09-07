@@ -1,0 +1,2 @@
+((required_level: 0))
+tm >>redirect{teammsg}
