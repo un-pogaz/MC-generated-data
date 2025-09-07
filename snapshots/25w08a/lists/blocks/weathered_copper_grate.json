@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "type": "minecraft:weathering_copper_grate",
+    "properties": {},
+    "weathering_state": "weathered"
+  },
+  "properties": {
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
