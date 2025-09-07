@@ -1,0 +1,20 @@
+facing=north,grade=grass  [default]
+facing=north,grade=stone
+facing=north,grade=gold
+facing=north,grade=diamond
+facing=north,grade=netherite
+facing=south,grade=grass
+facing=south,grade=stone
+facing=south,grade=gold
+facing=south,grade=diamond
+facing=south,grade=netherite
+facing=west,grade=grass
+facing=west,grade=stone
+facing=west,grade=gold
+facing=west,grade=diamond
+facing=west,grade=netherite
+facing=east,grade=grass
+facing=east,grade=stone
+facing=east,grade=gold
+facing=east,grade=diamond
+facing=east,grade=netherite

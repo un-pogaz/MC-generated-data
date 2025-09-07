@@ -1,0 +1,6 @@
+minecraft:bedrock
+minecraft:spawner
+minecraft:chest
+minecraft:reinforced_deepslate
+minecraft:trial_spawner
+minecraft:vault

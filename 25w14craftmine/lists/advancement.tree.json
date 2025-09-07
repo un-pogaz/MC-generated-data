@@ -1,0 +1,387 @@
+{
+  "minecraft:feats/root": {
+    "icon": "minecraft:netherite_sword",
+    "title": "Feats",
+    "description": "Feats of Prowess",
+    "background": "minecraft:gui/advancements/backgrounds/feats",
+    "frame": "task",
+    "childs": {
+      "minecraft:feats/crystal": {
+        "icon": "minecraft:large_amethyst_bud",
+        "title": "Crystaline",
+        "description": "Obtain a crystal to unlock the Warden Special Event",
+        "frame": "task",
+        "childs": {
+          "minecraft:feats/warden": {
+            "icon": "minecraft:sculk_catalyst",
+            "title": "Warded",
+            "description": "Defeat the Warden special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:feats/end_world": {
+        "icon": "minecraft:end_crystal",
+        "title": "The Beginning of the End",
+        "description": "Complete a Mine with End Biomes to unlock the Ender Dragon special event",
+        "frame": "task",
+        "childs": {
+          "minecraft:feats/dragon_breath": {
+            "icon": "minecraft:dragon_breath",
+            "title": "You Need a Mint",
+            "description": "Collect Dragon's Breath in a Glass Bottle",
+            "frame": "goal"
+          },
+          "minecraft:feats/ender_dragon": {
+            "icon": "minecraft:dragon_head",
+            "title": "At the Rim of the Sky",
+            "description": "Defeat the Ender Dragon special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:feats/enderman": {
+        "icon": "minecraft:ender_pearl",
+        "title": "Endedman",
+        "description": "Defeat the Enderman special event",
+        "frame": "challenge"
+      },
+      "minecraft:feats/kill_pillager": {
+        "icon": "minecraft:white_banner",
+        "title": "Raid the Raiders",
+        "description": "Kill a Pillager to unlock the Raid special event",
+        "frame": "task",
+        "childs": {
+          "minecraft:feats/raid": {
+            "icon": "minecraft:ominous_bottle",
+            "title": "The Pillagers are Coming!",
+            "description": "Defeat the Raid special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:feats/kill_skeleton": {
+        "icon": "minecraft:bone",
+        "title": "Feel it in my Bones",
+        "description": "Kill a Skeleton to unlock the Spooky Scary Skeletons special event",
+        "frame": "task",
+        "childs": {
+          "minecraft:feats/spooky_scary_skeletons": {
+            "icon": "minecraft:skeleton_skull",
+            "title": "Clattered",
+            "description": "Defeat the Spooky Scary Skeletons special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:feats/kuiper_world": {
+        "icon": "minecraft:mine",
+        "title": "Spaaaaace!",
+        "description": "Defeat the Kuiper World special event",
+        "frame": "challenge"
+      },
+      "minecraft:feats/return_to_sender": {
+        "icon": "minecraft:fire_charge",
+        "title": "Return to Sender",
+        "description": "Destroy a Ghast with a fireball to unlock the Angry Ghast special event",
+        "frame": "challenge",
+        "rewards": "50 xp",
+        "childs": {
+          "minecraft:feats/angry_ghast": {
+            "icon": "minecraft:ghast_tear",
+            "title": "The Baloonslayer",
+            "description": "Defeat the Angry Ghast special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:feats/small_but_deadly": {
+        "icon": "minecraft:silverfish_spawn_egg",
+        "title": "Small But Dead",
+        "description": "Defeat the Small but Deadly special event",
+        "frame": "challenge"
+      },
+      "minecraft:feats/wither_skeleton_skull": {
+        "icon": "minecraft:wither_skeleton_skull",
+        "title": "Withering",
+        "description": "Acquire a Wither Skeleton Skull to unlock the Wither special event",
+        "frame": "task",
+        "childs": {
+          "minecraft:feats/wither": {
+            "icon": "minecraft:nether_star",
+            "title": "Withered",
+            "description": "Defeat the Wither special event",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:mines/eat_your_veggies": {
+        "icon": "minecraft:poisonous_potato",
+        "title": "Certified Spud Chomper",
+        "description": "Eat 100 Poisonous Potatoes",
+        "frame": "goal",
+        "rewards": "loot_table[]minecraft:mines/eat_your_veggies"
+      },
+      "minecraft:mines/shimmering_key": {
+        "icon": "minecraft:shimmering_key",
+        "title": "Master Key",
+        "description": "Acquire a Shimmering Key",
+        "frame": "goal"
+      },
+      "minecraft:mines/special_mine_completed": {
+        "icon": "minecraft:mine",
+        "title": "A Challenger Approaches",
+        "description": "Complete a Special Encounter Mine",
+        "frame": "task",
+        "rewards": "10 xp",
+        "childs": {
+          "minecraft:mines/all_special_mines_completed": {
+            "icon": "minecraft:beacon",
+            "title": "Yes, Boss",
+            "description": "Complete all Special Encounter Mines",
+            "frame": "challenge",
+            "rewards": "100 xp"
+          }
+        }
+      }
+    }
+  },
+  "minecraft:mines/enter_a_mine": {
+    "icon": "minecraft:mine_crafter",
+    "title": "Down the Hatch",
+    "description": "Enter a Mine",
+    "background": "minecraft:gui/advancements/backgrounds/mines",
+    "frame": "task",
+    "childs": {
+      "minecraft:mines/get_mine_ingredient": {
+        "icon": "minecraft:mine_ingredient",
+        "title": "New Frontiers",
+        "description": "Pick up a Mine Ingredient in a Mine",
+        "frame": "task",
+        "childs": {
+          "minecraft:mines/cash_in_mine_ingredient": {
+            "icon": "minecraft:gold_ingot",
+            "title": "Cash In!",
+            "description": "Bring a Mine Ingredient to the exit of a Mine to cash it in",
+            "frame": "task"
+          }
+        }
+      },
+      "minecraft:mines/level_completed": {
+        "icon": "minecraft:mine",
+        "title": "It Begins",
+        "description": "Complete your first Mine",
+        "frame": "task",
+        "rewards": "10 xp",
+        "childs": {
+          "minecraft:mines/all_mine_ingredients": {
+            "icon": "minecraft:netherite_pickaxe",
+            "title": "The Ultimate Miner",
+            "description": "Complete at least one Mine with each possible Mine Ingredient",
+            "frame": "challenge",
+            "rewards": "100 xp"
+          },
+          "minecraft:mines/complete_water_world_level": {
+            "icon": "minecraft:water_bucket",
+            "title": "Quit Smoking",
+            "description": "Complete a Mine with Water World active",
+            "frame": "task",
+            "childs": {
+              "minecraft:mines/complete_deluge_level": {
+                "icon": "minecraft:leather_helmet",
+                "title": "Shall we wait for the drizzle to subside?",
+                "description": "Complete a Mine while the Water World and Eternal Rain effects are active",
+                "frame": "task"
+              },
+              "minecraft:mines/complete_water_cave_level": {
+                "icon": "minecraft:pufferfish",
+                "title": "The Depths",
+                "description": "Complete a Mine with Water World and Cave World active",
+                "frame": "task"
+              }
+            }
+          },
+          "minecraft:mines/mine_crafter_upgraded": {
+            "icon": "minecraft:experience_bottle",
+            "title": "Further beyond",
+            "description": "Upgrade the Mine Crafter so you can keep mining and crafting",
+            "frame": "task",
+            "rewards": "10 xp"
+          },
+          "minecraft:mines/mine_revisitor_activated": {
+            "icon": "minecraft:mine_revisitor",
+            "title": "Nostalgic",
+            "description": "Activate a Mine Revisitor",
+            "frame": "task"
+          }
+        }
+      },
+      "minecraft:mines/player_failed_level": {
+        "icon": "minecraft:grave_advancement",
+        "title": "Oops",
+        "description": "Fail a Mine",
+        "frame": "task",
+        "hidden": true
+      }
+    }
+  },
+  "minecraft:story/root": {
+    "icon": "minecraft:grass_block",
+    "title": "Minecraft",
+    "description": "The heart and story of the game",
+    "background": "minecraft:gui/advancements/backgrounds/stone",
+    "frame": "task",
+    "childs": {
+      "minecraft:story/mine_stone": {
+        "icon": "minecraft:wooden_pickaxe",
+        "title": "Stone Age",
+        "description": "Mine Stone with your new Pickaxe",
+        "frame": "task",
+        "childs": {
+          "minecraft:story/upgrade_tools": {
+            "icon": "minecraft:stone_pickaxe",
+            "title": "Getting an Upgrade",
+            "description": "Construct a better Pickaxe",
+            "frame": "task",
+            "childs": {
+              "minecraft:story/smelt_iron": {
+                "icon": "minecraft:iron_ingot",
+                "title": "Acquire Hardware",
+                "description": "Smelt an Iron Ingot",
+                "frame": "task",
+                "childs": {
+                  "minecraft:story/follow_exit_eye": {
+                    "icon": "minecraft:exit_eye",
+                    "title": "Spy Eye",
+                    "description": "Craft an Eye of Exit",
+                    "frame": "task"
+                  },
+                  "minecraft:story/iron_tools": {
+                    "icon": "minecraft:iron_pickaxe",
+                    "title": "Isn't It Iron Pick",
+                    "description": "Upgrade your Pickaxe",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:story/mine_diamond": {
+                        "icon": "minecraft:diamond",
+                        "title": "Diamonds!",
+                        "description": "Acquire diamonds",
+                        "frame": "task",
+                        "childs": {
+                          "minecraft:story/shiny_gear": {
+                            "icon": "minecraft:diamond_chestplate",
+                            "title": "Cover Me with Diamonds",
+                            "description": "Diamond armor saves lives",
+                            "frame": "task"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "minecraft:story/obtain_armor": {
+                    "icon": "minecraft:iron_chestplate",
+                    "title": "Suit Up",
+                    "description": "Protect yourself with a piece of iron armor",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:story/deflect_arrow": {
+                        "icon": "minecraft:shield",
+                        "title": "Not Today, Thank You",
+                        "description": "Deflect a projectile with a Shield",
+                        "frame": "task"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "minecraft:unlocks/root": {
+    "icon": "minecraft:experience_bottle",
+    "title": "Unlocks",
+    "description": "Ah, the noble pursuit of self-improvement",
+    "background": "minecraft:gui/advancements/backgrounds/unlocks",
+    "frame": "task",
+    "childs": {
+      "minecraft:unlocks/kaizen": {
+        "icon": "minecraft:book",
+        "title": "Kaizen",
+        "description": "Buy a player unlock and get better at being you",
+        "frame": "task",
+        "rewards": "10 xp",
+        "childs": {
+          "minecraft:unlocks/all_combatant": {
+            "icon": "minecraft:netherite_sword",
+            "title": "The Combat Upd... Unlocks",
+            "description": "Complete the 'Combat' Player Unlock tree and then beat a special event Mine",
+            "frame": "challenge"
+          },
+          "minecraft:unlocks/all_crafting": {
+            "icon": "minecraft:crafting_table",
+            "title": "The Crafter",
+            "description": "Complete the 'Crafting' Player Unlock tree and then beat a special event Mine",
+            "frame": "challenge"
+          },
+          "minecraft:unlocks/all_gatherer": {
+            "icon": "minecraft:sweet_berries",
+            "title": "The Miner",
+            "description": "Complete the 'Gatherer' Player Unlock tree and then beat a special event Mine",
+            "frame": "challenge"
+          },
+          "minecraft:unlocks/all_school_of_hard_knocks": {
+            "icon": "minecraft:fletching_table",
+            "title": "An Exercise in Futility",
+            "description": "Complete the 'School of Hard Knocks' Player Unlock tree and then beat a special event Mine",
+            "frame": "challenge"
+          },
+          "minecraft:unlocks/free_sticks": {
+            "icon": "minecraft:fire_wand",
+            "title": "Free Sticks",
+            "description": "Is this really spellt like that? Beat a level while having all three wands unlocked",
+            "frame": "challenge"
+          },
+          "minecraft:unlocks/how_do_i_unlock_that": {
+            "icon": "minecraft:poisonous_potato",
+            "title": "How do I unlock that?",
+            "description": "Unlock a player unlock so you can unlock more unlocks",
+            "frame": "task",
+            "rewards": "10 xp"
+          },
+          "minecraft:unlocks/in_it_together": {
+            "icon": "minecraft:lead",
+            "title": "In It Together",
+            "description": "Beat a special Mine with the 'Soul Link' effect active",
+            "frame": "challenge",
+            "hidden": true
+          },
+          "minecraft:unlocks/jump_king": {
+            "icon": "minecraft:slime_block",
+            "title": "Jump King",
+            "description": "Obtain the maximum amount of jumps",
+            "frame": "challenge",
+            "hidden": true
+          },
+          "minecraft:unlocks/sigma_grindset": {
+            "icon": "minecraft:bookshelf",
+            "title": "Sigma Grindset",
+            "description": "Complete the 'Knowledge' Player Unlock tree",
+            "frame": "challenge",
+            "hidden": true,
+            "childs": {
+              "minecraft:unlocks/all_exploration": {
+                "icon": "minecraft:leather_boots",
+                "title": "Adventuring Time",
+                "description": "Complete the 'Exploration' Player Unlock tree and then beat a special event Mine",
+                "frame": "challenge"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

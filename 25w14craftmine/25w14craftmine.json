@@ -1,0 +1,13 @@
+{
+  "id": "25w14craftmine",
+  "type": "snapshot",
+  "time": "2025-04-01T15:50:09+00:00",
+  "releaseTime": "2025-04-01T15:50:09+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/700837ec523b1c7ff921abab74896102c94047c5/25w14craftmine.json",
+  "assets": "24",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/31224c854d96c79b63ce36e5a79cc433d8d82984/24.json",
+  "client": "https://piston-data.mojang.com/v1/objects/0f3ed2e39938ccd178981f34f3f62ab7d08b399c/client.jar",
+  "client_mappings": "https://piston-data.mojang.com/v1/objects/069c48e60d1923125e75a95bb4083aa5233e6dc6/client.txt",
+  "server": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar",
+  "server_mappings": "https://piston-data.mojang.com/v1/objects/18910872683cd4ea9a9de28f3b9b68cf5d2ae99c/server.txt"
+}

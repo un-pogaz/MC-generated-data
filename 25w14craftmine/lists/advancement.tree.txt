@@ -1,0 +1,57 @@
+feats/root
+└>feats/crystal
+│ └>feats/warden
+└>feats/end_world
+│ └>feats/dragon_breath
+│ └>feats/ender_dragon
+└>feats/enderman
+└>feats/kill_pillager
+│ └>feats/raid
+└>feats/kill_skeleton
+│ └>feats/spooky_scary_skeletons
+└>feats/kuiper_world
+└>feats/return_to_sender
+│ └>feats/angry_ghast
+└>feats/small_but_deadly
+└>feats/wither_skeleton_skull
+│ └>feats/wither
+└>mines/eat_your_veggies
+└>mines/shimmering_key
+└>mines/special_mine_completed
+  └>mines/all_special_mines_completed
+
+mines/enter_a_mine
+└>mines/get_mine_ingredient
+│ └>mines/cash_in_mine_ingredient
+└>mines/level_completed
+│ └>mines/all_mine_ingredients
+│ └>mines/complete_water_world_level
+│ │ └>mines/complete_deluge_level
+│ │ └>mines/complete_water_cave_level
+│ └>mines/mine_crafter_upgraded
+│ └>mines/mine_revisitor_activated
+└>mines/player_failed_level
+
+story/root
+└>story/mine_stone
+  └>story/upgrade_tools
+    └>story/smelt_iron
+      └>story/follow_exit_eye
+      └>story/iron_tools
+      │ └>story/mine_diamond
+      │   └>story/shiny_gear
+      └>story/obtain_armor
+        └>story/deflect_arrow
+
+unlocks/root
+└>unlocks/kaizen
+  └>unlocks/all_combatant
+  └>unlocks/all_crafting
+  └>unlocks/all_gatherer
+  └>unlocks/all_school_of_hard_knocks
+  └>unlocks/free_sticks
+  └>unlocks/how_do_i_unlock_that
+  └>unlocks/in_it_together
+  └>unlocks/jump_king
+  └>unlocks/sigma_grindset
+    └>unlocks/all_exploration

@@ -1,0 +1,6 @@
+minecraft:chorus_fruit  = {seconds: 1.0}
+minecraft:ender_pearl  = {seconds: 1.0}
+minecraft:fire_wand  = {seconds: 0.5}
+minecraft:teleportation_wand  = {seconds: 2.5}
+minecraft:wind_charge  = {seconds: 0.5}
+minecraft:wind_wand  = {seconds: 0.5}

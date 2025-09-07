@@ -1,0 +1,2 @@
+minecraft:trophy
+minecraft:mob_trophy

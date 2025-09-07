@@ -1,0 +1,2 @@
+minecraft:lingering_potion  = 0.3
+minecraft:tipped_arrow  = 0.125

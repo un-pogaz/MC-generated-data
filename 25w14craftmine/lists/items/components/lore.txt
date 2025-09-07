@@ -1,0 +1,3 @@
+minecraft:fire_wand  = [[value]]
+minecraft:teleportation_wand  = [[value]]
+minecraft:wind_wand  = [[value]]

@@ -1,0 +1,5 @@
+minecraft:amplified
+minecraft:flat
+minecraft:normal
+#minecraft:extended
+#minecraft:normal

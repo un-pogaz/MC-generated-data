@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    {
+      "name": "block/respawn_anchor/charge1",
+      "pitch": 1.5
+    },
+    {
+      "name": "block/respawn_anchor/charge2",
+      "pitch": 1.5
+    },
+    {
+      "name": "block/respawn_anchor/charge3",
+      "pitch": 1.5
+    }
+  ]
+}

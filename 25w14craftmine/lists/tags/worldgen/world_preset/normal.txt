@@ -1,0 +1,2 @@
+minecraft:normal
+minecraft:flat

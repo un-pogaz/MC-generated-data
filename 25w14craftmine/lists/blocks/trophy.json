@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "type": "minecraft:trophy",
+    "properties": {}
+  },
+  "properties": {
+    "type": [
+      "gold",
+      "mega_spud",
+      "no_medal"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

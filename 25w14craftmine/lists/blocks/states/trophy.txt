@@ -1,0 +1,12 @@
+type=gold,facing=north  [default]
+type=mega_spud,facing=north
+type=no_medal,facing=north
+type=gold,facing=south
+type=mega_spud,facing=south
+type=no_medal,facing=south
+type=gold,facing=west
+type=mega_spud,facing=west
+type=no_medal,facing=west
+type=gold,facing=east
+type=mega_spud,facing=east
+type=no_medal,facing=east
