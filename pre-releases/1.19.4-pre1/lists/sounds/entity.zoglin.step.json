@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/zoglin/step1",
+    "mob/zoglin/step2",
+    "mob/zoglin/step3",
+    "mob/zoglin/step4",
+    "mob/zoglin/step5"
+  ],
+  "subtitle": "subtitles.entity.zoglin.step"
+}
