@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/wooden_trapdoor/open1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_trapdoor/open2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_trapdoor/open3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_trapdoor/open4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_trapdoor/open5",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.trapdoor.toggle"
+}
