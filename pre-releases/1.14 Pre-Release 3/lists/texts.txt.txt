@@ -1,0 +1,3 @@
+minecraft:credits
+minecraft:end
+minecraft:splashes
