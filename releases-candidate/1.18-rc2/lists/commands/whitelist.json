@@ -1,0 +1,41 @@
+{
+  "type": "literal",
+  "children": {
+    "on": {
+      "type": "literal",
+      "executable": true
+    },
+    "off": {
+      "type": "literal",
+      "executable": true
+    },
+    "list": {
+      "type": "literal",
+      "executable": true
+    },
+    "add": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "parser": "minecraft:game_profile",
+          "executable": true
+        }
+      }
+    },
+    "remove": {
+      "type": "literal",
+      "children": {
+        "targets": {
+          "type": "argument",
+          "parser": "minecraft:game_profile",
+          "executable": true
+        }
+      }
+    },
+    "reload": {
+      "type": "literal",
+      "executable": true
+    }
+  }
+}
