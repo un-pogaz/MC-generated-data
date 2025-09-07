@@ -1,0 +1,4 @@
+((required_level: 3))
+banlist
+banlist ips
+banlist players
