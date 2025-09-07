@@ -8,15 +8,15 @@
         Attributes: [
           {
             Base: 23.0d,
-            Name: "generic.maxHealth"
+            Name: "generic.max_health"
           },
           {
             Base: 0.0d,
-            Name: "generic.knockbackResistance"
+            Name: "generic.knockback_resistance"
           },
           {
             Base: 0.25600656498018504d,
-            Name: "generic.movementSpeed"
+            Name: "generic.movement_speed"
           },
           {
             Base: 0.0d,
@@ -24,28 +24,27 @@
           },
           {
             Base: 0.0d,
-            Name: "generic.armorToughness"
+            Name: "generic.armor_toughness"
           },
           {
             Base: 16.0d,
             Modifiers: [
               {
-                UUIDMost: 2068036522092285266L,
-                UUIDLeast: -7189532234823724174L,
                 Amount: -0.0033747390987335897d,
                 Operation: 1,
+                UUID: [I; 481502274, -1982313134, -1673943418, 840733554],
                 Name: "Random spawn bonus"
               }
             ],
-            Name: "generic.followRange"
+            Name: "generic.follow_range"
           },
           {
             Base: 0.0d,
-            Name: "generic.attackKnockback"
+            Name: "generic.attack_knockback"
           },
           {
             Base: 0.8283572877170323d,
-            Name: "horse.jumpStrength"
+            Name: "horse.jump_strength"
           }
         ],
         FallFlying: 0b,
@@ -61,11 +60,11 @@
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:horse",
+        UUID: [I; 2088444919, 861817062, -1827831632, 696926046],
         Age: 0,
         Motion: [-0.05945717794201762d, -0.0784000015258789d, 0.05945717794201762d],
         Leashed: 0b,
         Health: 23.0f,
-        UUIDLeast: -7850477081337381026L,
         LeftHanded: 0b,
         Air: 300s,
         Dimension: 0,
@@ -77,7 +76,6 @@
         ],
         Variant: 261,
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
-        UUIDMost: 8969802627464186086L,
         Pos: [-1725.6767578125d, 4.0d, 503.6767578125d],
         ArmorItems: [
           {},
@@ -100,15 +98,15 @@
         Attributes: [
           {
             Base: 22.0d,
-            Name: "generic.maxHealth"
+            Name: "generic.max_health"
           },
           {
             Base: 0.0d,
-            Name: "generic.knockbackResistance"
+            Name: "generic.knockback_resistance"
           },
           {
             Base: 0.26253001048827457d,
-            Name: "generic.movementSpeed"
+            Name: "generic.movement_speed"
           },
           {
             Base: 0.0d,
@@ -116,19 +114,19 @@
           },
           {
             Base: 0.0d,
-            Name: "generic.armorToughness"
+            Name: "generic.armor_toughness"
           },
           {
             Base: 16.0d,
-            Name: "generic.followRange"
+            Name: "generic.follow_range"
           },
           {
             Base: 0.0d,
-            Name: "generic.attackKnockback"
+            Name: "generic.attack_knockback"
           },
           {
             Base: 0.7876303040911276d,
-            Name: "horse.jumpStrength"
+            Name: "horse.jump_strength"
           }
         ],
         FallFlying: 0b,
@@ -144,11 +142,11 @@
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:horse",
+        UUID: [I; 1507650762, -1771945129, -1706666283, -277023426],
         Age: 0,
         Motion: [0.02972858897100881d, -0.0784000015258789d, -0.02972858897100881d],
         Leashed: 0b,
         Health: 22.0f,
-        UUIDLeast: -7330075866652936898L,
         LeftHanded: 0b,
         Air: 300s,
         Dimension: 0,
@@ -160,7 +158,6 @@
         ],
         Variant: 261,
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
-        UUIDMost: 6475310719102501719L,
         Pos: [-1725.3232421875d, 4.0d, 503.3232421875d],
         ArmorItems: [
           {},
@@ -179,34 +176,35 @@
   ],
   blocks: [
     {
-      nbt: {
-        target_pool: "minecraft:empty",
-        final_state: "minecraft:structure_void",
-        id: "minecraft:jigsaw",
-        attachement_type: "minecraft:bottom"
-      },
-      pos: [0, 0, 0],
+      pos: [0, 1, 0],
       state: 0
     },
     {
-      pos: [0, 1, 0],
-      state: 1
+      pos: [0, 2, 0],
+      state: 0
     },
     {
-      pos: [0, 2, 0],
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:bottom",
+        pool: "minecraft:empty",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [0, 0, 0],
       state: 1
     }
   ],
   palette: [
     {
-      Properties: {
-        facing: "down"
-      },
-      Name: "minecraft:jigsaw"
+      Name: "minecraft:air"
     },
     {
-      Name: "minecraft:air"
+      Properties: {
+        orientation: "down_south"
+      },
+      Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2566
 }

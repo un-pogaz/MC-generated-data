@@ -7,15 +7,15 @@
         Attributes: [
           {
             Base: 8.0d,
-            Name: "generic.maxHealth"
+            Name: "generic.max_health"
           },
           {
             Base: 0.0d,
-            Name: "generic.knockbackResistance"
+            Name: "generic.knockback_resistance"
           },
           {
             Base: 0.23000000417232513d,
-            Name: "generic.movementSpeed"
+            Name: "generic.movement_speed"
           },
           {
             Base: 0.0d,
@@ -23,24 +23,23 @@
           },
           {
             Base: 0.0d,
-            Name: "generic.armorToughness"
+            Name: "generic.armor_toughness"
           },
           {
             Base: 16.0d,
             Modifiers: [
               {
-                UUIDMost: 1942500897523517174L,
-                UUIDLeast: -5984535205315395079L,
                 Amount: -0.054645176271711594d,
                 Operation: 1,
+                UUID: [I; 452273734, 1153713910, -1393383184, 760955385],
                 Name: "Random spawn bonus"
               }
             ],
-            Name: "generic.followRange"
+            Name: "generic.follow_range"
           },
           {
             Base: 0.0d,
-            Name: "generic.attackKnockback"
+            Name: "generic.attack_knockback"
           }
         ],
         FallFlying: 0b,
@@ -54,11 +53,11 @@
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:sheep",
+        UUID: [I; 932422599, 596394752, -1824382623, -1699496795],
         Age: 0,
         Motion: [-0.09219544780654096d, -0.0784000015258789d, 0.09219544780654096d],
         Leashed: 0b,
         Health: 8.0f,
-        UUIDLeast: -7835663698580226907L,
         Color: 0b,
         LeftHanded: 0b,
         Air: 300s,
@@ -70,7 +69,6 @@
           {}
         ],
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
-        UUIDMost: 4004724569352717056L,
         Pos: [-1720.925000011921d, 4.0d, 476.92500001192093d],
         ArmorItems: [
           {},
@@ -92,15 +90,15 @@
         Attributes: [
           {
             Base: 8.0d,
-            Name: "generic.maxHealth"
+            Name: "generic.max_health"
           },
           {
             Base: 0.0d,
-            Name: "generic.knockbackResistance"
+            Name: "generic.knockback_resistance"
           },
           {
             Base: 0.23000000417232513d,
-            Name: "generic.movementSpeed"
+            Name: "generic.movement_speed"
           },
           {
             Base: 0.0d,
@@ -108,24 +106,23 @@
           },
           {
             Base: 0.0d,
-            Name: "generic.armorToughness"
+            Name: "generic.armor_toughness"
           },
           {
             Base: 16.0d,
             Modifiers: [
               {
-                UUIDMost: 4586802047052958537L,
-                UUIDLeast: -4774891076395788645L,
                 Amount: -0.07929991095224685d,
                 Operation: 1,
+                UUID: [I; 1067948072, -308262071, -1111740963, 1312757403],
                 Name: "Random spawn bonus"
               }
             ],
-            Name: "generic.followRange"
+            Name: "generic.follow_range"
           },
           {
             Base: 0.0d,
-            Name: "generic.attackKnockback"
+            Name: "generic.attack_knockback"
           }
         ],
         FallFlying: 0b,
@@ -139,11 +136,11 @@
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:sheep",
+        UUID: [I; -1015750806, 31606471, -1529664443, -1589461777],
         Age: 0,
         Motion: [0.04609772390327048d, -0.0784000015258789d, -0.04609772390327048d],
         Leashed: 0b,
         Health: 8.0f,
-        UUIDLeast: -6569858753833550609L,
         Color: 0b,
         LeftHanded: 1b,
         Air: 300s,
@@ -155,7 +152,6 @@
           {}
         ],
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
-        UUIDMost: -4362616492624034105L,
         Pos: [-1720.074999988079d, 4.0d, 476.07499998807907d],
         ArmorItems: [
           {},
@@ -174,34 +170,35 @@
   ],
   blocks: [
     {
-      nbt: {
-        target_pool: "minecraft:empty",
-        final_state: "minecraft:structure_void",
-        id: "minecraft:jigsaw",
-        attachement_type: "minecraft:bottom"
-      },
-      pos: [0, 0, 0],
+      pos: [0, 1, 0],
       state: 0
     },
     {
-      pos: [0, 1, 0],
-      state: 1
+      pos: [0, 2, 0],
+      state: 0
     },
     {
-      pos: [0, 2, 0],
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:bottom",
+        pool: "minecraft:empty",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [0, 0, 0],
       state: 1
     }
   ],
   palette: [
     {
-      Properties: {
-        facing: "down"
-      },
-      Name: "minecraft:jigsaw"
+      Name: "minecraft:air"
     },
     {
-      Name: "minecraft:air"
+      Properties: {
+        orientation: "down_south"
+      },
+      Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2566
 }

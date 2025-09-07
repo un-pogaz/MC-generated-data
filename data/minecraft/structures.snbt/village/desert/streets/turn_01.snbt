@@ -3,31 +3,7 @@
   entities: [],
   blocks: [
     {
-      pos: [1, 0, 0],
-      state: 0
-    },
-    {
-      pos: [2, 0, 0],
-      state: 0
-    },
-    {
-      pos: [3, 0, 0],
-      state: 0
-    },
-    {
       pos: [0, 0, 1],
-      state: 0
-    },
-    {
-      pos: [1, 0, 1],
-      state: 0
-    },
-    {
-      pos: [2, 0, 1],
-      state: 0
-    },
-    {
-      pos: [3, 0, 1],
       state: 0
     },
     {
@@ -35,15 +11,19 @@
       state: 0
     },
     {
-      pos: [1, 0, 2],
-      state: 0
-    },
-    {
-      pos: [2, 0, 2],
-      state: 0
-    },
-    {
       pos: [0, 0, 3],
+      state: 0
+    },
+    {
+      pos: [1, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 1],
+      state: 0
+    },
+    {
+      pos: [1, 0, 2],
       state: 0
     },
     {
@@ -51,45 +31,68 @@
       state: 0
     },
     {
-      nbt: {
-        target_pool: "minecraft:village/desert/decor",
-        final_state: "minecraft:sand",
-        id: "minecraft:jigsaw",
-        attachement_type: "minecraft:bottom"
-      },
-      pos: [3, 0, 3],
-      state: 1
+      pos: [2, 0, 0],
+      state: 0
+    },
+    {
+      pos: [2, 0, 1],
+      state: 0
+    },
+    {
+      pos: [2, 0, 2],
+      state: 0
+    },
+    {
+      pos: [3, 0, 0],
+      state: 0
+    },
+    {
+      pos: [3, 0, 1],
+      state: 0
     },
     {
       pos: [0, 0, 0],
-      state: 2
-    },
-    {
-      pos: [3, 0, 2],
-      state: 2
+      state: 1
     },
     {
       pos: [2, 0, 3],
+      state: 1
+    },
+    {
+      pos: [3, 0, 2],
+      state: 1
+    },
+    {
+      nbt: {
+        final_state: "minecraft:sand",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/desert/decor",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [3, 0, 3],
       state: 2
     },
     {
       nbt: {
-        target_pool: "minecraft:village/desert/streets",
         final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/desert/streets",
         id: "minecraft:jigsaw",
-        attachement_type: "minecraft:street"
+        target: "minecraft:street"
       },
-      pos: [2, 1, 0],
+      pos: [0, 1, 2],
       state: 3
     },
     {
       nbt: {
-        target_pool: "minecraft:village/desert/streets",
         final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/desert/streets",
         id: "minecraft:jigsaw",
-        attachement_type: "minecraft:street"
+        target: "minecraft:street"
       },
-      pos: [0, 1, 2],
+      pos: [2, 1, 0],
       state: 4
     }
   ],
@@ -98,26 +101,26 @@
       Name: "minecraft:smooth_sandstone"
     },
     {
-      Properties: {
-        facing: "up"
-      },
-      Name: "minecraft:jigsaw"
-    },
-    {
       Name: "minecraft:air"
     },
     {
       Properties: {
-        facing: "north"
+        orientation: "up_north"
       },
       Name: "minecraft:jigsaw"
     },
     {
       Properties: {
-        facing: "west"
+        orientation: "west_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "north_up"
       },
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2566
 }

@@ -1,63 +1,75 @@
 {
   "type": "literal",
   "children": {
-    "Buried_Treasure": {
+    "bastion_remnant": {
       "type": "literal",
       "executable": true
     },
-    "Desert_Pyramid": {
+    "buried_treasure": {
       "type": "literal",
       "executable": true
     },
-    "EndCity": {
+    "desert_pyramid": {
       "type": "literal",
       "executable": true
     },
-    "Fortress": {
+    "endcity": {
       "type": "literal",
       "executable": true
     },
-    "Igloo": {
+    "fortress": {
       "type": "literal",
       "executable": true
     },
-    "Jungle_Pyramid": {
+    "igloo": {
       "type": "literal",
       "executable": true
     },
-    "Mansion": {
+    "jungle_pyramid": {
       "type": "literal",
       "executable": true
     },
-    "Mineshaft": {
+    "mansion": {
       "type": "literal",
       "executable": true
     },
-    "Monument": {
+    "mineshaft": {
       "type": "literal",
       "executable": true
     },
-    "Ocean_Ruin": {
+    "monument": {
       "type": "literal",
       "executable": true
     },
-    "Pillager_Outpost": {
+    "nether_fossil": {
       "type": "literal",
       "executable": true
     },
-    "Shipwreck": {
+    "ocean_ruin": {
       "type": "literal",
       "executable": true
     },
-    "Stronghold": {
+    "pillager_outpost": {
       "type": "literal",
       "executable": true
     },
-    "Swamp_Hut": {
+    "ruined_portal": {
       "type": "literal",
       "executable": true
     },
-    "Village": {
+    "shipwreck": {
+      "type": "literal",
+      "executable": true
+    },
+    "stronghold": {
+      "type": "literal",
+      "executable": true
+    },
+    "swamp_hut": {
+      "type": "literal",
+      "executable": true
+    },
+    "village": {
       "type": "literal",
       "executable": true
     }

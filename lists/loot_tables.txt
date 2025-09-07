@@ -1,4 +1,8 @@
 minecraft:chests/abandoned_mineshaft
+minecraft:chests/bastion_bridge
+minecraft:chests/bastion_hoglin_stable
+minecraft:chests/bastion_other
+minecraft:chests/bastion_treasure
 minecraft:chests/buried_treasure
 minecraft:chests/desert_pyramid
 minecraft:chests/end_city_treasure
@@ -7,6 +11,7 @@ minecraft:chests/jungle_temple
 minecraft:chests/jungle_temple_dispenser
 minecraft:chests/nether_bridge
 minecraft:chests/pillager_outpost
+minecraft:chests/ruined_portal
 minecraft:chests/shipwreck_map
 minecraft:chests/shipwreck_supply
 minecraft:chests/shipwreck_treasure
@@ -56,6 +61,7 @@ minecraft:entities/fox
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/guardian
+minecraft:entities/hoglin
 minecraft:entities/horse
 minecraft:entities/husk
 minecraft:entities/illusioner
@@ -69,6 +75,7 @@ minecraft:entities/panda
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
+minecraft:entities/piglin
 minecraft:entities/pillager
 minecraft:entities/player
 minecraft:entities/polar_bear
@@ -102,6 +109,7 @@ minecraft:entities/snow_golem
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/strider
 minecraft:entities/trader_llama
 minecraft:entities/tropical_fish
 minecraft:entities/turtle
@@ -113,10 +121,11 @@ minecraft:entities/witch
 minecraft:entities/wither
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
+minecraft:entities/zoglin
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
-minecraft:entities/zombie_pigman
 minecraft:entities/zombie_villager
+minecraft:entities/zombified_piglin
 minecraft:gameplay/cat_morning_gift
 minecraft:gameplay/fishing
 minecraft:gameplay/fishing/fish
@@ -135,3 +144,4 @@ minecraft:gameplay/hero_of_the_village/mason_gift
 minecraft:gameplay/hero_of_the_village/shepherd_gift
 minecraft:gameplay/hero_of_the_village/toolsmith_gift
 minecraft:gameplay/hero_of_the_village/weaponsmith_gift
+minecraft:gameplay/piglin_bartering

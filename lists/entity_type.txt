@@ -38,6 +38,7 @@ minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
 minecraft:guardian
+minecraft:hoglin
 minecraft:hopper_minecart
 minecraft:horse
 minecraft:husk
@@ -59,6 +60,7 @@ minecraft:panda
 minecraft:parrot
 minecraft:phantom
 minecraft:pig
+minecraft:piglin
 minecraft:pillager
 minecraft:player
 minecraft:polar_bear
@@ -82,6 +84,7 @@ minecraft:spectral_arrow
 minecraft:spider
 minecraft:squid
 minecraft:stray
+minecraft:strider
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:trader_llama
@@ -97,11 +100,13 @@ minecraft:wither
 minecraft:wither_skeleton
 minecraft:wither_skull
 minecraft:wolf
+minecraft:zoglin
 minecraft:zombie
 minecraft:zombie_horse
-minecraft:zombie_pigman
 minecraft:zombie_villager
+minecraft:zombified_piglin
 #minecraft:arrows
 #minecraft:beehive_inhabitors
+#minecraft:impact_projectiles
 #minecraft:raiders
 #minecraft:skeletons

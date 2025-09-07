@@ -37,6 +37,7 @@ minecraft:interact_with_furnace
 minecraft:interact_with_grindstone
 minecraft:interact_with_lectern
 minecraft:interact_with_loom
+minecraft:interact_with_smithing_table
 minecraft:interact_with_smoker
 minecraft:interact_with_stonecutter
 minecraft:jump
@@ -58,8 +59,10 @@ minecraft:raid_win
 minecraft:sleep_in_bed
 minecraft:sneak_time
 minecraft:sprint_one_cm
+minecraft:strider_one_cm
 minecraft:swim_one_cm
 minecraft:talked_to_villager
+minecraft:target_hit
 minecraft:time_since_death
 minecraft:time_since_rest
 minecraft:traded_with_villager
