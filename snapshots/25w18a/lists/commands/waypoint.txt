@@ -1,0 +1,6 @@
+waypoint list
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color <color minecraft:color>
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color hex <color minecraft:hex_color>
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color reset
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> style reset
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> style set <style minecraft:resource_location>
