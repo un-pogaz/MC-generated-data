@@ -1,0 +1,32 @@
+{
+  "definition": {
+    "type": "minecraft:shelf",
+    "properties": {}
+  },
+  "properties": {
+    "align_items_to_bottom": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ],
+    "side_chain": [
+      "unconnected",
+      "right",
+      "center",
+      "left"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
