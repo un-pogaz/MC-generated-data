@@ -1,0 +1,1 @@
+minecraft:potato_hanging_sign

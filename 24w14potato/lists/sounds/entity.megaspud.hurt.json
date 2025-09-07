@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/megaspud/hurt1",
+    "nothingtoseeheremovealong:entity/megaspud/hurt2",
+    "nothingtoseeheremovealong:entity/megaspud/hurt3",
+    "nothingtoseeheremovealong:entity/megaspud/hurt4"
+  ],
+  "subtitle": "subtitles.entity.megaspud.hurt"
+}

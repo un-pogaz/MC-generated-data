@@ -1,0 +1,3 @@
+minecraft:potato
+minecraft:baked_potato
+minecraft:poisonous_potato

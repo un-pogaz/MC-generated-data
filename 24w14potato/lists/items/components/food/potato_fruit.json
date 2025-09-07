@@ -1,0 +1,14 @@
+{
+  "eat_sound": "minecraft:entity.generic.eat",
+  "effects": [
+    {
+      "effect": {
+        "duration": 40,
+        "id": "minecraft:poison",
+        "show_icon": true
+      }
+    }
+  ],
+  "nutrition": 6,
+  "saturation_modifier": 1.2
+}

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/megaspud/idle1",
+    "nothingtoseeheremovealong:entity/megaspud/idle2",
+    "nothingtoseeheremovealong:entity/megaspud/idle3",
+    "nothingtoseeheremovealong:entity/megaspud/idle4"
+  ],
+  "subtitle": "subtitles.entity.megaspud.idle"
+}

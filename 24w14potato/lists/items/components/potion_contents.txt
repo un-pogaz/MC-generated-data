@@ -1,0 +1,6 @@
+minecraft:lingering_potion  = {}
+minecraft:poisonous_potato_oil  = {potion: "minecraft:poisonous_potato_oil"}
+minecraft:potato_oil  = {potion: "minecraft:potato_oil"}
+minecraft:potion  = {}
+minecraft:splash_potion  = {}
+minecraft:tipped_arrow  = {}

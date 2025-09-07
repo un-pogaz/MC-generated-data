@@ -1,0 +1,1 @@
+nothingtoseeheremovealong:entity/zombie_potato/infect

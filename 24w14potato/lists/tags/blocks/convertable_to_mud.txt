@@ -1,0 +1,4 @@
+minecraft:dirt
+minecraft:terredepomme
+minecraft:coarse_dirt
+minecraft:rooted_dirt

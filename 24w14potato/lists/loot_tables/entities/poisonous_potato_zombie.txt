@@ -1,0 +1,5 @@
+minecraft:poisonous_potato
+
+minecraft:poisonous_potato_plant
+
+minecraft:poisonous_potato_zombie_head_hat

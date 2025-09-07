@@ -1,0 +1,5 @@
+minecraft:leather
+
+minecraft:beef
+
+minecraft:brown_potato_peels

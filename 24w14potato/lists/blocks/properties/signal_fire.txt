@@ -1,0 +1,3 @@
+minecraft:campfire
+minecraft:frying_table
+minecraft:soul_campfire

@@ -1,0 +1,3 @@
+minecraft:ender_pearl
+
+minecraft:black_potato_peels

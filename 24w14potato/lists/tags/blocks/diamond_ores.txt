@@ -1,0 +1,3 @@
+minecraft:diamond_ore
+minecraft:deepslate_diamond_ore
+minecraft:potone_diamond_ore

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/megaspud/big1",
+    "nothingtoseeheremovealong:entity/megaspud/big2",
+    "nothingtoseeheremovealong:entity/megaspud/big3",
+    "nothingtoseeheremovealong:entity/megaspud/big4"
+  ],
+  "subtitle": "subtitles.entity.megaspud.squish"
+}

@@ -1,0 +1,4 @@
+minecraft:potato_button
+minecraft:potato_door
+minecraft:potato_pressure_plate
+minecraft:potato_trapdoor

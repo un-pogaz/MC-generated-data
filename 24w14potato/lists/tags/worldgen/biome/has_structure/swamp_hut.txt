@@ -1,0 +1,3 @@
+minecraft:swamp
+minecraft:corruption
+minecraft:wasteland

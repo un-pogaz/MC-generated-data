@@ -1,0 +1,5 @@
+minecraft:ambient/nether/basalt_deltas/click1
+minecraft:ambient/nether/basalt_deltas/click2
+minecraft:ambient/nether/basalt_deltas/click3
+minecraft:ambient/nether/basalt_deltas/click4
+minecraft:ambient/nether/basalt_deltas/click5

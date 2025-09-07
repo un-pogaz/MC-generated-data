@@ -1,0 +1,5 @@
+{
+  "eat_sound": "minecraft:item.honey_bottle.drink",
+  "nutrition": 6,
+  "saturation_modifier": 0.1
+}

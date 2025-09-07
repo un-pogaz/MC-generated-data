@@ -1,0 +1,7 @@
+minecraft:big_brain
+minecraft:mega_spud_spawn_egg
+minecraft:poisonous_polytra
+minecraft:poisonous_potato_plant
+minecraft:potato_staff
+minecraft:powerful_potato
+minecraft:vicious_potato

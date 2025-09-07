@@ -1,0 +1,5 @@
+minecraft:string
+
+minecraft:spider_eye
+
+minecraft:gray_potato_peels

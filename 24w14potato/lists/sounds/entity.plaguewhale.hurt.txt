@@ -1,0 +1,4 @@
+nothingtoseeheremovealong:entity/plaguewhale/elder_hit1
+nothingtoseeheremovealong:entity/plaguewhale/elder_hit2
+nothingtoseeheremovealong:entity/plaguewhale/elder_hit3
+nothingtoseeheremovealong:entity/plaguewhale/elder_hit4

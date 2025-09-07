@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/an_ordinary_day",
+      "stream": true
+    },
+    {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/infinite_amethyst",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    },
+    {
+      "name": "music/game/wending",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    }
+  ]
+}

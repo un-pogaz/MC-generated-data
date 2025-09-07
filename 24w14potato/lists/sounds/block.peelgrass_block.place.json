@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:block/peelgrass_block/break1",
+    "nothingtoseeheremovealong:block/peelgrass_block/break2",
+    "nothingtoseeheremovealong:block/peelgrass_block/break3",
+    "nothingtoseeheremovealong:block/peelgrass_block/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

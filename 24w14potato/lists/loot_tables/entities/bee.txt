@@ -1,0 +1,4 @@
+{1}alternatives
+{1} minecraft:yellow_potato_peels
+{1} minecraft:black_potato_peels
+empty

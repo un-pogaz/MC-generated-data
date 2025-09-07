@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step1",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step2",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step3",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step4",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step5",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

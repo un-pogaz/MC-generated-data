@@ -1,0 +1,5 @@
+minecraft:toxic_resin
+
+minecraft:toxic_resin
+
+minecraft:toxic_beam

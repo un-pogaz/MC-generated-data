@@ -1,0 +1,2 @@
+minecraft:strong_roots
+minecraft:weak_roots

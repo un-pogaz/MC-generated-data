@@ -1,0 +1,1 @@
+minecraft:potato_of_knowledge  = 10

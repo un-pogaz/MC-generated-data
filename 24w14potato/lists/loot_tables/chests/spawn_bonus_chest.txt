@@ -1,0 +1,10 @@
+minecraft:poisonous_potato_plant
+
+minecraft:iron_hoe
+
+minecraft:water_bucket
+
+minecraft:potato
+minecraft:poisonous_potato
+
+minecraft:bone_meal

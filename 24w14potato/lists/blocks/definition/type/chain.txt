@@ -1,0 +1,2 @@
+minecraft:chain
+minecraft:potato_pedicule

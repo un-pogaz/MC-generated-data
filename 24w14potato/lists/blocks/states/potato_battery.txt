@@ -1,0 +1,2 @@
+inverted=true
+inverted=false  [default]

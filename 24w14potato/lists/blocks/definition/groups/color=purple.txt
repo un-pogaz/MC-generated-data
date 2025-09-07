@@ -1,0 +1,8 @@
+minecraft:purple_banner
+minecraft:purple_bed
+minecraft:purple_carpet
+minecraft:purple_potato_peels_block
+minecraft:purple_shulker_box
+minecraft:purple_stained_glass
+minecraft:purple_stained_glass_pane
+minecraft:purple_wall_banner

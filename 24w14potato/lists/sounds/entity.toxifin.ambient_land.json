@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/toxifin/land_idle1",
+    "nothingtoseeheremovealong:entity/toxifin/land_idle2",
+    "nothingtoseeheremovealong:entity/toxifin/land_idle3",
+    "nothingtoseeheremovealong:entity/toxifin/land_idle4"
+  ],
+  "subtitle": "subtitles.entity.toxifin.ambient_land"
+}

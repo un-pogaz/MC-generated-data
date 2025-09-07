@@ -1,0 +1,2 @@
+minecraft:daylight_detector
+minecraft:potato_battery

@@ -1,0 +1,1 @@
+minecraft:corrupted_potato_peels_block

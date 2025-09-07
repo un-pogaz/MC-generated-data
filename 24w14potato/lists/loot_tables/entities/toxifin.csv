@@ -1,0 +1,10 @@
+"Name","Count","Chance","Weight","Comment"
+,,,,
+"1 time","--","--","--",
+"minecraft:toxic_resin","0..1","100%","1","add drop: 0..1 * level {enchantment: looting}"
+——,——,——,——,——
+"1 time","--","--","--","random chance: 0.1%|{enchantment: looting}: 0.12000000000000001% + 0.02%*(level-1)"
+"minecraft:toxic_resin","0..1","100%","1","add drop: 0..1 * level {enchantment: looting}"
+——,——,——,——,——
+"1 time","--","--","--","killed by player, random chance: 0.5%|{enchantment: looting}: 0.6% + 0.1%*(level-1)"
+"minecraft:toxic_beam","0..1","100%","1",

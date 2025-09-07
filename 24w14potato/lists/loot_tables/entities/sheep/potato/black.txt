@@ -1,0 +1,3 @@
+minecraft:black_potato_peels
+
+loot_table[]minecraft:entities/sheep

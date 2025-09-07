@@ -1,0 +1,8 @@
+minecraft:yellow_banner
+minecraft:yellow_bed
+minecraft:yellow_carpet
+minecraft:yellow_potato_peels_block
+minecraft:yellow_shulker_box
+minecraft:yellow_stained_glass
+minecraft:yellow_stained_glass_pane
+minecraft:yellow_wall_banner

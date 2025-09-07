@@ -1,0 +1,6 @@
+{
+  "eat_seconds": 0.8,
+  "eat_sound": "minecraft:entity.generic.eat",
+  "nutrition": 1,
+  "saturation_modifier": 0.3
+}

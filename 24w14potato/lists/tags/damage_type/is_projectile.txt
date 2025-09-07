@@ -1,0 +1,9 @@
+minecraft:arrow
+minecraft:trident
+minecraft:mob_projectile
+minecraft:unattributed_fireball
+minecraft:fireball
+minecraft:wither_skull
+minecraft:thrown
+minecraft:potato_magic
+minecraft:wind_charge

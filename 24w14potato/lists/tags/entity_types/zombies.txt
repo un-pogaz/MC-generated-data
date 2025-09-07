@@ -1,0 +1,8 @@
+minecraft:zombie_horse
+minecraft:zombie
+minecraft:zombie_villager
+minecraft:zombified_piglin
+minecraft:zoglin
+minecraft:drowned
+minecraft:husk
+minecraft:poisonous_potato_zombie

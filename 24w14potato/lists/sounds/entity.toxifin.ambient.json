@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "nothingtoseeheremovealong:entity/toxifin/ambient1",
+      "volume": 0.1
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/toxifin/ambient2",
+      "volume": 0.1
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/toxifin/ambient3",
+      "volume": 0.1
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/toxifin/ambient4",
+      "volume": 0.1
+    }
+  ],
+  "subtitle": "subtitles.entity.toxifin.ambient"
+}

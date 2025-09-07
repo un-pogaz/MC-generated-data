@@ -1,0 +1,8 @@
+minecraft:brown_mushroom_block
+minecraft:chorus_plant
+minecraft:glow_lichen
+minecraft:mushroom_stem
+minecraft:red_mushroom_block
+minecraft:sculk_vein
+minecraft:strong_roots
+minecraft:weak_roots

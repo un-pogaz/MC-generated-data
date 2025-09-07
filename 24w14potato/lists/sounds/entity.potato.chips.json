@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:item/potato/eat_chips_1",
+    "nothingtoseeheremovealong:item/potato/eat_chips_2",
+    "nothingtoseeheremovealong:item/potato/eat_chips_3",
+    "nothingtoseeheremovealong:item/potato/eat_chips_4"
+  ],
+  "subtitle": "subtitles.item.potato.chips"
+}

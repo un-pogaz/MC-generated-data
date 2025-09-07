@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break1",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break2",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break3",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break4",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break5",
+    "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

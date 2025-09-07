@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:item/potato/peel_1",
+    "nothingtoseeheremovealong:item/potato/peel_2",
+    "nothingtoseeheremovealong:item/potato/peel_3",
+    "nothingtoseeheremovealong:item/potato/peel_4",
+    "nothingtoseeheremovealong:item/potato/peel_5",
+    "nothingtoseeheremovealong:item/potato/peel_6"
+  ],
+  "subtitle": "subtitles.item.potato.peel"
+}

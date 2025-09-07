@@ -1,0 +1,8 @@
+minecraft:gray_banner
+minecraft:gray_bed
+minecraft:gray_carpet
+minecraft:gray_potato_peels_block
+minecraft:gray_shulker_box
+minecraft:gray_stained_glass
+minecraft:gray_stained_glass_pane
+minecraft:gray_wall_banner

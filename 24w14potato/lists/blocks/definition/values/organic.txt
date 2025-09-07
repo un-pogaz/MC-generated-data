@@ -1,0 +1,2 @@
+minecraft:pointed_dripstone  = false
+minecraft:potato_bud  = true

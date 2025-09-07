@@ -1,0 +1,1 @@
+minecraft:potato_peeler  = {damage_boost: 10.0}

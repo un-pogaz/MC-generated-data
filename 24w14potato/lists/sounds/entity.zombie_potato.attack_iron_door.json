@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/zombie_potato/metal1",
+    "nothingtoseeheremovealong:entity/zombie_potato/metal2",
+    "nothingtoseeheremovealong:entity/zombie_potato/metal3"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

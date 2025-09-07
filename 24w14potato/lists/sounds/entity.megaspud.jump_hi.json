@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "nothingtoseeheremovealong:entity/megaspud/big1",
+      "pitch": 2.0
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/megaspud/big2",
+      "pitch": 2.0
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/megaspud/big3",
+      "pitch": 2.0
+    },
+    {
+      "name": "nothingtoseeheremovealong:entity/megaspud/big4",
+      "pitch": 2.0
+    }
+  ],
+  "subtitle": "subtitles.entity.megaspud.squish"
+}

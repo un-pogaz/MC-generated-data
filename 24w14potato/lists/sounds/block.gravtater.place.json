@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:block/gravtater/break1",
+    "nothingtoseeheremovealong:block/gravtater/break2",
+    "nothingtoseeheremovealong:block/gravtater/break3",
+    "nothingtoseeheremovealong:block/gravtater/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

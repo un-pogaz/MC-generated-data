@@ -1,0 +1,5 @@
+minecraft:feather
+
+minecraft:chicken
+
+minecraft:potato_peels

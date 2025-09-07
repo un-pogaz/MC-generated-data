@@ -1,0 +1,17 @@
+minecraft:bat
+minecraft:batato
+minecraft:creeper
+minecraft:dolphin
+minecraft:drowned
+minecraft:enderman
+minecraft:glow_squid
+minecraft:poisonous_potato_zombie
+minecraft:pufferfish
+minecraft:skeleton
+minecraft:slime
+minecraft:spider
+minecraft:squid
+minecraft:tropical_fish
+minecraft:witch
+minecraft:zombie
+minecraft:zombie_villager

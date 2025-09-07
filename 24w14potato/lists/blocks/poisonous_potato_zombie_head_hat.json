@@ -1,0 +1,14 @@
+{
+  "definition": {
+    "type": "minecraft:poisonous_potato_zombie_head_hat",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

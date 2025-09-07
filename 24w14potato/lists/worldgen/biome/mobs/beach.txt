@@ -1,0 +1,13 @@
+minecraft:bat
+minecraft:batato
+minecraft:creeper
+minecraft:enderman
+minecraft:glow_squid
+minecraft:poisonous_potato_zombie
+minecraft:skeleton
+minecraft:slime
+minecraft:spider
+minecraft:turtle
+minecraft:witch
+minecraft:zombie
+minecraft:zombie_villager

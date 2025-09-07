@@ -1,0 +1,8 @@
+minecraft:light_blue_banner
+minecraft:light_blue_bed
+minecraft:light_blue_carpet
+minecraft:light_blue_potato_peels_block
+minecraft:light_blue_shulker_box
+minecraft:light_blue_stained_glass
+minecraft:light_blue_stained_glass_pane
+minecraft:light_blue_wall_banner

@@ -1,0 +1,4 @@
+minecraft:poisonous_potato
+minecraft:snektato
+
+minecraft:poisonous_potato_plant

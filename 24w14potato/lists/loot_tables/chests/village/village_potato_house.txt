@@ -1,0 +1,10 @@
+minecraft:potato_oil
+minecraft:potato_flower
+minecraft:poisonous_potato_oil
+minecraft:potato
+minecraft:bread
+minecraft:potato_fruit
+minecraft:book
+minecraft:feather
+minecraft:poisonous_potato
+minecraft:potato_sprouts

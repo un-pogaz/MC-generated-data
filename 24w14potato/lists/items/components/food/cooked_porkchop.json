@@ -1,0 +1,5 @@
+{
+  "eat_sound": "minecraft:entity.generic.eat",
+  "nutrition": 8,
+  "saturation_modifier": 0.8
+}

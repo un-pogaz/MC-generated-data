@@ -1,0 +1,8 @@
+minecraft:amplified
+minecraft:caves
+minecraft:end
+minecraft:floating_islands
+minecraft:large_biomes
+minecraft:nether
+minecraft:overworld
+minecraft:potato

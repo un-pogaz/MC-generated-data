@@ -1,0 +1,23 @@
+{
+  "definition": {
+    "type": "minecraft:potato",
+    "properties": {}
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tater_boost": [
+      "0",
+      "1",
+      "2"
+    ]
+  }
+}

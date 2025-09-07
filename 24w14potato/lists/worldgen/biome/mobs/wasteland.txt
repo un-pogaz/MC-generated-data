@@ -1,0 +1,4 @@
+minecraft:giant
+minecraft:slime
+minecraft:toxifin
+minecraft:wither_skeleton

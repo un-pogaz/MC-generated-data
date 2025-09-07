@@ -1,0 +1,2 @@
+minecraft:hopper
+minecraft:vicious_potato

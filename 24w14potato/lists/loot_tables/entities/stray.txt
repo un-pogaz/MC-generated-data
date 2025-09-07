@@ -1,0 +1,7 @@
+minecraft:arrow
+
+minecraft:bone
+
+minecraft:tipped_arrow
+
+minecraft:light_blue_potato_peels

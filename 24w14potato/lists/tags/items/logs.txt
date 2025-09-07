@@ -1,0 +1,4 @@
+#minecraft:logs_that_burn
+#minecraft:crimson_stems
+#minecraft:warped_stems
+minecraft:potato_stem

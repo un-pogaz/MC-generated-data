@@ -1,0 +1,5 @@
+nothingtoseeheremovealong:entity/zombie_potato/step1
+nothingtoseeheremovealong:entity/zombie_potato/step2
+nothingtoseeheremovealong:entity/zombie_potato/step3
+nothingtoseeheremovealong:entity/zombie_potato/step4
+nothingtoseeheremovealong:entity/zombie_potato/step5

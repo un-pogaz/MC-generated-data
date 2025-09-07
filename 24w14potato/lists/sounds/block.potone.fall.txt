@@ -1,0 +1,6 @@
+nothingtoseeheremovealong:block/potone/step1
+nothingtoseeheremovealong:block/potone/step2
+nothingtoseeheremovealong:block/potone/step3
+nothingtoseeheremovealong:block/potone/step4
+nothingtoseeheremovealong:block/potone/step5
+nothingtoseeheremovealong:block/potone/step6

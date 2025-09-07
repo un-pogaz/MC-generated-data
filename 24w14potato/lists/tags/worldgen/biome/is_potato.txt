@@ -1,0 +1,5 @@
+minecraft:fields
+minecraft:arboretum
+minecraft:hash
+minecraft:wasteland
+minecraft:corruption

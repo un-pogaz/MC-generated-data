@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/zombie_potato/say1",
+    "nothingtoseeheremovealong:entity/zombie_potato/say2",
+    "nothingtoseeheremovealong:entity/zombie_potato/say3"
+  ],
+  "subtitle": "subtitles.entity.zombie_potato.ambient"
+}

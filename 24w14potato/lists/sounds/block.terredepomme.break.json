@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:block/terredepomme/break1",
+    "nothingtoseeheremovealong:block/terredepomme/break2",
+    "nothingtoseeheremovealong:block/terredepomme/break3",
+    "nothingtoseeheremovealong:block/terredepomme/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

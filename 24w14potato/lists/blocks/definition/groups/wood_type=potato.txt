@@ -1,0 +1,5 @@
+minecraft:potato_fence_gate
+minecraft:potato_hanging_sign
+minecraft:potato_sign
+minecraft:potato_wall_hanging_sign
+minecraft:potato_wall_sign

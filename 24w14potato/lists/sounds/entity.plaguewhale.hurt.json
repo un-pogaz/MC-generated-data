@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/plaguewhale/elder_hit1",
+    "nothingtoseeheremovealong:entity/plaguewhale/elder_hit2",
+    "nothingtoseeheremovealong:entity/plaguewhale/elder_hit3",
+    "nothingtoseeheremovealong:entity/plaguewhale/elder_hit4"
+  ],
+  "subtitle": "subtitles.entity.plaguewhale.hurt"
+}

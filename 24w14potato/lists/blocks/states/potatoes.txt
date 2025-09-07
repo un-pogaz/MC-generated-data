@@ -1,0 +1,24 @@
+age=0,tater_boost=0  [default]
+age=0,tater_boost=1
+age=0,tater_boost=2
+age=1,tater_boost=0
+age=1,tater_boost=1
+age=1,tater_boost=2
+age=2,tater_boost=0
+age=2,tater_boost=1
+age=2,tater_boost=2
+age=3,tater_boost=0
+age=3,tater_boost=1
+age=3,tater_boost=2
+age=4,tater_boost=0
+age=4,tater_boost=1
+age=4,tater_boost=2
+age=5,tater_boost=0
+age=5,tater_boost=1
+age=5,tater_boost=2
+age=6,tater_boost=0
+age=6,tater_boost=1
+age=6,tater_boost=2
+age=7,tater_boost=0
+age=7,tater_boost=1
+age=7,tater_boost=2

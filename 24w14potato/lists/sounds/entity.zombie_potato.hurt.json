@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "nothingtoseeheremovealong:entity/zombie_potato/hurt1",
+    "nothingtoseeheremovealong:entity/zombie_potato/hurt2"
+  ],
+  "subtitle": "subtitles.entity.zombie_potato.hurt"
+}

@@ -1,0 +1,3 @@
+minecraft:sand
+minecraft:gravtater
+minecraft:red_sand
