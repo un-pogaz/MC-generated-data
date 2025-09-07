@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/hoglin/angry1",
+    "mob/hoglin/angry2",
+    "mob/hoglin/angry3",
+    "mob/hoglin/angry4",
+    "mob/hoglin/angry5",
+    "mob/hoglin/angry6"
+  ],
+  "subtitle": "subtitles.entity.hoglin.angry"
+}
