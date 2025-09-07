@@ -27,10 +27,24 @@
             "childs": {
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
-                "title": "Sniper duel",
-                "description": "Kill a skeleton with an arrow from more than 50 meters",
+                "title": "Sniper Duel",
+                "description": "Kill a Skeleton from at least 50 meters away",
                 "frame": "challenge",
                 "rewards": "50 xp"
+              }
+            }
+          },
+          "minecraft:adventure/throw_trident": {
+            "icon": "minecraft:trident",
+            "title": "A Throwaway Joke",
+            "description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/very_very_frightening": {
+                "icon": "minecraft:trident",
+                "title": "Very Very Frightening",
+                "description": "Strike a Villager with lightning",
+                "frame": "task"
               }
             }
           },
@@ -43,8 +57,8 @@
         }
       },
       "minecraft:adventure/sleep_in_bed": {
-        "icon": "minecraft:bed",
-        "title": "Sweet dreams",
+        "icon": "minecraft:red_bed",
+        "title": "Sweet Dreams",
         "description": "Change your respawn point",
         "frame": "task",
         "childs": {
@@ -64,7 +78,7 @@
         "frame": "task",
         "childs": {
           "minecraft:adventure/summon_iron_golem": {
-            "icon": "minecraft:pumpkin",
+            "icon": "minecraft:carved_pumpkin",
             "title": "Hired Help",
             "description": "Summon an Iron Golem to help defend a village",
             "frame": "goal"
@@ -81,7 +95,7 @@
     "frame": "task",
     "childs": {
       "minecraft:end/kill_dragon": {
-        "icon": "minecraft:skull",
+        "icon": "minecraft:dragon_head",
         "title": "Free the End",
         "description": "Good luck",
         "frame": "task",
@@ -113,7 +127,7 @@
                   "minecraft:end/elytra": {
                     "icon": "minecraft:elytra",
                     "title": "Sky's the Limit",
-                    "description": "Find an Elytra",
+                    "description": "Find Elytra",
                     "frame": "goal"
                   },
                   "minecraft:end/levitate": {
@@ -130,7 +144,7 @@
           "minecraft:end/respawn_dragon": {
             "icon": "minecraft:end_crystal",
             "title": "The End... Again...",
-            "description": "Respawn the ender dragon",
+            "description": "Respawn the Ender Dragon",
             "frame": "goal"
           }
         }
@@ -156,6 +170,20 @@
             "description": "Breed all the animals!",
             "frame": "challenge",
             "rewards": "100 xp"
+          }
+        }
+      },
+      "minecraft:husbandry/fishy_business": {
+        "icon": "minecraft:fishing_rod",
+        "title": "Fishy Business",
+        "description": "Catch a fish",
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/tactical_fishing": {
+            "icon": "minecraft:pufferfish_bucket",
+            "title": "Tactical Fishing",
+            "description": "Catch a fish... without a fishing rod!",
+            "frame": "task"
           }
         }
       },
@@ -190,7 +218,7 @@
     }
   },
   "minecraft:nether/root": {
-    "icon": "minecraft:red_nether_brick",
+    "icon": "minecraft:red_nether_bricks",
     "title": "Nether",
     "description": "Bring summer clothes",
     "background": "minecraft:gui/advancements/backgrounds/nether",
@@ -199,20 +227,20 @@
       "minecraft:nether/fast_travel": {
         "icon": "minecraft:map",
         "title": "Subspace Bubble",
-        "description": "Use the Nether to travel 7km in the Overworld",
+        "description": "Use the Nether to travel 7 km in the Overworld",
         "frame": "challenge",
         "rewards": "100 xp"
       },
       "minecraft:nether/find_fortress": {
-        "icon": "minecraft:nether_brick",
+        "icon": "minecraft:nether_bricks",
         "title": "A Terrible Fortress",
         "description": "Break your way into a Nether Fortress",
         "frame": "task",
         "childs": {
           "minecraft:nether/get_wither_skull": {
-            "icon": "minecraft:skull",
+            "icon": "minecraft:wither_skeleton_skull",
             "title": "Spooky Scary Skeleton",
-            "description": "Obtain a wither skeleton's skull",
+            "description": "Obtain a Wither Skeleton's skull",
             "frame": "task",
             "childs": {
               "minecraft:nether/summon_wither": {
@@ -284,7 +312,7 @@
           "minecraft:nether/uneasy_alliance": {
             "icon": "minecraft:ghast_tear",
             "title": "Uneasy Alliance",
-            "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.",
+            "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it",
             "frame": "challenge",
             "rewards": "100 xp"
           }
@@ -293,7 +321,7 @@
     }
   },
   "minecraft:story/root": {
-    "icon": "minecraft:grass",
+    "icon": "minecraft:grass_block",
     "title": "Minecraft",
     "description": "The heart and story of the game",
     "background": "minecraft:gui/advancements/backgrounds/stone",
@@ -366,13 +394,13 @@
                               "minecraft:story/cure_zombie_villager": {
                                 "icon": "minecraft:golden_apple",
                                 "title": "Zombie Doctor",
-                                "description": "Weaken and then cure a zombie villager",
+                                "description": "Weaken and then cure a Zombie Villager",
                                 "frame": "goal"
                               },
                               "minecraft:story/follow_ender_eye": {
                                 "icon": "minecraft:ender_eye",
                                 "title": "Eye Spy",
-                                "description": "Follow an Ender Eye",
+                                "description": "Follow an Eye of Ender",
                                 "frame": "task",
                                 "childs": {
                                   "minecraft:story/enter_the_end": {
