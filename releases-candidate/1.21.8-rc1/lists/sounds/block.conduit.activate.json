@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "block/conduit/activate",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.conduit.activate"
+}
