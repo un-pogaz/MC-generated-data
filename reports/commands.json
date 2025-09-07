@@ -40,7 +40,7 @@
                           "type": "argument",
                           "parser": "brigadier:string",
                           "properties": {
-                            "type": "word"
+                            "type": "greedy"
                           },
                           "executable": true
                         }
@@ -109,7 +109,7 @@
                           "type": "argument",
                           "parser": "brigadier:string",
                           "properties": {
-                            "type": "word"
+                            "type": "greedy"
                           },
                           "executable": true
                         }
@@ -1216,20 +1216,9 @@
         "in": {
           "type": "literal",
           "children": {
-            "overworld": {
-              "type": "literal",
-              "redirect": [
-                "execute"
-              ]
-            },
-            "the_end": {
-              "type": "literal",
-              "redirect": [
-                "execute"
-              ]
-            },
-            "the_nether": {
-              "type": "literal",
+            "dimension": {
+              "type": "argument",
+              "parser": "minecraft:dimension",
               "redirect": [
                 "execute"
               ]
@@ -2122,6 +2111,60 @@
                   "executable": true
                 }
               }
+            }
+          }
+        }
+      }
+    },
+    "forceload": {
+      "type": "literal",
+      "children": {
+        "add": {
+          "type": "literal",
+          "children": {
+            "from": {
+              "type": "argument",
+              "parser": "minecraft:column_pos",
+              "children": {
+                "to": {
+                  "type": "argument",
+                  "parser": "minecraft:column_pos",
+                  "executable": true
+                }
+              },
+              "executable": true
+            }
+          }
+        },
+        "query": {
+          "type": "literal",
+          "children": {
+            "pos": {
+              "type": "argument",
+              "parser": "minecraft:column_pos",
+              "executable": true
+            }
+          },
+          "executable": true
+        },
+        "remove": {
+          "type": "literal",
+          "children": {
+            "all": {
+              "type": "literal",
+              "executable": true
+            },
+            "from": {
+              "type": "argument",
+              "parser": "minecraft:column_pos",
+              "children": {
+                "to": {
+                  "type": "argument",
+                  "parser": "minecraft:column_pos",
+                  "executable": true
+                }
+              },
+              "executable": true
             }
           }
         }
@@ -4719,10 +4762,10 @@
           "children": {
             "distance": {
               "type": "argument",
-              "parser": "brigadier:integer",
+              "parser": "brigadier:float",
               "properties": {
-                "min": -60000000,
-                "max": 60000000
+                "min": -6.0E7,
+                "max": 6.0E7
               },
               "children": {
                 "time": {
@@ -4788,10 +4831,10 @@
           "children": {
             "distance": {
               "type": "argument",
-              "parser": "brigadier:integer",
+              "parser": "brigadier:float",
               "properties": {
-                "min": -60000000,
-                "max": 60000000
+                "min": -6.0E7,
+                "max": 6.0E7
               },
               "children": {
                 "time": {
