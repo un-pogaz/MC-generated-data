@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "block/moss/break1",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/moss/break2",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/moss/break3",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/moss/break4",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/moss/break5",
+      "pitch": 1.1,
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}
