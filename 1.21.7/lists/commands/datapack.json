@@ -1,0 +1,102 @@
+{
+  "type": "literal",
+  "children": {
+    "create": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "children": {
+            "description": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:component"
+            }
+          },
+          "parser": "brigadier:string",
+          "properties": {
+            "type": "phrase"
+          }
+        }
+      },
+      "required_level": 4
+    },
+    "disable": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:string",
+          "properties": {
+            "type": "phrase"
+          }
+        }
+      }
+    },
+    "enable": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "children": {
+            "after": {
+              "type": "literal",
+              "children": {
+                "existing": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "brigadier:string",
+                  "properties": {
+                    "type": "phrase"
+                  }
+                }
+              }
+            },
+            "before": {
+              "type": "literal",
+              "children": {
+                "existing": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "brigadier:string",
+                  "properties": {
+                    "type": "phrase"
+                  }
+                }
+              }
+            },
+            "first": {
+              "type": "literal",
+              "executable": true
+            },
+            "last": {
+              "type": "literal",
+              "executable": true
+            }
+          },
+          "executable": true,
+          "parser": "brigadier:string",
+          "properties": {
+            "type": "phrase"
+          }
+        }
+      }
+    },
+    "list": {
+      "type": "literal",
+      "children": {
+        "available": {
+          "type": "literal",
+          "executable": true
+        },
+        "enabled": {
+          "type": "literal",
+          "executable": true
+        }
+      },
+      "executable": true
+    }
+  },
+  "required_level": 2
+}
