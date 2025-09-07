@@ -1,0 +1,40 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/a_familiar_room",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/bromeliad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/crescent_dunes",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/echo_in_the_wind",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/menu/mutation",
+      "stream": true
+    },
+    {
+      "name": "music/menu/moog_city_2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/beginning_2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/floating_trees",
+      "stream": true
+    }
+  ]
+}
