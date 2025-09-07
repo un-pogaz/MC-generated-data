@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "falling": [
+      "true",
+      "false"
+    ]
+  }
+}

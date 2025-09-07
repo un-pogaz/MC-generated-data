@@ -1,0 +1,10 @@
+{
+  "creature": [
+    {
+      "maxCount": 5,
+      "minCount": 1,
+      "type": "minecraft:moon_cow",
+      "weight": 8
+    }
+  ]
+}

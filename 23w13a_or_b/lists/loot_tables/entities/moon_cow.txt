@@ -1,0 +1,5 @@
+minecraft:cheese
+
+minecraft:glass_bottle
+
+minecraft:bone
