@@ -1,0 +1,1 @@
+locate <structure minecraft:resource_location>
