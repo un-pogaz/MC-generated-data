@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood_button/bamboo_wood_button",
+      "pitch": 0.5,
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.block.button.click"
+}
