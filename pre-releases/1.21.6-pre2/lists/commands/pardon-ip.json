@@ -1,0 +1,14 @@
+{
+  "type": "literal",
+  "children": {
+    "target": {
+      "type": "argument",
+      "executable": true,
+      "parser": "brigadier:string",
+      "properties": {
+        "type": "word"
+      }
+    }
+  },
+  "required_level": 3
+}

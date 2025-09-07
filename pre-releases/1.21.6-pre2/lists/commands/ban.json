@@ -1,0 +1,18 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "children": {
+        "reason": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:message"
+        }
+      },
+      "executable": true,
+      "parser": "minecraft:game_profile"
+    }
+  },
+  "required_level": 3
+}

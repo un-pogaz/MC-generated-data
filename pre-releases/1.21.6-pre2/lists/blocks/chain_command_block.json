@@ -1,0 +1,21 @@
+{
+  "definition": {
+    "type": "minecraft:command",
+    "automatic": true,
+    "properties": {}
+  },
+  "properties": {
+    "conditional": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ]
+  }
+}
