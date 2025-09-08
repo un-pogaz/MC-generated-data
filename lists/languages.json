@@ -275,7 +275,7 @@
     "bidirectional": false
   },
   "hn_no": {
-    "name": "Norskt landsmål",
+    "name": "Høgnorsk",
     "region": "Norig",
     "bidirectional": false
   },
@@ -472,6 +472,11 @@
   "pl_pl": {
     "name": "Polski",
     "region": "Polska",
+    "bidirectional": false
+  },
+  "pls": {
+    "name": "Ngiiwa",
+    "region": "Ndanìꞌngà",
     "bidirectional": false
   },
   "pt_br": {

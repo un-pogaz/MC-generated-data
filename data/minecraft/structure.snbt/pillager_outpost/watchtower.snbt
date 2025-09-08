@@ -18877,8 +18877,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -18923,8 +18923,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -18969,8 +18969,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19015,8 +19015,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19061,8 +19061,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19107,8 +19107,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19153,8 +19153,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19199,8 +19199,8 @@
     {
       nbt: {
         components: {
-          "minecraft:hide_additional_tooltip": {},
           "minecraft:rarity": "uncommon",
+          "minecraft:hide_additional_tooltip": {},
           "minecraft:item_name": "{\"translate\":\"block.minecraft.ominous_banner\"}"
         },
         patterns: [
@@ -19564,5 +19564,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 4082
+  DataVersion: 4189
 }

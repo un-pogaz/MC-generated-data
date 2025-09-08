@@ -105,7 +105,7 @@
               }
             ],
             id: "minecraft:follow_range",
-            base: 48.0d
+            base: 16.0d
           }
         ],
         HurtTime: 0s,
@@ -164,6 +164,7 @@
             base: 20.0d
           },
           {
+            id: "minecraft:knockback_resistance",
             modifiers: [
               {
                 amount: 0.033586338385064834d,
@@ -171,7 +172,6 @@
                 operation: "add_value"
               }
             ],
-            id: "minecraft:knockback_resistance",
             base: 0.0d
           },
           {
@@ -187,6 +187,7 @@
             base: 0.0d
           },
           {
+            id: "minecraft:follow_range",
             modifiers: [
               {
                 amount: -0.013882809459502736d,
@@ -194,7 +195,6 @@
                 operation: "add_multiplied_base"
               }
             ],
-            id: "minecraft:follow_range",
             base: 35.0d
           },
           {
@@ -1376,5 +1376,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 4082
+  DataVersion: 4189
 }

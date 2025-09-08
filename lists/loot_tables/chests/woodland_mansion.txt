@@ -19,6 +19,7 @@ minecraft:coal
 minecraft:melon_seeds
 minecraft:pumpkin_seeds
 minecraft:beetroot_seeds
+minecraft:resin_clump
 
 minecraft:bone
 minecraft:gunpowder
