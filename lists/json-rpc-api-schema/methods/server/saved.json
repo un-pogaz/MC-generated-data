@@ -1,0 +1,5 @@
+{
+  "description": "Server save completed",
+  "name": "notification:server/saved",
+  "params": []
+}

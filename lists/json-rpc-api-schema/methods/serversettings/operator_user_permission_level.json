@@ -1,0 +1,11 @@
+{
+  "description": "Get the permission level required for operator commands",
+  "name": "minecraft:serversettings/operator_user_permission_level",
+  "params": [],
+  "result": {
+    "name": "level",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

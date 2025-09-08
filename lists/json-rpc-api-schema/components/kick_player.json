@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "message": {
+      "$ref": "#/components/schemas/message"
+    },
+    "players": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

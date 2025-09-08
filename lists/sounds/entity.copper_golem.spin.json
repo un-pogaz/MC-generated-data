@@ -1,12 +1,33 @@
 {
   "sounds": [
-    "mob/coppergolem/regular/spin1",
-    "mob/coppergolem/regular/spin2",
-    "mob/coppergolem/regular/spin3",
-    "mob/coppergolem/regular/spin4",
-    "mob/coppergolem/regular/spin5",
-    "mob/coppergolem/regular/spin6",
-    "mob/coppergolem/regular/spin7"
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin1"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin2"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin3"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin4"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin5"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin6"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/regular/spin7"
+    }
   ],
   "subtitle": "subtitles.entity.copper_golem.spin"
 }

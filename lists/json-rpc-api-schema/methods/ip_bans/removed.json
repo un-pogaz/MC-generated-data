@@ -1,0 +1,13 @@
+{
+  "description": "Ip was removed from ip ban list",
+  "name": "notification:ip_bans/removed",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "type": "string"
+      }
+    }
+  ]
+}

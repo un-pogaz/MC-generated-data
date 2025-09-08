@@ -1,0 +1,19 @@
+{
+  "description": "Set the spawn protection radius in blocks (only operators can edit within this area)",
+  "name": "minecraft:serversettings/spawn_protection_radius/set",
+  "params": [
+    {
+      "name": "radius",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "radius",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

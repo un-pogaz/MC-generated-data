@@ -1,0 +1,13 @@
+{
+  "description": "Gamerule was changed",
+  "name": "notification:gamerules/updated",
+  "params": [
+    {
+      "name": "gamerule",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/typed_game_rule"
+      }
+    }
+  ]
+}

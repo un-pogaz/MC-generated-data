@@ -194,7 +194,7 @@
         waterlogged: "false",
         axis: "y"
       },
-      Name: "minecraft:chain"
+      Name: "minecraft:iron_chain"
     },
     {
       Properties: {
@@ -203,5 +203,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4540
+  DataVersion: 4542
 }

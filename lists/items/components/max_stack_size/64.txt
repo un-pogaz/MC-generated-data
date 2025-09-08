@@ -163,7 +163,6 @@ minecraft:carved_pumpkin
 minecraft:cat_spawn_egg
 minecraft:cauldron
 minecraft:cave_spider_spawn_egg
-minecraft:chain
 minecraft:chain_command_block
 minecraft:charcoal
 minecraft:cherry_button
@@ -518,6 +517,7 @@ minecraft:infested_stone_bricks
 minecraft:ink_sac
 minecraft:iron_bars
 minecraft:iron_block
+minecraft:iron_chain
 minecraft:iron_door
 minecraft:iron_golem_spawn_egg
 minecraft:iron_ingot

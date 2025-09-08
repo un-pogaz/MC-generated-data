@@ -354,7 +354,6 @@ minecraft:block/cave_vines
 minecraft:block/cave_vines_lit
 minecraft:block/cave_vines_plant
 minecraft:block/cave_vines_plant_lit
-minecraft:block/chain
 minecraft:block/chain_command_block
 minecraft:block/chain_command_block_conditional
 minecraft:block/cherry_button
@@ -978,6 +977,7 @@ minecraft:block/iron_bars_post_ends
 minecraft:block/iron_bars_side
 minecraft:block/iron_bars_side_alt
 minecraft:block/iron_block
+minecraft:block/iron_chain
 minecraft:block/iron_door_bottom_left
 minecraft:block/iron_door_bottom_left_open
 minecraft:block/iron_door_bottom_right
@@ -2510,7 +2510,6 @@ minecraft:item/carrot_on_a_stick
 minecraft:item/cat_spawn_egg
 minecraft:item/cauldron
 minecraft:item/cave_spider_spawn_egg
-minecraft:item/chain
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_boots_amethyst_trim
 minecraft:item/chainmail_boots_copper_trim
@@ -3038,6 +3037,7 @@ minecraft:item/iron_boots_netherite_trim
 minecraft:item/iron_boots_quartz_trim
 minecraft:item/iron_boots_redstone_trim
 minecraft:item/iron_boots_resin_trim
+minecraft:item/iron_chain
 minecraft:item/iron_chestplate
 minecraft:item/iron_chestplate_amethyst_trim
 minecraft:item/iron_chestplate_copper_trim

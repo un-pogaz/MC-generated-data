@@ -1,0 +1,19 @@
+{
+  "description": "Set the difficulty level of the server",
+  "name": "minecraft:serversettings/difficulty/set",
+  "params": [
+    {
+      "name": "difficulty",
+      "required": true,
+      "schema": {
+        "type": "string"
+      }
+    }
+  ],
+  "result": {
+    "name": "difficulty",
+    "schema": {
+      "type": "string"
+    }
+  }
+}
