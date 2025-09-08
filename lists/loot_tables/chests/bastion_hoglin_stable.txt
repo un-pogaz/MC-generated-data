@@ -22,3 +22,9 @@ minecraft:porkchop
 minecraft:cooked_porkchop
 minecraft:crimson_fungus
 minecraft:crimson_roots
+
+empty
+minecraft:snout_armor_trim_smithing_template
+
+empty
+minecraft:netherite_upgrade_smithing_template

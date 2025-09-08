@@ -630,12 +630,333 @@
                   },
                   "executable": true,
                   "parser": "minecraft:block_pos"
+                },
+                "to": {
+                  "type": "literal",
+                  "children": {
+                    "targetDimension": {
+                      "type": "argument",
+                      "children": {
+                        "destination": {
+                          "type": "argument",
+                          "children": {
+                            "filtered": {
+                              "type": "literal",
+                              "children": {
+                                "filter": {
+                                  "type": "argument",
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true
+                                    }
+                                  },
+                                  "executable": true,
+                                  "parser": "minecraft:block_predicate"
+                                }
+                              }
+                            },
+                            "masked": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true
+                                }
+                              },
+                              "executable": true
+                            },
+                            "replace": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true
+                                }
+                              },
+                              "executable": true
+                            }
+                          },
+                          "executable": true,
+                          "parser": "minecraft:block_pos"
+                        }
+                      },
+                      "parser": "minecraft:dimension"
+                    }
+                  }
                 }
               },
               "parser": "minecraft:block_pos"
             }
           },
           "parser": "minecraft:block_pos"
+        },
+        "from": {
+          "type": "literal",
+          "children": {
+            "sourceDimension": {
+              "type": "argument",
+              "children": {
+                "begin": {
+                  "type": "argument",
+                  "children": {
+                    "end": {
+                      "type": "argument",
+                      "children": {
+                        "destination": {
+                          "type": "argument",
+                          "children": {
+                            "filtered": {
+                              "type": "literal",
+                              "children": {
+                                "filter": {
+                                  "type": "argument",
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true
+                                    }
+                                  },
+                                  "executable": true,
+                                  "parser": "minecraft:block_predicate"
+                                }
+                              }
+                            },
+                            "masked": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true
+                                }
+                              },
+                              "executable": true
+                            },
+                            "replace": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true
+                                }
+                              },
+                              "executable": true
+                            }
+                          },
+                          "executable": true,
+                          "parser": "minecraft:block_pos"
+                        },
+                        "to": {
+                          "type": "literal",
+                          "children": {
+                            "targetDimension": {
+                              "type": "argument",
+                              "children": {
+                                "destination": {
+                                  "type": "argument",
+                                  "children": {
+                                    "filtered": {
+                                      "type": "literal",
+                                      "children": {
+                                        "filter": {
+                                          "type": "argument",
+                                          "children": {
+                                            "force": {
+                                              "type": "literal",
+                                              "executable": true
+                                            },
+                                            "move": {
+                                              "type": "literal",
+                                              "executable": true
+                                            },
+                                            "normal": {
+                                              "type": "literal",
+                                              "executable": true
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:block_predicate"
+                                        }
+                                      }
+                                    },
+                                    "masked": {
+                                      "type": "literal",
+                                      "children": {
+                                        "force": {
+                                          "type": "literal",
+                                          "executable": true
+                                        },
+                                        "move": {
+                                          "type": "literal",
+                                          "executable": true
+                                        },
+                                        "normal": {
+                                          "type": "literal",
+                                          "executable": true
+                                        }
+                                      },
+                                      "executable": true
+                                    },
+                                    "replace": {
+                                      "type": "literal",
+                                      "children": {
+                                        "force": {
+                                          "type": "literal",
+                                          "executable": true
+                                        },
+                                        "move": {
+                                          "type": "literal",
+                                          "executable": true
+                                        },
+                                        "normal": {
+                                          "type": "literal",
+                                          "executable": true
+                                        }
+                                      },
+                                      "executable": true
+                                    }
+                                  },
+                                  "executable": true,
+                                  "parser": "minecraft:block_pos"
+                                }
+                              },
+                              "parser": "minecraft:dimension"
+                            }
+                          }
+                        }
+                      },
+                      "parser": "minecraft:block_pos"
+                    }
+                  },
+                  "parser": "minecraft:block_pos"
+                }
+              },
+              "parser": "minecraft:dimension"
+            }
+          }
+        }
+      }
+    },
+    "damage": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "children": {
+            "amount": {
+              "type": "argument",
+              "children": {
+                "damageType": {
+                  "type": "argument",
+                  "children": {
+                    "at": {
+                      "type": "literal",
+                      "children": {
+                        "location": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:vec3"
+                        }
+                      }
+                    },
+                    "by": {
+                      "type": "literal",
+                      "children": {
+                        "entity": {
+                          "type": "argument",
+                          "children": {
+                            "from": {
+                              "type": "literal",
+                              "children": {
+                                "cause": {
+                                  "type": "argument",
+                                  "executable": true,
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "type": "entities",
+                                    "amount": "single"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "parser": "minecraft:entity",
+                          "properties": {
+                            "type": "entities",
+                            "amount": "single"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:damage_type"
+                  }
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:float",
+              "properties": {
+                "min": 0.0
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "entities",
+            "amount": "single"
+          }
         }
       }
     },
@@ -855,6 +1176,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -922,6 +1363,126 @@
                                           "children": {
                                             "sourcePath": {
                                               "type": "argument",
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:resource_location"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "string": {
+                                  "type": "literal",
+                                  "children": {
+                                    "block": {
+                                      "type": "literal",
+                                      "children": {
+                                        "sourcePos": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:block_pos"
+                                        }
+                                      }
+                                    },
+                                    "entity": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:entity",
+                                          "properties": {
+                                            "type": "entities",
+                                            "amount": "single"
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "storage": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
                                               "executable": true,
                                               "parser": "minecraft:nbt_path"
                                             }
@@ -1011,6 +1572,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1086,6 +1767,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1150,6 +1951,126 @@
                                       "children": {
                                         "sourcePath": {
                                           "type": "argument",
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
                                           "executable": true,
                                           "parser": "minecraft:nbt_path"
                                         }
@@ -1253,6 +2174,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1320,6 +2361,126 @@
                                           "children": {
                                             "sourcePath": {
                                               "type": "argument",
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:resource_location"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "string": {
+                                  "type": "literal",
+                                  "children": {
+                                    "block": {
+                                      "type": "literal",
+                                      "children": {
+                                        "sourcePos": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:block_pos"
+                                        }
+                                      }
+                                    },
+                                    "entity": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:entity",
+                                          "properties": {
+                                            "type": "entities",
+                                            "amount": "single"
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "storage": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
                                               "executable": true,
                                               "parser": "minecraft:nbt_path"
                                             }
@@ -1409,6 +2570,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1484,6 +2765,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1548,6 +2949,126 @@
                                       "children": {
                                         "sourcePath": {
                                           "type": "argument",
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
                                           "executable": true,
                                           "parser": "minecraft:nbt_path"
                                         }
@@ -1655,6 +3176,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1722,6 +3363,126 @@
                                           "children": {
                                             "sourcePath": {
                                               "type": "argument",
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:resource_location"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "string": {
+                                  "type": "literal",
+                                  "children": {
+                                    "block": {
+                                      "type": "literal",
+                                      "children": {
+                                        "sourcePos": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:block_pos"
+                                        }
+                                      }
+                                    },
+                                    "entity": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:nbt_path"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:entity",
+                                          "properties": {
+                                            "type": "entities",
+                                            "amount": "single"
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "storage": {
+                                      "type": "literal",
+                                      "children": {
+                                        "source": {
+                                          "type": "argument",
+                                          "children": {
+                                            "sourcePath": {
+                                              "type": "argument",
+                                              "children": {
+                                                "start": {
+                                                  "type": "argument",
+                                                  "children": {
+                                                    "end": {
+                                                      "type": "argument",
+                                                      "executable": true,
+                                                      "parser": "brigadier:integer",
+                                                      "properties": {
+                                                        "min": 0
+                                                      }
+                                                    }
+                                                  },
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
                                               "executable": true,
                                               "parser": "minecraft:nbt_path"
                                             }
@@ -1811,6 +3572,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1886,6 +3767,126 @@
                                 }
                               }
                             },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
                             "value": {
                               "type": "literal",
                               "children": {
@@ -1950,6 +3951,126 @@
                                       "children": {
                                         "sourcePath": {
                                           "type": "argument",
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:resource_location"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "string": {
+                              "type": "literal",
+                              "children": {
+                                "block": {
+                                  "type": "literal",
+                                  "children": {
+                                    "sourcePos": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_pos"
+                                    }
+                                  }
+                                },
+                                "entity": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "parser": "minecraft:nbt_path"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:entity",
+                                      "properties": {
+                                        "type": "entities",
+                                        "amount": "single"
+                                      }
+                                    }
+                                  }
+                                },
+                                "storage": {
+                                  "type": "literal",
+                                  "children": {
+                                    "source": {
+                                      "type": "argument",
+                                      "children": {
+                                        "sourcePath": {
+                                          "type": "argument",
+                                          "children": {
+                                            "start": {
+                                              "type": "argument",
+                                              "children": {
+                                                "end": {
+                                                  "type": "argument",
+                                                  "executable": true,
+                                                  "parser": "brigadier:integer",
+                                                  "properties": {
+                                                    "min": 0
+                                                  }
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "brigadier:integer",
+                                              "properties": {
+                                                "min": 0
+                                              }
+                                            }
+                                          },
                                           "executable": true,
                                           "parser": "minecraft:nbt_path"
                                         }
@@ -2225,6 +4346,28 @@
                 "effect": {
                   "type": "argument",
                   "children": {
+                    "infinite": {
+                      "type": "literal",
+                      "children": {
+                        "amplifier": {
+                          "type": "argument",
+                          "children": {
+                            "hideParticles": {
+                              "type": "argument",
+                              "executable": true,
+                              "parser": "brigadier:bool"
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "properties": {
+                            "max": 255,
+                            "min": 0
+                          }
+                        }
+                      },
+                      "executable": true
+                    },
                     "seconds": {
                       "type": "argument",
                       "children": {
@@ -2543,6 +4686,19 @@
                 }
               }
             },
+            "dimension": {
+              "type": "literal",
+              "children": {
+                "dimension": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:dimension",
+                  "redirect": [
+                    "execute"
+                  ]
+                }
+              }
+            },
             "entity": {
               "type": "literal",
               "children": {
@@ -2554,6 +4710,19 @@
                     "type": "entities",
                     "amount": "multiple"
                   },
+                  "redirect": [
+                    "execute"
+                  ]
+                }
+              }
+            },
+            "loaded": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:block_pos",
                   "redirect": [
                     "execute"
                   ]
@@ -2730,6 +4899,59 @@
             }
           }
         },
+        "on": {
+          "type": "literal",
+          "children": {
+            "attacker": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "controller": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "leasher": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "origin": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "owner": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "passengers": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "target": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            },
+            "vehicle": {
+              "type": "literal",
+              "redirect": [
+                "execute"
+              ]
+            }
+          }
+        },
         "positioned": {
           "type": "literal",
           "children": {
@@ -2743,6 +4965,18 @@
                     "type": "entities",
                     "amount": "multiple"
                   },
+                  "redirect": [
+                    "execute"
+                  ]
+                }
+              }
+            },
+            "over": {
+              "type": "literal",
+              "children": {
+                "heightmap": {
+                  "type": "argument",
+                  "parser": "minecraft:heightmap",
                   "redirect": [
                     "execute"
                   ]
@@ -3434,6 +5668,21 @@
             }
           }
         },
+        "summon": {
+          "type": "literal",
+          "children": {
+            "entity": {
+              "type": "argument",
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:entity_type"
+              },
+              "redirect": [
+                "execute"
+              ]
+            }
+          }
+        },
         "unless": {
           "type": "literal",
           "children": {
@@ -3581,6 +5830,19 @@
                 }
               }
             },
+            "dimension": {
+              "type": "literal",
+              "children": {
+                "dimension": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:dimension",
+                  "redirect": [
+                    "execute"
+                  ]
+                }
+              }
+            },
             "entity": {
               "type": "literal",
               "children": {
@@ -3592,6 +5854,19 @@
                     "type": "entities",
                     "amount": "multiple"
                   },
+                  "redirect": [
+                    "execute"
+                  ]
+                }
+              }
+            },
+            "loaded": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:block_pos",
                   "redirect": [
                     "execute"
                   ]
@@ -4061,6 +6336,17 @@
           },
           "executable": true
         },
+        "commandModificationBlockLimit": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:integer"
+            }
+          },
+          "executable": true
+        },
         "disableElytraMovementCheck": {
           "type": "literal",
           "children": {
@@ -4194,6 +6480,17 @@
           "executable": true
         },
         "doTraderSpawning": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
+        "doVinesSpread": {
           "type": "literal",
           "children": {
             "value": {
@@ -6473,6 +8770,39 @@
       "type": "literal",
       "executable": true
     },
+    "ride": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "children": {
+            "dismount": {
+              "type": "literal",
+              "executable": true
+            },
+            "mount": {
+              "type": "literal",
+              "children": {
+                "vehicle": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "type": "entities",
+                    "amount": "single"
+                  }
+                }
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "entities",
+            "amount": "single"
+          }
+        }
+      }
+    },
     "save-all": {
       "type": "literal",
       "children": {
@@ -6536,7 +8866,10 @@
                     }
                   },
                   "executable": true,
-                  "parser": "minecraft:time"
+                  "parser": "minecraft:time",
+                  "properties": {
+                    "min": 0
+                  }
                 }
               },
               "parser": "minecraft:function"
@@ -7595,7 +9928,10 @@
             "time": {
               "type": "argument",
               "executable": true,
-              "parser": "minecraft:time"
+              "parser": "minecraft:time",
+              "properties": {
+                "min": 0
+              }
             }
           }
         },
@@ -7638,7 +9974,10 @@
             "time": {
               "type": "argument",
               "executable": true,
-              "parser": "minecraft:time"
+              "parser": "minecraft:time",
+              "properties": {
+                "min": 0
+              }
             }
           }
         }
@@ -7690,19 +10029,19 @@
                         "fadeOut": {
                           "type": "argument",
                           "executable": true,
-                          "parser": "brigadier:integer",
+                          "parser": "minecraft:time",
                           "properties": {
                             "min": 0
                           }
                         }
                       },
-                      "parser": "brigadier:integer",
+                      "parser": "minecraft:time",
                       "properties": {
                         "min": 0
                       }
                     }
                   },
-                  "parser": "brigadier:integer",
+                  "parser": "minecraft:time",
                   "properties": {
                     "min": 0
                   }
@@ -7787,10 +10126,9 @@
             "duration": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
-                "max": 1000000,
-                "min": 0
+                "min": 1
               }
             }
           },
@@ -7802,10 +10140,9 @@
             "duration": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
-                "max": 1000000,
-                "min": 0
+                "min": 1
               }
             }
           },
@@ -7817,10 +10154,9 @@
             "duration": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
-                "max": 1000000,
-                "min": 0
+                "min": 1
               }
             }
           },
