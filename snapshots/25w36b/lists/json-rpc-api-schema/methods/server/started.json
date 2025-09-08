@@ -1,0 +1,5 @@
+{
+  "description": "Server started",
+  "name": "notification:server/started",
+  "params": []
+}
