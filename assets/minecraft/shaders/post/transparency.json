@@ -1,69 +1,22 @@
 {
-    "targets": [
-        "water",
-        "translucent",
-        "itemEntity",
-        "particles",
-        "clouds",
-        "weather",
-        "final"
+    "vertex": "minecraft:post/screenquad",
+    "fragment": "minecraft:post/transparency",
+    "samplers": [
+        { "name": "MainSampler" },
+        { "name": "MainDepthSampler" },
+        { "name": "TranslucentSampler" },
+        { "name": "TranslucentDepthSampler" },
+        { "name": "ItemEntitySampler" },
+        { "name": "ItemEntityDepthSampler" },
+        { "name": "ParticlesSampler" },
+        { "name": "ParticlesDepthSampler" },
+        { "name": "CloudsSampler" },
+        { "name": "CloudsDepthSampler" },
+        { "name": "WeatherSampler" },
+        { "name": "WeatherDepthSampler" }
     ],
-    "passes": [
-        {
-            "name": "transparency",
-            "intarget": "minecraft:main",
-            "outtarget": "final",
-            "auxtargets": [
-                {
-                    "name": "DiffuseDepthSampler",
-                    "id": "minecraft:main:depth"
-                },
-                {
-                    "name": "TranslucentSampler",
-                    "id": "translucent"
-                },
-                {
-                    "name": "TranslucentDepthSampler",
-                    "id": "translucent:depth"
-                },
-                {
-                    "name": "ItemEntitySampler",
-                    "id": "itemEntity"
-                },
-                {
-                    "name": "ItemEntityDepthSampler",
-                    "id": "itemEntity:depth"
-                },
-                {
-                    "name": "ParticlesSampler",
-                    "id": "particles"
-                },
-                {
-                    "name": "ParticlesDepthSampler",
-                    "id": "particles:depth"
-                },
-                {
-                    "name": "CloudsSampler",
-                    "id": "clouds"
-                },
-                {
-                    "name": "CloudsDepthSampler",
-                    "id": "clouds:depth"
-                },
-                {
-                    "name": "WeatherSampler",
-                    "id": "weather"
-                },
-                {
-                    "name": "WeatherDepthSampler",
-                    "id": "weather:depth"
-                }
-            ]
-        },
-        {
-            "name": "blit",
-            "intarget": "final",
-            "outtarget": "minecraft:main"
-        }
+    "uniforms": [
+        { "name": "ProjMat",    "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "OutSize",    "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] }
     ]
 }

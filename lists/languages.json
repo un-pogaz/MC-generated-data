@@ -136,7 +136,7 @@
   },
   "enp": {
     "name": "Anglish",
-    "region": "Foroned Kingdom",
+    "region": "Oned Riches",
     "bidirectional": false
   },
   "enws": {
@@ -272,6 +272,11 @@
   "hi_in": {
     "name": "हिंदी",
     "region": "भारत",
+    "bidirectional": false
+  },
+  "hn_no": {
+    "name": "Norskt landsmål",
+    "region": "Norig",
     "bidirectional": false
   },
   "hr_hr": {
@@ -445,7 +450,7 @@
     "bidirectional": false
   },
   "nn_no": {
-    "name": "Nynorsk",
+    "name": "Norsk nynorsk",
     "region": "Noreg",
     "bidirectional": false
   },

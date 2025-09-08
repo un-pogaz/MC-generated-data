@@ -126,6 +126,9 @@ minecraft:ore_redstone
 minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
 minecraft:ore_tuff
+minecraft:pale_garden_vegetation
+minecraft:pale_oak_checked
+minecraft:pale_oak_creaking_checked
 minecraft:patch_berry_bush
 minecraft:patch_berry_common
 minecraft:patch_berry_rare
@@ -184,7 +187,6 @@ minecraft:seagrass_deep_cold
 minecraft:seagrass_deep_warm
 minecraft:seagrass_normal
 minecraft:seagrass_river
-minecraft:seagrass_simple
 minecraft:seagrass_swamp
 minecraft:seagrass_warm
 minecraft:small_basalt_columns
