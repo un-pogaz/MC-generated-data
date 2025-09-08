@@ -1,5 +1,6 @@
 minecraft:acacia_boat
 minecraft:acacia_button
+minecraft:acacia_chest_boat
 minecraft:acacia_door
 minecraft:acacia_fence
 minecraft:acacia_fence_gate
@@ -33,6 +34,7 @@ minecraft:beehive
 minecraft:beetroot_soup
 minecraft:birch_boat
 minecraft:birch_button
+minecraft:birch_chest_boat
 minecraft:birch_door
 minecraft:birch_fence
 minecraft:birch_fence_gate
@@ -250,6 +252,7 @@ minecraft:cyan_terracotta
 minecraft:cyan_wool
 minecraft:dark_oak_boat
 minecraft:dark_oak_button
+minecraft:dark_oak_chest_boat
 minecraft:dark_oak_door
 minecraft:dark_oak_fence
 minecraft:dark_oak_fence_gate
@@ -478,6 +481,7 @@ minecraft:jack_o_lantern
 minecraft:jukebox
 minecraft:jungle_boat
 minecraft:jungle_button
+minecraft:jungle_chest_boat
 minecraft:jungle_door
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
@@ -577,6 +581,19 @@ minecraft:magenta_terracotta
 minecraft:magenta_wool
 minecraft:magma_block
 minecraft:magma_cream
+minecraft:mangrove_boat
+minecraft:mangrove_button
+minecraft:mangrove_chest_boat
+minecraft:mangrove_door
+minecraft:mangrove_fence
+minecraft:mangrove_fence_gate
+minecraft:mangrove_planks
+minecraft:mangrove_pressure_plate
+minecraft:mangrove_sign
+minecraft:mangrove_slab
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
+minecraft:mangrove_wood
 minecraft:map
 minecraft:map_cloning
 minecraft:map_extending
@@ -601,7 +618,16 @@ minecraft:mossy_stone_brick_wall
 minecraft:mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting
 minecraft:mossy_stone_bricks_from_moss_block
 minecraft:mossy_stone_bricks_from_vine
+minecraft:mud_brick_slab
+minecraft:mud_brick_slab_from_mud_bricks_stonecutting
+minecraft:mud_brick_stairs
+minecraft:mud_brick_stairs_from_mud_bricks_stonecutting
+minecraft:mud_brick_wall
+minecraft:mud_brick_wall_from_mud_bricks_stonecutting
+minecraft:mud_bricks
+minecraft:muddy_mangrove_roots
 minecraft:mushroom_stew
+minecraft:music_disc_5
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
@@ -629,6 +655,7 @@ minecraft:netherite_sword_smithing
 minecraft:note_block
 minecraft:oak_boat
 minecraft:oak_button
+minecraft:oak_chest_boat
 minecraft:oak_door
 minecraft:oak_fence
 minecraft:oak_fence_gate
@@ -664,6 +691,7 @@ minecraft:oxidized_cut_copper_stairs
 minecraft:oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting
 minecraft:oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting
 minecraft:packed_ice
+minecraft:packed_mud
 minecraft:painting
 minecraft:paper
 minecraft:pink_banner
@@ -805,6 +833,7 @@ minecraft:raw_gold
 minecraft:raw_gold_block
 minecraft:raw_iron
 minecraft:raw_iron_block
+minecraft:recovery_compass
 minecraft:red_banner
 minecraft:red_bed
 minecraft:red_bed_from_white_bed
@@ -894,6 +923,7 @@ minecraft:spectral_arrow
 minecraft:sponge
 minecraft:spruce_boat
 minecraft:spruce_button
+minecraft:spruce_chest_boat
 minecraft:spruce_door
 minecraft:spruce_fence
 minecraft:spruce_fence_gate
@@ -937,6 +967,7 @@ minecraft:stripped_birch_wood
 minecraft:stripped_crimson_hyphae
 minecraft:stripped_dark_oak_wood
 minecraft:stripped_jungle_wood
+minecraft:stripped_mangrove_wood
 minecraft:stripped_oak_wood
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae

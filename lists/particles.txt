@@ -67,10 +67,15 @@ minecraft:portal
 minecraft:rain
 minecraft:reverse_portal
 minecraft:scrape
+minecraft:sculk_charge
+minecraft:sculk_charge_pop
+minecraft:sculk_soul
+minecraft:shriek
 minecraft:small_flame
 minecraft:smoke
 minecraft:sneeze
 minecraft:snowflake
+minecraft:sonic_boom
 minecraft:soul
 minecraft:soul_fire_flame
 minecraft:spit

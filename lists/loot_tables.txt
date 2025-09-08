@@ -1,4 +1,6 @@
 minecraft:chests/abandoned_mineshaft
+minecraft:chests/ancient_city
+minecraft:chests/ancient_city_ice_box
 minecraft:chests/bastion_bridge
 minecraft:chests/bastion_hoglin_stable
 minecraft:chests/bastion_other
@@ -39,6 +41,7 @@ minecraft:chests/village/village_temple
 minecraft:chests/village/village_toolsmith
 minecraft:chests/village/village_weaponsmith
 minecraft:chests/woodland_mansion
+minecraft:entities/allay
 minecraft:entities/armor_stand
 minecraft:entities/axolotl
 minecraft:entities/bat
@@ -59,6 +62,7 @@ minecraft:entities/enderman
 minecraft:entities/endermite
 minecraft:entities/evoker
 minecraft:entities/fox
+minecraft:entities/frog
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/glow_squid
@@ -114,6 +118,7 @@ minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
 minecraft:entities/strider
+minecraft:entities/tadpole
 minecraft:entities/trader_llama
 minecraft:entities/tropical_fish
 minecraft:entities/turtle
@@ -121,6 +126,7 @@ minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindicator
 minecraft:entities/wandering_trader
+minecraft:entities/warden
 minecraft:entities/witch
 minecraft:entities/wither
 minecraft:entities/wither_skeleton

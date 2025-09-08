@@ -1,3 +1,4 @@
+minecraft:allay
 minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
@@ -8,6 +9,7 @@ minecraft:blaze
 minecraft:boat
 minecraft:cat
 minecraft:cave_spider
+minecraft:chest_boat
 minecraft:chest_minecart
 minecraft:chicken
 minecraft:cod
@@ -35,6 +37,7 @@ minecraft:fireball
 minecraft:firework_rocket
 minecraft:fishing_bobber
 minecraft:fox
+minecraft:frog
 minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
@@ -91,6 +94,7 @@ minecraft:spider
 minecraft:squid
 minecraft:stray
 minecraft:strider
+minecraft:tadpole
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:trader_llama
@@ -101,6 +105,7 @@ minecraft:vex
 minecraft:villager
 minecraft:vindicator
 minecraft:wandering_trader
+minecraft:warden
 minecraft:witch
 minecraft:wither
 minecraft:wither_skeleton
@@ -117,6 +122,7 @@ minecraft:zombified_piglin
 #minecraft:beehive_inhabitors
 #minecraft:freeze_hurts_extra_types
 #minecraft:freeze_immune_entity_types
+#minecraft:frog_food
 #minecraft:impact_projectiles
 #minecraft:powder_snow_walkable_mobs
 #minecraft:raiders

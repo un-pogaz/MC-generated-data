@@ -1,5 +1,6 @@
 minecraft:acacia_boat
 minecraft:acacia_button
+minecraft:acacia_chest_boat
 minecraft:acacia_door
 minecraft:acacia_fence
 minecraft:acacia_fence_gate
@@ -15,6 +16,7 @@ minecraft:acacia_trapdoor
 minecraft:acacia_wood
 minecraft:activator_rail
 minecraft:air
+minecraft:allay_spawn_egg
 minecraft:allium
 minecraft:amethyst_block
 minecraft:amethyst_cluster
@@ -52,6 +54,7 @@ minecraft:bell
 minecraft:big_dripleaf
 minecraft:birch_boat
 minecraft:birch_button
+minecraft:birch_chest_boat
 minecraft:birch_door
 minecraft:birch_fence
 minecraft:birch_fence_gate
@@ -262,6 +265,7 @@ minecraft:damaged_anvil
 minecraft:dandelion
 minecraft:dark_oak_boat
 minecraft:dark_oak_button
+minecraft:dark_oak_chest_boat
 minecraft:dark_oak_door
 minecraft:dark_oak_fence
 minecraft:dark_oak_fence_gate
@@ -333,6 +337,7 @@ minecraft:diorite_stairs
 minecraft:diorite_wall
 minecraft:dirt
 minecraft:dirt_path
+minecraft:disc_fragment_5
 minecraft:dispenser
 minecraft:dolphin_spawn_egg
 minecraft:donkey_spawn_egg
@@ -344,6 +349,7 @@ minecraft:dried_kelp_block
 minecraft:dripstone_block
 minecraft:dropper
 minecraft:drowned_spawn_egg
+minecraft:echo_shard
 minecraft:egg
 minecraft:elder_guardian_spawn_egg
 minecraft:elytra
@@ -392,6 +398,8 @@ minecraft:flower_pot
 minecraft:flowering_azalea
 minecraft:flowering_azalea_leaves
 minecraft:fox_spawn_egg
+minecraft:frog_spawn_egg
+minecraft:frogspawn
 minecraft:furnace
 minecraft:furnace_minecart
 minecraft:ghast_spawn_egg
@@ -409,6 +417,7 @@ minecraft:glow_lichen
 minecraft:glow_squid_spawn_egg
 minecraft:glowstone
 minecraft:glowstone_dust
+minecraft:goat_horn
 minecraft:goat_spawn_egg
 minecraft:gold_block
 minecraft:gold_ingot
@@ -510,6 +519,7 @@ minecraft:jigsaw
 minecraft:jukebox
 minecraft:jungle_boat
 minecraft:jungle_button
+minecraft:jungle_chest_boat
 minecraft:jungle_door
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
@@ -607,6 +617,23 @@ minecraft:magenta_wool
 minecraft:magma_block
 minecraft:magma_cream
 minecraft:magma_cube_spawn_egg
+minecraft:mangrove_boat
+minecraft:mangrove_button
+minecraft:mangrove_chest_boat
+minecraft:mangrove_door
+minecraft:mangrove_fence
+minecraft:mangrove_fence_gate
+minecraft:mangrove_leaves
+minecraft:mangrove_log
+minecraft:mangrove_planks
+minecraft:mangrove_pressure_plate
+minecraft:mangrove_propagule
+minecraft:mangrove_roots
+minecraft:mangrove_sign
+minecraft:mangrove_slab
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
+minecraft:mangrove_wood
 minecraft:map
 minecraft:medium_amethyst_bud
 minecraft:melon
@@ -626,11 +653,18 @@ minecraft:mossy_stone_brick_slab
 minecraft:mossy_stone_brick_stairs
 minecraft:mossy_stone_brick_wall
 minecraft:mossy_stone_bricks
+minecraft:mud
+minecraft:mud_brick_slab
+minecraft:mud_brick_stairs
+minecraft:mud_brick_wall
+minecraft:mud_bricks
+minecraft:muddy_mangrove_roots
 minecraft:mule_spawn_egg
 minecraft:mushroom_stem
 minecraft:mushroom_stew
 minecraft:music_disc_11
 minecraft:music_disc_13
+minecraft:music_disc_5
 minecraft:music_disc_blocks
 minecraft:music_disc_cat
 minecraft:music_disc_chirp
@@ -675,6 +709,7 @@ minecraft:netherrack
 minecraft:note_block
 minecraft:oak_boat
 minecraft:oak_button
+minecraft:oak_chest_boat
 minecraft:oak_door
 minecraft:oak_fence
 minecraft:oak_fence_gate
@@ -691,6 +726,7 @@ minecraft:oak_wood
 minecraft:observer
 minecraft:obsidian
 minecraft:ocelot_spawn_egg
+minecraft:ochre_froglight
 minecraft:orange_banner
 minecraft:orange_bed
 minecraft:orange_candle
@@ -711,10 +747,12 @@ minecraft:oxidized_cut_copper
 minecraft:oxidized_cut_copper_slab
 minecraft:oxidized_cut_copper_stairs
 minecraft:packed_ice
+minecraft:packed_mud
 minecraft:painting
 minecraft:panda_spawn_egg
 minecraft:paper
 minecraft:parrot_spawn_egg
+minecraft:pearlescent_froglight
 minecraft:peony
 minecraft:petrified_oak_slab
 minecraft:phantom_membrane
@@ -826,6 +864,7 @@ minecraft:raw_gold
 minecraft:raw_gold_block
 minecraft:raw_iron
 minecraft:raw_iron_block
+minecraft:recovery_compass
 minecraft:red_banner
 minecraft:red_bed
 minecraft:red_candle
@@ -856,6 +895,7 @@ minecraft:redstone_block
 minecraft:redstone_lamp
 minecraft:redstone_ore
 minecraft:redstone_torch
+minecraft:reinforced_deepslate
 minecraft:repeater
 minecraft:repeating_command_block
 minecraft:respawn_anchor
@@ -872,7 +912,11 @@ minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
 minecraft:scaffolding
+minecraft:sculk
+minecraft:sculk_catalyst
 minecraft:sculk_sensor
+minecraft:sculk_shrieker
+minecraft:sculk_vein
 minecraft:scute
 minecraft:sea_lantern
 minecraft:sea_pickle
@@ -925,6 +969,7 @@ minecraft:sponge
 minecraft:spore_blossom
 minecraft:spruce_boat
 minecraft:spruce_button
+minecraft:spruce_chest_boat
 minecraft:spruce_door
 minecraft:spruce_fence
 minecraft:spruce_fence_gate
@@ -970,6 +1015,8 @@ minecraft:stripped_dark_oak_log
 minecraft:stripped_dark_oak_wood
 minecraft:stripped_jungle_log
 minecraft:stripped_jungle_wood
+minecraft:stripped_mangrove_log
+minecraft:stripped_mangrove_wood
 minecraft:stripped_oak_log
 minecraft:stripped_oak_wood
 minecraft:stripped_spruce_log
@@ -983,6 +1030,8 @@ minecraft:sugar_cane
 minecraft:sunflower
 minecraft:suspicious_stew
 minecraft:sweet_berries
+minecraft:tadpole_bucket
+minecraft:tadpole_spawn_egg
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta
@@ -1007,11 +1056,13 @@ minecraft:turtle_egg
 minecraft:turtle_helmet
 minecraft:turtle_spawn_egg
 minecraft:twisting_vines
+minecraft:verdant_froglight
 minecraft:vex_spawn_egg
 minecraft:villager_spawn_egg
 minecraft:vindicator_spawn_egg
 minecraft:vine
 minecraft:wandering_trader_spawn_egg
+minecraft:warden_spawn_egg
 minecraft:warped_button
 minecraft:warped_door
 minecraft:warped_fence
@@ -1110,13 +1161,16 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:boats
 #minecraft:buttons
 #minecraft:candles
-#minecraft:carpets
+#minecraft:chest_boats
 #minecraft:cluster_max_harvestables
 #minecraft:coal_ores
 #minecraft:coals
+#minecraft:compasses
+#minecraft:completes_find_tree_tutorial
 #minecraft:copper_ores
 #minecraft:creeper_drop_music_discs
 #minecraft:crimson_stems
+#minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
 #minecraft:diamond_ores
 #minecraft:dirt
@@ -1136,10 +1190,11 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:lectern_books
 #minecraft:logs
 #minecraft:logs_that_burn
+#minecraft:mangrove_logs
 #minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:oak_logs
-#minecraft:occludes_vibration_signals
+#minecraft:overworld_natural_logs
 #minecraft:piglin_food
 #minecraft:piglin_loved
 #minecraft:piglin_repellents
@@ -1162,6 +1217,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:trapdoors
 #minecraft:walls
 #minecraft:warped_stems
+#minecraft:wart_blocks
 #minecraft:wooden_buttons
 #minecraft:wooden_doors
 #minecraft:wooden_fences
@@ -1170,3 +1226,4 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:wooden_stairs
 #minecraft:wooden_trapdoors
 #minecraft:wool
+#minecraft:wool_carpets

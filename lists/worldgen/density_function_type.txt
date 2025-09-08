@@ -25,10 +25,8 @@ minecraft:shift
 minecraft:shift_a
 minecraft:shift_b
 minecraft:shifted_noise
-minecraft:slide
 minecraft:spline
 minecraft:square
 minecraft:squeeze
-minecraft:terrain_shaper_spline
 minecraft:weird_scaled_sampler
 minecraft:y_clamped_gradient

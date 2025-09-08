@@ -521,7 +521,7 @@
   },
   "sxu": {
     "region": "Saggsn",
-    "name": "Säggs'sch",
+    "name": "Säggs’sch",
     "bidirectional": false
   },
   "szl": {
@@ -607,6 +607,11 @@
   "zh_tw": {
     "region": "台灣",
     "name": "繁體中文",
+    "bidirectional": false
+  },
+  "zlm_arab": {
+    "region": "مليسيا",
+    "name": "بهاس ملايو",
     "bidirectional": false
   }
 }

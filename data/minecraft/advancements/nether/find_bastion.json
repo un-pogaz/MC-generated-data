@@ -1,28 +1,36 @@
 {
   "parent": "minecraft:nether/root",
+  "criteria": {
+    "bastion": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:bastion_remnant"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
   "display": {
-    "icon": {
-      "item": "minecraft:polished_blackstone_bricks"
-    },
-    "title": {
-      "translate": "advancements.nether.find_bastion.title"
-    },
+    "announce_to_chat": true,
     "description": {
       "translate": "advancements.nether.find_bastion.description"
     },
     "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
     "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
-  "criteria": {
-    "bastion": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "location": {
-          "feature": "minecraft:bastion_remnant"
-        }
-      }
+    "title": {
+      "translate": "advancements.nether.find_bastion.title"
     }
   },
   "requirements": [
