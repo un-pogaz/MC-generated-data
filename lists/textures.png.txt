@@ -3408,6 +3408,7 @@ minecraft:particle/vault_connection
 minecraft:particle/vibration  [mcmeta]
 minecraft:trims/color_palettes/amethyst
 minecraft:trims/color_palettes/copper
+minecraft:trims/color_palettes/copper_darker
 minecraft:trims/color_palettes/diamond
 minecraft:trims/color_palettes/diamond_darker
 minecraft:trims/color_palettes/emerald
