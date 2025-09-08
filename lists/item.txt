@@ -637,6 +637,7 @@ minecraft:music_disc_chirp
 minecraft:music_disc_far
 minecraft:music_disc_mall
 minecraft:music_disc_mellohi
+minecraft:music_disc_otherside
 minecraft:music_disc_pigstep
 minecraft:music_disc_stal
 minecraft:music_disc_strad
@@ -1118,6 +1119,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:crimson_stems
 #minecraft:dark_oak_logs
 #minecraft:diamond_ores
+#minecraft:dirt
 #minecraft:doors
 #minecraft:emerald_ores
 #minecraft:fences
@@ -1156,6 +1158,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:stone_crafting_materials
 #minecraft:stone_tool_materials
 #minecraft:tall_flowers
+#minecraft:terracotta
 #minecraft:trapdoors
 #minecraft:walls
 #minecraft:warped_stems

@@ -1,5 +1,4 @@
 {
-  "scale": 0.2,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.crimson_forest.mood",
@@ -29,7 +28,6 @@
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "surface_builder": "minecraft:crimson_forest",
   "carvers": {
     "air": [
       "minecraft:nether_cave"
@@ -54,9 +52,10 @@
       "minecraft:ore_blackstone",
       "minecraft:ore_gold_nether",
       "minecraft:ore_quartz_nether",
-      "minecraft:ore_debris_large",
+      "minecraft:ore_ancient_debris_large",
       "minecraft:ore_debris_small"
     ],
+    [],
     [
       "minecraft:spring_lava",
       "minecraft:brown_mushroom_normal",
@@ -65,11 +64,6 @@
       "minecraft:crimson_fungi",
       "minecraft:crimson_forest_vegetation"
     ]
-  ],
-  "starts": [
-    "minecraft:ruined_portal_nether",
-    "minecraft:fortress",
-    "minecraft:bastion_remnant"
   ],
   "spawners": {
     "monster": [
@@ -101,16 +95,15 @@
       }
     ],
     "ambient": [],
+    "axolotls": [],
     "underground_water_creature": [],
     "water_creature": [],
     "water_ambient": [],
     "misc": []
   },
   "spawn_costs": {},
-  "player_spawn_friendly": false,
   "precipitation": "none",
   "temperature": 2.0,
   "downfall": 0.0,
-  "category": "nether",
-  "depth": 0.1
+  "category": "nether"
 }

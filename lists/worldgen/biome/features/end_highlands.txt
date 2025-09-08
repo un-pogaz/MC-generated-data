@@ -6,7 +6,9 @@
 
 []
 
-minecraft:end_gateway
+minecraft:end_gateway_return
+
+[]
 
 []
 

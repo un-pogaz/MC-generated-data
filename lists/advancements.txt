@@ -1,12 +1,14 @@
 minecraft:adventure/adventuring_time
 minecraft:adventure/arbalistic
 minecraft:adventure/bullseye
+minecraft:adventure/fall_from_world_height
 minecraft:adventure/hero_of_the_village
 minecraft:adventure/honey_block_slide
 minecraft:adventure/kill_a_mob
 minecraft:adventure/kill_all_mobs
 minecraft:adventure/lightning_rod_with_villager_no_fire
 minecraft:adventure/ol_betsy
+minecraft:adventure/play_jukebox_in_meadows
 minecraft:adventure/root
 minecraft:adventure/shoot_arrow
 minecraft:adventure/sleep_in_bed
@@ -18,6 +20,7 @@ minecraft:adventure/summon_iron_golem
 minecraft:adventure/throw_trident
 minecraft:adventure/totem_of_undying
 minecraft:adventure/trade
+minecraft:adventure/trade_at_world_height
 minecraft:adventure/two_birds_one_arrow
 minecraft:adventure/very_very_frightening
 minecraft:adventure/voluntary_exile
@@ -69,6 +72,7 @@ minecraft:nether/obtain_blaze_rod
 minecraft:nether/obtain_crying_obsidian
 minecraft:nether/return_to_sender
 minecraft:nether/ride_strider
+minecraft:nether/ride_strider_in_overworld_lava
 minecraft:nether/root
 minecraft:nether/summon_wither
 minecraft:nether/uneasy_alliance

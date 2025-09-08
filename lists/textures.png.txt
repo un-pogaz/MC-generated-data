@@ -1233,6 +1233,7 @@ minecraft:environment/sun
 minecraft:font/accented
 minecraft:font/ascii
 minecraft:font/ascii_sga
+minecraft:font/asciillager
 minecraft:font/nonlatin_european
 minecraft:font/unicode_page_00
 minecraft:font/unicode_page_01
@@ -1851,6 +1852,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_far
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi
+minecraft:item/music_disc_otherside
 minecraft:item/music_disc_pigstep
 minecraft:item/music_disc_stal
 minecraft:item/music_disc_strad
