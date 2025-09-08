@@ -4,6 +4,7 @@ minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
+minecraft:block_type
 minecraft:cat_variant
 minecraft:chunk_status
 minecraft:command_argument_type
@@ -29,6 +30,7 @@ minecraft:loot_score_provider_type
 minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
+minecraft:number_format_type
 minecraft:painting_variant
 minecraft:particle_type
 minecraft:point_of_interest_type
@@ -43,6 +45,7 @@ minecraft:schedule
 minecraft:sensor_type
 minecraft:sound_event
 minecraft:stat_type
+minecraft:trigger_type
 minecraft:villager_profession
 minecraft:villager_type
 minecraft:worldgen/biome_source
@@ -56,6 +59,7 @@ minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/material_condition
 minecraft:worldgen/material_rule
 minecraft:worldgen/placement_modifier_type
+minecraft:worldgen/pool_alias_binding
 minecraft:worldgen/root_placer_type
 minecraft:worldgen/structure_piece
 minecraft:worldgen/structure_placement

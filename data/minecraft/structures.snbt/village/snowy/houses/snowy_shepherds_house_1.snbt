@@ -1867,7 +1867,7 @@
       Name: "minecraft:snow"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Properties: {
@@ -1996,5 +1996,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 3578
+  DataVersion: 3698
 }
