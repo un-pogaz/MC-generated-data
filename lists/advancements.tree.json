@@ -122,6 +122,26 @@
           }
         }
       },
+      "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+        "icon": "minecraft:chiseled_bookshelf",
+        "title": "The Power of Books",
+        "description": "Read the power signal of a Chiseled Bookshelf using a Comparator",
+        "frame": "task"
+      },
+      "minecraft:adventure/salvage_sherd": {
+        "icon": "minecraft:brush",
+        "title": "Respecting the Remnants",
+        "description": "Brush a Suspicious block to obtain a Pottery Sherd",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+            "icon": "minecraft:decorated_pot",
+            "title": "Careful Restoration",
+            "description": "Make a Decorated Pot out of 4 Pottery Sherds",
+            "frame": "task"
+          }
+        }
+      },
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
         "title": "Sweet Dreams",
@@ -144,7 +164,7 @@
           "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
             "icon": "minecraft:leather_boots",
             "title": "Light as a Rabbit",
-            "description": "Walk on Powder Snow...without sinking in it",
+            "description": "Walk on Powder Snow... without sinking in it",
             "frame": "task"
           }
         }
@@ -188,6 +208,20 @@
             "title": "Star Trader",
             "description": "Trade with a Villager at the build height limit",
             "frame": "task"
+          }
+        }
+      },
+      "minecraft:adventure/trim_with_any_armor_pattern": {
+        "icon": "minecraft:dune_armor_trim_smithing_template",
+        "title": "Crafting a New Look",
+        "description": "Craft a trimmed armor at a Smithing Table",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+            "icon": "minecraft:silence_armor_trim_smithing_template",
+            "title": "Smithing with Style",
+            "description": "Apply these smithing templates at least once: Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder",
+            "frame": "challenge"
           }
         }
       },
@@ -348,6 +382,31 @@
         "description": "Make the text of any kind of sign glow",
         "frame": "task"
       },
+      "minecraft:husbandry/obtain_sniffer_egg": {
+        "icon": "minecraft:sniffer_egg",
+        "title": "Smells Interesting",
+        "description": "Obtain a Sniffer Egg",
+        "frame": "task",
+        "hidden": true,
+        "childs": {
+          "minecraft:husbandry/feed_snifflet": {
+            "icon": "minecraft:torchflower_seeds",
+            "title": "Little Sniffs",
+            "description": "Feed a Snifflet",
+            "frame": "task",
+            "hidden": true,
+            "childs": {
+              "minecraft:husbandry/plant_any_sniffer_seed": {
+                "icon": "minecraft:pitcher_pod",
+                "title": "Planting the Past",
+                "description": "Plant any Sniffer seed",
+                "frame": "task",
+                "hidden": true
+              }
+            }
+          }
+        }
+      },
       "minecraft:husbandry/plant_seed": {
         "icon": "minecraft:wheat",
         "title": "A Seedy Place",
@@ -379,7 +438,7 @@
       "minecraft:husbandry/safely_harvest_honey": {
         "icon": "minecraft:honey_bottle",
         "title": "Bee Our Guest",
-        "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the Bees",
+        "description": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees",
         "frame": "task",
         "childs": {
           "minecraft:husbandry/wax_on": {

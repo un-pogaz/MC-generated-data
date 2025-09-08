@@ -7,6 +7,7 @@ minecraft:block_predicate_type
 minecraft:cat_variant
 minecraft:chunk_status
 minecraft:command_argument_type
+minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:decorated_pot_patterns
 minecraft:enchantment
@@ -36,6 +37,7 @@ minecraft:position_source_type
 minecraft:potion
 minecraft:recipe_serializer
 minecraft:recipe_type
+minecraft:rule_block_entity_modifier
 minecraft:rule_test
 minecraft:schedule
 minecraft:sensor_type
