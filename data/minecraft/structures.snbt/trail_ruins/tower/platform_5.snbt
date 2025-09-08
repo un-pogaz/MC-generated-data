@@ -944,10 +944,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:mud_bricks",
         name: "minecraft:large_hall_connector",
         pool: "minecraft:trail_ruins/tower",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:road_anchor"
       },
@@ -957,9 +957,9 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
-        CookingTotalTimes: [I; 0, 0, 0, 0]
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
       },
       pos: [2, 3, 2],
       state: 6
@@ -967,9 +967,9 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
-        CookingTotalTimes: [I; 0, 0, 0, 0]
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
       },
       pos: [3, 3, 2],
       state: 6
@@ -977,9 +977,9 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
-        CookingTotalTimes: [I; 0, 0, 0, 0]
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
       },
       pos: [3, 3, 3],
       state: 6
@@ -1017,5 +1017,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

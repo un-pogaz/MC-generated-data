@@ -65,11 +65,11 @@
               uses: 0,
               rewardExp: 1b,
               buy: {
-                Count: 36b,
+                count: 36,
                 id: "minecraft:rotten_flesh"
               },
               sell: {
-                Count: 1b,
+                count: 1,
                 id: "minecraft:emerald"
               }
             },
@@ -78,11 +78,11 @@
               uses: 0,
               rewardExp: 1b,
               buy: {
-                Count: 9b,
+                count: 9,
                 id: "minecraft:gold_ingot"
               },
               sell: {
-                Count: 1b,
+                count: 1,
                 id: "minecraft:emerald"
               }
             }
@@ -1211,37 +1211,39 @@
     },
     {
       nbt: {
-        back_text: {
-          has_glowing_text: 0b,
-          color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
-        },
-        id: "minecraft:sign",
         front_text: {
           filtered_messages: ["{\"text\":\"\"}", "{\"text\":\"<----\"}", "{\"text\":\"---->\"}", "{\"text\":\"\"}"],
           has_glowing_text: 0b,
           color: "black",
           messages: ["{\"text\":\"\"}", "{\"text\":\"<----\"}", "{\"text\":\"---->\"}", "{\"text\":\"\"}"]
-        }
+        },
+        back_text: {
+          has_glowing_text: 0b,
+          color: "black",
+          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+        },
+        id: "minecraft:sign"
       },
       pos: [3, 2, 3],
       state: 23
     },
     {
       nbt: {
-        Fuel: 0b,
         Items: [
           {
+            count: 1,
             Slot: 1b,
-            Count: 1b,
-            id: "minecraft:splash_potion",
-            tag: {
-              Potion: "minecraft:weakness"
-            }
+            components: {
+              "minecraft:potion_contents": {
+                potion: "minecraft:weakness"
+              }
+            },
+            id: "minecraft:splash_potion"
           }
         ],
         id: "minecraft:brewing_stand",
-        BrewTime: 0s
+        BrewTime: 0s,
+        Fuel: 0b
       },
       pos: [5, 2, 6],
       state: 24
@@ -1377,5 +1379,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

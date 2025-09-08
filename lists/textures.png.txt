@@ -432,6 +432,7 @@ minecraft:block/grindstone_side
 minecraft:block/hanging_roots
 minecraft:block/hay_block_side
 minecraft:block/hay_block_top
+minecraft:block/heavy_core
 minecraft:block/honey_block_bottom
 minecraft:block/honey_block_side
 minecraft:block/honey_block_top
@@ -910,10 +911,15 @@ minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
 minecraft:block/trial_spawner_bottom
 minecraft:block/trial_spawner_side_active
+minecraft:block/trial_spawner_side_active_ominous
 minecraft:block/trial_spawner_side_inactive
+minecraft:block/trial_spawner_side_inactive_ominous
 minecraft:block/trial_spawner_top_active
+minecraft:block/trial_spawner_top_active_ominous
 minecraft:block/trial_spawner_top_ejecting_reward
+minecraft:block/trial_spawner_top_ejecting_reward_ominous
 minecraft:block/trial_spawner_top_inactive
+minecraft:block/trial_spawner_top_inactive_ominous
 minecraft:block/tripwire
 minecraft:block/tripwire_hook
 minecraft:block/tube_coral
@@ -926,6 +932,22 @@ minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
 minecraft:block/twisting_vines
 minecraft:block/twisting_vines_plant
+minecraft:block/vault_bottom
+minecraft:block/vault_bottom_ominous
+minecraft:block/vault_front_ejecting
+minecraft:block/vault_front_ejecting_ominous
+minecraft:block/vault_front_off
+minecraft:block/vault_front_off_ominous
+minecraft:block/vault_front_on
+minecraft:block/vault_front_on_ominous
+minecraft:block/vault_side_off
+minecraft:block/vault_side_off_ominous
+minecraft:block/vault_side_on
+minecraft:block/vault_side_on_ominous
+minecraft:block/vault_top
+minecraft:block/vault_top_ejecting
+minecraft:block/vault_top_ejecting_ominous
+minecraft:block/vault_top_ominous
 minecraft:block/verdant_froglight_side
 minecraft:block/verdant_froglight_top
 minecraft:block/vine
@@ -992,6 +1014,7 @@ minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/allay/allay
+minecraft:entity/armadillo
 minecraft:entity/armorstand/wood
 minecraft:entity/axolotl/axolotl_blue
 minecraft:entity/axolotl/axolotl_cyan
@@ -1009,10 +1032,12 @@ minecraft:entity/banner/diagonal_left
 minecraft:entity/banner/diagonal_right
 minecraft:entity/banner/diagonal_up_left
 minecraft:entity/banner/diagonal_up_right
+minecraft:entity/banner/flow
 minecraft:entity/banner/flower
 minecraft:entity/banner/globe
 minecraft:entity/banner/gradient
 minecraft:entity/banner/gradient_up
+minecraft:entity/banner/guster
 minecraft:entity/banner/half_horizontal
 minecraft:entity/banner/half_horizontal_bottom
 minecraft:entity/banner/half_vertical
@@ -1076,6 +1101,7 @@ minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
 minecraft:entity/breeze/breeze
+minecraft:entity/breeze/breeze_eyes
 minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
 minecraft:entity/cat/all_black
@@ -1133,7 +1159,9 @@ minecraft:entity/decorated_pot/danger_pottery_pattern
 minecraft:entity/decorated_pot/decorated_pot_base
 minecraft:entity/decorated_pot/decorated_pot_side
 minecraft:entity/decorated_pot/explorer_pottery_pattern
+minecraft:entity/decorated_pot/flow_pottery_pattern
 minecraft:entity/decorated_pot/friend_pottery_pattern
+minecraft:entity/decorated_pot/guster_pottery_pattern
 minecraft:entity/decorated_pot/heart_pottery_pattern
 minecraft:entity/decorated_pot/heartbreak_pottery_pattern
 minecraft:entity/decorated_pot/howl_pottery_pattern
@@ -1141,6 +1169,7 @@ minecraft:entity/decorated_pot/miner_pottery_pattern
 minecraft:entity/decorated_pot/mourner_pottery_pattern
 minecraft:entity/decorated_pot/plenty_pottery_pattern
 minecraft:entity/decorated_pot/prize_pottery_pattern
+minecraft:entity/decorated_pot/scrape_pottery_pattern
 minecraft:entity/decorated_pot/sheaf_pottery_pattern
 minecraft:entity/decorated_pot/shelter_pottery_pattern
 minecraft:entity/decorated_pot/skull_pottery_pattern
@@ -1310,10 +1339,12 @@ minecraft:entity/shield/diagonal_left
 minecraft:entity/shield/diagonal_right
 minecraft:entity/shield/diagonal_up_left
 minecraft:entity/shield/diagonal_up_right
+minecraft:entity/shield/flow
 minecraft:entity/shield/flower
 minecraft:entity/shield/globe
 minecraft:entity/shield/gradient
 minecraft:entity/shield/gradient_up
+minecraft:entity/shield/guster
 minecraft:entity/shield/half_horizontal
 minecraft:entity/shield/half_horizontal_bottom
 minecraft:entity/shield/half_vertical
@@ -1383,6 +1414,8 @@ minecraft:entity/signs/oak
 minecraft:entity/signs/spruce
 minecraft:entity/signs/warped
 minecraft:entity/silverfish
+minecraft:entity/skeleton/bogged
+minecraft:entity/skeleton/bogged_overlay
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
 minecraft:entity/skeleton/stray_overlay
@@ -1442,8 +1475,37 @@ minecraft:entity/wither/wither_armor
 minecraft:entity/wither/wither_invulnerable
 minecraft:entity/wolf/wolf
 minecraft:entity/wolf/wolf_angry
+minecraft:entity/wolf/wolf_armor
+minecraft:entity/wolf/wolf_armor_crackiness_high
+minecraft:entity/wolf/wolf_armor_crackiness_low
+minecraft:entity/wolf/wolf_armor_crackiness_medium
+minecraft:entity/wolf/wolf_armor_overlay
+minecraft:entity/wolf/wolf_ashen
+minecraft:entity/wolf/wolf_ashen_angry
+minecraft:entity/wolf/wolf_ashen_tame
+minecraft:entity/wolf/wolf_black
+minecraft:entity/wolf/wolf_black_angry
+minecraft:entity/wolf/wolf_black_tame
+minecraft:entity/wolf/wolf_chestnut
+minecraft:entity/wolf/wolf_chestnut_angry
+minecraft:entity/wolf/wolf_chestnut_tame
 minecraft:entity/wolf/wolf_collar
+minecraft:entity/wolf/wolf_rusty
+minecraft:entity/wolf/wolf_rusty_angry
+minecraft:entity/wolf/wolf_rusty_tame
+minecraft:entity/wolf/wolf_snowy
+minecraft:entity/wolf/wolf_snowy_angry
+minecraft:entity/wolf/wolf_snowy_tame
+minecraft:entity/wolf/wolf_spotted
+minecraft:entity/wolf/wolf_spotted_angry
+minecraft:entity/wolf/wolf_spotted_tame
+minecraft:entity/wolf/wolf_striped
+minecraft:entity/wolf/wolf_striped_angry
+minecraft:entity/wolf/wolf_striped_tame
 minecraft:entity/wolf/wolf_tame
+minecraft:entity/wolf/wolf_woods
+minecraft:entity/wolf/wolf_woods_angry
+minecraft:entity/wolf/wolf_woods_tame
 minecraft:entity/zombie/drowned
 minecraft:entity/zombie/drowned_outer_layer
 minecraft:entity/zombie/husk
@@ -1532,8 +1594,12 @@ minecraft:gui/hanging_signs/oak
 minecraft:gui/hanging_signs/spruce
 minecraft:gui/hanging_signs/warped
 minecraft:gui/header_separator
-minecraft:gui/light_dirt_background
-minecraft:gui/options_background
+minecraft:gui/inworld_footer_separator
+minecraft:gui/inworld_header_separator
+minecraft:gui/inworld_menu_background
+minecraft:gui/inworld_menu_list_background
+minecraft:gui/menu_background
+minecraft:gui/menu_list_background
 minecraft:gui/presets/isles
 minecraft:gui/realms/adventure
 minecraft:gui/realms/empty_frame
@@ -1578,10 +1644,6 @@ minecraft:gui/sprites/advancements/tab_right_top_selected
 minecraft:gui/sprites/advancements/task_frame_obtained
 minecraft:gui/sprites/advancements/task_frame_unobtained
 minecraft:gui/sprites/advancements/title_box  [mcmeta]
-minecraft:gui/sprites/backup/changes
-minecraft:gui/sprites/backup/changes_highlighted
-minecraft:gui/sprites/backup/restore
-minecraft:gui/sprites/backup/restore_highlighted
 minecraft:gui/sprites/boss_bar/blue_background
 minecraft:gui/sprites/boss_bar/blue_progress
 minecraft:gui/sprites/boss_bar/green_background
@@ -1814,11 +1876,8 @@ minecraft:gui/sprites/pending_invite/accept_highlighted
 minecraft:gui/sprites/pending_invite/reject
 minecraft:gui/sprites/pending_invite/reject_highlighted
 minecraft:gui/sprites/player_list/make_operator
-minecraft:gui/sprites/player_list/make_operator_highlighted
 minecraft:gui/sprites/player_list/remove_operator
-minecraft:gui/sprites/player_list/remove_operator_highlighted
 minecraft:gui/sprites/player_list/remove_player
-minecraft:gui/sprites/player_list/remove_player_highlighted
 minecraft:gui/sprites/popup/background  [mcmeta]
 minecraft:gui/sprites/realm_status/closed
 minecraft:gui/sprites/realm_status/expired
@@ -1929,6 +1988,7 @@ minecraft:gui/sprites/widget/page_backward_highlighted
 minecraft:gui/sprites/widget/page_forward
 minecraft:gui/sprites/widget/page_forward_highlighted
 minecraft:gui/sprites/widget/scroller  [mcmeta]
+minecraft:gui/sprites/widget/scroller_background  [mcmeta]
 minecraft:gui/sprites/widget/slider  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle_highlighted  [mcmeta]
@@ -1951,6 +2011,7 @@ minecraft:gui/sprites/world_list/marked_join
 minecraft:gui/sprites/world_list/marked_join_highlighted
 minecraft:gui/sprites/world_list/warning
 minecraft:gui/sprites/world_list/warning_highlighted
+minecraft:gui/tab_header_background
 minecraft:gui/title/background/panorama_0
 minecraft:gui/title/background/panorama_1
 minecraft:gui/title/background/panorama_2
@@ -1972,6 +2033,7 @@ minecraft:item/amethyst_shard
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
+minecraft:item/armadillo_scute
 minecraft:item/armor_stand
 minecraft:item/arms_up_pottery_sherd
 minecraft:item/arrow
@@ -2001,6 +2063,7 @@ minecraft:item/blaze_powder
 minecraft:item/blaze_rod
 minecraft:item/blue_candle
 minecraft:item/blue_dye
+minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_meal
 minecraft:item/book
@@ -2010,6 +2073,7 @@ minecraft:item/bow_pulling_1
 minecraft:item/bow_pulling_2
 minecraft:item/bowl
 minecraft:item/bread
+minecraft:item/breeze_rod
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -2231,6 +2295,9 @@ minecraft:item/fishing_rod
 minecraft:item/fishing_rod_cast
 minecraft:item/flint
 minecraft:item/flint_and_steel
+minecraft:item/flow_armor_trim_smithing_template
+minecraft:item/flow_banner_pattern
+minecraft:item/flow_pottery_sherd
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
 minecraft:item/friend_pottery_sherd
@@ -2263,6 +2330,8 @@ minecraft:item/gray_dye
 minecraft:item/green_candle
 minecraft:item/green_dye
 minecraft:item/gunpowder
+minecraft:item/guster_banner_pattern
+minecraft:item/guster_pottery_sherd
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
@@ -2332,6 +2401,7 @@ minecraft:item/light_gray_dye
 minecraft:item/lime_candle
 minecraft:item/lime_dye
 minecraft:item/lingering_potion
+minecraft:item/mace
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
 minecraft:item/magma_cream
@@ -2390,6 +2460,8 @@ minecraft:item/oak_chest_boat
 minecraft:item/oak_door
 minecraft:item/oak_hanging_sign
 minecraft:item/oak_sign
+minecraft:item/ominous_bottle
+minecraft:item/ominous_trial_key
 minecraft:item/orange_candle
 minecraft:item/orange_dye
 minecraft:item/oxidized_copper_door
@@ -2470,7 +2542,7 @@ minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
-minecraft:item/scute
+minecraft:item/scrape_pottery_sherd
 minecraft:item/sea_pickle
 minecraft:item/seagrass
 minecraft:item/sentry_armor_trim_smithing_template
@@ -2527,6 +2599,7 @@ minecraft:item/tropical_fish
 minecraft:item/tropical_fish_bucket
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
+minecraft:item/turtle_scute
 minecraft:item/vex_armor_trim_smithing_template
 minecraft:item/ward_armor_trim_smithing_template
 minecraft:item/warped_door
@@ -2541,6 +2614,9 @@ minecraft:item/wheat_seeds
 minecraft:item/white_candle
 minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wind_charge
+minecraft:item/wolf_armor
+minecraft:item/wolf_armor_overlay
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
@@ -2550,9 +2626,44 @@ minecraft:item/writable_book
 minecraft:item/written_book
 minecraft:item/yellow_candle
 minecraft:item/yellow_dye
+minecraft:map/decorations/black_banner
+minecraft:map/decorations/blue_banner
+minecraft:map/decorations/blue_marker
+minecraft:map/decorations/brown_banner
+minecraft:map/decorations/cyan_banner
+minecraft:map/decorations/desert_village
+minecraft:map/decorations/frame
+minecraft:map/decorations/gray_banner
+minecraft:map/decorations/green_banner
+minecraft:map/decorations/jungle_temple
+minecraft:map/decorations/light_blue_banner
+minecraft:map/decorations/light_gray_banner
+minecraft:map/decorations/lime_banner
+minecraft:map/decorations/magenta_banner
+minecraft:map/decorations/ocean_monument
+minecraft:map/decorations/orange_banner
+minecraft:map/decorations/pink_banner
+minecraft:map/decorations/plains_village
+minecraft:map/decorations/player
+minecraft:map/decorations/player_off_limits
+minecraft:map/decorations/player_off_map
+minecraft:map/decorations/purple_banner
+minecraft:map/decorations/red_banner
+minecraft:map/decorations/red_marker
+minecraft:map/decorations/red_x
+minecraft:map/decorations/savanna_village
+minecraft:map/decorations/snowy_village
+minecraft:map/decorations/swamp_hut
+minecraft:map/decorations/taiga_village
+minecraft:map/decorations/target_point
+minecraft:map/decorations/target_x
+minecraft:map/decorations/trial_chambers
+minecraft:map/decorations/white_banner
+minecraft:map/decorations/woodland_mansion
+minecraft:map/decorations/yellow_banner
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
-minecraft:map/map_icons
+minecraft:misc/credits_vignette  [mcmeta]
 minecraft:misc/enchanted_glint_entity
 minecraft:misc/enchanted_glint_item
 minecraft:misc/forcefield
@@ -2568,6 +2679,7 @@ minecraft:misc/vignette  [mcmeta]
 minecraft:misc/white
 minecraft:mob_effect/absorption
 minecraft:mob_effect/bad_omen
+minecraft:mob_effect/bad_omen_121
 minecraft:mob_effect/blindness
 minecraft:mob_effect/conduit_power
 minecraft:mob_effect/darkness
@@ -2578,6 +2690,7 @@ minecraft:mob_effect/haste
 minecraft:mob_effect/health_boost
 minecraft:mob_effect/hero_of_the_village
 minecraft:mob_effect/hunger
+minecraft:mob_effect/infested
 minecraft:mob_effect/instant_damage
 minecraft:mob_effect/instant_health
 minecraft:mob_effect/invisibility
@@ -2587,7 +2700,9 @@ minecraft:mob_effect/luck
 minecraft:mob_effect/mining_fatigue
 minecraft:mob_effect/nausea
 minecraft:mob_effect/night_vision
+minecraft:mob_effect/oozing
 minecraft:mob_effect/poison
+minecraft:mob_effect/raid_omen
 minecraft:mob_effect/regeneration
 minecraft:mob_effect/resistance
 minecraft:mob_effect/saturation
@@ -2595,9 +2710,12 @@ minecraft:mob_effect/slow_falling
 minecraft:mob_effect/slowness
 minecraft:mob_effect/speed
 minecraft:mob_effect/strength
+minecraft:mob_effect/trial_omen
 minecraft:mob_effect/unluck
 minecraft:mob_effect/water_breathing
 minecraft:mob_effect/weakness
+minecraft:mob_effect/weaving
+minecraft:mob_effect/wind_charged
 minecraft:mob_effect/wither
 minecraft:models/armor/chainmail_layer_1
 minecraft:models/armor/chainmail_layer_2
@@ -2742,9 +2860,12 @@ minecraft:particle/gust_7
 minecraft:particle/gust_8
 minecraft:particle/gust_9
 minecraft:particle/heart
+minecraft:particle/infested
 minecraft:particle/lava
 minecraft:particle/nautilus
 minecraft:particle/note
+minecraft:particle/ominous_spawning
+minecraft:particle/raid_omen
 minecraft:particle/sculk_charge_0
 minecraft:particle/sculk_charge_1
 minecraft:particle/sculk_charge_2
@@ -2794,6 +2915,13 @@ minecraft:particle/sga_x
 minecraft:particle/sga_y
 minecraft:particle/sga_z
 minecraft:particle/shriek
+minecraft:particle/small_gust_0
+minecraft:particle/small_gust_1
+minecraft:particle/small_gust_2
+minecraft:particle/small_gust_3
+minecraft:particle/small_gust_4
+minecraft:particle/small_gust_5
+minecraft:particle/small_gust_6
 minecraft:particle/sonic_boom_0
 minecraft:particle/sonic_boom_1
 minecraft:particle/sonic_boom_10
@@ -2850,11 +2978,18 @@ minecraft:particle/sweep_4
 minecraft:particle/sweep_5
 minecraft:particle/sweep_6
 minecraft:particle/sweep_7
+minecraft:particle/trial_omen
 minecraft:particle/trial_spawner_detection_0
 minecraft:particle/trial_spawner_detection_1
 minecraft:particle/trial_spawner_detection_2
 minecraft:particle/trial_spawner_detection_3
 minecraft:particle/trial_spawner_detection_4
+minecraft:particle/trial_spawner_detection_ominous_0
+minecraft:particle/trial_spawner_detection_ominous_1
+minecraft:particle/trial_spawner_detection_ominous_2
+minecraft:particle/trial_spawner_detection_ominous_3
+minecraft:particle/trial_spawner_detection_ominous_4
+minecraft:particle/vault_connection
 minecraft:particle/vibration  [mcmeta]
 minecraft:trims/color_palettes/amethyst
 minecraft:trims/color_palettes/copper
@@ -2875,12 +3010,16 @@ minecraft:trims/items/boots_trim
 minecraft:trims/items/chestplate_trim
 minecraft:trims/items/helmet_trim
 minecraft:trims/items/leggings_trim
+minecraft:trims/models/armor/bolt
+minecraft:trims/models/armor/bolt_leggings
 minecraft:trims/models/armor/coast
 minecraft:trims/models/armor/coast_leggings
 minecraft:trims/models/armor/dune
 minecraft:trims/models/armor/dune_leggings
 minecraft:trims/models/armor/eye
 minecraft:trims/models/armor/eye_leggings
+minecraft:trims/models/armor/flow
+minecraft:trims/models/armor/flow_leggings
 minecraft:trims/models/armor/host
 minecraft:trims/models/armor/host_leggings
 minecraft:trims/models/armor/raiser

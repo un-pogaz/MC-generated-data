@@ -2180,10 +2180,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:acacia_planks",
         name: "minecraft:bottom",
         pool: "minecraft:village/savanna/zombie/villagers",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:bottom"
       },
@@ -2192,10 +2192,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:building_entrance"
       },
@@ -2226,88 +2226,88 @@
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [0, 4, 1],
       state: 40
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [0, 4, 2],
       state: 40
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [0, 4, 3],
       state: 40
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [0, 4, 4],
       state: 40
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [0, 4, 5],
       state: 40
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [1, 4, 0],
       state: 41
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [1, 4, 6],
       state: 42
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [2, 4, 0],
       state: 41
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [2, 4, 6],
       state: 42
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [3, 4, 0],
       state: 41
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [3, 4, 6],
       state: 42
@@ -2631,5 +2631,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

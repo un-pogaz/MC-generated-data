@@ -44,7 +44,7 @@
           },
           {
             Base: 0.6530562827837499d,
-            Name: "horse.jump_strength"
+            Name: "minecraft:generic.jump_strength"
           }
         ],
         FallFlying: 0b,
@@ -103,10 +103,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:structure_void",
         name: "minecraft:bottom",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:bottom"
       },
@@ -125,5 +125,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

@@ -1,5 +1,13 @@
 {
+  "definition": {
+    "type": "minecraft:trial_spawner",
+    "properties": {}
+  },
   "properties": {
+    "ominous": [
+      "true",
+      "false"
+    ],
     "trial_spawner_state": [
       "inactive",
       "waiting_for_players",

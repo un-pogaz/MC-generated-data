@@ -280,6 +280,65 @@
             }
           }
         },
+        "items": {
+          "type": "literal",
+          "children": {
+            "block": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "slots": {
+                      "type": "argument",
+                      "children": {
+                        "item_predicate": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:item_predicate",
+                          "redirect": [
+                            "execute"
+                          ]
+                        }
+                      },
+                      "parser": "minecraft:item_slots"
+                    }
+                  },
+                  "parser": "minecraft:block_pos"
+                }
+              }
+            },
+            "entity": {
+              "type": "literal",
+              "children": {
+                "entities": {
+                  "type": "argument",
+                  "children": {
+                    "slots": {
+                      "type": "argument",
+                      "children": {
+                        "item_predicate": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:item_predicate",
+                          "redirect": [
+                            "execute"
+                          ]
+                        }
+                      },
+                      "parser": "minecraft:item_slots"
+                    }
+                  },
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "type": "entities",
+                    "amount": "multiple"
+                  }
+                }
+              }
+            }
+          }
+        },
         "loaded": {
           "type": "literal",
           "children": {
@@ -299,7 +358,7 @@
             "predicate": {
               "type": "argument",
               "executable": true,
-              "parser": "minecraft:resource_location",
+              "parser": "minecraft:loot_predicate",
               "redirect": [
                 "execute"
               ]
@@ -1436,6 +1495,65 @@
             }
           }
         },
+        "items": {
+          "type": "literal",
+          "children": {
+            "block": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "slots": {
+                      "type": "argument",
+                      "children": {
+                        "item_predicate": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:item_predicate",
+                          "redirect": [
+                            "execute"
+                          ]
+                        }
+                      },
+                      "parser": "minecraft:item_slots"
+                    }
+                  },
+                  "parser": "minecraft:block_pos"
+                }
+              }
+            },
+            "entity": {
+              "type": "literal",
+              "children": {
+                "entities": {
+                  "type": "argument",
+                  "children": {
+                    "slots": {
+                      "type": "argument",
+                      "children": {
+                        "item_predicate": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:item_predicate",
+                          "redirect": [
+                            "execute"
+                          ]
+                        }
+                      },
+                      "parser": "minecraft:item_slots"
+                    }
+                  },
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "type": "entities",
+                    "amount": "multiple"
+                  }
+                }
+              }
+            }
+          }
+        },
         "loaded": {
           "type": "literal",
           "children": {
@@ -1455,7 +1573,7 @@
             "predicate": {
               "type": "argument",
               "executable": true,
-              "parser": "minecraft:resource_location",
+              "parser": "minecraft:loot_predicate",
               "redirect": [
                 "execute"
               ]
