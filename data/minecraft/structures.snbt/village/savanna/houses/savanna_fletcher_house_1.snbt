@@ -2744,6 +2744,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -2849,7 +2850,7 @@
       Name: "minecraft:acacia_slab"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:grass"
@@ -3109,5 +3110,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

@@ -2624,7 +2624,8 @@
     },
     {
       nbt: {
-        final_state: "minecraft:grass_path",
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
         id: "minecraft:jigsaw",
@@ -2635,6 +2636,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/plains/decor",
@@ -2646,6 +2648,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/plains/decor",
@@ -2657,6 +2660,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:village/plains/streets",
@@ -2694,7 +2698,7 @@
       Name: "minecraft:white_wool"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:grass"
@@ -2810,5 +2814,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

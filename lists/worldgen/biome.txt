@@ -18,6 +18,7 @@ minecraft:deep_warm_ocean
 minecraft:desert
 minecraft:desert_hills
 minecraft:desert_lakes
+minecraft:dripstone_caves
 minecraft:end_barrens
 minecraft:end_highlands
 minecraft:end_midlands
@@ -36,6 +37,7 @@ minecraft:jungle
 minecraft:jungle_edge
 minecraft:jungle_hills
 minecraft:lukewarm_ocean
+minecraft:lush_caves
 minecraft:modified_badlands_plateau
 minecraft:modified_gravelly_mountains
 minecraft:modified_jungle

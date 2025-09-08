@@ -2198,8 +2198,7 @@
             id: "minecraft:allium"
           }
         ],
-        id: "minecraft:chest",
-        Lock: ""
+        id: "minecraft:chest"
       },
       pos: [6, 1, 6],
       state: 17
@@ -2219,7 +2218,7 @@
       Properties: {
         level: "3"
       },
-      Name: "minecraft:cauldron"
+      Name: "minecraft:water_cauldron"
     },
     {
       Properties: {
@@ -2353,5 +2352,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

@@ -392,6 +392,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/decor",
@@ -403,7 +404,8 @@
     },
     {
       nbt: {
-        final_state: "minecraft:grass_path",
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
         id: "minecraft:jigsaw",
@@ -414,6 +416,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -425,6 +428,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -436,6 +440,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:village/snowy/houses",
@@ -448,7 +453,7 @@
   ],
   palette: [
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -478,5 +483,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

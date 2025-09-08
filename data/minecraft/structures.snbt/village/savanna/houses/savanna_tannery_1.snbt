@@ -1717,15 +1717,14 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_tannery",
-        Items: [],
-        id: "minecraft:chest",
-        LootTableSeed: 0L
+        id: "minecraft:chest"
       },
       pos: [2, 1, 6],
       state: 27
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -1790,7 +1789,7 @@
       Name: "minecraft:acacia_planks"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -1802,7 +1801,7 @@
       Properties: {
         level: "3"
       },
-      Name: "minecraft:cauldron"
+      Name: "minecraft:water_cauldron"
     },
     {
       Properties: {
@@ -1956,5 +1955,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

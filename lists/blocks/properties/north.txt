@@ -8,14 +8,18 @@ minecraft:brick_wall
 minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
 minecraft:chorus_plant
+minecraft:cobbled_deepslate_wall
 minecraft:cobblestone_wall
 minecraft:crimson_fence
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
+minecraft:deepslate_brick_wall
+minecraft:deepslate_tile_wall
 minecraft:diorite_wall
 minecraft:end_stone_brick_wall
 minecraft:fire
 minecraft:glass_pane
+minecraft:glow_lichen
 minecraft:granite_wall
 minecraft:gray_stained_glass_pane
 minecraft:green_stained_glass_pane
@@ -35,6 +39,7 @@ minecraft:orange_stained_glass_pane
 minecraft:pink_stained_glass_pane
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
+minecraft:polished_deepslate_wall
 minecraft:prismarine_wall
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block

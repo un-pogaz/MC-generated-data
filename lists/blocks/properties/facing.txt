@@ -4,6 +4,7 @@ minecraft:acacia_fence_gate
 minecraft:acacia_stairs
 minecraft:acacia_trapdoor
 minecraft:acacia_wall_sign
+minecraft:amethyst_cluster
 minecraft:andesite_stairs
 minecraft:anvil
 minecraft:attached_melon_stem
@@ -12,6 +13,8 @@ minecraft:barrel
 minecraft:bee_nest
 minecraft:beehive
 minecraft:bell
+minecraft:big_dripleaf
+minecraft:big_dripleaf_stem
 minecraft:birch_button
 minecraft:birch_door
 minecraft:birch_fence_gate
@@ -40,6 +43,7 @@ minecraft:carved_pumpkin
 minecraft:chain_command_block
 minecraft:chest
 minecraft:chipped_anvil
+minecraft:cobbled_deepslate_stairs
 minecraft:cobblestone_stairs
 minecraft:cocoa
 minecraft:command_block
@@ -51,6 +55,7 @@ minecraft:crimson_fence_gate
 minecraft:crimson_stairs
 minecraft:crimson_trapdoor
 minecraft:crimson_wall_sign
+minecraft:cut_copper_stairs
 minecraft:cyan_bed
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_shulker_box
@@ -68,6 +73,8 @@ minecraft:dead_bubble_coral_wall_fan
 minecraft:dead_fire_coral_wall_fan
 minecraft:dead_horn_coral_wall_fan
 minecraft:dead_tube_coral_wall_fan
+minecraft:deepslate_brick_stairs
+minecraft:deepslate_tile_stairs
 minecraft:diorite_stairs
 minecraft:dispenser
 minecraft:dragon_wall_head
@@ -76,6 +83,7 @@ minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone_brick_stairs
 minecraft:ender_chest
+minecraft:exposed_cut_copper_stairs
 minecraft:fire_coral_wall_fan
 minecraft:furnace
 minecraft:granite_stairs
@@ -100,6 +108,7 @@ minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:jungle_wall_sign
 minecraft:ladder
+minecraft:large_amethyst_bud
 minecraft:lectern
 minecraft:lever
 minecraft:light_blue_bed
@@ -110,6 +119,7 @@ minecraft:light_gray_bed
 minecraft:light_gray_glazed_terracotta
 minecraft:light_gray_shulker_box
 minecraft:light_gray_wall_banner
+minecraft:lightning_rod
 minecraft:lime_bed
 minecraft:lime_glazed_terracotta
 minecraft:lime_shulker_box
@@ -119,6 +129,7 @@ minecraft:magenta_bed
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_shulker_box
 minecraft:magenta_wall_banner
+minecraft:medium_amethyst_bud
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
 minecraft:moving_piston
@@ -134,6 +145,7 @@ minecraft:orange_bed
 minecraft:orange_glazed_terracotta
 minecraft:orange_shulker_box
 minecraft:orange_wall_banner
+minecraft:oxidized_cut_copper_stairs
 minecraft:pink_bed
 minecraft:pink_glazed_terracotta
 minecraft:pink_shulker_box
@@ -145,6 +157,7 @@ minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_button
 minecraft:polished_blackstone_stairs
+minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
 minecraft:prismarine_brick_stairs
@@ -167,6 +180,8 @@ minecraft:repeating_command_block
 minecraft:sandstone_stairs
 minecraft:shulker_box
 minecraft:skeleton_wall_skull
+minecraft:small_amethyst_bud
+minecraft:small_dripleaf
 minecraft:smoker
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
@@ -194,6 +209,11 @@ minecraft:warped_fence_gate
 minecraft:warped_stairs
 minecraft:warped_trapdoor
 minecraft:warped_wall_sign
+minecraft:waxed_cut_copper_stairs
+minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_oxidized_cut_copper_stairs
+minecraft:waxed_weathered_cut_copper_stairs
+minecraft:weathered_cut_copper_stairs
 minecraft:white_bed
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box

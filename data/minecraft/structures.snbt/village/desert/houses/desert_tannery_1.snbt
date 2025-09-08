@@ -1680,6 +1680,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -1720,7 +1721,7 @@
       Properties: {
         level: "3"
       },
-      Name: "minecraft:cauldron"
+      Name: "minecraft:water_cauldron"
     },
     {
       Properties: {
@@ -1823,5 +1824,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

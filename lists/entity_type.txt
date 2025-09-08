@@ -1,6 +1,7 @@
 minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
+minecraft:axolotl
 minecraft:bat
 minecraft:bee
 minecraft:blaze
@@ -37,6 +38,9 @@ minecraft:fox
 minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
+minecraft:glow_item_frame
+minecraft:glow_squid
+minecraft:goat
 minecraft:guardian
 minecraft:hoglin
 minecraft:hopper_minecart
@@ -51,6 +55,7 @@ minecraft:lightning_bolt
 minecraft:llama
 minecraft:llama_spit
 minecraft:magma_cube
+minecraft:marker
 minecraft:minecart
 minecraft:mooshroom
 minecraft:mule
@@ -107,7 +112,12 @@ minecraft:zombie_horse
 minecraft:zombie_villager
 minecraft:zombified_piglin
 #minecraft:arrows
+#minecraft:axolotl_always_hostiles
+#minecraft:axolotl_hunt_targets
 #minecraft:beehive_inhabitors
+#minecraft:freeze_hurts_extra_types
+#minecraft:freeze_immune_entity_types
 #minecraft:impact_projectiles
+#minecraft:powder_snow_walkable_mobs
 #minecraft:raiders
 #minecraft:skeletons

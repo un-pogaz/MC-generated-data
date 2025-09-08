@@ -84,6 +84,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -95,6 +96,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -106,6 +108,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -121,7 +124,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -142,5 +145,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }

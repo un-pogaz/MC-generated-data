@@ -264,6 +264,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
@@ -275,6 +276,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/iron_golem",
@@ -286,7 +288,8 @@
     },
     {
       nbt: {
-        final_state: "minecraft:grass_path",
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/villagers",
         id: "minecraft:jigsaw",
@@ -297,7 +300,8 @@
     },
     {
       nbt: {
-        final_state: "minecraft:grass_path",
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/villagers",
         id: "minecraft:jigsaw",
@@ -308,6 +312,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
@@ -319,6 +324,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -330,6 +336,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -341,6 +348,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -352,6 +360,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/snowy/streets",
@@ -389,7 +398,7 @@
       Name: "minecraft:stripped_spruce_wood"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -487,5 +496,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2724
 }
