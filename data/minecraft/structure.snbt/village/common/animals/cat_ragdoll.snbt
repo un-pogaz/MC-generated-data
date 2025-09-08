@@ -11,11 +11,9 @@
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
-        FallDistance: 0.0f,
         InLove: 0,
         DeathTime: 0s,
         variant: "minecraft:ragdoll",
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:cat",
         UUID: [I; 777251988, 828918218, -1611082442, 275989742],
@@ -28,12 +26,12 @@
         Air: 300s,
         Dimension: 0,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [-153.1834259033203f, 0.0f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         OwnerUUID: "",
         Pos: [92.0931867003231d, 70.0d, -4.600347460065649d],
         ArmorItems: [
@@ -120,5 +118,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4325
 }

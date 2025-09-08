@@ -10,10 +10,8 @@
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
-        FallDistance: 0.0f,
         DeathTime: 0s,
         Xp: 0,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:villager",
         UUID: [I; -1630920815, 245714788, -1593885403, 1511953888],
@@ -55,12 +53,12 @@
           ]
         },
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [-4.32769775390625f, -3.4165499210357666f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Pos: [-986.5d, 8.0d, -1060.5d],
         ArmorItems: [
           {},
@@ -97,6 +95,7 @@
             base: 0.0d
           },
           {
+            id: "minecraft:follow_range",
             modifiers: [
               {
                 amount: -0.07807250298271795d,
@@ -104,7 +103,6 @@
                 operation: "add_multiplied_base"
               }
             ],
-            id: "minecraft:follow_range",
             base: 16.0d
           }
         ],
@@ -122,10 +120,8 @@
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
-        FallDistance: 0.0f,
         DeathTime: 0s,
         Xp: 0,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:zombie_villager",
         UUID: [I; 669208369, 1839481473, -1764747872, -1340605115],
@@ -137,12 +133,12 @@
         Air: 300s,
         Dimension: 0,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [-95.78887939453125f, 0.0f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         CanBreakDoors: 0b,
         Pos: [-984.5d, 8.0d, -1060.699999988079d],
         ArmorItems: [
@@ -1209,15 +1205,54 @@
     {
       nbt: {
         front_text: {
-          filtered_messages: ["{\"text\":\"\"}", "{\"text\":\"<----\"}", "{\"text\":\"---->\"}", "{\"text\":\"\"}"],
+          filtered_messages: [
+            {
+              text: ""
+            },
+            {
+              text: "<----"
+            },
+            {
+              text: "---->"
+            },
+            {
+              text: ""
+            }
+          ],
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: "<----"
+            },
+            {
+              text: "---->"
+            },
+            {
+              text: ""
+            }
+          ],
           has_glowing_text: 0b,
-          color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"<----\"}", "{\"text\":\"---->\"}", "{\"text\":\"\"}"]
+          color: "black"
         },
         back_text: {
-          has_glowing_text: 0b,
           color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            }
+          ],
+          has_glowing_text: 0b
         },
         id: "minecraft:sign"
       },
@@ -1376,5 +1411,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4325
 }

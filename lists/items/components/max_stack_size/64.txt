@@ -146,7 +146,9 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:budding_amethyst
 minecraft:burn_pottery_sherd
+minecraft:bush
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
 minecraft:camel_spawn_egg
@@ -398,6 +400,7 @@ minecraft:fire_charge
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
+minecraft:firefly_bush
 minecraft:firework_rocket
 minecraft:firework_star
 minecraft:fletching_table
@@ -525,6 +528,7 @@ minecraft:lapis_ore
 minecraft:large_amethyst_bud
 minecraft:large_fern
 minecraft:lead
+minecraft:leaf_litter
 minecraft:leather
 minecraft:lectern
 minecraft:lever
@@ -882,6 +886,7 @@ minecraft:shaper_armor_trim_smithing_template
 minecraft:sheaf_pottery_sherd
 minecraft:sheep_spawn_egg
 minecraft:shelter_pottery_sherd
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_shell
@@ -991,9 +996,12 @@ minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berries
 minecraft:tadpole_spawn_egg
+minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta
+minecraft:test_block
+minecraft:test_instance_block
 minecraft:tide_armor_trim_smithing_template
 minecraft:tinted_glass
 minecraft:tipped_arrow
@@ -1110,6 +1118,7 @@ minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wool
 minecraft:wild_armor_trim_smithing_template
+minecraft:wildflowers
 minecraft:wind_charge
 minecraft:witch_spawn_egg
 minecraft:wither_rose

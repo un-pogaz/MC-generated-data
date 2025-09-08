@@ -14,10 +14,8 @@
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
         CannotBeHunted: 1b,
-        FallDistance: 0.0f,
         InLove: 0,
         DeathTime: 0s,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:hoglin",
         UUID: [I; -544729094, 1451641762, -1603654210, -2093419847],
@@ -28,12 +26,12 @@
         Air: 300s,
         Dimension: -1,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [0.0f, 0.0f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Pos: [12.073411384585281d, 82.0d, 80.13941296624006d],
         ArmorItems: [
           {},
@@ -119,5 +117,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4325
 }

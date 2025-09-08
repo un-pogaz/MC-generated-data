@@ -1,6 +1,7 @@
 {
   "definition": {
-    "type": "minecraft:leaves",
+    "type": "minecraft:tinted_particle_leaves",
+    "leaf_particle_chance": 0.01,
     "properties": {}
   },
   "properties": {

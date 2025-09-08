@@ -55,11 +55,16 @@
       "tags": true
     },
     "minecraft:cat_variant": {
-      "elements": false,
-      "stable": true,
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:chat_type": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:chicken_variant": {
       "elements": true,
       "stable": false,
       "tags": true
@@ -79,6 +84,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:cow_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:creative_mode_tab": {
       "elements": false,
       "stable": true,
@@ -92,6 +102,11 @@
     "minecraft:damage_type": {
       "elements": true,
       "stable": false,
+      "tags": true
+    },
+    "minecraft:data_component_predicate_type": {
+      "elements": false,
+      "stable": true,
       "tags": true
     },
     "minecraft:data_component_type": {
@@ -175,8 +190,8 @@
       "tags": true
     },
     "minecraft:frog_variant": {
-      "elements": false,
-      "stable": true,
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:game_event": {
@@ -206,11 +221,6 @@
     },
     "minecraft:item_modifier": {
       "elements": true,
-      "stable": true,
-      "tags": true
-    },
-    "minecraft:item_sub_predicate_type": {
-      "elements": false,
       "stable": true,
       "tags": true
     },
@@ -287,6 +297,11 @@
     "minecraft:particle_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:pig_variant": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:point_of_interest_type": {
@@ -369,7 +384,42 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:spawn_condition_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:stat_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:test_environment": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:test_environment_definition_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:test_function": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:test_instance": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:test_instance_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:ticket_type": {
       "elements": false,
       "stable": true,
       "tags": true
@@ -402,6 +452,11 @@
     "minecraft:villager_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:wolf_sound_variant": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:wolf_variant": {

@@ -9,11 +9,8 @@
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
-        Saddle: 0b,
-        FallDistance: 0.0f,
         InLove: 0,
         DeathTime: 0s,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:pig",
         UUID: [I; -512938654, -789165095, -1793655983, -1496727646],
@@ -25,12 +22,12 @@
         Air: 300s,
         Dimension: 0,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [111.30493927001953f, 0.0f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Pos: [-1725.925000011921d, 4.0d, 493.92500001192093d],
         ArmorItems: [
           {},
@@ -90,11 +87,8 @@
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
-        Saddle: 0b,
-        FallDistance: 0.0f,
         InLove: 0,
         DeathTime: 0s,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:pig",
         UUID: [I; 1371438866, -856669291, -1356771440, 1289927486],
@@ -106,12 +100,12 @@
         Air: 300s,
         Dimension: 0,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [-27.401519775390625f, 0.0f],
         HandItems: [
           {},
           {}
         ],
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Pos: [-1725.074999988079d, 4.0d, 493.07499998807907d],
         ArmorItems: [
           {},
@@ -197,5 +191,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4325
 }

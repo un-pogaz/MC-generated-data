@@ -128,7 +128,9 @@ minecraft:block/bubble_coral
 minecraft:block/bubble_coral_block
 minecraft:block/bubble_coral_fan
 minecraft:block/budding_amethyst
+minecraft:block/bush
 minecraft:block/cactus_bottom
+minecraft:block/cactus_flower
 minecraft:block/cactus_side
 minecraft:block/cactus_top
 minecraft:block/cake_bottom
@@ -253,9 +255,11 @@ minecraft:block/crafting_table_front
 minecraft:block/crafting_table_side
 minecraft:block/crafting_table_top
 minecraft:block/creaking_heart
-minecraft:block/creaking_heart_active
+minecraft:block/creaking_heart_awake
+minecraft:block/creaking_heart_dormant
 minecraft:block/creaking_heart_top
-minecraft:block/creaking_heart_top_active
+minecraft:block/creaking_heart_top_awake
+minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
 minecraft:block/crimson_fungus
@@ -382,6 +386,8 @@ minecraft:block/fire_1  [mcmeta]
 minecraft:block/fire_coral
 minecraft:block/fire_coral_block
 minecraft:block/fire_coral_fan
+minecraft:block/firefly_bush
+minecraft:block/firefly_bush_emissive  [mcmeta]
 minecraft:block/fletching_table_front
 minecraft:block/fletching_table_side
 minecraft:block/fletching_table_top
@@ -483,6 +489,7 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
 minecraft:block/lava_still  [mcmeta]
+minecraft:block/leaf_litter
 minecraft:block/lectern_base
 minecraft:block/lectern_front
 minecraft:block/lectern_sides
@@ -809,6 +816,7 @@ minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/short_dry_grass
 minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
@@ -921,6 +929,7 @@ minecraft:block/sweet_berry_bush_stage0
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
 minecraft:block/sweet_berry_bush_stage3
+minecraft:block/tall_dry_grass
 minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom  [mcmeta]
@@ -928,6 +937,11 @@ minecraft:block/tall_seagrass_top  [mcmeta]
 minecraft:block/target_side
 minecraft:block/target_top
 minecraft:block/terracotta
+minecraft:block/test_block_accept
+minecraft:block/test_block_fail
+minecraft:block/test_block_log
+minecraft:block/test_block_start
+minecraft:block/test_instance_block
 minecraft:block/tinted_glass
 minecraft:block/tnt_bottom
 minecraft:block/tnt_side
@@ -1026,6 +1040,8 @@ minecraft:block/white_stained_glass_pane_top
 minecraft:block/white_terracotta
 minecraft:block/white_tulip
 minecraft:block/white_wool
+minecraft:block/wildflowers
+minecraft:block/wildflowers_stem
 minecraft:block/wither_rose
 minecraft:block/yellow_candle
 minecraft:block/yellow_candle_lit
@@ -1037,6 +1053,7 @@ minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_top
 minecraft:block/yellow_terracotta
 minecraft:block/yellow_wool
+minecraft:colormap/dry_foliage
 minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
@@ -1165,7 +1182,9 @@ minecraft:entity/chest_boat/mangrove
 minecraft:entity/chest_boat/oak
 minecraft:entity/chest_boat/pale_oak
 minecraft:entity/chest_boat/spruce
-minecraft:entity/chicken
+minecraft:entity/chicken/cold_chicken
+minecraft:entity/chicken/temperate_chicken
+minecraft:entity/chicken/warm_chicken
 minecraft:entity/conduit/base
 minecraft:entity/conduit/break_particle
 minecraft:entity/conduit/cage
@@ -1174,8 +1193,10 @@ minecraft:entity/conduit/open_eye
 minecraft:entity/conduit/wind  [mcmeta]
 minecraft:entity/conduit/wind_vertical  [mcmeta]
 minecraft:entity/cow/brown_mooshroom
-minecraft:entity/cow/cow
+minecraft:entity/cow/cold_cow
 minecraft:entity/cow/red_mooshroom
+minecraft:entity/cow/temperate_cow
+minecraft:entity/cow/warm_cow
 minecraft:entity/creaking/creaking
 minecraft:entity/creaking/creaking_eyes
 minecraft:entity/creeper/creeper
@@ -1218,10 +1239,13 @@ minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
+minecraft:entity/equipment/camel_saddle/saddle
+minecraft:entity/equipment/donkey_saddle/saddle
 minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
+minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
 minecraft:entity/equipment/humanoid/diamond
 minecraft:entity/equipment/humanoid/gold
@@ -1254,9 +1278,14 @@ minecraft:entity/equipment/llama_body/red
 minecraft:entity/equipment/llama_body/trader_llama
 minecraft:entity/equipment/llama_body/white
 minecraft:entity/equipment/llama_body/yellow
+minecraft:entity/equipment/mule_saddle/saddle
+minecraft:entity/equipment/pig_saddle/saddle
+minecraft:entity/equipment/skeleton_horse_saddle/saddle
+minecraft:entity/equipment/strider_saddle/saddle
 minecraft:entity/equipment/wings/elytra
 minecraft:entity/equipment/wolf_body/armadillo_scute
 minecraft:entity/equipment/wolf_body/armadillo_scute_overlay
+minecraft:entity/equipment/zombie_horse_saddle/saddle
 minecraft:entity/experience_orb
 minecraft:entity/fish/cod
 minecraft:entity/fish/pufferfish
@@ -1339,8 +1368,9 @@ minecraft:entity/parrot/parrot_red_blue
 minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/phantom
 minecraft:entity/phantom_eyes
-minecraft:entity/pig/pig
-minecraft:entity/pig/pig_saddle
+minecraft:entity/pig/cold_pig
+minecraft:entity/pig/temperate_pig
+minecraft:entity/pig/warm_pig
 minecraft:entity/piglin/piglin
 minecraft:entity/piglin/piglin_brute
 minecraft:entity/piglin/zombified_piglin
@@ -1375,7 +1405,8 @@ minecraft:entity/rabbit/toast
 minecraft:entity/rabbit/white
 minecraft:entity/rabbit/white_splotched
 minecraft:entity/sheep/sheep
-minecraft:entity/sheep/sheep_fur
+minecraft:entity/sheep/sheep_wool
+minecraft:entity/sheep/sheep_wool_undercoat
 minecraft:entity/shield/base
 minecraft:entity/shield/border
 minecraft:entity/shield/bricks
@@ -1481,7 +1512,6 @@ minecraft:entity/squid/glow_squid
 minecraft:entity/squid/squid
 minecraft:entity/strider/strider
 minecraft:entity/strider/strider_cold
-minecraft:entity/strider/strider_saddle
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident
 minecraft:entity/trident_riptide
@@ -2107,15 +2137,18 @@ minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
 minecraft:item/acacia_hanging_sign
 minecraft:item/acacia_sign
+minecraft:item/allay_spawn_egg
 minecraft:item/amethyst_shard
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
 minecraft:item/armadillo_scute
+minecraft:item/armadillo_spawn_egg
 minecraft:item/armor_stand
 minecraft:item/arms_up_pottery_sherd
 minecraft:item/arrow
 minecraft:item/axolotl_bucket
+minecraft:item/axolotl_spawn_egg
 minecraft:item/baked_potato
 minecraft:item/bamboo
 minecraft:item/bamboo_chest_raft
@@ -2124,6 +2157,8 @@ minecraft:item/bamboo_hanging_sign
 minecraft:item/bamboo_raft
 minecraft:item/bamboo_sign
 minecraft:item/barrier
+minecraft:item/bat_spawn_egg
+minecraft:item/bee_spawn_egg
 minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
@@ -2142,11 +2177,14 @@ minecraft:item/black_dye
 minecraft:item/blade_pottery_sherd
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
+minecraft:item/blaze_spawn_egg
 minecraft:item/blue_bundle
 minecraft:item/blue_bundle_open_back
 minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_dye
+minecraft:item/blue_egg
+minecraft:item/bogged_spawn_egg
 minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_meal
@@ -2159,6 +2197,7 @@ minecraft:item/bow_pulling_2
 minecraft:item/bowl
 minecraft:item/bread
 minecraft:item/breeze_rod
+minecraft:item/breeze_spawn_egg
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -2167,6 +2206,7 @@ minecraft:item/brown_bundle_open_back
 minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_dye
+minecraft:item/brown_egg
 minecraft:item/brush
 minecraft:item/bucket
 minecraft:item/bundle
@@ -2174,11 +2214,14 @@ minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
+minecraft:item/camel_spawn_egg
 minecraft:item/campfire
 minecraft:item/candle
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
+minecraft:item/cat_spawn_egg
 minecraft:item/cauldron
+minecraft:item/cave_spider_spawn_egg
 minecraft:item/chain
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_chestplate
@@ -2192,6 +2235,7 @@ minecraft:item/cherry_hanging_sign
 minecraft:item/cherry_sign
 minecraft:item/chest_minecart
 minecraft:item/chicken
+minecraft:item/chicken_spawn_egg
 minecraft:item/chorus_fruit
 minecraft:item/clay_ball
 minecraft:item/clock_00
@@ -2263,6 +2307,7 @@ minecraft:item/coast_armor_trim_smithing_template
 minecraft:item/cocoa_beans
 minecraft:item/cod
 minecraft:item/cod_bucket
+minecraft:item/cod_spawn_egg
 minecraft:item/command_block_minecart
 minecraft:item/comparator
 minecraft:item/compass_00
@@ -2307,7 +2352,10 @@ minecraft:item/cooked_salmon
 minecraft:item/cookie
 minecraft:item/copper_door
 minecraft:item/copper_ingot
+minecraft:item/cow_spawn_egg
+minecraft:item/creaking_spawn_egg
 minecraft:item/creeper_banner_pattern
+minecraft:item/creeper_spawn_egg
 minecraft:item/crimson_door
 minecraft:item/crimson_hanging_sign
 minecraft:item/crimson_sign
@@ -2340,18 +2388,26 @@ minecraft:item/diamond_pickaxe
 minecraft:item/diamond_shovel
 minecraft:item/diamond_sword
 minecraft:item/disc_fragment_5
+minecraft:item/dolphin_spawn_egg
+minecraft:item/donkey_spawn_egg
 minecraft:item/dragon_breath
 minecraft:item/dried_kelp
+minecraft:item/drowned_spawn_egg
 minecraft:item/dune_armor_trim_smithing_template
 minecraft:item/echo_shard
 minecraft:item/egg
+minecraft:item/elder_guardian_spawn_egg
 minecraft:item/elytra
 minecraft:item/elytra_broken
 minecraft:item/emerald
 minecraft:item/enchanted_book
 minecraft:item/end_crystal
+minecraft:item/ender_dragon_spawn_egg
 minecraft:item/ender_eye
 minecraft:item/ender_pearl
+minecraft:item/enderman_spawn_egg
+minecraft:item/endermite_spawn_egg
+minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
 minecraft:item/explorer_pottery_sherd
 minecraft:item/exposed_copper_door
@@ -2362,6 +2418,7 @@ minecraft:item/field_masoned_banner_pattern
 minecraft:item/filled_map
 minecraft:item/filled_map_markings
 minecraft:item/fire_charge
+minecraft:item/firefly_bush
 minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/firework_star_overlay
@@ -2374,8 +2431,11 @@ minecraft:item/flow_banner_pattern
 minecraft:item/flow_pottery_sherd
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
+minecraft:item/fox_spawn_egg
 minecraft:item/friend_pottery_sherd
+minecraft:item/frog_spawn_egg
 minecraft:item/furnace_minecart
+minecraft:item/ghast_spawn_egg
 minecraft:item/ghast_tear
 minecraft:item/glass_bottle
 minecraft:item/glistering_melon_slice
@@ -2383,8 +2443,10 @@ minecraft:item/globe_banner_pattern
 minecraft:item/glow_berries
 minecraft:item/glow_ink_sac
 minecraft:item/glow_item_frame
+minecraft:item/glow_squid_spawn_egg
 minecraft:item/glowstone_dust
 minecraft:item/goat_horn
+minecraft:item/goat_spawn_egg
 minecraft:item/gold_ingot
 minecraft:item/gold_nugget
 minecraft:item/golden_apple
@@ -2409,23 +2471,28 @@ minecraft:item/green_bundle_open_back
 minecraft:item/green_bundle_open_front
 minecraft:item/green_candle
 minecraft:item/green_dye
+minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
 minecraft:item/guster_banner_pattern
 minecraft:item/guster_pottery_sherd
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
+minecraft:item/hoglin_spawn_egg
 minecraft:item/honey_bottle
 minecraft:item/honeycomb
 minecraft:item/hopper
 minecraft:item/hopper_minecart
+minecraft:item/horse_spawn_egg
 minecraft:item/host_armor_trim_smithing_template
 minecraft:item/howl_pottery_sherd
+minecraft:item/husk_spawn_egg
 minecraft:item/ink_sac
 minecraft:item/iron_axe
 minecraft:item/iron_boots
 minecraft:item/iron_chestplate
 minecraft:item/iron_door
+minecraft:item/iron_golem_spawn_egg
 minecraft:item/iron_helmet
 minecraft:item/iron_hoe
 minecraft:item/iron_horse_armor
@@ -2447,6 +2514,7 @@ minecraft:item/lantern
 minecraft:item/lapis_lazuli
 minecraft:item/lava_bucket
 minecraft:item/lead
+minecraft:item/leaf_litter
 minecraft:item/leather
 minecraft:item/leather_boots
 minecraft:item/leather_boots_overlay
@@ -2490,6 +2558,7 @@ minecraft:item/lime_bundle_open_front
 minecraft:item/lime_candle
 minecraft:item/lime_dye
 minecraft:item/lingering_potion
+minecraft:item/llama_spawn_egg
 minecraft:item/mace
 minecraft:item/magenta_bundle
 minecraft:item/magenta_bundle_open_back
@@ -2497,6 +2566,7 @@ minecraft:item/magenta_bundle_open_front
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
 minecraft:item/magma_cream
+minecraft:item/magma_cube_spawn_egg
 minecraft:item/mangrove_boat
 minecraft:item/mangrove_chest_boat
 minecraft:item/mangrove_door
@@ -2510,7 +2580,9 @@ minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/miner_pottery_sherd
 minecraft:item/mojang_banner_pattern
+minecraft:item/mooshroom_spawn_egg
 minecraft:item/mourner_pottery_sherd
+minecraft:item/mule_spawn_egg
 minecraft:item/mushroom_stew
 minecraft:item/music_disc_11
 minecraft:item/music_disc_13
@@ -2555,6 +2627,7 @@ minecraft:item/oak_chest_boat
 minecraft:item/oak_door
 minecraft:item/oak_hanging_sign
 minecraft:item/oak_sign
+minecraft:item/ocelot_spawn_egg
 minecraft:item/ominous_bottle
 minecraft:item/ominous_trial_key
 minecraft:item/orange_bundle
@@ -2569,9 +2642,16 @@ minecraft:item/pale_oak_chest_boat
 minecraft:item/pale_oak_door
 minecraft:item/pale_oak_hanging_sign
 minecraft:item/pale_oak_sign
+minecraft:item/panda_spawn_egg
 minecraft:item/paper
+minecraft:item/parrot_spawn_egg
 minecraft:item/phantom_membrane
+minecraft:item/phantom_spawn_egg
+minecraft:item/pig_spawn_egg
 minecraft:item/piglin_banner_pattern
+minecraft:item/piglin_brute_spawn_egg
+minecraft:item/piglin_spawn_egg
+minecraft:item/pillager_spawn_egg
 minecraft:item/pink_bundle
 minecraft:item/pink_bundle_open_back
 minecraft:item/pink_bundle_open_front
@@ -2583,6 +2663,7 @@ minecraft:item/pitcher_pod
 minecraft:item/plenty_pottery_sherd
 minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
+minecraft:item/polar_bear_spawn_egg
 minecraft:item/popped_chorus_fruit
 minecraft:item/porkchop
 minecraft:item/potato
@@ -2594,6 +2675,7 @@ minecraft:item/prismarine_shard
 minecraft:item/prize_pottery_sherd
 minecraft:item/pufferfish
 minecraft:item/pufferfish_bucket
+minecraft:item/pufferfish_spawn_egg
 minecraft:item/pumpkin_pie
 minecraft:item/pumpkin_seeds
 minecraft:item/purple_bundle
@@ -2605,8 +2687,10 @@ minecraft:item/quartz
 minecraft:item/rabbit
 minecraft:item/rabbit_foot
 minecraft:item/rabbit_hide
+minecraft:item/rabbit_spawn_egg
 minecraft:item/rabbit_stew
 minecraft:item/raiser_armor_trim_smithing_template
+minecraft:item/ravager_spawn_egg
 minecraft:item/raw_copper
 minecraft:item/raw_gold
 minecraft:item/raw_iron
@@ -2656,6 +2740,7 @@ minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
+minecraft:item/salmon_spawn_egg
 minecraft:item/scrape_pottery_sherd
 minecraft:item/sea_pickle
 minecraft:item/seagrass
@@ -2663,22 +2748,29 @@ minecraft:item/sentry_armor_trim_smithing_template
 minecraft:item/shaper_armor_trim_smithing_template
 minecraft:item/sheaf_pottery_sherd
 minecraft:item/shears
+minecraft:item/sheep_spawn_egg
 minecraft:item/shelter_pottery_sherd
 minecraft:item/shulker_shell
+minecraft:item/shulker_spawn_egg
 minecraft:item/silence_armor_trim_smithing_template
+minecraft:item/silverfish_spawn_egg
+minecraft:item/skeleton_horse_spawn_egg
+minecraft:item/skeleton_spawn_egg
 minecraft:item/skull_banner_pattern
 minecraft:item/skull_pottery_sherd
 minecraft:item/slime_ball
+minecraft:item/slime_spawn_egg
 minecraft:item/sniffer_egg
+minecraft:item/sniffer_spawn_egg
 minecraft:item/snort_pottery_sherd
 minecraft:item/snout_armor_trim_smithing_template
+minecraft:item/snow_golem_spawn_egg
 minecraft:item/snowball
 minecraft:item/soul_campfire
 minecraft:item/soul_lantern
-minecraft:item/spawn_egg
-minecraft:item/spawn_egg_overlay
 minecraft:item/spectral_arrow
 minecraft:item/spider_eye
+minecraft:item/spider_spawn_egg
 minecraft:item/spire_armor_trim_smithing_template
 minecraft:item/splash_potion
 minecraft:item/spruce_boat
@@ -2688,12 +2780,15 @@ minecraft:item/spruce_hanging_sign
 minecraft:item/spruce_sign
 minecraft:item/spyglass
 minecraft:item/spyglass_model
+minecraft:item/squid_spawn_egg
 minecraft:item/stick
 minecraft:item/stone_axe
 minecraft:item/stone_hoe
 minecraft:item/stone_pickaxe
 minecraft:item/stone_shovel
 minecraft:item/stone_sword
+minecraft:item/stray_spawn_egg
+minecraft:item/strider_spawn_egg
 minecraft:item/string
 minecraft:item/structure_void
 minecraft:item/sugar
@@ -2701,21 +2796,30 @@ minecraft:item/sugar_cane
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
+minecraft:item/tadpole_spawn_egg
 minecraft:item/tide_armor_trim_smithing_template
 minecraft:item/tipped_arrow_base
 minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
 minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
+minecraft:item/trader_llama_spawn_egg
 minecraft:item/trial_key
 minecraft:item/trident
 minecraft:item/tropical_fish
 minecraft:item/tropical_fish_bucket
+minecraft:item/tropical_fish_spawn_egg
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/turtle_scute
+minecraft:item/turtle_spawn_egg
 minecraft:item/vex_armor_trim_smithing_template
+minecraft:item/vex_spawn_egg
+minecraft:item/villager_spawn_egg
+minecraft:item/vindicator_spawn_egg
+minecraft:item/wandering_trader_spawn_egg
 minecraft:item/ward_armor_trim_smithing_template
+minecraft:item/warden_spawn_egg
 minecraft:item/warped_door
 minecraft:item/warped_fungus_on_a_stick
 minecraft:item/warped_hanging_sign
@@ -2731,9 +2835,14 @@ minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
 minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wildflowers
 minecraft:item/wind_charge
+minecraft:item/witch_spawn_egg
+minecraft:item/wither_skeleton_spawn_egg
+minecraft:item/wither_spawn_egg
 minecraft:item/wolf_armor
 minecraft:item/wolf_armor_overlay
+minecraft:item/wolf_spawn_egg
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
@@ -2746,6 +2855,11 @@ minecraft:item/yellow_bundle_open_back
 minecraft:item/yellow_bundle_open_front
 minecraft:item/yellow_candle
 minecraft:item/yellow_dye
+minecraft:item/zoglin_spawn_egg
+minecraft:item/zombie_horse_spawn_egg
+minecraft:item/zombie_spawn_egg
+minecraft:item/zombie_villager_spawn_egg
+minecraft:item/zombified_piglin_spawn_egg
 minecraft:map/decorations/black_banner
 minecraft:map/decorations/blue_banner
 minecraft:map/decorations/blue_marker
@@ -2784,7 +2898,7 @@ minecraft:map/decorations/yellow_banner
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
 minecraft:misc/credits_vignette  [mcmeta]
-minecraft:misc/enchanted_glint_entity  [mcmeta]
+minecraft:misc/enchanted_glint_armor  [mcmeta]
 minecraft:misc/enchanted_glint_item  [mcmeta]
 minecraft:misc/forcefield
 minecraft:misc/nausea  [mcmeta]
@@ -2948,6 +3062,7 @@ minecraft:particle/explosion_6
 minecraft:particle/explosion_7
 minecraft:particle/explosion_8
 minecraft:particle/explosion_9
+minecraft:particle/firefly
 minecraft:particle/flame
 minecraft:particle/flash
 minecraft:particle/generic_0
@@ -2986,6 +3101,18 @@ minecraft:particle/gust_9
 minecraft:particle/heart
 minecraft:particle/infested
 minecraft:particle/lava
+minecraft:particle/leaf_0
+minecraft:particle/leaf_1
+minecraft:particle/leaf_10
+minecraft:particle/leaf_11
+minecraft:particle/leaf_2
+minecraft:particle/leaf_3
+minecraft:particle/leaf_4
+minecraft:particle/leaf_5
+minecraft:particle/leaf_6
+minecraft:particle/leaf_7
+minecraft:particle/leaf_8
+minecraft:particle/leaf_9
 minecraft:particle/nautilus
 minecraft:particle/note
 minecraft:particle/ominous_spawning

@@ -11,11 +11,9 @@
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
         Bred: 0b,
-        FallDistance: 0.0f,
         InLove: 0,
         EatingHaystack: 0b,
         DeathTime: 0s,
-        HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
         PersistenceRequired: 1b,
         id: "minecraft:horse",
         UUID: [I; -1286506481, 1615678055, -1279056836, 1603525937],
@@ -27,13 +25,13 @@
         Air: 300s,
         Dimension: 0,
         OnGround: 1b,
+        fall_distance: 0.0d,
         Rotation: [164.32266235351562f, 0.0f],
         HandItems: [
           {},
           {}
         ],
         Variant: 515,
-        ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Pos: [-1725.6767578125d, 4.0d, 507.6767578125d],
         ArmorItems: [
           {},
@@ -124,5 +122,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4325
 }
