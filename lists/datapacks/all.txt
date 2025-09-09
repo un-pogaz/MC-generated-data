@@ -18,6 +18,7 @@ minecraft:custom_stat
 minecraft:damage_type
 minecraft:data_component_predicate_type
 minecraft:data_component_type
+minecraft:debug_subscription
 minecraft:decorated_pot_pattern
 minecraft:dialog
 minecraft:dialog_action_type

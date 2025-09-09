@@ -7,7 +7,7 @@
     "schema": {
       "type": "array",
       "items": {
-        "$ref": "#/components/schemas/player"
+        "$ref": "#/components/schemas/ip_ban"
       }
     }
   }
