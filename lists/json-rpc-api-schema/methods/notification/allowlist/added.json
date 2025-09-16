@@ -1,6 +1,6 @@
 {
   "description": "Player was added to allowlist",
-  "name": "notification:allowlist/added",
+  "name": "minecraft:notification/allowlist/added",
   "params": [
     {
       "name": "player",

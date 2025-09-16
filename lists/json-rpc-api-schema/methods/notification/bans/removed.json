@@ -1,6 +1,6 @@
 {
-  "description": "Player joined",
-  "name": "notification:players/joined",
+  "description": "Player was removed from ban list",
+  "name": "minecraft:notification/bans/removed",
   "params": [
     {
       "name": "player",

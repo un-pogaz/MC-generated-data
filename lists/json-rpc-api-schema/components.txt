@@ -1,3 +1,5 @@
+difficulty
+game_type
 incoming_ip_ban
 ip_ban
 kick_player

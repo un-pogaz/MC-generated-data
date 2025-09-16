@@ -1,6 +1,6 @@
 {
   "description": "Gamerule was changed",
-  "name": "notification:gamerules/updated",
+  "name": "minecraft:notification/gamerules/updated",
   "params": [
     {
       "name": "gamerule",
