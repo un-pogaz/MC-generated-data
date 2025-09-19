@@ -1,0 +1,2 @@
+((required_level: 0))
+me <action minecraft:message>
