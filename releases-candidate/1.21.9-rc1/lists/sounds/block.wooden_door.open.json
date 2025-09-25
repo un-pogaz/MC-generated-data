@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "block/wooden_door/open1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_door/open2",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}
