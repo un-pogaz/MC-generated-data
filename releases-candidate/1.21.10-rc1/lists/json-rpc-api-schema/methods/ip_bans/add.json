@@ -1,0 +1,25 @@
+{
+  "description": "Add ip to ban list",
+  "name": "minecraft:ip_bans/add",
+  "params": [
+    {
+      "name": "add",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/incoming_ip_ban"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/ip_ban"
+      }
+    }
+  }
+}
