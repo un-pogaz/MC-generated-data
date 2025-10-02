@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable the allowlist on the server (controls whether only allowlisted players can join)",
+  "name": "minecraft:serversettings/use_allowlist/set",
+  "params": [
+    {
+      "name": "use",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "used",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

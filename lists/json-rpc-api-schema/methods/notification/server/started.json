@@ -1,0 +1,5 @@
+{
+  "description": "Server started",
+  "name": "minecraft:notification/server/started",
+  "params": []
+}
