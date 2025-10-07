@@ -1,0 +1,8 @@
+((required_level: 2))
+forceload add <from minecraft:column_pos>
+forceload add <from minecraft:column_pos> <to minecraft:column_pos>
+forceload query
+forceload query <pos minecraft:column_pos>
+forceload remove all
+forceload remove <from minecraft:column_pos>
+forceload remove <from minecraft:column_pos> <to minecraft:column_pos>
