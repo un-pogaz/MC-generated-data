@@ -21,7 +21,7 @@ minecraft:container_slot_state_changed
 minecraft:cookie_response
 minecraft:custom_click_action
 minecraft:custom_payload
-minecraft:debug_sample_subscription
+minecraft:debug_subscription_request
 minecraft:edit_book
 minecraft:entity_tag_query
 minecraft:interact
