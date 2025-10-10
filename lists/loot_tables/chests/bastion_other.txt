@@ -26,7 +26,7 @@ minecraft:golden_boots
 minecraft:crying_obsidian
 
 minecraft:gilded_blackstone
-minecraft:chain
+minecraft:iron_chain
 minecraft:magma_cream
 minecraft:bone_block
 minecraft:iron_nugget

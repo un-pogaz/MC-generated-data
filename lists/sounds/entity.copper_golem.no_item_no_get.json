@@ -1,6 +1,9 @@
 {
   "sounds": [
-    "mob/coppergolem/no_item_no_get"
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/no_item_no_get"
+    }
   ],
   "subtitle": "subtitles.entity.copper_golem.no_item_no_get"
 }

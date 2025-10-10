@@ -1,4 +1,6 @@
 ((required_level: 2))
+gamerule allowEnteringNetherUsingPortals
+gamerule allowEnteringNetherUsingPortals <value brigadier:bool>
 gamerule allowFireTicksAwayFromPlayer
 gamerule allowFireTicksAwayFromPlayer <value brigadier:bool>
 gamerule announceAdvancements
@@ -45,6 +47,8 @@ gamerule doWeatherCycle
 gamerule doWeatherCycle <value brigadier:bool>
 gamerule drowningDamage
 gamerule drowningDamage <value brigadier:bool>
+gamerule enableCommandBlocks
+gamerule enableCommandBlocks <value brigadier:bool>
 gamerule enderPearlsVanishOnDeath
 gamerule enderPearlsVanishOnDeath <value brigadier:bool>
 gamerule fallDamage
@@ -87,6 +91,8 @@ gamerule playersSleepingPercentage
 gamerule playersSleepingPercentage <value brigadier:integer>
 gamerule projectilesCanBreakBlocks
 gamerule projectilesCanBreakBlocks <value brigadier:bool>
+gamerule pvp
+gamerule pvp <value brigadier:bool>
 gamerule randomTickSpeed
 gamerule randomTickSpeed <value brigadier:integer>
 gamerule reducedDebugInfo
@@ -97,6 +103,8 @@ gamerule showDeathMessages
 gamerule showDeathMessages <value brigadier:bool>
 gamerule snowAccumulationHeight
 gamerule snowAccumulationHeight <value brigadier:integer>
+gamerule spawnMonsters
+gamerule spawnMonsters <value brigadier:bool>
 gamerule spawnRadius
 gamerule spawnRadius <value brigadier:integer>
 gamerule spectatorsGenerateChunks

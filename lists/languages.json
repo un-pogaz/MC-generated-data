@@ -259,6 +259,11 @@
     "region": "Galicia / Galiza",
     "bidirectional": false
   },
+  "hal_ua": {
+    "name": "Галицка",
+    "region": "Галичина, Україна",
+    "bidirectional": false
+  },
   "haw_us": {
     "name": "ʻŌlelo Hawaiʻi",
     "region": "Hawaiʻi",

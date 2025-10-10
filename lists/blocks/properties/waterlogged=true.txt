@@ -59,7 +59,6 @@ minecraft:bubble_coral_wall_fan
 minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:candle
-minecraft:chain
 minecraft:cherry_fence
 minecraft:cherry_hanging_sign
 minecraft:cherry_leaves
@@ -172,6 +171,7 @@ minecraft:horn_coral
 minecraft:horn_coral_fan
 minecraft:horn_coral_wall_fan
 minecraft:iron_bars
+minecraft:iron_chain
 minecraft:iron_trapdoor
 minecraft:jungle_fence
 minecraft:jungle_hanging_sign
