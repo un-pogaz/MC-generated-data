@@ -342,6 +342,17 @@
       },
       "executable": true
     },
+    "locatorBar": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
     "logAdminCommands": {
       "type": "literal",
       "children": {
@@ -614,5 +625,6 @@
       },
       "executable": true
     }
-  }
+  },
+  "required_level": 2
 }
