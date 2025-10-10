@@ -17,6 +17,7 @@ minecraft:custom_stat
 minecraft:damage_type
 minecraft:data_component_predicate_type
 minecraft:data_component_type
+minecraft:debug_subscription
 minecraft:decorated_pot_pattern
 minecraft:dialog
 minecraft:dialog_action_type
@@ -40,6 +41,7 @@ minecraft:frog_variant
 minecraft:function
 minecraft:game_event
 minecraft:height_provider_type
+minecraft:incoming_rpc_methods
 minecraft:input_control_type
 minecraft:instrument
 minecraft:int_provider_type
@@ -58,6 +60,7 @@ minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
 minecraft:number_format_type
+minecraft:outgoing_rpc_methods
 minecraft:painting_variant
 minecraft:particle_type
 minecraft:pig_variant

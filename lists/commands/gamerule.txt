@@ -1,4 +1,6 @@
 ((required_level: 2))
+gamerule allowEnteringNetherUsingPortals
+gamerule allowEnteringNetherUsingPortals <value brigadier:bool>
 gamerule allowFireTicksAwayFromPlayer
 gamerule allowFireTicksAwayFromPlayer <value brigadier:bool>
 gamerule announceAdvancements
@@ -7,6 +9,8 @@ gamerule blockExplosionDropDecay
 gamerule blockExplosionDropDecay <value brigadier:bool>
 gamerule commandBlockOutput
 gamerule commandBlockOutput <value brigadier:bool>
+gamerule commandBlocksEnabled
+gamerule commandBlocksEnabled <value brigadier:bool>
 gamerule commandModificationBlockLimit
 gamerule commandModificationBlockLimit <value brigadier:integer>
 gamerule disableElytraMovementCheck
@@ -87,6 +91,8 @@ gamerule playersSleepingPercentage
 gamerule playersSleepingPercentage <value brigadier:integer>
 gamerule projectilesCanBreakBlocks
 gamerule projectilesCanBreakBlocks <value brigadier:bool>
+gamerule pvp
+gamerule pvp <value brigadier:bool>
 gamerule randomTickSpeed
 gamerule randomTickSpeed <value brigadier:integer>
 gamerule reducedDebugInfo
@@ -97,10 +103,12 @@ gamerule showDeathMessages
 gamerule showDeathMessages <value brigadier:bool>
 gamerule snowAccumulationHeight
 gamerule snowAccumulationHeight <value brigadier:integer>
-gamerule spawnChunkRadius
-gamerule spawnChunkRadius <value brigadier:integer[max="32", min="0"]>
+gamerule spawnMonsters
+gamerule spawnMonsters <value brigadier:bool>
 gamerule spawnRadius
 gamerule spawnRadius <value brigadier:integer>
+gamerule spawnerBlocksEnabled
+gamerule spawnerBlocksEnabled <value brigadier:bool>
 gamerule spectatorsGenerateChunks
 gamerule spectatorsGenerateChunks <value brigadier:bool>
 gamerule tntExplodes

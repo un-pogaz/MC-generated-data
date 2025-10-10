@@ -1,6 +1,17 @@
 {
   "type": "literal",
   "children": {
+    "allowEnteringNetherUsingPortals": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
     "allowFireTicksAwayFromPlayer": {
       "type": "literal",
       "children": {
@@ -35,6 +46,17 @@
       "executable": true
     },
     "commandBlockOutput": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "commandBlocksEnabled": {
       "type": "literal",
       "children": {
         "value": {
@@ -489,6 +511,17 @@
       },
       "executable": true
     },
+    "pvp": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
     "randomTickSpeed": {
       "type": "literal",
       "children": {
@@ -544,17 +577,13 @@
       },
       "executable": true
     },
-    "spawnChunkRadius": {
+    "spawnMonsters": {
       "type": "literal",
       "children": {
         "value": {
           "type": "argument",
           "executable": true,
-          "parser": "brigadier:integer",
-          "properties": {
-            "max": 32,
-            "min": 0
-          }
+          "parser": "brigadier:bool"
         }
       },
       "executable": true
@@ -566,6 +595,17 @@
           "type": "argument",
           "executable": true,
           "parser": "brigadier:integer"
+        }
+      },
+      "executable": true
+    },
+    "spawnerBlocksEnabled": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
         }
       },
       "executable": true
