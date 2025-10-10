@@ -1,6 +1,6 @@
 {
   "description": "Player was oped",
-  "name": "notification:operators/added",
+  "name": "minecraft:notification/operators/added",
   "params": [
     {
       "name": "player",

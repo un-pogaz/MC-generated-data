@@ -1,6 +1,6 @@
 {
-  "description": "Player was removed from allowlist",
-  "name": "notification:allowlist/removed",
+  "description": "Player joined",
+  "name": "minecraft:notification/players/joined",
   "params": [
     {
       "name": "player",

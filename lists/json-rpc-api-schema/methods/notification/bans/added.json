@@ -1,6 +1,6 @@
 {
   "description": "Player was added to ban list",
-  "name": "notification:bans/added",
+  "name": "minecraft:notification/bans/added",
   "params": [
     {
       "name": "player",

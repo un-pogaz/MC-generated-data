@@ -5,7 +5,7 @@
   "result": {
     "name": "mode",
     "schema": {
-      "type": "string"
+      "$ref": "#/components/schemas/game_type"
     }
   }
 }

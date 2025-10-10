@@ -1,6 +1,6 @@
 {
   "description": "Player left",
-  "name": "notification:players/left",
+  "name": "minecraft:notification/players/left",
   "params": [
     {
       "name": "player",
