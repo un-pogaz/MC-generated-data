@@ -5,6 +5,8 @@ minecraft:bread
 minecraft:apple
 minecraft:iron_pickaxe
 minecraft:iron_sword
+minecraft:iron_spear
+minecraft:copper_spear
 minecraft:iron_chestplate
 minecraft:iron_helmet
 minecraft:iron_leggings

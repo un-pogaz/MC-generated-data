@@ -115,6 +115,7 @@ minecraft:entities/magma_cube
 minecraft:entities/mannequin
 minecraft:entities/mooshroom
 minecraft:entities/mule
+minecraft:entities/nautilus
 minecraft:entities/ocelot
 minecraft:entities/panda
 minecraft:entities/parrot
@@ -173,6 +174,7 @@ minecraft:entities/wolf
 minecraft:entities/zoglin
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
+minecraft:entities/zombie_nautilus
 minecraft:entities/zombie_villager
 minecraft:entities/zombified_piglin
 minecraft:equipment/trial_chamber

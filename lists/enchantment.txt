@@ -19,6 +19,7 @@ minecraft:knockback
 minecraft:looting
 minecraft:loyalty
 minecraft:luck_of_the_sea
+minecraft:lunge
 minecraft:lure
 minecraft:mending
 minecraft:multishot
@@ -47,6 +48,7 @@ minecraft:wind_burst
 #minecraft:exclusive_set/bow
 #minecraft:exclusive_set/crossbow
 #minecraft:exclusive_set/damage
+#minecraft:exclusive_set/lunge
 #minecraft:exclusive_set/mining
 #minecraft:exclusive_set/riptide
 #minecraft:in_enchanting_table

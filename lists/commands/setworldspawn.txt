@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 setworldspawn
 setworldspawn <pos minecraft:block_pos>
 setworldspawn <pos minecraft:block_pos> <rotation minecraft:rotation>

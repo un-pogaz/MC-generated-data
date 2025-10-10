@@ -6,3 +6,5 @@ minecraft:mule
 minecraft:pig
 minecraft:strider
 minecraft:camel
+minecraft:nautilus
+minecraft:zombie_nautilus

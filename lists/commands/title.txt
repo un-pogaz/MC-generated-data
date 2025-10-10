@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 title <targets minecraft:entity[type="players", amount="multiple"]> actionbar <title minecraft:component>
 title <targets minecraft:entity[type="players", amount="multiple"]> clear
 title <targets minecraft:entity[type="players", amount="multiple"]> reset

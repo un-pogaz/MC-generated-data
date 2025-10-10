@@ -16,4 +16,5 @@ minecraft:spider
 minecraft:witch
 minecraft:wolf
 minecraft:zombie
+minecraft:zombie_horse
 minecraft:zombie_villager

@@ -45,6 +45,8 @@ minecraft:mob_effect
 minecraft:number_format_type
 minecraft:outgoing_rpc_methods
 minecraft:particle_type
+minecraft:permission_check_type
+minecraft:permission_type
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
 minecraft:position_source_type

@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 bossbar add <id minecraft:resource_location> <name minecraft:component>
 bossbar get <id minecraft:resource_location> max
 bossbar get <id minecraft:resource_location> players

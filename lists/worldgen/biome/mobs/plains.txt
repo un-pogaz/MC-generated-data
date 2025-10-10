@@ -13,4 +13,5 @@ minecraft:slime
 minecraft:spider
 minecraft:witch
 minecraft:zombie
+minecraft:zombie_horse
 minecraft:zombie_villager

@@ -1,6 +1,9 @@
 {
   "sounds": [
-    "random/anvil_land"
+    {
+      "name": "random/anvil_land",
+      "volume": 0.5
+    }
   ],
   "subtitle": "subtitles.block.anvil.land"
 }
