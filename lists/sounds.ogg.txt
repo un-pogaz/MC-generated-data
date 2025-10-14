@@ -3242,6 +3242,7 @@ minecraft:mob/nautilus/hurt1
 minecraft:mob/nautilus/hurt2
 minecraft:mob/nautilus/hurt3
 minecraft:mob/nautilus/hurt4
+minecraft:mob/nautilus/ride
 minecraft:mob/panda/aggressive/aggressive1
 minecraft:mob/panda/aggressive/aggressive2
 minecraft:mob/panda/aggressive/aggressive3

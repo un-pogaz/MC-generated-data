@@ -1,6 +1,7 @@
 minecraft:activity
 minecraft:advancement
 minecraft:attribute
+minecraft:attribute_type
 minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
@@ -36,6 +37,7 @@ minecraft:enchantment_provider_type
 minecraft:enchantment_value_effect_type
 minecraft:entity_sub_predicate_type
 minecraft:entity_type
+minecraft:environment_attribute
 minecraft:float_provider_type
 minecraft:fluid
 minecraft:frog_variant

@@ -1,5 +1,6 @@
 ((permissions: gamemasters))
-stopwatch <id minecraft:resource_location> create
-stopwatch <id minecraft:resource_location> query
-stopwatch <id minecraft:resource_location> remove
-stopwatch <id minecraft:resource_location> restart
+stopwatch create <id minecraft:resource_location>
+stopwatch query <id minecraft:resource_location>
+stopwatch query <id minecraft:resource_location> <scale brigadier:double>
+stopwatch remove <id minecraft:resource_location>
+stopwatch restart <id minecraft:resource_location>

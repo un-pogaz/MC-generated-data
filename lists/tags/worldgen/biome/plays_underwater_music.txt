@@ -1,2 +1,0 @@
-#minecraft:is_ocean
-#minecraft:is_river
