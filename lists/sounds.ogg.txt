@@ -2244,6 +2244,7 @@ minecraft:item/trident/throw1
 minecraft:item/trident/throw2
 minecraft:item/trident/thunder1
 minecraft:item/trident/thunder2
+minecraft:item/underwater_saddle/underwater_equip
 minecraft:liquid/heavy_splash
 minecraft:liquid/lava
 minecraft:liquid/lavapop

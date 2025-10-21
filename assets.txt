@@ -2368,6 +2368,7 @@ minecraft/sounds/item/trident/throw1.ogg
 minecraft/sounds/item/trident/throw2.ogg
 minecraft/sounds/item/trident/thunder1.ogg
 minecraft/sounds/item/trident/thunder2.ogg
+minecraft/sounds/item/underwater_saddle/underwater_equip.ogg
 minecraft/sounds/liquid/heavy_splash.ogg
 minecraft/sounds/liquid/lava.ogg
 minecraft/sounds/liquid/lavapop.ogg
