@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pufferfish/blow_out1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/pufferfish/blow_out2",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.puffer_fish.blow_out"
+}

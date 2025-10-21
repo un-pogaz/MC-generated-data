@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.fish.swim",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_nautilus.swim"
+}
