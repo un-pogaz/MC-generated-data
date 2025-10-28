@@ -1,0 +1,19 @@
+{
+  "description": "Save server state",
+  "name": "minecraft:server/save",
+  "params": [
+    {
+      "name": "flush",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "saving",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}
