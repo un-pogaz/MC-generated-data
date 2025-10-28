@@ -622,7 +622,7 @@ minecraft:block/nether_bricks
 minecraft:block/nether_gold_ore
 minecraft:block/nether_portal  [mcmeta]
 minecraft:block/nether_quartz_ore
-minecraft:block/nether_sprouts
+minecraft:block/nether_sprouts  [mcmeta]
 minecraft:block/nether_wart_block
 minecraft:block/nether_wart_stage0
 minecraft:block/nether_wart_stage1
@@ -976,7 +976,7 @@ minecraft:block/suspicious_sand_0
 minecraft:block/suspicious_sand_1
 minecraft:block/suspicious_sand_2
 minecraft:block/suspicious_sand_3
-minecraft:block/sweet_berry_bush_stage0
+minecraft:block/sweet_berry_bush_stage0  [mcmeta]
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
 minecraft:block/sweet_berry_bush_stage3
@@ -1205,6 +1205,7 @@ minecraft:entity/breeze/breeze
 minecraft:entity/breeze/breeze_eyes
 minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
+minecraft:entity/camel/camel_husk
 minecraft:entity/cat/all_black
 minecraft:entity/cat/black
 minecraft:entity/cat/british_shorthair
@@ -1315,6 +1316,7 @@ minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
+minecraft:entity/equipment/camel_husk_saddle/saddle
 minecraft:entity/equipment/camel_saddle/saddle
 minecraft:entity/equipment/donkey_saddle/saddle
 minecraft:entity/equipment/happy_ghast_body/black_harness
@@ -1604,6 +1606,7 @@ minecraft:entity/signs/warped
 minecraft:entity/silverfish
 minecraft:entity/skeleton/bogged
 minecraft:entity/skeleton/bogged_overlay
+minecraft:entity/skeleton/parched
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
 minecraft:entity/skeleton/stray_overlay
@@ -2347,6 +2350,7 @@ minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
+minecraft:item/camel_husk_spawn_egg
 minecraft:item/camel_spawn_egg
 minecraft:item/campfire
 minecraft:item/candle
@@ -2822,6 +2826,7 @@ minecraft:item/pale_oak_hanging_sign
 minecraft:item/pale_oak_sign
 minecraft:item/panda_spawn_egg
 minecraft:item/paper
+minecraft:item/parched_spawn_egg
 minecraft:item/parrot_spawn_egg
 minecraft:item/phantom_membrane
 minecraft:item/phantom_spawn_egg

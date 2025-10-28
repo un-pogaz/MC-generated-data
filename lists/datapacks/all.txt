@@ -43,6 +43,7 @@ minecraft:fluid
 minecraft:frog_variant
 minecraft:function
 minecraft:game_event
+minecraft:game_rule
 minecraft:height_provider_type
 minecraft:incoming_rpc_methods
 minecraft:input_control_type
@@ -84,6 +85,7 @@ minecraft:rule_test
 minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
+minecraft:slot_source_type
 minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type

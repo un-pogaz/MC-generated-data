@@ -2502,6 +2502,7 @@ minecraft:item/burn_pottery_sherd
 minecraft:item/bush
 minecraft:item/cactus_flower
 minecraft:item/cake
+minecraft:item/camel_husk_spawn_egg
 minecraft:item/camel_spawn_egg
 minecraft:item/campfire
 minecraft:item/candle
@@ -3366,6 +3367,7 @@ minecraft:item/pale_oak_sapling
 minecraft:item/pale_oak_sign
 minecraft:item/panda_spawn_egg
 minecraft:item/paper
+minecraft:item/parched_spawn_egg
 minecraft:item/parrot_spawn_egg
 minecraft:item/peony
 minecraft:item/phantom_membrane
