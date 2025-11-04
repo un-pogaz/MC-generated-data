@@ -1,0 +1,5 @@
+==,==
+"minecraft:gameplay/can_pillager_patrol_spawn","ease: linear (modifier: and)"
+——,——
+"0","False"
+"120000","True"
