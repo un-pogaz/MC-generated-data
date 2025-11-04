@@ -80,7 +80,6 @@ minecraft:recipe_serializer
 minecraft:recipe_type
 minecraft:rule_block_entity_modifier
 minecraft:rule_test
-minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
 minecraft:slot_source_type
@@ -93,6 +92,7 @@ minecraft:test_function
 minecraft:test_instance
 minecraft:test_instance_type
 minecraft:ticket_type
+minecraft:timeline
 minecraft:trial_spawner
 minecraft:trigger_type
 minecraft:trim_material
@@ -135,3 +135,4 @@ minecraft:worldgen/template_pool
 minecraft:worldgen/tree_decorator_type
 minecraft:worldgen/trunk_placer_type
 minecraft:worldgen/world_preset
+minecraft:zombie_nautilus_variant

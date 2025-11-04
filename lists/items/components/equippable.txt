@@ -58,6 +58,7 @@ minecraft:magenta_harness  = {{value}}
 minecraft:netherite_boots  = {{value}}
 minecraft:netherite_chestplate  = {{value}}
 minecraft:netherite_helmet  = {{value}}
+minecraft:netherite_horse_armor  = {{value}}
 minecraft:netherite_leggings  = {{value}}
 minecraft:netherite_nautilus_armor  = {{value}}
 minecraft:orange_carpet  = {{value}}

@@ -52,7 +52,7 @@ gamerule max_command_forks <value brigadier:integer[min="0"]>
 gamerule max_command_sequence_length
 gamerule max_command_sequence_length <value brigadier:integer[min="0"]>
 gamerule max_entity_cramming
-gamerule max_entity_cramming <value brigadier:integer[min="1"]>
+gamerule max_entity_cramming <value brigadier:integer[min="0"]>
 gamerule max_minecart_speed
 gamerule max_minecart_speed <value brigadier:integer[max="1000", min="1"]>
 gamerule max_snow_accumulation_height

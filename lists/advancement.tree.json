@@ -83,6 +83,12 @@
               }
             }
           },
+          "minecraft:adventure/spear_many_mobs": {
+            "icon": "minecraft:iron_spear",
+            "title": "Mob Kabob",
+            "description": "Hit five mobs in the same Charge attack using the Spear",
+            "frame": "challenge"
+          },
           "minecraft:adventure/throw_trident": {
             "icon": "minecraft:trident",
             "title": "A Throwaway Joke",
