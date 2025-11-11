@@ -1762,6 +1762,7 @@ minecraft:entity.fish.swim
 minecraft:entity.ghast.ambient
 minecraft:entity.guardian.ambient
 minecraft:entity.hoglin.ambient
+minecraft:entity.horse.eat
 minecraft:entity.horse.saddle
 minecraft:entity.husk.ambient
 minecraft:entity.illusioner.ambient
