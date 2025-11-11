@@ -1,0 +1,699 @@
+{
+  "type": "literal",
+  "children": {
+    "advance_time": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "advance_weather": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "allow_entering_nether_using_portals": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "block_drops": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "block_explosion_drop_decay": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "command_block_output": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "command_blocks_work": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "drowning_damage": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "elytra_movement_check": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "ender_pearls_vanish_on_death": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "entity_drops": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "fall_damage": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "fire_damage": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "fire_spread_radius_around_player": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": -1
+          }
+        }
+      },
+      "executable": true
+    },
+    "forgive_dead_players": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "freeze_damage": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "global_sound_events": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "immediate_respawn": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "keep_inventory": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "lava_source_conversion": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "limited_crafting": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "locator_bar": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "log_admin_commands": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "max_block_modifications": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 1
+          }
+        }
+      },
+      "executable": true
+    },
+    "max_command_forks": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "max_command_sequence_length": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "max_entity_cramming": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "max_minecart_speed": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 1000,
+            "min": 1
+          }
+        }
+      },
+      "executable": true
+    },
+    "max_snow_accumulation_height": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 8,
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "mob_drops": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "mob_explosion_drop_decay": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "mob_griefing": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "natural_health_regeneration": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "player_movement_check": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "players_nether_portal_creative_delay": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "players_nether_portal_default_delay": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "players_sleeping_percentage": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "projectiles_can_break_blocks": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "pvp": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "raids": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "random_tick_speed": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "reduced_debug_info": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "respawn_radius": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": 0
+          }
+        }
+      },
+      "executable": true
+    },
+    "send_command_feedback": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "show_advancement_messages": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "show_death_messages": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_mobs": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_monsters": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_patrols": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_phantoms": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_wandering_traders": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawn_wardens": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spawner_blocks_work": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spectators_generate_chunks": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "spread_vines": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "tnt_explodes": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "tnt_explosion_drop_decay": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "universal_anger": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
+    "water_source_conversion": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

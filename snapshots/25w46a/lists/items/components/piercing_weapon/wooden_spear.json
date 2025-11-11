@@ -1,0 +1,7 @@
+{
+  "hit_sound": "minecraft:item.spear_wood.hit",
+  "hitbox_margin": 0.25,
+  "max_reach": 4.5,
+  "min_reach": 2.0,
+  "sound": "minecraft:item.spear_wood.attack"
+}
