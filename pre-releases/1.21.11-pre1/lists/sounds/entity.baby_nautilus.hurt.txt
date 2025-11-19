@@ -1,0 +1,4 @@
+minecraft:mob/baby_nautilus/hurt1
+minecraft:mob/baby_nautilus/hurt2
+minecraft:mob/baby_nautilus/hurt3
+minecraft:mob/baby_nautilus/hurt4
