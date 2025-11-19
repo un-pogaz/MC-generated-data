@@ -1340,6 +1340,7 @@ minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
+minecraft:entity/equipment/horse_body/leather_overlay
 minecraft:entity/equipment/horse_body/netherite
 minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
@@ -2696,6 +2697,7 @@ minecraft:item/leather_chestplate_overlay
 minecraft:item/leather_helmet
 minecraft:item/leather_helmet_overlay
 minecraft:item/leather_horse_armor
+minecraft:item/leather_horse_armor_overlay
 minecraft:item/leather_leggings
 minecraft:item/leather_leggings_overlay
 minecraft:item/light

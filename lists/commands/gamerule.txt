@@ -57,6 +57,124 @@ gamerule max_minecart_speed
 gamerule max_minecart_speed <value brigadier:integer[max="1000", min="1"]>
 gamerule max_snow_accumulation_height
 gamerule max_snow_accumulation_height <value brigadier:integer[max="8", min="0"]>
+gamerule minecraft:advance_time
+gamerule minecraft:advance_time <value brigadier:bool>
+gamerule minecraft:advance_weather
+gamerule minecraft:advance_weather <value brigadier:bool>
+gamerule minecraft:allow_entering_nether_using_portals
+gamerule minecraft:allow_entering_nether_using_portals <value brigadier:bool>
+gamerule minecraft:block_drops
+gamerule minecraft:block_drops <value brigadier:bool>
+gamerule minecraft:block_explosion_drop_decay
+gamerule minecraft:block_explosion_drop_decay <value brigadier:bool>
+gamerule minecraft:command_block_output
+gamerule minecraft:command_block_output <value brigadier:bool>
+gamerule minecraft:command_blocks_work
+gamerule minecraft:command_blocks_work <value brigadier:bool>
+gamerule minecraft:drowning_damage
+gamerule minecraft:drowning_damage <value brigadier:bool>
+gamerule minecraft:elytra_movement_check
+gamerule minecraft:elytra_movement_check <value brigadier:bool>
+gamerule minecraft:ender_pearls_vanish_on_death
+gamerule minecraft:ender_pearls_vanish_on_death <value brigadier:bool>
+gamerule minecraft:entity_drops
+gamerule minecraft:entity_drops <value brigadier:bool>
+gamerule minecraft:fall_damage
+gamerule minecraft:fall_damage <value brigadier:bool>
+gamerule minecraft:fire_damage
+gamerule minecraft:fire_damage <value brigadier:bool>
+gamerule minecraft:fire_spread_radius_around_player
+gamerule minecraft:fire_spread_radius_around_player <value brigadier:integer[min="-1"]>
+gamerule minecraft:forgive_dead_players
+gamerule minecraft:forgive_dead_players <value brigadier:bool>
+gamerule minecraft:freeze_damage
+gamerule minecraft:freeze_damage <value brigadier:bool>
+gamerule minecraft:global_sound_events
+gamerule minecraft:global_sound_events <value brigadier:bool>
+gamerule minecraft:immediate_respawn
+gamerule minecraft:immediate_respawn <value brigadier:bool>
+gamerule minecraft:keep_inventory
+gamerule minecraft:keep_inventory <value brigadier:bool>
+gamerule minecraft:lava_source_conversion
+gamerule minecraft:lava_source_conversion <value brigadier:bool>
+gamerule minecraft:limited_crafting
+gamerule minecraft:limited_crafting <value brigadier:bool>
+gamerule minecraft:locator_bar
+gamerule minecraft:locator_bar <value brigadier:bool>
+gamerule minecraft:log_admin_commands
+gamerule minecraft:log_admin_commands <value brigadier:bool>
+gamerule minecraft:max_block_modifications
+gamerule minecraft:max_block_modifications <value brigadier:integer[min="1"]>
+gamerule minecraft:max_command_forks
+gamerule minecraft:max_command_forks <value brigadier:integer[min="0"]>
+gamerule minecraft:max_command_sequence_length
+gamerule minecraft:max_command_sequence_length <value brigadier:integer[min="0"]>
+gamerule minecraft:max_entity_cramming
+gamerule minecraft:max_entity_cramming <value brigadier:integer[min="0"]>
+gamerule minecraft:max_minecart_speed
+gamerule minecraft:max_minecart_speed <value brigadier:integer[max="1000", min="1"]>
+gamerule minecraft:max_snow_accumulation_height
+gamerule minecraft:max_snow_accumulation_height <value brigadier:integer[max="8", min="0"]>
+gamerule minecraft:mob_drops
+gamerule minecraft:mob_drops <value brigadier:bool>
+gamerule minecraft:mob_explosion_drop_decay
+gamerule minecraft:mob_explosion_drop_decay <value brigadier:bool>
+gamerule minecraft:mob_griefing
+gamerule minecraft:mob_griefing <value brigadier:bool>
+gamerule minecraft:natural_health_regeneration
+gamerule minecraft:natural_health_regeneration <value brigadier:bool>
+gamerule minecraft:player_movement_check
+gamerule minecraft:player_movement_check <value brigadier:bool>
+gamerule minecraft:players_nether_portal_creative_delay
+gamerule minecraft:players_nether_portal_creative_delay <value brigadier:integer[min="0"]>
+gamerule minecraft:players_nether_portal_default_delay
+gamerule minecraft:players_nether_portal_default_delay <value brigadier:integer[min="0"]>
+gamerule minecraft:players_sleeping_percentage
+gamerule minecraft:players_sleeping_percentage <value brigadier:integer[min="0"]>
+gamerule minecraft:projectiles_can_break_blocks
+gamerule minecraft:projectiles_can_break_blocks <value brigadier:bool>
+gamerule minecraft:pvp
+gamerule minecraft:pvp <value brigadier:bool>
+gamerule minecraft:raids
+gamerule minecraft:raids <value brigadier:bool>
+gamerule minecraft:random_tick_speed
+gamerule minecraft:random_tick_speed <value brigadier:integer[min="0"]>
+gamerule minecraft:reduced_debug_info
+gamerule minecraft:reduced_debug_info <value brigadier:bool>
+gamerule minecraft:respawn_radius
+gamerule minecraft:respawn_radius <value brigadier:integer[min="0"]>
+gamerule minecraft:send_command_feedback
+gamerule minecraft:send_command_feedback <value brigadier:bool>
+gamerule minecraft:show_advancement_messages
+gamerule minecraft:show_advancement_messages <value brigadier:bool>
+gamerule minecraft:show_death_messages
+gamerule minecraft:show_death_messages <value brigadier:bool>
+gamerule minecraft:spawn_mobs
+gamerule minecraft:spawn_mobs <value brigadier:bool>
+gamerule minecraft:spawn_monsters
+gamerule minecraft:spawn_monsters <value brigadier:bool>
+gamerule minecraft:spawn_patrols
+gamerule minecraft:spawn_patrols <value brigadier:bool>
+gamerule minecraft:spawn_phantoms
+gamerule minecraft:spawn_phantoms <value brigadier:bool>
+gamerule minecraft:spawn_wandering_traders
+gamerule minecraft:spawn_wandering_traders <value brigadier:bool>
+gamerule minecraft:spawn_wardens
+gamerule minecraft:spawn_wardens <value brigadier:bool>
+gamerule minecraft:spawner_blocks_work
+gamerule minecraft:spawner_blocks_work <value brigadier:bool>
+gamerule minecraft:spectators_generate_chunks
+gamerule minecraft:spectators_generate_chunks <value brigadier:bool>
+gamerule minecraft:spread_vines
+gamerule minecraft:spread_vines <value brigadier:bool>
+gamerule minecraft:tnt_explodes
+gamerule minecraft:tnt_explodes <value brigadier:bool>
+gamerule minecraft:tnt_explosion_drop_decay
+gamerule minecraft:tnt_explosion_drop_decay <value brigadier:bool>
+gamerule minecraft:universal_anger
+gamerule minecraft:universal_anger <value brigadier:bool>
+gamerule minecraft:water_source_conversion
+gamerule minecraft:water_source_conversion <value brigadier:bool>
 gamerule mob_drops
 gamerule mob_drops <value brigadier:bool>
 gamerule mob_explosion_drop_decay
