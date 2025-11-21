@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step1"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step2"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step3"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step4"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step5"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step6"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step7"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step8"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/weathered/step9"
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

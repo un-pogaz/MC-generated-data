@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "players": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    },
+    "started": {
+      "type": "boolean"
+    },
+    "version": {
+      "$ref": "#/components/schemas/version"
+    }
+  }
+}
