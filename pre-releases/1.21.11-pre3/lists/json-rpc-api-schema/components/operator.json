@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "bypassesPlayerLimit": {
+      "type": "boolean"
+    },
+    "permissionLevel": {
+      "type": "integer"
+    },
+    "player": {
+      "$ref": "#/components/schemas/player"
+    }
+  }
+}

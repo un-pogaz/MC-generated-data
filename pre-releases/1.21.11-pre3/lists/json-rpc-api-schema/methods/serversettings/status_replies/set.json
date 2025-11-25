@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable the server responding to connection status requests",
+  "name": "minecraft:serversettings/status_replies/set",
+  "params": [
+    {
+      "name": "enable",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "enabled",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

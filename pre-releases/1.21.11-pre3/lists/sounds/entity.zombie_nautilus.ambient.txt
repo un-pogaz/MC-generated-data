@@ -1,0 +1,5 @@
+minecraft:mob/zombie_nautilus/ambient1
+minecraft:mob/zombie_nautilus/ambient2
+minecraft:mob/zombie_nautilus/ambient3
+minecraft:mob/zombie_nautilus/ambient4
+minecraft:mob/zombie_nautilus/ambient5
