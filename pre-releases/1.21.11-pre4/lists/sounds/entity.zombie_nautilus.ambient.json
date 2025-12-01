@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/zombie_nautilus/ambient1",
+    "mob/zombie_nautilus/ambient2",
+    "mob/zombie_nautilus/ambient3",
+    "mob/zombie_nautilus/ambient4",
+    "mob/zombie_nautilus/ambient5"
+  ],
+  "subtitle": "subtitles.entity.zombie_nautilus.ambient"
+}
