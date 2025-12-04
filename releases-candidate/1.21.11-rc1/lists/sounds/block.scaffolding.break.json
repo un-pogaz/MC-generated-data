@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/scaffold/place1",
+      "pitch": 1.4,
+      "volume": 0.8
+    },
+    {
+      "name": "block/scaffold/place2",
+      "pitch": 1.4,
+      "volume": 0.8
+    },
+    {
+      "name": "block/scaffold/place3",
+      "pitch": 1.4,
+      "volume": 0.8
+    },
+    {
+      "name": "block/scaffold/place4",
+      "pitch": 1.4,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}
