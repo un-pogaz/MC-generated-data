@@ -1,0 +1,14 @@
+{
+  "description": "Get the available game rule keys and their current values",
+  "name": "minecraft:gamerules",
+  "params": [],
+  "result": {
+    "name": "gamerules",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/typed_game_rule"
+      }
+    }
+  }
+}
