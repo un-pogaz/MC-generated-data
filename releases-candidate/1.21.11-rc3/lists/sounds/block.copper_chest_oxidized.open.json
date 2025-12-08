@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_oxidized_open1"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_oxidized_open2"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_oxidized_open3"
+    }
+  ],
+  "subtitle": "subtitles.block.copper_chest.open"
+}
