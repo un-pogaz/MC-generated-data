@@ -1,6 +1,7 @@
 minecraft:activity
 minecraft:advancement
 minecraft:attribute
+minecraft:attribute_type
 minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
@@ -36,11 +37,13 @@ minecraft:enchantment_provider_type
 minecraft:enchantment_value_effect_type
 minecraft:entity_sub_predicate_type
 minecraft:entity_type
+minecraft:environment_attribute
 minecraft:float_provider_type
 minecraft:fluid
 minecraft:frog_variant
 minecraft:function
 minecraft:game_event
+minecraft:game_rule
 minecraft:height_provider_type
 minecraft:incoming_rpc_methods
 minecraft:input_control_type
@@ -64,6 +67,8 @@ minecraft:number_format_type
 minecraft:outgoing_rpc_methods
 minecraft:painting_variant
 minecraft:particle_type
+minecraft:permission_check_type
+minecraft:permission_type
 minecraft:pig_variant
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
@@ -77,9 +82,9 @@ minecraft:recipe_serializer
 minecraft:recipe_type
 minecraft:rule_block_entity_modifier
 minecraft:rule_test
-minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
+minecraft:slot_source_type
 minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type
@@ -90,6 +95,7 @@ minecraft:test_function
 minecraft:test_instance
 minecraft:test_instance_type
 minecraft:ticket_type
+minecraft:timeline
 minecraft:trial_spawner
 minecraft:trigger_type
 minecraft:trim_material
@@ -132,3 +138,4 @@ minecraft:worldgen/template_pool
 minecraft:worldgen/tree_decorator_type
 minecraft:worldgen/trunk_placer_type
 minecraft:worldgen/world_preset
+minecraft:zombie_nautilus_variant

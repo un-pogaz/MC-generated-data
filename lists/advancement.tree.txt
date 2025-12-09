@@ -11,6 +11,7 @@ adventure/root
 │ └>adventure/shoot_arrow
 │ │ └>adventure/bullseye
 │ │ └>adventure/sniper_duel
+│ └>adventure/spear_many_mobs
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying

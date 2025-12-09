@@ -5,6 +5,7 @@ minecraft:dolphin
 minecraft:drowned
 minecraft:enderman
 minecraft:glow_squid
+minecraft:nautilus
 minecraft:skeleton
 minecraft:slime
 minecraft:spider

@@ -1,2 +1,2 @@
-((required_level: 3))
+((permissions: admins))
 setidletimeout <minutes brigadier:integer[min="0"]>

@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 recipe give <targets minecraft:entity[type="players", amount="multiple"]> *
 recipe give <targets minecraft:entity[type="players", amount="multiple"]> <recipe minecraft:resource_key[registry="minecraft:recipe"]>
 recipe take <targets minecraft:entity[type="players", amount="multiple"]> *

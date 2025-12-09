@@ -4,6 +4,7 @@ minecraft:creeper
 minecraft:drowned
 minecraft:enderman
 minecraft:glow_squid
+minecraft:nautilus
 minecraft:salmon
 minecraft:skeleton
 minecraft:slime

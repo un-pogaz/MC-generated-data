@@ -154,6 +154,7 @@ minecraft:cactus
 minecraft:cactus_flower
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
+minecraft:camel_husk_spawn_egg
 minecraft:camel_spawn_egg
 minecraft:campfire
 minecraft:candle
@@ -652,6 +653,7 @@ minecraft:mutton
 minecraft:mycelium
 minecraft:name_tag
 minecraft:nautilus_shell
+minecraft:nautilus_spawn_egg
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
@@ -740,6 +742,7 @@ minecraft:pale_oak_trapdoor
 minecraft:pale_oak_wood
 minecraft:panda_spawn_egg
 minecraft:paper
+minecraft:parched_spawn_egg
 minecraft:parrot_spawn_egg
 minecraft:pearlescent_froglight
 minecraft:peony
@@ -1203,6 +1206,7 @@ minecraft:yellow_wool
 minecraft:zoglin_spawn_egg
 minecraft:zombie_head
 minecraft:zombie_horse_spawn_egg
+minecraft:zombie_nautilus_spawn_egg
 minecraft:zombie_spawn_egg
 minecraft:zombie_villager_spawn_egg
 minecraft:zombified_piglin_spawn_egg

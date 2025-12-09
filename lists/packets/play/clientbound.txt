@@ -40,7 +40,6 @@ minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
 minecraft:game_test_highlight_pos
-minecraft:horse_screen_open
 minecraft:hurt_animation
 minecraft:initialize_border
 minecraft:keep_alive
@@ -51,6 +50,7 @@ minecraft:light_update
 minecraft:login
 minecraft:map_item_data
 minecraft:merchant_offers
+minecraft:mount_screen_open
 minecraft:move_entity_pos
 minecraft:move_entity_pos_rot
 minecraft:move_entity_rot

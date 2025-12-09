@@ -1,5 +1,10 @@
 {
   "layers": {
+    "camel_husk_saddle": [
+      {
+        "texture": "minecraft:saddle"
+      }
+    ],
     "camel_saddle": [
       {
         "texture": "minecraft:saddle"
@@ -16,6 +21,11 @@
       }
     ],
     "mule_saddle": [
+      {
+        "texture": "minecraft:saddle"
+      }
+    ],
+    "nautilus_saddle": [
       {
         "texture": "minecraft:saddle"
       }

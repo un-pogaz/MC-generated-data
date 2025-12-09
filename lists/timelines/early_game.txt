@@ -1,0 +1,1 @@
+minecraft:gameplay/can_pillager_patrol_spawn

@@ -4,6 +4,7 @@ minecraft:angry_at
 minecraft:ate_recently
 minecraft:attack_cooling_down
 minecraft:attack_target
+minecraft:attack_target_cooldown
 minecraft:avoid_target
 minecraft:breed_target
 minecraft:breeze_jump_cooldown
@@ -16,6 +17,7 @@ minecraft:breeze_shoot_cooldown
 minecraft:breeze_shoot_recover
 minecraft:cant_reach_walk_target_since
 minecraft:celebrate_location
+minecraft:charge_cooldown_ticks
 minecraft:dancing
 minecraft:danger_detected_recently
 minecraft:dig_cooldown
@@ -93,6 +95,11 @@ minecraft:sniffer_sniffing_target
 minecraft:sonic_boom_cooldown
 minecraft:sonic_boom_sound_cooldown
 minecraft:sonic_boom_sound_delay
+minecraft:spear_charge_position
+minecraft:spear_engage_time
+minecraft:spear_fleeing_position
+minecraft:spear_fleeing_time
+minecraft:spear_status
 minecraft:temptation_cooldown_ticks
 minecraft:tempting_player
 minecraft:time_trying_to_reach_admire_item

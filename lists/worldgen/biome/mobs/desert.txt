@@ -4,6 +4,7 @@ minecraft:creeper
 minecraft:enderman
 minecraft:glow_squid
 minecraft:husk
+minecraft:parched
 minecraft:rabbit
 minecraft:skeleton
 minecraft:slime

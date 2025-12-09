@@ -192,6 +192,7 @@ minecraft:cactus_flower
 minecraft:cake
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
+minecraft:camel_husk_spawn_egg
 minecraft:camel_spawn_egg
 minecraft:campfire
 minecraft:candle
@@ -300,10 +301,12 @@ minecraft:copper_horse_armor
 minecraft:copper_ingot
 minecraft:copper_lantern
 minecraft:copper_leggings
+minecraft:copper_nautilus_armor
 minecraft:copper_nugget
 minecraft:copper_ore
 minecraft:copper_pickaxe
 minecraft:copper_shovel
+minecraft:copper_spear
 minecraft:copper_sword
 minecraft:copper_torch
 minecraft:copper_trapdoor
@@ -432,9 +435,11 @@ minecraft:diamond_helmet
 minecraft:diamond_hoe
 minecraft:diamond_horse_armor
 minecraft:diamond_leggings
+minecraft:diamond_nautilus_armor
 minecraft:diamond_ore
 minecraft:diamond_pickaxe
 minecraft:diamond_shovel
+minecraft:diamond_spear
 minecraft:diamond_sword
 minecraft:diorite
 minecraft:diorite_slab
@@ -559,8 +564,10 @@ minecraft:golden_helmet
 minecraft:golden_hoe
 minecraft:golden_horse_armor
 minecraft:golden_leggings
+minecraft:golden_nautilus_armor
 minecraft:golden_pickaxe
 minecraft:golden_shovel
+minecraft:golden_spear
 minecraft:golden_sword
 minecraft:granite
 minecraft:granite_slab
@@ -647,10 +654,12 @@ minecraft:iron_hoe
 minecraft:iron_horse_armor
 minecraft:iron_ingot
 minecraft:iron_leggings
+minecraft:iron_nautilus_armor
 minecraft:iron_nugget
 minecraft:iron_ore
 minecraft:iron_pickaxe
 minecraft:iron_shovel
+minecraft:iron_spear
 minecraft:iron_sword
 minecraft:iron_trapdoor
 minecraft:item_frame
@@ -843,6 +852,7 @@ minecraft:mutton
 minecraft:mycelium
 minecraft:name_tag
 minecraft:nautilus_shell
+minecraft:nautilus_spawn_egg
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
@@ -861,11 +871,14 @@ minecraft:netherite_boots
 minecraft:netherite_chestplate
 minecraft:netherite_helmet
 minecraft:netherite_hoe
+minecraft:netherite_horse_armor
 minecraft:netherite_ingot
 minecraft:netherite_leggings
+minecraft:netherite_nautilus_armor
 minecraft:netherite_pickaxe
 minecraft:netherite_scrap
 minecraft:netherite_shovel
+minecraft:netherite_spear
 minecraft:netherite_sword
 minecraft:netherite_upgrade_smithing_template
 minecraft:netherrack
@@ -953,6 +966,7 @@ minecraft:pale_oak_trapdoor
 minecraft:pale_oak_wood
 minecraft:panda_spawn_egg
 minecraft:paper
+minecraft:parched_spawn_egg
 minecraft:parrot_spawn_egg
 minecraft:pearlescent_froglight
 minecraft:peony
@@ -1242,6 +1256,7 @@ minecraft:stone_pickaxe
 minecraft:stone_pressure_plate
 minecraft:stone_shovel
 minecraft:stone_slab
+minecraft:stone_spear
 minecraft:stone_stairs
 minecraft:stone_sword
 minecraft:stonecutter
@@ -1462,6 +1477,7 @@ minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe
 minecraft:wooden_shovel
+minecraft:wooden_spear
 minecraft:wooden_sword
 minecraft:writable_book
 minecraft:written_book
@@ -1483,6 +1499,7 @@ minecraft:yellow_wool
 minecraft:zoglin_spawn_egg
 minecraft:zombie_head
 minecraft:zombie_horse_spawn_egg
+minecraft:zombie_nautilus_spawn_egg
 minecraft:zombie_spawn_egg
 minecraft:zombie_villager_spawn_egg
 minecraft:zombified_piglin_spawn_egg
@@ -1507,6 +1524,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:bundles
 #minecraft:buttons
 #minecraft:camel_food
+#minecraft:camel_husk_food
 #minecraft:candles
 #minecraft:cat_food
 #minecraft:chains
@@ -1552,11 +1570,13 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:enchantable/foot_armor
 #minecraft:enchantable/head_armor
 #minecraft:enchantable/leg_armor
+#minecraft:enchantable/lunge
 #minecraft:enchantable/mace
+#minecraft:enchantable/melee_weapon
 #minecraft:enchantable/mining
 #minecraft:enchantable/mining_loot
 #minecraft:enchantable/sharp_weapon
-#minecraft:enchantable/sword
+#minecraft:enchantable/sweeping
 #minecraft:enchantable/trident
 #minecraft:enchantable/vanishing
 #minecraft:enchantable/weapon
@@ -1599,6 +1619,9 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:mangrove_logs
 #minecraft:map_invisibility_equipment
 #minecraft:meat
+#minecraft:nautilus_bucket_food
+#minecraft:nautilus_food
+#minecraft:nautilus_taming_items
 #minecraft:netherite_tool_materials
 #minecraft:non_flammable_wood
 #minecraft:noteblock_top_instruments
@@ -1644,6 +1667,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:smelts_to_glass
 #minecraft:sniffer_food
 #minecraft:soul_fire_base_blocks
+#minecraft:spears
 #minecraft:spruce_logs
 #minecraft:stairs
 #minecraft:stone_bricks
@@ -1676,3 +1700,4 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:wooden_trapdoors
 #minecraft:wool
 #minecraft:wool_carpets
+#minecraft:zombie_horse_food

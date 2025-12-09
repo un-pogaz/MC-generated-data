@@ -1,1 +1,2 @@
 minecraft:crossbow
+minecraft:golden_spear

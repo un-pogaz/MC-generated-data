@@ -10,8 +10,15 @@ minecraft:prismarine_crystals
 
 minecraft:leather_chestplate
 minecraft:iron_sword
+minecraft:iron_spear
 
 minecraft:cooked_cod
 minecraft:cooked_salmon
 
 minecraft:potion
+
+empty
+minecraft:copper_nautilus_armor
+minecraft:iron_nautilus_armor
+minecraft:golden_nautilus_armor
+minecraft:diamond_nautilus_armor

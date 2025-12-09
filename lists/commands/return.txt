@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 return fail
 return run >>redirect{*}
 return <value brigadier:integer>
