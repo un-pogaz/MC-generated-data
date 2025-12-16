@@ -93,11 +93,13 @@ minecraft:test_instance
 minecraft:test_instance_type
 minecraft:ticket_type
 minecraft:timeline
+minecraft:trade_set
 minecraft:trial_spawner
 minecraft:trigger_type
 minecraft:trim_material
 minecraft:trim_pattern
 minecraft:villager_profession
+minecraft:villager_trade
 minecraft:villager_type
 minecraft:wolf_sound_variant
 minecraft:wolf_variant

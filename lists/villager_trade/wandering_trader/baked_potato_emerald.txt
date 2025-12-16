@@ -1,0 +1,5 @@
+wants: baked_potato x4
+gives: emerald x3
+xp: 1
+max use: 2
+reputation discount: 0.05

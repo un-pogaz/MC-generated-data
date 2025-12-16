@@ -44,3 +44,4 @@ minecraft:water_breathing
 minecraft:weakness
 minecraft:weaving
 minecraft:wind_charged
+#minecraft:tradeable

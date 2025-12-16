@@ -1,0 +1,3 @@
+((permissions: gamemasters))
+swing <targets minecraft:entity[type="entities", amount="multiple"]> mainhand
+swing <targets minecraft:entity[type="entities", amount="multiple"]> offhand
