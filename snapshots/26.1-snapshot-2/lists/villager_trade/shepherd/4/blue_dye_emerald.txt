@@ -1,0 +1,5 @@
+wants: blue_dye x12
+gives: emerald
+xp: 30
+max use: 16
+reputation discount: 0.05

@@ -1,0 +1,5 @@
+wants: emerald
+gives: lily_of_the_valley
+xp: 1
+max use: 7
+reputation discount: 0.05

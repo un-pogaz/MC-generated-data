@@ -1,0 +1,14 @@
+{
+  "description": "Get all oped players",
+  "name": "minecraft:operators",
+  "params": [],
+  "result": {
+    "name": "operators",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  }
+}

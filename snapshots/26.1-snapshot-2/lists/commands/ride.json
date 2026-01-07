@@ -1,0 +1,40 @@
+{
+  "type": "literal",
+  "children": {
+    "target": {
+      "type": "argument",
+      "children": {
+        "dismount": {
+          "type": "literal",
+          "executable": true
+        },
+        "mount": {
+          "type": "literal",
+          "children": {
+            "vehicle": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "type": "entities",
+                "amount": "single"
+              }
+            }
+          }
+        }
+      },
+      "parser": "minecraft:entity",
+      "properties": {
+        "type": "entities",
+        "amount": "single"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

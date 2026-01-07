@@ -1,0 +1,4 @@
+minecraft:mob/nautilus/dash1
+minecraft:mob/nautilus/dash2
+minecraft:mob/nautilus/dash3
+minecraft:mob/nautilus/dash4
