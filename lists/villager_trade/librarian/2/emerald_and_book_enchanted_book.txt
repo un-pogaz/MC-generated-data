@@ -1,0 +1,6 @@
+wants: emerald, book
+gives: enchanted_book {enchantments: #tradeable}
+xp: 5
+max use: 12
+reputation discount: 0.2
+double price enchantments: #minecraft:double_trade_price

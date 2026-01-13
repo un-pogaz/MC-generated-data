@@ -1,0 +1,5 @@
+wants: cod x6, emerald
+gives: cooked_cod x6
+xp: 1
+max use: 16
+reputation discount: 0.05

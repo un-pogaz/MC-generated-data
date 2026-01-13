@@ -48,6 +48,7 @@ minecraft:level_event
 minecraft:level_particles
 minecraft:light_update
 minecraft:login
+minecraft:low_disk_space_warning
 minecraft:map_item_data
 minecraft:merchant_offers
 minecraft:mount_screen_open

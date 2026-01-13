@@ -1,0 +1,5 @@
+wants: emerald
+gives: chainmail_helmet
+xp: 10
+max use: 12
+reputation discount: 0.2
