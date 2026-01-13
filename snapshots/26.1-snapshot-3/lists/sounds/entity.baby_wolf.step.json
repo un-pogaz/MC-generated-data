@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/wolf/baby/step1",
+    "mob/wolf/baby/step2",
+    "mob/wolf/baby/step3",
+    "mob/wolf/baby/step4",
+    "mob/wolf/baby/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: tropical_fish_bucket
+xp: 1
+max use: 4
+reputation discount: 0.05

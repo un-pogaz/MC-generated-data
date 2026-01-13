@@ -1,0 +1,2 @@
+minecraft:mob/wolf/baby/whine1
+minecraft:mob/wolf/baby/whine2
