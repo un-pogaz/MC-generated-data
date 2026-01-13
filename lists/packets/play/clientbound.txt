@@ -39,6 +39,7 @@ minecraft:entity_position_sync
 minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
+minecraft:game_rule_values
 minecraft:game_test_highlight_pos
 minecraft:hurt_animation
 minecraft:initialize_border

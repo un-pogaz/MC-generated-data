@@ -1,0 +1,1 @@
+minecraft:wandering_trader/buying

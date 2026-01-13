@@ -1,8 +1,9 @@
 {
   "definition": {
-    "type": "minecraft:fungus",
+    "type": "minecraft:nether_fungus",
     "feature": "minecraft:warped_fungus_planted",
     "grows_on": "minecraft:warped_nylium",
-    "properties": {}
+    "properties": {},
+    "support_blocks": "minecraft:supports_warped_fungus"
   }
 }

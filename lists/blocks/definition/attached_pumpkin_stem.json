@@ -3,5 +3,6 @@
   "properties": {},
   "seed": "minecraft:pumpkin_seeds",
   "stem": "minecraft:pumpkin_stem",
+  "support_blocks": "minecraft:supports_pumpkin_stem",
   "type": "minecraft:attached_stem"
 }

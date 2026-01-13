@@ -1,0 +1,1 @@
+minecraft:librarian/3/ink_sac_emerald

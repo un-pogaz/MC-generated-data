@@ -1,0 +1,1 @@
+minecraft:all_of

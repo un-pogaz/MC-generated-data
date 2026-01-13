@@ -3,5 +3,6 @@
   "fruit": "minecraft:melon",
   "properties": {},
   "seed": "minecraft:melon_seeds",
+  "support_blocks": "minecraft:supports_melon_stem",
   "type": "minecraft:stem"
 }

@@ -1,0 +1,1 @@
+minecraft:ore_granite_lower

@@ -1,0 +1,1 @@
+minecraft:attached_to_logs

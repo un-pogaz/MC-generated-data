@@ -1012,7 +1012,7 @@ minecraft:block/trial_spawner_top_ejecting_reward
 minecraft:block/trial_spawner_top_ejecting_reward_ominous
 minecraft:block/trial_spawner_top_inactive
 minecraft:block/trial_spawner_top_inactive_ominous
-minecraft:block/tripwire
+minecraft:block/tripwire  [mcmeta]
 minecraft:block/tripwire_hook
 minecraft:block/tube_coral
 minecraft:block/tube_coral_block
