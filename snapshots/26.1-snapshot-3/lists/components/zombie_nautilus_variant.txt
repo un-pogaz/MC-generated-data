@@ -1,1 +1,2 @@
+minecraft:temperate
 minecraft:warm

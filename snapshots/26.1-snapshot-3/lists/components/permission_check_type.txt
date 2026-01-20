@@ -1,1 +1,2 @@
+minecraft:always_pass
 minecraft:require
