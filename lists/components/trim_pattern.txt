@@ -1,1 +1,1 @@
-minecraft:sentry
+minecraft:snout

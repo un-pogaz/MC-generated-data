@@ -1,5 +1,5 @@
 wants: potion {water}
 gives: emerald
 xp: 1
-max use: 12
+max use: 2
 reputation discount: 0.05

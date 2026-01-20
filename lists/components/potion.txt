@@ -1,1 +1,1 @@
-minecraft:slowness
+minecraft:long_fire_resistance

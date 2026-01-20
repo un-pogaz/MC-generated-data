@@ -1,1 +1,1 @@
-minecraft:smithing
+minecraft:campfire

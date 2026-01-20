@@ -1,1 +1,1 @@
-minecraft:fall
+minecraft:stalagmite

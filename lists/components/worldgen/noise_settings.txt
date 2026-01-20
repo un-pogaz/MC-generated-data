@@ -1,1 +1,1 @@
-minecraft:overworld
+minecraft:amplified

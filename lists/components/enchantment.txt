@@ -1,1 +1,1 @@
-minecraft:binding_curse
+minecraft:knockback

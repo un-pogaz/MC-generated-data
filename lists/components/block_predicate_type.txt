@@ -1,1 +1,1 @@
-minecraft:all_of
+minecraft:replaceable

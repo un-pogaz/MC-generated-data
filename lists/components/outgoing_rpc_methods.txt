@@ -1,1 +1,1 @@
-minecraft:notification/bans/added
+minecraft:notification/gamerules/updated

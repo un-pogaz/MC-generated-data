@@ -1,1 +1,1 @@
-minecraft:fancy_oak
+minecraft:ore_nether_gold

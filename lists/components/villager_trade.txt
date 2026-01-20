@@ -1,1 +1,1 @@
-minecraft:librarian/3/ink_sac_emerald
+minecraft:fletcher/2/flint_emerald

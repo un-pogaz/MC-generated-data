@@ -1,1 +1,1 @@
-minecraft:rotated_block_provider
+minecraft:dual_noise_provider

@@ -1,1 +1,1 @@
-minecraft:copper_golem_statue
+minecraft:vault

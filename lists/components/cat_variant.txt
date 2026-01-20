@@ -1,1 +1,1 @@
-minecraft:white
+minecraft:siamese

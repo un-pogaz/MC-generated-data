@@ -1,1 +1,1 @@
-minecraft:clamped_normal
+minecraft:clamped

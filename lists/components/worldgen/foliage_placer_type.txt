@@ -1,1 +1,1 @@
-minecraft:dark_oak_foliage_placer
+minecraft:cherry_foliage_placer

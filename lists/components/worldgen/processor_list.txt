@@ -1,1 +1,1 @@
-minecraft:bastion_generic_degradation
+minecraft:zombie_snowy

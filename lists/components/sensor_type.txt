@@ -1,1 +1,1 @@
-minecraft:breeze_attack_entity_sensor
+minecraft:is_in_water

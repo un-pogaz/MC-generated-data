@@ -1,1 +1,1 @@
-minecraft:flat
+minecraft:debug

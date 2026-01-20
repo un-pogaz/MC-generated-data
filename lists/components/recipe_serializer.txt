@@ -1,1 +1,1 @@
-minecraft:smithing_trim
+minecraft:crafting_special_tippedarrow

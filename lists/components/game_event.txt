@@ -1,1 +1,1 @@
-minecraft:jukebox_play
+minecraft:resonate_15

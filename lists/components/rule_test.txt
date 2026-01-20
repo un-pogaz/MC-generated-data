@@ -1,1 +1,1 @@
-minecraft:random_blockstate_match
+minecraft:random_block_match

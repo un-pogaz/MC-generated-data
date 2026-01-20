@@ -1,1 +1,1 @@
-minecraft:item.nautilus_saddle_equip
+minecraft:block.wooden_button.click_off

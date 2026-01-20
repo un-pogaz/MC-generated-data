@@ -1,1 +1,1 @@
-minecraft:universal_anger
+minecraft:forgive_dead_players

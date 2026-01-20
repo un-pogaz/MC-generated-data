@@ -1,1 +1,1 @@
-minecraft:background_music
+minecraft:ambient_particles

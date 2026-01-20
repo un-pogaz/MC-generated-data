@@ -1,1 +1,1 @@
-minecraft:smoking
+minecraft:smithing

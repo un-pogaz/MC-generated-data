@@ -1,1 +1,1 @@
-minecraft:end_midlands
+minecraft:sparse_jungle

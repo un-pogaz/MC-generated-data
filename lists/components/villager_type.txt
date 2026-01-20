@@ -1,1 +1,1 @@
-minecraft:swamp
+minecraft:taiga

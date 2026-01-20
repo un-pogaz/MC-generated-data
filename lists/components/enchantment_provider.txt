@@ -1,1 +1,1 @@
-minecraft:raid/pillager_post_wave_5
+minecraft:raid/pillager_post_wave_3

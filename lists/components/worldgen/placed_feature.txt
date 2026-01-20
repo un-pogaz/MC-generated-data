@@ -1,1 +1,1 @@
-minecraft:ore_granite_lower
+minecraft:patch_cactus_desert

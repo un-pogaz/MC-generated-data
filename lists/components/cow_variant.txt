@@ -1,1 +1,1 @@
-minecraft:warm
+minecraft:cold

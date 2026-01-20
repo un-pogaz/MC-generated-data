@@ -1,1 +1,1 @@
-minecraft:msg_command_outgoing
+minecraft:msg_command_incoming

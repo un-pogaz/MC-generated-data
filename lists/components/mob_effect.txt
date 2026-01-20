@@ -1,1 +1,1 @@
-minecraft:breath_of_the_nautilus
+minecraft:conduit_power

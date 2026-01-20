@@ -1,1 +1,1 @@
-minecraft:portal
+minecraft:falling_dripstone_lava

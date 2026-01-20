@@ -1,1 +1,1 @@
-minecraft:play_sound
+minecraft:clear_all_effects

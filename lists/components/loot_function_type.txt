@@ -1,1 +1,1 @@
-minecraft:discard
+minecraft:set_random_potion

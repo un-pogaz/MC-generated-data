@@ -1,1 +1,1 @@
-minecraft:packed_ice
+minecraft:vegetation_large

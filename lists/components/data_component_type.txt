@@ -1,1 +1,1 @@
-minecraft:frog/variant
+minecraft:axolotl/variant

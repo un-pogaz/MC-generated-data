@@ -1,1 +1,1 @@
-minecraft:contents
+minecraft:empty

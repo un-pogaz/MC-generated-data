@@ -1,1 +1,1 @@
-minecraft:ocean_monument
+minecraft:woodland_mansion

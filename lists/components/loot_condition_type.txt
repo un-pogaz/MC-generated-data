@@ -1,1 +1,1 @@
-minecraft:enchantment_active_check
+minecraft:entity_scores

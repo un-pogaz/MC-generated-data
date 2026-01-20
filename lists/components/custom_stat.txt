@@ -1,1 +1,1 @@
-minecraft:interact_with_smithing_table
+minecraft:raid_trigger

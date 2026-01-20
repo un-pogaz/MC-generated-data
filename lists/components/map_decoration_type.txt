@@ -1,1 +1,1 @@
-minecraft:banner_blue
+minecraft:trial_chambers

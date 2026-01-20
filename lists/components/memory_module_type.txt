@@ -1,1 +1,1 @@
-minecraft:breeze_shoot
+minecraft:nearest_player_holding_wanted_item

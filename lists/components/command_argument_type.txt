@@ -1,1 +1,1 @@
-minecraft:swizzle
+minecraft:item_slots

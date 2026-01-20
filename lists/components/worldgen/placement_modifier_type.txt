@@ -1,1 +1,1 @@
-minecraft:count_on_every_layer
+minecraft:fixed_placement

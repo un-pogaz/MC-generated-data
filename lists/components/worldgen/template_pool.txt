@@ -1,1 +1,1 @@
-minecraft:pillager_outpost/features
+minecraft:ancient_city/city/entrance

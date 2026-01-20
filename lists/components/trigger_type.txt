@@ -1,1 +1,1 @@
-minecraft:hero_of_the_village
+minecraft:villager_trade

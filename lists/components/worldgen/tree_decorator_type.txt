@@ -1,1 +1,1 @@
-minecraft:attached_to_logs
+minecraft:attached_to_leaves

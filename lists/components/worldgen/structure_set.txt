@@ -1,1 +1,1 @@
-minecraft:strongholds
+minecraft:trial_chambers

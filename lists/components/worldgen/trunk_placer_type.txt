@@ -1,1 +1,1 @@
-minecraft:fancy_trunk_placer
+minecraft:cherry_trunk_placer

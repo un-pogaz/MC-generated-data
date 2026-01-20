@@ -1,1 +1,1 @@
-minecraft:nether/base_3d_noise
+minecraft:end/base_3d_noise

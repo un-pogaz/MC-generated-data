@@ -1,1 +1,1 @@
-minecraft:fall_damage_multiplier
+minecraft:waypoint_transmit_range

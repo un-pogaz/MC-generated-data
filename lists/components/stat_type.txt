@@ -1,1 +1,1 @@
-minecraft:killed_by
+minecraft:killed
