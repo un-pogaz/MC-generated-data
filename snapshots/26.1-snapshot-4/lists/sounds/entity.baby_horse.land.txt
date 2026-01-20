@@ -1,0 +1,1 @@
+minecraft:mob/horse/baby_horse/land

@@ -1,0 +1,1 @@
+minecraft:ore_nether_gold

@@ -1,0 +1,25 @@
+{
+  "description": "Op players",
+  "name": "minecraft:operators/add",
+  "params": [
+    {
+      "name": "add",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/operator"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "operators",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  }
+}

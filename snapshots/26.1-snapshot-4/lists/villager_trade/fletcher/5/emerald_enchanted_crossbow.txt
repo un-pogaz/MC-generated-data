@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: crossbow {enchantments: {levels: 5..20, #on_traded_equipment}}
+xp: 15
+max use: 3
+reputation discount: 0.05

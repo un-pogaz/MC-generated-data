@@ -1,0 +1,5 @@
+minecraft:mob/camel_husk/eat1
+minecraft:mob/camel_husk/eat2
+minecraft:mob/camel_husk/eat3
+minecraft:mob/camel_husk/eat4
+minecraft:mob/camel_husk/eat5

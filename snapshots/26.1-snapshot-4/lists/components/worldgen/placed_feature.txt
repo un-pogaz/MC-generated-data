@@ -1,0 +1,1 @@
+minecraft:patch_cactus_desert

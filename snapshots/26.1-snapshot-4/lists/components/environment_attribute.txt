@@ -1,0 +1,1 @@
+minecraft:gameplay/cat_waking_up_gift_chance

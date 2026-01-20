@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/baby_horse/ambient1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient2",
+      "pitch": 0.75,
+      "weight": 2
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient3",
+      "pitch": 0.75,
+      "weight": 3
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient4",
+      "pitch": 0.75,
+      "weight": 3
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient5",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient7",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient8",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/horse/baby_horse/ambient9",
+      "pitch": 0.75,
+      "weight": 2
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_horse.ambient"
+}

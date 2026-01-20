@@ -1,0 +1,1 @@
+minecraft:dual_noise_provider

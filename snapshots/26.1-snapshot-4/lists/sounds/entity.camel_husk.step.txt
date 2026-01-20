@@ -1,0 +1,6 @@
+minecraft:mob/camel_husk/step1
+minecraft:mob/camel_husk/step2
+minecraft:mob/camel_husk/step3
+minecraft:mob/camel_husk/step4
+minecraft:mob/camel_husk/step5
+minecraft:mob/camel_husk/step6
