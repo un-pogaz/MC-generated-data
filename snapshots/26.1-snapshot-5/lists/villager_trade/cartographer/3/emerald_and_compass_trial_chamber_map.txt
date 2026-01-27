@@ -1,0 +1,5 @@
+wants: emerald x12, compass
+gives: map {destination: #minecraft:on_trial_chambers_maps}
+xp: 10
+max use: 12
+reputation discount: 0.05

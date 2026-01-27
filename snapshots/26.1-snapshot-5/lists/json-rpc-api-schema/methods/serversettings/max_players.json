@@ -1,0 +1,11 @@
+{
+  "description": "Get the maximum number of players allowed to connect to the server",
+  "name": "minecraft:serversettings/max_players",
+  "params": [],
+  "result": {
+    "name": "max",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

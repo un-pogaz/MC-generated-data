@@ -1,0 +1,2 @@
+#minecraft:common_smith/level_5
+minecraft:weaponsmith/5/emerald_enchanted_diamond_sword

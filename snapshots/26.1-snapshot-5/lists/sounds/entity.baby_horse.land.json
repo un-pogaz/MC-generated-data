@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/baby_horse/land",
+      "pitch": 0.75,
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_horse.land"
+}
