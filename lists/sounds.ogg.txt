@@ -2170,6 +2170,8 @@ minecraft:item/goat_horn/call4
 minecraft:item/goat_horn/call5
 minecraft:item/goat_horn/call6
 minecraft:item/goat_horn/call7
+minecraft:item/golden_dandelion/unuse
+minecraft:item/golden_dandelion/use
 minecraft:item/hoe/till1
 minecraft:item/hoe/till2
 minecraft:item/hoe/till3
@@ -2607,6 +2609,13 @@ minecraft:mob/cat/stray/idle1
 minecraft:mob/cat/stray/idle2
 minecraft:mob/cat/stray/idle3
 minecraft:mob/cat/stray/idle4
+minecraft:mob/chicken/baby_chicken/ambient1
+minecraft:mob/chicken/baby_chicken/ambient2
+minecraft:mob/chicken/baby_chicken/death
+minecraft:mob/chicken/baby_chicken/hurt1
+minecraft:mob/chicken/baby_chicken/hurt2
+minecraft:mob/chicken/baby_chicken/hurt3
+minecraft:mob/chicken/baby_chicken/hurt4
 minecraft:mob/chicken/hurt1
 minecraft:mob/chicken/hurt2
 minecraft:mob/chicken/plop
@@ -3134,9 +3143,9 @@ minecraft:mob/horse/baby_horse/ambient2
 minecraft:mob/horse/baby_horse/ambient3
 minecraft:mob/horse/baby_horse/ambient4
 minecraft:mob/horse/baby_horse/ambient5
+minecraft:mob/horse/baby_horse/ambient6
 minecraft:mob/horse/baby_horse/ambient7
 minecraft:mob/horse/baby_horse/ambient8
-minecraft:mob/horse/baby_horse/ambient9
 minecraft:mob/horse/baby_horse/angry
 minecraft:mob/horse/baby_horse/death
 minecraft:mob/horse/baby_horse/eat1
@@ -3144,7 +3153,6 @@ minecraft:mob/horse/baby_horse/eat2
 minecraft:mob/horse/baby_horse/eat3
 minecraft:mob/horse/baby_horse/eat4
 minecraft:mob/horse/baby_horse/eat5
-minecraft:mob/horse/baby_horse/fall
 minecraft:mob/horse/baby_horse/hurt1
 minecraft:mob/horse/baby_horse/hurt2
 minecraft:mob/horse/baby_horse/hurt3

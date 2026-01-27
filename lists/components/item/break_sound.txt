@@ -560,6 +560,7 @@ minecraft:golden_axe  = minecraft:entity.item.break
 minecraft:golden_boots  = minecraft:entity.item.break
 minecraft:golden_carrot  = minecraft:entity.item.break
 minecraft:golden_chestplate  = minecraft:entity.item.break
+minecraft:golden_dandelion  = minecraft:entity.item.break
 minecraft:golden_helmet  = minecraft:entity.item.break
 minecraft:golden_hoe  = minecraft:entity.item.break
 minecraft:golden_horse_armor  = minecraft:entity.item.break

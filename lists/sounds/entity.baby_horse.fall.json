@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/horse/baby_horse/fall",
-      "pitch": 0.75
-    }
-  ],
-  "subtitle": "subtitles.block.generic.fall"
-}

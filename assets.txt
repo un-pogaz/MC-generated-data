@@ -2289,6 +2289,8 @@ minecraft/sounds/item/goat_horn/call4.ogg
 minecraft/sounds/item/goat_horn/call5.ogg
 minecraft/sounds/item/goat_horn/call6.ogg
 minecraft/sounds/item/goat_horn/call7.ogg
+minecraft/sounds/item/golden_dandelion/unuse.ogg
+minecraft/sounds/item/golden_dandelion/use.ogg
 minecraft/sounds/item/hoe/till1.ogg
 minecraft/sounds/item/hoe/till2.ogg
 minecraft/sounds/item/hoe/till3.ogg
@@ -2726,6 +2728,13 @@ minecraft/sounds/mob/cat/stray/idle1.ogg
 minecraft/sounds/mob/cat/stray/idle2.ogg
 minecraft/sounds/mob/cat/stray/idle3.ogg
 minecraft/sounds/mob/cat/stray/idle4.ogg
+minecraft/sounds/mob/chicken/baby_chicken/ambient1.ogg
+minecraft/sounds/mob/chicken/baby_chicken/ambient2.ogg
+minecraft/sounds/mob/chicken/baby_chicken/death.ogg
+minecraft/sounds/mob/chicken/baby_chicken/hurt1.ogg
+minecraft/sounds/mob/chicken/baby_chicken/hurt2.ogg
+minecraft/sounds/mob/chicken/baby_chicken/hurt3.ogg
+minecraft/sounds/mob/chicken/baby_chicken/hurt4.ogg
 minecraft/sounds/mob/chicken/hurt1.ogg
 minecraft/sounds/mob/chicken/hurt2.ogg
 minecraft/sounds/mob/chicken/plop.ogg
@@ -3254,9 +3263,9 @@ minecraft/sounds/mob/horse/baby_horse/ambient2.ogg
 minecraft/sounds/mob/horse/baby_horse/ambient3.ogg
 minecraft/sounds/mob/horse/baby_horse/ambient4.ogg
 minecraft/sounds/mob/horse/baby_horse/ambient5.ogg
+minecraft/sounds/mob/horse/baby_horse/ambient6.ogg
 minecraft/sounds/mob/horse/baby_horse/ambient7.ogg
 minecraft/sounds/mob/horse/baby_horse/ambient8.ogg
-minecraft/sounds/mob/horse/baby_horse/ambient9.ogg
 minecraft/sounds/mob/horse/baby_horse/angry.ogg
 minecraft/sounds/mob/horse/baby_horse/death.ogg
 minecraft/sounds/mob/horse/baby_horse/eat1.ogg
@@ -3264,10 +3273,10 @@ minecraft/sounds/mob/horse/baby_horse/eat2.ogg
 minecraft/sounds/mob/horse/baby_horse/eat3.ogg
 minecraft/sounds/mob/horse/baby_horse/eat4.ogg
 minecraft/sounds/mob/horse/baby_horse/eat5.ogg
-minecraft/sounds/mob/horse/baby_horse/fall.ogg
 minecraft/sounds/mob/horse/baby_horse/hurt1.ogg
 minecraft/sounds/mob/horse/baby_horse/hurt2.ogg
 minecraft/sounds/mob/horse/baby_horse/hurt3.ogg
+minecraft/sounds/mob/horse/baby_horse/land.ogg
 minecraft/sounds/mob/horse/baby_horse/step1.ogg
 minecraft/sounds/mob/horse/baby_horse/step2.ogg
 minecraft/sounds/mob/horse/baby_horse/step3.ogg

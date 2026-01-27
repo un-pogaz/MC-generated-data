@@ -560,6 +560,7 @@ minecraft:golden_axe  = common
 minecraft:golden_boots  = common
 minecraft:golden_carrot  = common
 minecraft:golden_chestplate  = common
+minecraft:golden_dandelion  = common
 minecraft:golden_helmet  = common
 minecraft:golden_hoe  = common
 minecraft:golden_horse_armor  = common

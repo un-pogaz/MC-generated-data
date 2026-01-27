@@ -894,6 +894,7 @@ minecraft:block/glow_lichen
 minecraft:block/glowstone
 minecraft:block/gold_block
 minecraft:block/gold_ore
+minecraft:block/golden_dandelion
 minecraft:block/granite
 minecraft:block/granite_slab
 minecraft:block/granite_slab_top
@@ -1621,6 +1622,7 @@ minecraft:block/potted_dark_oak_sapling
 minecraft:block/potted_dead_bush
 minecraft:block/potted_fern
 minecraft:block/potted_flowering_azalea_bush
+minecraft:block/potted_golden_dandelion
 minecraft:block/potted_jungle_sapling
 minecraft:block/potted_lily_of_the_valley
 minecraft:block/potted_mangrove_propagule
@@ -2959,6 +2961,7 @@ minecraft:item/golden_chestplate_netherite_trim
 minecraft:item/golden_chestplate_quartz_trim
 minecraft:item/golden_chestplate_redstone_trim
 minecraft:item/golden_chestplate_resin_trim
+minecraft:item/golden_dandelion
 minecraft:item/golden_helmet
 minecraft:item/golden_helmet_amethyst_trim
 minecraft:item/golden_helmet_copper_trim

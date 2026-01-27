@@ -1,0 +1,5 @@
+wants: emerald x2
+gives: golden_dandelion
+xp: 1
+max use: 12
+reputation discount: 0.05
