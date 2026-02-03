@@ -37,6 +37,7 @@ minecraft:red_carpet
 minecraft:red_harness
 minecraft:saddle
 minecraft:trader_llama
+minecraft:trader_llama_baby
 minecraft:turtle_scute
 minecraft:white_carpet
 minecraft:white_harness

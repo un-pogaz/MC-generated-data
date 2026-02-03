@@ -3,13 +3,11 @@
     {
       "name": "mob/chicken/baby_chicken/ambient1",
       "pitch": 0.75,
-      "volume": 0.7,
       "weight": 3
     },
     {
       "name": "mob/chicken/baby_chicken/ambient2",
-      "pitch": 0.75,
-      "volume": 0.7
+      "pitch": 0.75
     }
   ],
   "subtitle": "subtitles.entity.baby_chicken.ambient"

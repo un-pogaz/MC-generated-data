@@ -1,25 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "mob/horse/baby_horse/eat1",
-      "pitch": 0.75
-    },
-    {
-      "name": "mob/horse/baby_horse/eat2",
-      "pitch": 0.75
-    },
-    {
-      "name": "mob/horse/baby_horse/eat3",
-      "pitch": 0.75
-    },
-    {
-      "name": "mob/horse/baby_horse/eat4",
-      "pitch": 0.75
-    },
-    {
-      "name": "mob/horse/baby_horse/eat5",
-      "pitch": 0.75
-    }
+    "mob/horse/baby_horse/eat1",
+    "mob/horse/baby_horse/eat2",
+    "mob/horse/baby_horse/eat3",
+    "mob/horse/baby_horse/eat4",
+    "mob/horse/baby_horse/eat5"
   ],
   "subtitle": "subtitles.entity.baby_horse.eat"
 }

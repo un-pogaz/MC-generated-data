@@ -2735,6 +2735,7 @@ minecraft/sounds/mob/chicken/baby_chicken/hurt1.ogg
 minecraft/sounds/mob/chicken/baby_chicken/hurt2.ogg
 minecraft/sounds/mob/chicken/baby_chicken/hurt3.ogg
 minecraft/sounds/mob/chicken/baby_chicken/hurt4.ogg
+minecraft/sounds/mob/chicken/baby_chicken/step.ogg
 minecraft/sounds/mob/chicken/hurt1.ogg
 minecraft/sounds/mob/chicken/hurt2.ogg
 minecraft/sounds/mob/chicken/plop.ogg

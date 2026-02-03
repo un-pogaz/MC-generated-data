@@ -1116,6 +1116,7 @@ minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/allay/allay
 minecraft:entity/armadillo/armadillo
+minecraft:entity/armadillo/armadillo_baby
 minecraft:entity/armorstand/armorstand
 minecraft:entity/axolotl/axolotl_blue
 minecraft:entity/axolotl/axolotl_blue_baby
@@ -1174,6 +1175,7 @@ minecraft:entity/banner/triangles_top
 minecraft:entity/bat/bat
 minecraft:entity/beacon/beacon_beam
 minecraft:entity/bear/polarbear
+minecraft:entity/bear/polarbear_baby
 minecraft:entity/bed/black
 minecraft:entity/bed/blue
 minecraft:entity/bed/brown
@@ -1192,8 +1194,12 @@ minecraft:entity/bed/white
 minecraft:entity/bed/yellow
 minecraft:entity/bee/bee
 minecraft:entity/bee/bee_angry
+minecraft:entity/bee/bee_angry_baby
 minecraft:entity/bee/bee_angry_nectar
+minecraft:entity/bee/bee_angry_nectar_baby
+minecraft:entity/bee/bee_baby
 minecraft:entity/bee/bee_nectar
+minecraft:entity/bee/bee_nectar_baby
 minecraft:entity/bee/bee_stinger
 minecraft:entity/bell/bell_body
 minecraft:entity/blaze/blaze
@@ -1211,6 +1217,7 @@ minecraft:entity/breeze/breeze
 minecraft:entity/breeze/breeze_eyes
 minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
+minecraft:entity/camel/camel_baby
 minecraft:entity/camel/camel_husk
 minecraft:entity/cat/cat_all_black
 minecraft:entity/cat/cat_all_black_baby
@@ -1403,6 +1410,7 @@ minecraft:entity/equipment/llama_body/pink
 minecraft:entity/equipment/llama_body/purple
 minecraft:entity/equipment/llama_body/red
 minecraft:entity/equipment/llama_body/trader_llama
+minecraft:entity/equipment/llama_body/trader_llama_baby
 minecraft:entity/equipment/llama_body/white
 minecraft:entity/equipment/llama_body/yellow
 minecraft:entity/equipment/mule_saddle/saddle
@@ -1439,9 +1447,13 @@ minecraft:entity/fish/tropical_b_pattern_5
 minecraft:entity/fish/tropical_b_pattern_6
 minecraft:entity/fishing/fishing_hook
 minecraft:entity/fox/fox
+minecraft:entity/fox/fox_baby
 minecraft:entity/fox/fox_sleep
+minecraft:entity/fox/fox_sleep_baby
 minecraft:entity/fox/fox_snow
+minecraft:entity/fox/fox_snow_baby
 minecraft:entity/fox/fox_snow_sleep
+minecraft:entity/fox/fox_snow_sleep_baby
 minecraft:entity/frog/frog_cold
 minecraft:entity/frog/frog_temperate
 minecraft:entity/frog/frog_warm
@@ -1451,6 +1463,7 @@ minecraft:entity/ghast/happy_ghast
 minecraft:entity/ghast/happy_ghast_baby
 minecraft:entity/ghast/happy_ghast_ropes
 minecraft:entity/goat/goat
+minecraft:entity/goat/goat_baby
 minecraft:entity/guardian/guardian
 minecraft:entity/guardian/guardian_beam
 minecraft:entity/guardian/guardian_elder
@@ -1500,10 +1513,14 @@ minecraft:entity/iron_golem/iron_golem_crackiness_low
 minecraft:entity/iron_golem/iron_golem_crackiness_medium
 minecraft:entity/lead_knot/lead_knot
 minecraft:entity/llama/llama_brown
+minecraft:entity/llama/llama_brown_baby
 minecraft:entity/llama/llama_creamy
+minecraft:entity/llama/llama_creamy_baby
 minecraft:entity/llama/llama_gray
+minecraft:entity/llama/llama_gray_baby
 minecraft:entity/llama/llama_spit
 minecraft:entity/llama/llama_white
+minecraft:entity/llama/llama_white_baby
 minecraft:entity/minecart/minecart
 minecraft:entity/nautilus/nautilus
 minecraft:entity/nautilus/nautilus_baby
