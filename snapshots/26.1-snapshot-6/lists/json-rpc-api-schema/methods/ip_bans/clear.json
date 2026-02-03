@@ -1,0 +1,14 @@
+{
+  "description": "Clear all ips in ban list",
+  "name": "minecraft:ip_bans/clear",
+  "params": [],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/ip_ban"
+      }
+    }
+  }
+}
