@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    "mob/pig/big/ambient1",
+    "mob/pig/big/ambient2",
+    "mob/pig/big/ambient3",
+    "mob/pig/big/ambient4",
+    "mob/pig/big/ambient5",
+    "mob/pig/big/ambient6",
+    {
+      "name": "mob/pig/big/ambient7",
+      "weight": 2
+    },
+    {
+      "name": "mob/pig/big/ambient8",
+      "weight": 2
+    },
+    "mob/pig/big/ambient9",
+    "mob/pig/big/ambient10"
+  ],
+  "subtitle": "subtitles.entity.pig.ambient"
+}

@@ -1,6 +1,5 @@
 {
   "sounds": [
     "mob/chicken/baby_chicken/step"
-  ],
-  "subtitle": "subtitles.block.generic.step"
+  ]
 }

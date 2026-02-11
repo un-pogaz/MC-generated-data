@@ -7,12 +7,15 @@ minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
 minecraft:block_type
+minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:chicken_sound_variant
 minecraft:chicken_variant
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type
+minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:creative_mode_tab
 minecraft:custom_stat
@@ -68,6 +71,7 @@ minecraft:painting_variant
 minecraft:particle_type
 minecraft:permission_check_type
 minecraft:permission_type
+minecraft:pig_sound_variant
 minecraft:pig_variant
 minecraft:point_of_interest_type
 minecraft:pos_rule_test

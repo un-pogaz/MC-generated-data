@@ -1,7 +1,10 @@
 minecraft:banner_pattern
+minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:chicken_sound_variant
 minecraft:chicken_variant
+minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:damage_type
 minecraft:dialog
@@ -13,6 +16,7 @@ minecraft:frog_variant
 minecraft:instrument
 minecraft:jukebox_song
 minecraft:painting_variant
+minecraft:pig_sound_variant
 minecraft:pig_variant
 minecraft:test_environment
 minecraft:test_instance

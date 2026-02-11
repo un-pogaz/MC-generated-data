@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    "mob/cat/royal/ambient1",
+    "mob/cat/royal/ambient2",
+    {
+      "name": "mob/cat/royal/ambient3",
+      "weight": 3
+    },
+    "mob/cat/royal/ambient4",
+    "mob/cat/royal/ambient5",
+    {
+      "name": "mob/cat/royal/ambient6",
+      "weight": 3
+    }
+  ],
+  "subtitle": "subtitles.entity.cat.ambient"
+}
