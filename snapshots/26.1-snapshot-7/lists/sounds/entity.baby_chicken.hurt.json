@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/chicken/baby_chicken/hurt1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/chicken/baby_chicken/hurt2",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/chicken/baby_chicken/hurt3",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/chicken/baby_chicken/hurt4",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_chicken.hurt"
+}

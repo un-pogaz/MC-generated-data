@@ -1,0 +1,18 @@
+((permissions: gamemasters))
+time add <time minecraft:time[min="-2147483648"]>
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> add <time minecraft:time[min="-2147483648"]>
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> pause
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> query time
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> query <timeline minecraft:resource[registry="minecraft:timeline"]>
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> query <timeline minecraft:resource[registry="minecraft:timeline"]> repetition
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> resume
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> set <time minecraft:time[min="0"]>
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> set <timemarker minecraft:resource_location>
+time pause
+time query gametime
+time query time
+time query <timeline minecraft:resource[registry="minecraft:timeline"]>
+time query <timeline minecraft:resource[registry="minecraft:timeline"]> repetition
+time resume
+time set <time minecraft:time[min="0"]>
+time set <timemarker minecraft:resource_location>

@@ -1,0 +1,25 @@
+{
+  "description": "Add players to allowlist",
+  "name": "minecraft:allowlist/add",
+  "params": [
+    {
+      "name": "add",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/player"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "allowlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

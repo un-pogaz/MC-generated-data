@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/zombie_nautilus/dash_ready_land1",
+    "mob/zombie_nautilus/dash_ready_land2",
+    "mob/zombie_nautilus/dash_ready_land3",
+    "mob/zombie_nautilus/dash_ready_land4"
+  ],
+  "subtitle": "subtitles.entity.zombie_nautilus.dash_ready_land"
+}

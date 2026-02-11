@@ -1,0 +1,2 @@
+minecraft:cactus
+minecraft:farmland

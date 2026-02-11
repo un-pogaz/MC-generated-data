@@ -1,0 +1,2 @@
+minecraft:mob/chicken/baby_chicken/ambient1
+minecraft:mob/chicken/baby_chicken/ambient2
