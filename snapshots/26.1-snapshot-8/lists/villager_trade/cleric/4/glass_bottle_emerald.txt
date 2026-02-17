@@ -1,0 +1,5 @@
+wants: glass_bottle x9
+gives: emerald
+xp: 30
+max use: 12
+reputation discount: 0.05

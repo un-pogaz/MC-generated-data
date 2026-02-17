@@ -1,0 +1,1 @@
+minecraft:entity.baby_cat.ambient
