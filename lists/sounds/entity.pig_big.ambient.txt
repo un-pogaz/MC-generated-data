@@ -7,4 +7,3 @@ minecraft:mob/pig/big/ambient6
 minecraft:mob/pig/big/ambient7
 minecraft:mob/pig/big/ambient8
 minecraft:mob/pig/big/ambient9
-minecraft:mob/pig/big/ambient10
