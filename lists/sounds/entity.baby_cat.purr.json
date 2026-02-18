@@ -1,7 +1,7 @@
 {
   "sounds": [
     {
-      "name": "entity.baby_cat.ambient",
+      "name": "entity.cat.purr",
       "type": "event"
     }
   ],
