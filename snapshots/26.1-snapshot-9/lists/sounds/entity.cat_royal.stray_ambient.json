@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/cat/royal/ambient1",
+    "mob/cat/royal/ambient2",
+    "mob/cat/royal/ambient3",
+    "mob/cat/royal/ambient4",
+    "mob/cat/royal/ambient5",
+    "mob/cat/royal/ambient6"
+  ],
+  "subtitle": "subtitles.entity.cat.stray_ambient"
+}
