@@ -134,8 +134,8 @@ minecraft:block/budding_amethyst
 minecraft:block/bush
 minecraft:block/cactus_bottom
 minecraft:block/cactus_flower  [mcmeta]
-minecraft:block/cactus_side
-minecraft:block/cactus_top
+minecraft:block/cactus_side  [mcmeta]
+minecraft:block/cactus_top  [mcmeta]
 minecraft:block/cake_bottom
 minecraft:block/cake_inner
 minecraft:block/cake_side
