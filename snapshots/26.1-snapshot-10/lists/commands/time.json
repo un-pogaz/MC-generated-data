@@ -1,0 +1,154 @@
+{
+  "type": "literal",
+  "children": {
+    "add": {
+      "type": "literal",
+      "children": {
+        "time": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:time",
+          "properties": {
+            "min": -2147483648
+          }
+        }
+      }
+    },
+    "of": {
+      "type": "literal",
+      "children": {
+        "clock": {
+          "type": "argument",
+          "children": {
+            "add": {
+              "type": "literal",
+              "children": {
+                "time": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:time",
+                  "properties": {
+                    "min": -2147483648
+                  }
+                }
+              }
+            },
+            "pause": {
+              "type": "literal",
+              "executable": true
+            },
+            "query": {
+              "type": "literal",
+              "children": {
+                "time": {
+                  "type": "literal",
+                  "executable": true
+                },
+                "timeline": {
+                  "type": "argument",
+                  "children": {
+                    "repetition": {
+                      "type": "literal",
+                      "executable": true
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:timeline"
+                  }
+                }
+              }
+            },
+            "resume": {
+              "type": "literal",
+              "executable": true
+            },
+            "set": {
+              "type": "literal",
+              "children": {
+                "time": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:time",
+                  "properties": {
+                    "min": 0
+                  }
+                },
+                "timemarker": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:resource_location"
+                }
+              }
+            }
+          },
+          "parser": "minecraft:resource",
+          "properties": {
+            "registry": "minecraft:world_clock"
+          }
+        }
+      }
+    },
+    "pause": {
+      "type": "literal",
+      "executable": true
+    },
+    "query": {
+      "type": "literal",
+      "children": {
+        "gametime": {
+          "type": "literal",
+          "executable": true
+        },
+        "time": {
+          "type": "literal",
+          "executable": true
+        },
+        "timeline": {
+          "type": "argument",
+          "children": {
+            "repetition": {
+              "type": "literal",
+              "executable": true
+            }
+          },
+          "executable": true,
+          "parser": "minecraft:resource",
+          "properties": {
+            "registry": "minecraft:timeline"
+          }
+        }
+      }
+    },
+    "resume": {
+      "type": "literal",
+      "executable": true
+    },
+    "set": {
+      "type": "literal",
+      "children": {
+        "time": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:time",
+          "properties": {
+            "min": 0
+          }
+        },
+        "timemarker": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:resource_location"
+        }
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

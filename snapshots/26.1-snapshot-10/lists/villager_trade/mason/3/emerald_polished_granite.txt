@@ -1,0 +1,5 @@
+wants: emerald
+gives: polished_granite x4
+xp: 10
+max use: 16
+reputation discount: 0.05

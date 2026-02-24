@@ -1,0 +1,5 @@
+wants: emerald x8
+gives: diamond_helmet {enchantments: {levels: 5..20, #on_traded_equipment}}
+xp: 30
+max use: 3
+reputation discount: 0.2

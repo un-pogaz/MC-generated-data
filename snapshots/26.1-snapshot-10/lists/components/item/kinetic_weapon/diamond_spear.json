@@ -1,0 +1,19 @@
+{
+  "damage_conditions": {
+    "max_duration_ticks": 200,
+    "min_relative_speed": 4.6
+  },
+  "damage_multiplier": 1.075,
+  "delay_ticks": 10,
+  "dismount_conditions": {
+    "max_duration_ticks": 60,
+    "min_speed": 7.5
+  },
+  "forward_movement": 0.38,
+  "hit_sound": "minecraft:item.spear.hit",
+  "knockback_conditions": {
+    "max_duration_ticks": 130,
+    "min_speed": 5.1
+  },
+  "sound": "minecraft:item.spear.use"
+}

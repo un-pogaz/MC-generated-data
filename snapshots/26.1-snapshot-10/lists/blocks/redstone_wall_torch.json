@@ -1,0 +1,18 @@
+{
+  "definition": {
+    "type": "minecraft:redstone_wall_torch",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "lit": [
+      "true",
+      "false"
+    ]
+  }
+}
