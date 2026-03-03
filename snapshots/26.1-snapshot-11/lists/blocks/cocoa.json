@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "type": "minecraft:cocoa",
+    "properties": {}
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

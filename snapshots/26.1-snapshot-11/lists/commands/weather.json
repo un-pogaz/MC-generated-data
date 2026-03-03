@@ -1,0 +1,54 @@
+{
+  "type": "literal",
+  "children": {
+    "clear": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:time",
+          "properties": {
+            "min": 1
+          }
+        }
+      },
+      "executable": true
+    },
+    "rain": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:time",
+          "properties": {
+            "min": 1
+          }
+        }
+      },
+      "executable": true
+    },
+    "thunder": {
+      "type": "literal",
+      "children": {
+        "duration": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:time",
+          "properties": {
+            "min": 1
+          }
+        }
+      },
+      "executable": true
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

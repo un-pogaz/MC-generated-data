@@ -1,0 +1,5 @@
+wants: emerald x5
+gives: potion {invisibility (long)}
+xp: 1
+max use: 1
+reputation discount: 0.05

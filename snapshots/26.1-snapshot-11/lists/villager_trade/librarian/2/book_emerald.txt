@@ -1,0 +1,5 @@
+wants: book x4
+gives: emerald
+xp: 10
+max use: 12
+reputation discount: 0.05

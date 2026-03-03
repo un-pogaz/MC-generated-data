@@ -1,0 +1,3 @@
+minecraft:mob/pig/mini/hurt1
+minecraft:mob/pig/mini/hurt2
+minecraft:mob/pig/mini/hurt3
