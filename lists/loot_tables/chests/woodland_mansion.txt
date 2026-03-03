@@ -3,7 +3,6 @@ minecraft:golden_apple
 minecraft:enchanted_golden_apple
 minecraft:music_disc_13
 minecraft:music_disc_cat
-minecraft:name_tag
 minecraft:chainmail_chestplate
 minecraft:diamond_hoe
 minecraft:diamond_chestplate

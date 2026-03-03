@@ -3667,6 +3667,8 @@ minecraft/sounds/mob/pig/baby_pig/ambient4.ogg
 minecraft/sounds/mob/pig/baby_pig/ambient5.ogg
 minecraft/sounds/mob/pig/baby_pig/ambient6.ogg
 minecraft/sounds/mob/pig/baby_pig/death.ogg
+minecraft/sounds/mob/pig/baby_pig/eat1.ogg
+minecraft/sounds/mob/pig/baby_pig/eat2.ogg
 minecraft/sounds/mob/pig/baby_pig/hit1.ogg
 minecraft/sounds/mob/pig/baby_pig/hit2.ogg
 minecraft/sounds/mob/pig/baby_pig/hit3.ogg
@@ -3691,6 +3693,8 @@ minecraft/sounds/mob/pig/big/hit1.ogg
 minecraft/sounds/mob/pig/big/hit2.ogg
 minecraft/sounds/mob/pig/big/hit3.ogg
 minecraft/sounds/mob/pig/death.ogg
+minecraft/sounds/mob/pig/eat1.ogg
+minecraft/sounds/mob/pig/eat2.ogg
 minecraft/sounds/mob/pig/mini/ambient1.ogg
 minecraft/sounds/mob/pig/mini/ambient2.ogg
 minecraft/sounds/mob/pig/mini/ambient3.ogg
@@ -3698,6 +3702,8 @@ minecraft/sounds/mob/pig/mini/ambient4.ogg
 minecraft/sounds/mob/pig/mini/ambient5.ogg
 minecraft/sounds/mob/pig/mini/ambient6.ogg
 minecraft/sounds/mob/pig/mini/death.ogg
+minecraft/sounds/mob/pig/mini/eat1.ogg
+minecraft/sounds/mob/pig/mini/eat2.ogg
 minecraft/sounds/mob/pig/mini/hurt1.ogg
 minecraft/sounds/mob/pig/mini/hurt2.ogg
 minecraft/sounds/mob/pig/mini/hurt3.ogg
