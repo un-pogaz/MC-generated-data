@@ -1,4 +1,0 @@
-minecraft:day
-minecraft:early_game
-minecraft:moon
-minecraft:villager_schedule

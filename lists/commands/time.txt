@@ -5,6 +5,7 @@ time of <clock minecraft:resource[registry="minecraft:world_clock"]> pause
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> query time
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> query <timeline minecraft:resource[registry="minecraft:timeline"]>
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> query <timeline minecraft:resource[registry="minecraft:timeline"]> repetition
+time of <clock minecraft:resource[registry="minecraft:world_clock"]> rate <rate brigadier:float[max="1000.0", min="1e-05"]>
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> resume
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> set <time minecraft:time[min="0"]>
 time of <clock minecraft:resource[registry="minecraft:world_clock"]> set <timemarker minecraft:resource_location>
@@ -13,6 +14,7 @@ time query gametime
 time query time
 time query <timeline minecraft:resource[registry="minecraft:timeline"]>
 time query <timeline minecraft:resource[registry="minecraft:timeline"]> repetition
+time rate <rate brigadier:float[max="1000.0", min="1e-05"]>
 time resume
 time set <time minecraft:time[min="0"]>
 time set <timemarker minecraft:resource_location>
