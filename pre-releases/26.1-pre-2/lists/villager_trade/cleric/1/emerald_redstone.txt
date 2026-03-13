@@ -1,0 +1,5 @@
+wants: emerald
+gives: redstone x2
+xp: 1
+max use: 12
+reputation discount: 0.05

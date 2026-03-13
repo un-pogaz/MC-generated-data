@@ -1,0 +1,18 @@
+{
+  "definition": {
+    "type": "minecraft:big_dripleaf_stem",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
