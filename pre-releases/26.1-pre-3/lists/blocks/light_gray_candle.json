@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:candle",
+    "properties": {}
+  },
+  "properties": {
+    "candles": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "lit": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
