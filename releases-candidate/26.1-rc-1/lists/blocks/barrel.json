@@ -1,0 +1,20 @@
+{
+  "definition": {
+    "type": "minecraft:barrel",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ],
+    "open": [
+      "true",
+      "false"
+    ]
+  }
+}

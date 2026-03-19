@@ -1,0 +1,5 @@
+wants: emerald
+gives: magenta_glazed_terracotta
+xp: 15
+max use: 12
+reputation discount: 0.05

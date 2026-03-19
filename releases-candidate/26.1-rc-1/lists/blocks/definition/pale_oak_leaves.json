@@ -1,0 +1,8 @@
+{
+  "leaf_particle": {
+    "type": "minecraft:pale_oak_leaves"
+  },
+  "leaf_particle_chance": 0.02,
+  "properties": {},
+  "type": "minecraft:untinted_particle_leaves"
+}

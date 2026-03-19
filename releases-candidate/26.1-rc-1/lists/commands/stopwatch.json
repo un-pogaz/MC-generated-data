@@ -1,0 +1,59 @@
+{
+  "type": "literal",
+  "children": {
+    "create": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:resource_location"
+        }
+      }
+    },
+    "query": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "children": {
+            "scale": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:double"
+            }
+          },
+          "executable": true,
+          "parser": "minecraft:resource_location"
+        }
+      }
+    },
+    "remove": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:resource_location"
+        }
+      }
+    },
+    "restart": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:resource_location"
+        }
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}
