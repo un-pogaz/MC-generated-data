@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.chicken.step",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

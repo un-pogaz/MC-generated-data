@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pig/baby_pig/hit1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/pig/baby_pig/hit2",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/pig/baby_pig/hit3",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_pig.hurt"
+}

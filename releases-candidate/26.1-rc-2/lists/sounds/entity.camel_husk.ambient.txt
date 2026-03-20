@@ -1,0 +1,8 @@
+minecraft:mob/camel_husk/ambient1
+minecraft:mob/camel_husk/ambient2
+minecraft:mob/camel_husk/ambient3
+minecraft:mob/camel_husk/ambient4
+minecraft:mob/camel_husk/ambient5
+minecraft:mob/camel_husk/ambient6
+minecraft:mob/camel_husk/ambient7
+minecraft:mob/camel_husk/ambient8
