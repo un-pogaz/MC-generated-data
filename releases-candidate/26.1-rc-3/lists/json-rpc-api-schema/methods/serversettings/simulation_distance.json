@@ -1,0 +1,11 @@
+{
+  "description": "Get the server's simulation distance in chunks",
+  "name": "minecraft:serversettings/simulation_distance",
+  "params": [],
+  "result": {
+    "name": "distance",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

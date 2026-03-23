@@ -1,0 +1,14 @@
+{
+  "description": "Get the ban list",
+  "name": "minecraft:bans",
+  "params": [],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/user_ban"
+      }
+    }
+  }
+}

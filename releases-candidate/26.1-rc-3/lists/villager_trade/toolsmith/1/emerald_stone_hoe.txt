@@ -1,0 +1,5 @@
+wants: emerald
+gives: stone_hoe
+xp: 1
+max use: 12
+reputation discount: 0.2

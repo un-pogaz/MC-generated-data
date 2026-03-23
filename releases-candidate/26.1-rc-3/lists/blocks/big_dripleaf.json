@@ -1,0 +1,24 @@
+{
+  "definition": {
+    "type": "minecraft:big_dripleaf",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "tilt": [
+      "none",
+      "unstable",
+      "partial",
+      "full"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
