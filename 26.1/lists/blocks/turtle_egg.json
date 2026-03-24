@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "type": "minecraft:turtle_egg",
+    "properties": {}
+  },
+  "properties": {
+    "eggs": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "hatch": [
+      "0",
+      "1",
+      "2"
+    ]
+  }
+}

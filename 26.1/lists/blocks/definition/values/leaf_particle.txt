@@ -1,0 +1,4 @@
+minecraft:azalea_leaves  = {type: "minecraft:tinted_leaves", color: -9399763}
+minecraft:cherry_leaves  = {type: "minecraft:cherry_leaves"}
+minecraft:flowering_azalea_leaves  = {type: "minecraft:tinted_leaves", color: -9399763}
+minecraft:pale_oak_leaves  = {type: "minecraft:pale_oak_leaves"}

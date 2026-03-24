@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.horse.eat",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.zombie_horse.eat"
+}
