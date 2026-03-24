@@ -1,5 +1,5 @@
 rotation=0,waterlogged=true
-rotation=0,waterlogged=false  [default]
+rotation=0,waterlogged=false
 rotation=1,waterlogged=true
 rotation=1,waterlogged=false
 rotation=2,waterlogged=true
@@ -15,7 +15,7 @@ rotation=6,waterlogged=false
 rotation=7,waterlogged=true
 rotation=7,waterlogged=false
 rotation=8,waterlogged=true
-rotation=8,waterlogged=false
+rotation=8,waterlogged=false  [default]
 rotation=9,waterlogged=true
 rotation=9,waterlogged=false
 rotation=10,waterlogged=true

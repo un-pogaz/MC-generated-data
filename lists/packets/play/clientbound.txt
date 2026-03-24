@@ -39,6 +39,7 @@ minecraft:entity_position_sync
 minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
+minecraft:game_rule_values
 minecraft:game_test_highlight_pos
 minecraft:hurt_animation
 minecraft:initialize_border
@@ -48,6 +49,7 @@ minecraft:level_event
 minecraft:level_particles
 minecraft:light_update
 minecraft:login
+minecraft:low_disk_space_warning
 minecraft:map_item_data
 minecraft:merchant_offers
 minecraft:mount_screen_open

@@ -1,2 +1,3 @@
+[[tracks]]
 minecraft:gameplay/baby_villager_activity
 minecraft:gameplay/villager_activity

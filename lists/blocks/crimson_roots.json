@@ -1,6 +1,7 @@
 {
   "definition": {
-    "type": "minecraft:roots",
-    "properties": {}
+    "type": "minecraft:nether_roots",
+    "properties": {},
+    "support_blocks": "minecraft:supports_crimson_roots"
   }
 }

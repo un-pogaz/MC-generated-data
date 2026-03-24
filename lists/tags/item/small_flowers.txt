@@ -14,3 +14,4 @@ minecraft:lily_of_the_valley
 minecraft:wither_rose
 minecraft:torchflower
 minecraft:closed_eyeblossom
+minecraft:golden_dandelion
