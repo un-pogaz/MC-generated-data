@@ -1,0 +1,11 @@
+{
+  "description": "Get whether the allowlist is enabled on the server",
+  "name": "minecraft:serversettings/use_allowlist",
+  "params": [],
+  "result": {
+    "name": "used",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

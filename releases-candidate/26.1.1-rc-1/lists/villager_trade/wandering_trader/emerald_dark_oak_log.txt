@@ -1,0 +1,5 @@
+wants: emerald
+gives: dark_oak_log x8
+xp: 1
+max use: 4
+reputation discount: 0.05
