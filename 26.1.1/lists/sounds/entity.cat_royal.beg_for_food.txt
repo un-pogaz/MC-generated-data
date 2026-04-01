@@ -1,0 +1,1 @@
+minecraft:entity.cat.beg_for_food

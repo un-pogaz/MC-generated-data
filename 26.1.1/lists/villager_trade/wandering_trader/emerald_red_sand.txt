@@ -1,0 +1,5 @@
+wants: emerald
+gives: red_sand x4
+xp: 1
+max use: 6
+reputation discount: 0.05

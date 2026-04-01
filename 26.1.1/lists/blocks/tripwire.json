@@ -1,0 +1,37 @@
+{
+  "definition": {
+    "type": "minecraft:tripwire",
+    "hook": "minecraft:tripwire_hook",
+    "properties": {}
+  },
+  "properties": {
+    "attached": [
+      "true",
+      "false"
+    ],
+    "disarmed": [
+      "true",
+      "false"
+    ],
+    "east": [
+      "true",
+      "false"
+    ],
+    "north": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ],
+    "south": [
+      "true",
+      "false"
+    ],
+    "west": [
+      "true",
+      "false"
+    ]
+  }
+}

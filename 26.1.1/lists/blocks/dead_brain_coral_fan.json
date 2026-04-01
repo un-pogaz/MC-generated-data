@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:base_coral_fan",
+    "properties": {}
+  },
+  "properties": {
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
