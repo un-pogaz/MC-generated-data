@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "26.1.1",
-    "snapshot": "26.1.1"
+    "snapshot": "26w14a"
   },
   "versions": [
+    {
+      "id": "26w14a",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/9b2672f791fd413098736acfb1fb7d9ae454473b/26w14a.json",
+      "time": "2026-04-01T12:20:44+00:00",
+      "releaseTime": "2026-04-01T12:13:30+00:00"
+    },
     {
       "id": "26.1.1",
       "type": "release",
@@ -6413,6 +6420,7 @@
   "pack_format": {
     "data": {
       "101.1": [
+        "26w14a",
         "26.1.1",
         "26.1.1-rc-1",
         "26.1",
@@ -7177,6 +7185,7 @@
     },
     "resource": {
       "84.0": [
+        "26w14a",
         "26.1.1",
         "26.1.1-rc-1",
         "26.1",
@@ -9304,6 +9313,7 @@
       "rd-132211"
     ],
     "specials": [
+      "26w14a",
       "25w14craftmine",
       "24w14potato",
       "23w13a_or_b",
@@ -9332,6 +9342,7 @@
     ]
   },
   "versions_history": [
+    "26w14a",
     "26.1.1",
     "26.1.1-rc-1",
     "26.1",
