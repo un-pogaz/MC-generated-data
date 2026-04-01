@@ -1,0 +1,4 @@
+minecraft:carrot
+minecraft:beetroot_seeds
+minecraft:potato
+minecraft:beetroot

@@ -1,0 +1,4 @@
+minecraft:mob/pufferfish/flop1
+minecraft:mob/pufferfish/flop2
+minecraft:mob/pufferfish/flop3
+minecraft:mob/pufferfish/flop4

@@ -1,0 +1,1 @@
+minecraft:follow_action  = False

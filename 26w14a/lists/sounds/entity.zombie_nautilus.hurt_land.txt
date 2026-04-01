@@ -1,0 +1,4 @@
+minecraft:mob/zombie_nautilus/hurt_land1
+minecraft:mob/zombie_nautilus/hurt_land2
+minecraft:mob/zombie_nautilus/hurt_land3
+minecraft:mob/zombie_nautilus/hurt_land4

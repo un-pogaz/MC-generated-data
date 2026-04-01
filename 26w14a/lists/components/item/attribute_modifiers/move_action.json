@@ -1,0 +1,16 @@
+[
+  {
+    "type": "minecraft:block_interaction_range",
+    "amount": 50.0,
+    "id": "minecraft:move_range",
+    "operation": "add_value",
+    "slot": "mainhand"
+  },
+  {
+    "type": "minecraft:entity_interaction_range",
+    "amount": 50.0,
+    "id": "minecraft:move_range",
+    "operation": "add_value",
+    "slot": "mainhand"
+  }
+]

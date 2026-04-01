@@ -1,0 +1,11 @@
+{
+  "description": "Get whether the server responds to connection status requests",
+  "name": "minecraft:serversettings/status_replies",
+  "params": [],
+  "result": {
+    "name": "enabled",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+adventure/root
+└>adventure/mine_a_block
+  └>adventure/craft_table
+    └>adventure/craft_chest
+    │ └>adventure/barrel_roll
+    │   └>adventure/nether_barrel_roll
+    │     └>adventure/end_barrel_roll
+    └>adventure/craft_sword
+    │ └>adventure/kill_a_mob
+    │   └>adventure/kill_all_mobs
+    └>adventure/door
+    │ └>adventure/build_house
+    └>adventure/obsidian
+    │ └>adventure/craft_nether_portal
+    │   └>adventure/find_fortress
+    │     └>adventure/obtain_blaze_rod
+    │       └>adventure/follow_ender_eye
+    │         └>adventure/eye_frame_combination
+    │           └>adventure/craft_end_portal
+    │             └>adventure/enter_the_end
+    │               └>adventure/kill_dragon
+    └>adventure/wooden_pickaxe
+      └>adventure/furnace
+        └>adventure/iron_ingot
+          └>adventure/build_trap
+          └>adventure/crafter
+          └>adventure/obtain_armor

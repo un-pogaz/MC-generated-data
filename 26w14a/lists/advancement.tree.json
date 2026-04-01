@@ -1,0 +1,209 @@
+{
+  "minecraft:adventure/root": {
+    "icon": "minecraft:map",
+    "title": "HerdCraft",
+    "description": "Herding and crafting your world",
+    "background": "minecraft:gui/advancements/backgrounds/adventure",
+    "frame": "task",
+    "childs": {
+      "minecraft:adventure/mine_a_block": {
+        "icon": "minecraft:punch_action",
+        "title": "Mine a Block",
+        "description": "Punch a block until it comes alive",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/craft_table": {
+            "icon": "minecraft:crafting_table",
+            "title": "Integrated Crafting Environment",
+            "description": "Craft a Crafting Table",
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/craft_chest": {
+                "icon": "minecraft:chest",
+                "title": "Random Access Materials",
+                "description": "Craft a Chest to keep track of your blocks",
+                "frame": "task",
+                "childs": {
+                  "minecraft:adventure/barrel_roll": {
+                    "icon": "minecraft:barrel",
+                    "title": "Do a Barrel Roll!",
+                    "description": "Make a barrel roll",
+                    "frame": "task",
+                    "rewards": "10 xp",
+                    "childs": {
+                      "minecraft:adventure/nether_barrel_roll": {
+                        "icon": "minecraft:barrel",
+                        "title": "Do a Barrel Roll! Do it! Do it! Do it in the Nether!",
+                        "description": "Do it! Do it now!",
+                        "frame": "task",
+                        "rewards": "100 xp",
+                        "childs": {
+                          "minecraft:adventure/end_barrel_roll": {
+                            "icon": "minecraft:barrel",
+                            "title": "Never Give Up! Trust Your Instincts!",
+                            "description": "Roll a barrel to the ends of the universe",
+                            "frame": "task",
+                            "rewards": "1000 xp"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "minecraft:adventure/craft_sword": {
+                "icon": "minecraft:wooden_sword",
+                "title": "Time to Fight!",
+                "description": "Craft a Sword",
+                "frame": "task",
+                "childs": {
+                  "minecraft:adventure/kill_a_mob": {
+                    "icon": "minecraft:iron_sword",
+                    "title": "Monster Hunter (With Friends)",
+                    "description": "Have your sword kill any hostile monster",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:adventure/kill_all_mobs": {
+                        "icon": "minecraft:diamond_sword",
+                        "title": "Monsters Hunted",
+                        "description": "Command an army of weapons to kill one of every hostile monster",
+                        "frame": "challenge",
+                        "rewards": "100 xp"
+                      }
+                    }
+                  }
+                }
+              },
+              "minecraft:adventure/door": {
+                "icon": "minecraft:oak_door",
+                "title": "Seek Shelter",
+                "description": "Craft a Door",
+                "frame": "task",
+                "childs": {
+                  "minecraft:adventure/build_house": {
+                    "icon": "minecraft:pale_oak_door",
+                    "title": "Tiny House, Assemble!",
+                    "description": "Watch 23 blocks and a door combine into a tiny house",
+                    "frame": "task"
+                  }
+                }
+              },
+              "minecraft:adventure/obsidian": {
+                "icon": "minecraft:obsidian",
+                "title": "You require additional...",
+                "description": "Mine some Obsidian",
+                "frame": "task",
+                "childs": {
+                  "minecraft:adventure/craft_nether_portal": {
+                    "icon": "minecraft:flint_and_steel",
+                    "title": "Nether-field Crafting",
+                    "description": "Watch twelve Obsidian and a Flint and Steel combine into a Nether Portal",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:adventure/find_fortress": {
+                        "icon": "minecraft:nether_bricks",
+                        "title": "A Terrible Fortress",
+                        "description": "Break your way into a Nether Fortress",
+                        "frame": "task",
+                        "childs": {
+                          "minecraft:adventure/obtain_blaze_rod": {
+                            "icon": "minecraft:blaze_rod",
+                            "title": "Into Fire",
+                            "description": "Relieve a Blaze of its rod",
+                            "frame": "task",
+                            "childs": {
+                              "minecraft:adventure/follow_ender_eye": {
+                                "icon": "minecraft:ender_eye",
+                                "title": "Eye Spy",
+                                "description": "Follow an Eye of Ender",
+                                "frame": "task",
+                                "childs": {
+                                  "minecraft:adventure/eye_frame_combination": {
+                                    "icon": "minecraft:end_portal_frame",
+                                    "title": "Unifying Eye-Frame Interaction",
+                                    "description": "Move an Eye of Ender close enough to an End Portal Frame for them to combine",
+                                    "frame": "task",
+                                    "childs": {
+                                      "minecraft:adventure/craft_end_portal": {
+                                        "icon": "minecraft:ender_dragon_spawn_egg",
+                                        "title": "End of Line",
+                                        "description": "Watch twelve End Portal Frames with Eyes of Ender inserted combine into an End Portal",
+                                        "frame": "task",
+                                        "childs": {
+                                          "minecraft:adventure/enter_the_end": {
+                                            "icon": "minecraft:end_stone",
+                                            "title": "The End?",
+                                            "description": "Gather enough Eyes of Ender, find some End Portal Frames and enter the End",
+                                            "frame": "task",
+                                            "childs": {
+                                              "minecraft:adventure/kill_dragon": {
+                                                "icon": "minecraft:dragon_head",
+                                                "title": "Free the End",
+                                                "description": "Good luck",
+                                                "frame": "task"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "minecraft:adventure/wooden_pickaxe": {
+                "icon": "minecraft:wooden_pickaxe",
+                "title": "Craft a Miner",
+                "description": "Craft a tool that can mine for you",
+                "frame": "task",
+                "childs": {
+                  "minecraft:adventure/furnace": {
+                    "icon": "minecraft:furnace",
+                    "title": "You're Cookin'",
+                    "description": "Make a furnace that can smelt things for you",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:adventure/iron_ingot": {
+                        "icon": "minecraft:iron_ingot",
+                        "title": "Ferrocious Ferrous",
+                        "description": "Make your way to the iron age",
+                        "frame": "task",
+                        "childs": {
+                          "minecraft:adventure/build_trap": {
+                            "icon": "minecraft:iron_bars",
+                            "title": "You Played Yourself",
+                            "description": "Watch out for 8 iron (or copper) bars, they're dangerous in groups. When you least expect it!",
+                            "frame": "task"
+                          },
+                          "minecraft:adventure/crafter": {
+                            "icon": "minecraft:crafter",
+                            "title": "Large Living Blocks Model",
+                            "description": "Automate your crafting with a Crafter",
+                            "frame": "task"
+                          },
+                          "minecraft:adventure/obtain_armor": {
+                            "icon": "minecraft:iron_chestplate",
+                            "title": "Suit Up",
+                            "description": "Protect yourself with a piece of iron armor",
+                            "frame": "task"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

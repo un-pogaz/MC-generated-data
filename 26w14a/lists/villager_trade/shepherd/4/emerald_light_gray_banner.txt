@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: light_gray_banner
+xp: 15
+max use: 12
+reputation discount: 0.05

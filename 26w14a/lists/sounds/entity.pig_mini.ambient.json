@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/pig/mini/ambient1",
+    "mob/pig/mini/ambient2",
+    "mob/pig/mini/ambient3",
+    "mob/pig/mini/ambient4",
+    "mob/pig/mini/ambient5",
+    "mob/pig/mini/ambient6"
+  ],
+  "subtitle": "subtitles.entity.pig.ambient"
+}
