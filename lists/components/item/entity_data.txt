@@ -66,6 +66,7 @@ minecraft:spider_spawn_egg  = {id: "minecraft:spider"}
 minecraft:squid_spawn_egg  = {id: "minecraft:squid"}
 minecraft:stray_spawn_egg  = {id: "minecraft:stray"}
 minecraft:strider_spawn_egg  = {id: "minecraft:strider"}
+minecraft:sulfur_cube_spawn_egg  = {id: "minecraft:sulfur_cube"}
 minecraft:tadpole_spawn_egg  = {id: "minecraft:tadpole"}
 minecraft:trader_llama_spawn_egg  = {id: "minecraft:trader_llama"}
 minecraft:tropical_fish_spawn_egg  = {id: "minecraft:tropical_fish"}

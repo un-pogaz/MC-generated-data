@@ -66,6 +66,8 @@ minecraft:cherry_wall_sign
 minecraft:chest
 minecraft:chipped_anvil
 minecraft:chiseled_bookshelf
+minecraft:cinnabar_brick_stairs
+minecraft:cinnabar_stairs
 minecraft:cobbled_deepslate_stairs
 minecraft:cobblestone_stairs
 minecraft:cocoa
@@ -225,9 +227,11 @@ minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_button
 minecraft:polished_blackstone_stairs
+minecraft:polished_cinnabar_stairs
 minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
+minecraft:polished_sulfur_stairs
 minecraft:polished_tuff_stairs
 minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
@@ -271,6 +275,8 @@ minecraft:stone_brick_stairs
 minecraft:stone_button
 minecraft:stone_stairs
 minecraft:stonecutter
+minecraft:sulfur_brick_stairs
+minecraft:sulfur_stairs
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:tube_coral_wall_fan

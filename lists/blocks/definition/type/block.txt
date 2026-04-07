@@ -19,6 +19,7 @@ minecraft:brown_terracotta
 minecraft:brown_wool
 minecraft:calcite
 minecraft:cherry_planks
+minecraft:chiseled_cinnabar
 minecraft:chiseled_deepslate
 minecraft:chiseled_nether_bricks
 minecraft:chiseled_polished_blackstone
@@ -27,8 +28,11 @@ minecraft:chiseled_red_sandstone
 minecraft:chiseled_resin_bricks
 minecraft:chiseled_sandstone
 minecraft:chiseled_stone_bricks
+minecraft:chiseled_sulfur
 minecraft:chiseled_tuff
 minecraft:chiseled_tuff_bricks
+minecraft:cinnabar
+minecraft:cinnabar_bricks
 minecraft:clay
 minecraft:coal_block
 minecraft:coarse_dirt
@@ -112,9 +116,11 @@ minecraft:pink_wool
 minecraft:polished_andesite
 minecraft:polished_blackstone
 minecraft:polished_blackstone_bricks
+minecraft:polished_cinnabar
 minecraft:polished_deepslate
 minecraft:polished_diorite
 minecraft:polished_granite
+minecraft:polished_sulfur
 minecraft:polished_tuff
 minecraft:prismarine
 minecraft:prismarine_bricks
@@ -148,6 +154,8 @@ minecraft:soul_soil
 minecraft:spruce_planks
 minecraft:stone
 minecraft:stone_bricks
+minecraft:sulfur
+minecraft:sulfur_bricks
 minecraft:terracotta
 minecraft:tuff
 minecraft:tuff_bricks

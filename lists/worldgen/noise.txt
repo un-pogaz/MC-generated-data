@@ -53,6 +53,7 @@ minecraft:spaghetti_3d_rarity
 minecraft:spaghetti_3d_thickness
 minecraft:spaghetti_roughness
 minecraft:spaghetti_roughness_modulator
+minecraft:sulfur_cave_gradient
 minecraft:surface
 minecraft:surface_secondary
 minecraft:surface_swamp

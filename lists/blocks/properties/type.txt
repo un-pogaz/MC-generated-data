@@ -7,6 +7,8 @@ minecraft:blackstone_slab
 minecraft:brick_slab
 minecraft:cherry_slab
 minecraft:chest
+minecraft:cinnabar_brick_slab
+minecraft:cinnabar_slab
 minecraft:cobbled_deepslate_slab
 minecraft:cobblestone_slab
 minecraft:copper_chest
@@ -39,9 +41,11 @@ minecraft:piston_head
 minecraft:polished_andesite_slab
 minecraft:polished_blackstone_brick_slab
 minecraft:polished_blackstone_slab
+minecraft:polished_cinnabar_slab
 minecraft:polished_deepslate_slab
 minecraft:polished_diorite_slab
 minecraft:polished_granite_slab
+minecraft:polished_sulfur_slab
 minecraft:polished_tuff_slab
 minecraft:prismarine_brick_slab
 minecraft:prismarine_slab
@@ -58,6 +62,8 @@ minecraft:smooth_stone_slab
 minecraft:spruce_slab
 minecraft:stone_brick_slab
 minecraft:stone_slab
+minecraft:sulfur_brick_slab
+minecraft:sulfur_slab
 minecraft:trapped_chest
 minecraft:tuff_brick_slab
 minecraft:tuff_slab
