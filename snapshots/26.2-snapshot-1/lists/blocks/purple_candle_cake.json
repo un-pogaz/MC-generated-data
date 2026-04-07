@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "type": "minecraft:candle_cake",
+    "candle": "minecraft:purple_candle",
+    "properties": {}
+  },
+  "properties": {
+    "lit": [
+      "true",
+      "false"
+    ]
+  }
+}

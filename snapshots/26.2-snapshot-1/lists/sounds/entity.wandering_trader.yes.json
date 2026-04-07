@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/wandering_trader/yes1",
+    "mob/wandering_trader/yes2",
+    "mob/wandering_trader/yes3",
+    "mob/wandering_trader/yes4"
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.yes"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "executable": true,
+      "parser": "minecraft:game_profile"
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "admins"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/clark",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/comforting_memories",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/danny",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/dry_hands",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/floating_dream",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/haggstrom",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/key",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/living_mice",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/mice_on_venus",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/minecraft",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/swamp/aerie",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/swamp/firebugs",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/swamp/labyrinthine",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/sweden",
+      "stream": true,
+      "weight": 3
+    },
+    {
+      "name": "music/game/wet_hands",
+      "stream": true,
+      "weight": 3
+    }
+  ]
+}

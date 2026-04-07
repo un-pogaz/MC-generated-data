@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: golden_carrot x3
+xp: 30
+max use: 12
+reputation discount: 0.05
