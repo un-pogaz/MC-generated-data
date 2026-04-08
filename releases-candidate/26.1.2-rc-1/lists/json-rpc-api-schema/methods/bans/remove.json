@@ -1,0 +1,25 @@
+{
+  "description": "Remove players from ban list",
+  "name": "minecraft:bans/remove",
+  "params": [
+    {
+      "name": "remove",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/player"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/user_ban"
+      }
+    }
+  }
+}

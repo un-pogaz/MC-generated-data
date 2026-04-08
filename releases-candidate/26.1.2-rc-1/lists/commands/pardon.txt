@@ -1,0 +1,2 @@
+((permissions: admins))
+pardon <targets minecraft:game_profile>
