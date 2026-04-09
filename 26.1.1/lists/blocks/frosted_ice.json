@@ -1,0 +1,14 @@
+{
+  "definition": {
+    "type": "minecraft:frosted_ice",
+    "properties": {}
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/below_and_above",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/broken_clocks",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/fireflies",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/lilypad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/os_piano",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/menu/beginning_2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/floating_trees",
+      "stream": true
+    },
+    {
+      "name": "music/menu/moog_city_2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/mutation",
+      "stream": true
+    }
+  ]
+}

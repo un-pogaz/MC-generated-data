@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "type": "minecraft:pressure_plate",
+    "block_set_type": "crimson",
+    "properties": {}
+  },
+  "properties": {
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

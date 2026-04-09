@@ -1,0 +1,4 @@
+minecraft:mob/wolf/baby/angry1
+minecraft:mob/wolf/baby/angry2
+minecraft:mob/wolf/baby/angry3
+minecraft:mob/wolf/baby/angry4

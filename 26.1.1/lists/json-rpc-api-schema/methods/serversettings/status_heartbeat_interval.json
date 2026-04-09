@@ -1,0 +1,11 @@
+{
+  "description": "Get the interval in seconds between server status heartbeats",
+  "name": "minecraft:serversettings/status_heartbeat_interval",
+  "params": [],
+  "result": {
+    "name": "seconds",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}
