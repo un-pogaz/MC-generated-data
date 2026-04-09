@@ -1,0 +1,9 @@
+minecraft:music/game/below_and_above
+minecraft:music/game/broken_clocks
+minecraft:music/game/fireflies
+minecraft:music/game/lilypad
+minecraft:music/game/os_piano
+minecraft:music/menu/beginning_2
+minecraft:music/menu/floating_trees
+minecraft:music/menu/moog_city_2
+minecraft:music/menu/mutation

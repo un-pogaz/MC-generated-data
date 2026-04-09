@@ -1,0 +1,127 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/a_familiar_room",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/below_and_above",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/broken_clocks",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/clark",
+      "stream": true
+    },
+    {
+      "name": "music/game/comforting_memories",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/dry_hands",
+      "stream": true
+    },
+    {
+      "name": "music/game/featherfall",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/fireflies",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/floating_dream",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/haggstrom",
+      "stream": true
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/komorebi",
+      "stream": true,
+      "volume": 0.8
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/lilypad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/living_mice",
+      "stream": true
+    },
+    {
+      "name": "music/game/mice_on_venus",
+      "stream": true
+    },
+    {
+      "name": "music/game/minecraft",
+      "stream": true
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/os_piano",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/puzzlebox",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    },
+    {
+      "name": "music/game/sweden",
+      "stream": true
+    },
+    {
+      "name": "music/game/watcher",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/wet_hands",
+      "stream": true
+    },
+    {
+      "name": "music/game/yakusoku",
+      "stream": true,
+      "volume": 0.8
+    }
+  ]
+}

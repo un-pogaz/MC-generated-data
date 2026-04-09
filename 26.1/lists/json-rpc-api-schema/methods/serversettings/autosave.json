@@ -1,0 +1,11 @@
+{
+  "description": "Get whether automatic world saving is enabled on the server",
+  "name": "minecraft:serversettings/autosave",
+  "params": [],
+  "result": {
+    "name": "enabled",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}
