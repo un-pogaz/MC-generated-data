@@ -1,7 +1,11 @@
-[submodule "releases"]
-	path = releases
+[submodule "releases/part-1"]
+	path = releases/part-1
 	url = https://github.com/un-pogaz/MC-generated-data.git
-	branch = releases
+	branch = releases/part-1
+[submodule "releases/part-2"]
+	path = releases/part-2
+	url = https://github.com/un-pogaz/MC-generated-data.git
+	branch = releases/part-2
 [submodule "specials"]
 	path = specials
 	url = https://github.com/un-pogaz/MC-generated-data.git
