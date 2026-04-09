@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/parched/step1",
+    "mob/parched/step2",
+    "mob/parched/step3",
+    "mob/parched/step4"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

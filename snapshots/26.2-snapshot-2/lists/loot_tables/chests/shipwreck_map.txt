@@ -1,0 +1,17 @@
+minecraft:explorer_map
+
+minecraft:compass
+minecraft:map
+minecraft:clock
+minecraft:paper
+minecraft:feather
+minecraft:book
+
+empty
+minecraft:coast_armor_trim_smithing_template
+
+empty
+minecraft:copper_nautilus_armor
+minecraft:iron_nautilus_armor
+minecraft:golden_nautilus_armor
+minecraft:diamond_nautilus_armor
