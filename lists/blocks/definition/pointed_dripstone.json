@@ -1,4 +1,7 @@
 {
+  "block_to_grow_on": {
+    "Name": "minecraft:dripstone_block"
+  },
   "properties": {},
   "type": "minecraft:pointed_dripstone"
 }

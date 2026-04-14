@@ -447,6 +447,7 @@ minecraft:wandering_trader/emerald_small_dripleaf
 minecraft:wandering_trader/emerald_spruce_log
 minecraft:wandering_trader/emerald_spruce_sapling
 minecraft:wandering_trader/emerald_sugar_cane
+minecraft:wandering_trader/emerald_sulfur_spike
 minecraft:wandering_trader/emerald_tube_coral_block
 minecraft:wandering_trader/emerald_vine
 minecraft:wandering_trader/emerald_wheat_seeds

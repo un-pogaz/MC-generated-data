@@ -15,9 +15,9 @@ minecraft:dried_kelp_block
 minecraft:resin_block
 minecraft:resin_bricks
 minecraft:chiseled_resin_bricks
-minecraft:pumpkin
 minecraft:melon
 minecraft:hay_block
+minecraft:pumpkin
 minecraft:carved_pumpkin
 minecraft:jack_o_lantern
 minecraft:ochre_froglight

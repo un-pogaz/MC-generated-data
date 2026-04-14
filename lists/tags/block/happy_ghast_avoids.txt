@@ -3,4 +3,4 @@ minecraft:cactus
 minecraft:wither_rose
 minecraft:magma_block
 minecraft:fire
-minecraft:pointed_dripstone
+#minecraft:speleothems

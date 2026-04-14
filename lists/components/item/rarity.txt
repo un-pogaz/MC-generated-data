@@ -1318,6 +1318,7 @@ minecraft:sulfur_bricks  = common
 minecraft:sulfur_cube_bucket  = common
 minecraft:sulfur_cube_spawn_egg  = common
 minecraft:sulfur_slab  = common
+minecraft:sulfur_spike  = common
 minecraft:sulfur_stairs  = common
 minecraft:sulfur_wall  = common
 minecraft:sunflower  = common
