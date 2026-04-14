@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:creaking_heart",
+    "properties": {}
+  },
+  "properties": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "creaking_heart_state": [
+      "uprooted",
+      "dormant",
+      "awake"
+    ],
+    "natural": [
+      "true",
+      "false"
+    ]
+  }
+}

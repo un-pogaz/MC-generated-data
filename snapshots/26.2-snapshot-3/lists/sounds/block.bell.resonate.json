@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "block/bell/resonate",
+    {
+      "name": "block/bell/resonate",
+      "pitch": 0.85
+    },
+    {
+      "name": "block/bell/resonate",
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.bell.resonate"
+}

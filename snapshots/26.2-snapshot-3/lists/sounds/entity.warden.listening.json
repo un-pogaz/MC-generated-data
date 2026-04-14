@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/warden/listening_1",
+    "mob/warden/listening_2",
+    "mob/warden/listening_3",
+    "mob/warden/listening_4",
+    "mob/warden/listening_5"
+  ],
+  "subtitle": "subtitles.entity.warden.listening"
+}

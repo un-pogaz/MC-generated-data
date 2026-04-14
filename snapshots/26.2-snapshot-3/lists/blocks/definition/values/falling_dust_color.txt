@@ -1,0 +1,3 @@
+minecraft:gravel  = #ff807c7b
+minecraft:red_sand  = #00a95821
+minecraft:sand  = #00dbd3a0
