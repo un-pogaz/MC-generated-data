@@ -1,0 +1,21 @@
+{
+  "definition": {
+    "type": "minecraft:piston_base",
+    "properties": {},
+    "sticky": false
+  },
+  "properties": {
+    "extended": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    "mob/bee/hurt1",
+    {
+      "name": "mob/bee/hurt1",
+      "pitch": 1.2
+    },
+    "mob/bee/hurt2",
+    {
+      "name": "mob/bee/hurt2",
+      "pitch": 1.2
+    },
+    "mob/bee/hurt3",
+    {
+      "name": "mob/bee/hurt3",
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.hurt"
+}
