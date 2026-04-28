@@ -1,0 +1,8 @@
+minecraft:block/potent_sulfur/place1
+minecraft:block/potent_sulfur/place2
+minecraft:block/potent_sulfur/place3
+minecraft:block/potent_sulfur/place4
+minecraft:block/potent_sulfur/place5
+minecraft:block/potent_sulfur/place6
+minecraft:block/potent_sulfur/place7
+minecraft:block/potent_sulfur/place8

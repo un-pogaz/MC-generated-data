@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:jukebox",
+    "properties": {}
+  },
+  "properties": {
+    "has_record": [
+      "true",
+      "false"
+    ]
+  }
+}

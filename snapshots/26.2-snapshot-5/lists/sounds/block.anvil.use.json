@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "random/anvil_use",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.anvil.use"
+}
