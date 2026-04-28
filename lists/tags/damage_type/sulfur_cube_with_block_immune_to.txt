@@ -11,7 +11,6 @@ minecraft:mob_attack
 minecraft:mob_attack_no_aggro
 minecraft:mob_projectile
 minecraft:player_attack
-minecraft:player_explosion
 minecraft:spear
 minecraft:spit
 minecraft:stalagmite
@@ -20,3 +19,4 @@ minecraft:sweet_berry_bush
 minecraft:thrown
 minecraft:trident
 minecraft:wind_charge
+#minecraft:is_explosion

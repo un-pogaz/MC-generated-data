@@ -155,6 +155,9 @@
       Name: "minecraft:magma_block"
     },
     {
+      Properties: {
+        potent_sulfur_state: "dormant"
+      },
       Name: "minecraft:potent_sulfur"
     },
     {
@@ -164,5 +167,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 4887
+  DataVersion: 4889
 }

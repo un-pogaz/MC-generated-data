@@ -11,7 +11,8 @@ team modify <team minecraft:team> collisionRule always
 team modify <team minecraft:team> collisionRule never
 team modify <team minecraft:team> collisionRule pushOtherTeams
 team modify <team minecraft:team> collisionRule pushOwnTeam
-team modify <team minecraft:team> color <value minecraft:color>
+team modify <team minecraft:team> color reset
+team modify <team minecraft:team> color <value minecraft:team_color>
 team modify <team minecraft:team> deathMessageVisibility always
 team modify <team minecraft:team> deathMessageVisibility hideForOtherTeams
 team modify <team minecraft:team> deathMessageVisibility hideForOwnTeam

@@ -1,4 +1,4 @@
-wants: arrow x5, emerald x2
+wants: emerald x2, arrow x5
 gives: tipped_arrow x5 {random potion: #minecraft:tradeable}
 xp: 30
 max use: 12

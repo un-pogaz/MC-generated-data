@@ -1719,6 +1719,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:strider_food
 #minecraft:strider_tempt_items
 #minecraft:sulfur_cube_archetype/bouncy
+#minecraft:sulfur_cube_archetype/explosive
 #minecraft:sulfur_cube_archetype/fast_flat
 #minecraft:sulfur_cube_archetype/fast_sliding
 #minecraft:sulfur_cube_archetype/high_resistance
