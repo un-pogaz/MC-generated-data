@@ -1,0 +1,17 @@
+{
+  "definition": {
+    "type": "minecraft:chorus_flower",
+    "plant": "minecraft:chorus_plant",
+    "properties": {}
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  }
+}

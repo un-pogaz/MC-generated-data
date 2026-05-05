@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "item/bucket/fill_axolotl1",
+    "item/bucket/fill_axolotl2",
+    "item/bucket/fill_axolotl3"
+  ],
+  "subtitle": "subtitles.item.bucket.fill_axolotl"
+}
