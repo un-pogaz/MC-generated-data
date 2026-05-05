@@ -68,6 +68,7 @@ minecraft/lang/fy_nl.json
 minecraft/lang/ga_ie.json
 minecraft/lang/gd_gb.json
 minecraft/lang/gl_es.json
+minecraft/lang/go_fr.json
 minecraft/lang/hal_ua.json
 minecraft/lang/haw_us.json
 minecraft/lang/he_il.json
@@ -143,10 +144,12 @@ minecraft/lang/tr_tr.json
 minecraft/lang/tt_ru.json
 minecraft/lang/tzo_mx.json
 minecraft/lang/uk_ua.json
+minecraft/lang/uz_uz.json
 minecraft/lang/val_es.json
 minecraft/lang/vec_it.json
 minecraft/lang/vi_vn.json
 minecraft/lang/vp_vl.json
+minecraft/lang/vro.json
 minecraft/lang/yi_de.json
 minecraft/lang/yo_ng.json
 minecraft/lang/zh_cn.json

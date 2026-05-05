@@ -269,6 +269,11 @@
     "region": "Galicia / Galiza",
     "bidirectional": false
   },
+  "go_fr": {
+    "name": "Galo",
+    "region": "Bertègn",
+    "bidirectional": false
+  },
   "hal_ua": {
     "name": "Галицка",
     "region": "Галичина, Вкраїна",
@@ -644,6 +649,11 @@
     "region": "Україна",
     "bidirectional": false
   },
+  "uz_uz": {
+    "name": "O'zbekcha",
+    "region": "O'zbekiston",
+    "bidirectional": false
+  },
   "val_es": {
     "name": "Català (Valencià)",
     "region": "País Valencià",
@@ -662,6 +672,11 @@
   "vp_vl": {
     "name": "Viossa",
     "region": "Vilant",
+    "bidirectional": false
+  },
+  "vro": {
+    "name": "Võro",
+    "region": "Eesti",
     "bidirectional": false
   },
   "yi_de": {

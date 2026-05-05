@@ -603,6 +603,12 @@
             "rewards": "50 xp"
           }
         }
+      },
+      "minecraft:husbandry/uh_oh": {
+        "icon": "minecraft:tnt",
+        "title": "Uh Oh",
+        "description": "Have a Sulfur Cube absorb a TNT block",
+        "frame": "task"
       }
     }
   },
