@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "item/bottle/drink_honey1",
+    "item/bottle/drink_honey2",
+    {
+      "name": "item/bottle/drink_honey3",
+      "volume": 0.35
+    },
+    {
+      "name": "item/bottle/drink_honey3",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.item.honey_bottle.drink"
+}

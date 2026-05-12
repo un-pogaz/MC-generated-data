@@ -1,0 +1,32 @@
+{
+  "definition": {
+    "type": "minecraft:weathering_copper_door",
+    "block_set_type": "copper",
+    "properties": {},
+    "weathering_state": "unaffected"
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "half": [
+      "upper",
+      "lower"
+    ],
+    "hinge": [
+      "left",
+      "right"
+    ],
+    "open": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

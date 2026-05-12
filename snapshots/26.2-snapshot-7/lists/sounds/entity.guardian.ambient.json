@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/guardian/guardian_idle1",
+    "mob/guardian/guardian_idle2",
+    "mob/guardian/guardian_idle3",
+    "mob/guardian/guardian_idle4"
+  ],
+  "subtitle": "subtitles.entity.guardian.ambient"
+}
