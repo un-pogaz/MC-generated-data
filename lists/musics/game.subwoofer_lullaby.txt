@@ -17,3 +17,4 @@ sound_event: minecraft:music.overworld.old_growth_taiga
 sound_event: minecraft:music.overworld.snowy_slopes
 sound_event: minecraft:music.overworld.sparse_jungle
 sound_event: minecraft:music.overworld.stony_peaks
+sound_event: minecraft:music.overworld.sulfur_caves

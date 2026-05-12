@@ -4,6 +4,7 @@ minecraft:music/game/fireflies
 minecraft:music/game/haggstrom
 minecraft:music/game/key
 minecraft:music/game/living_mice
+minecraft:music/game/memories
 minecraft:music/game/one_more_day
 minecraft:music/game/oxygene
 minecraft:music/game/subwoofer_lullaby

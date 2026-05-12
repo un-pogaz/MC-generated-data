@@ -842,6 +842,7 @@ minecraft:music_disc_11  = uncommon
 minecraft:music_disc_13  = uncommon
 minecraft:music_disc_5  = uncommon
 minecraft:music_disc_blocks  = uncommon
+minecraft:music_disc_bounce  = uncommon
 minecraft:music_disc_cat  = uncommon
 minecraft:music_disc_chirp  = uncommon
 minecraft:music_disc_creator  = rare

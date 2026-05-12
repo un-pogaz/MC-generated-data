@@ -2,77 +2,69 @@
   "sounds": [
     {
       "name": "music/game/clark",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/comforting_memories",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/danny",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/dry_hands",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/floating_dream",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/haggstrom",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/key",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/left_to_bloom",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/living_mice",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/one_more_day",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/shores",
       "stream": true,
-      "weight": 3
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/subwoofer_lullaby",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/swamp/aerie",
@@ -91,13 +83,11 @@
     },
     {
       "name": "music/game/sweden",
-      "stream": true,
-      "weight": 3
+      "stream": true
     },
     {
       "name": "music/game/wet_hands",
-      "stream": true,
-      "weight": 3
+      "stream": true
     }
   ]
 }

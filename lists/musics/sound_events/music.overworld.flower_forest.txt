@@ -6,5 +6,7 @@ minecraft:music/game/haggstrom
 minecraft:music/game/key
 minecraft:music/game/left_to_bloom
 minecraft:music/game/living_mice
+minecraft:music/game/memories
 minecraft:music/game/oxygene
+minecraft:music/game/shores
 minecraft:music/game/subwoofer_lullaby

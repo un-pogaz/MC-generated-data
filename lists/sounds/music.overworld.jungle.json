@@ -3,8 +3,7 @@
     {
       "name": "music/game/bromeliad",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/danny",
@@ -19,11 +18,18 @@
       "stream": true
     },
     {
+      "name": "music/game/home",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/key",
       "stream": true
     },
     {
       "name": "music/game/left_to_bloom",
+      "stream": true,
       "volume": 0.4
     },
     {

@@ -1,6 +1,11 @@
 {
   "sounds": [
     {
+      "name": "music/game/ebb",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/swamp/aerie",
       "stream": true,
       "volume": 0.4

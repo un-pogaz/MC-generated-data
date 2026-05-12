@@ -9,8 +9,20 @@
       "stream": true
     },
     {
+      "name": "music/game/ebb",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/haggstrom",
       "stream": true
+    },
+    {
+      "name": "music/game/home",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/lilypad",
@@ -26,10 +38,15 @@
       "stream": true
     },
     {
-      "name": "music/game/stand_tall",
+      "name": "music/game/nightly",
       "stream": true,
       "volume": 0.4,
       "weight": 2
+    },
+    {
+      "name": "music/game/stand_tall",
+      "stream": true,
+      "volume": 0.4
     },
     {
       "name": "music/game/subwoofer_lullaby",

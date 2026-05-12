@@ -842,6 +842,7 @@ minecraft:music_disc_11  = minecraft:entity.item.break
 minecraft:music_disc_13  = minecraft:entity.item.break
 minecraft:music_disc_5  = minecraft:entity.item.break
 minecraft:music_disc_blocks  = minecraft:entity.item.break
+minecraft:music_disc_bounce  = minecraft:entity.item.break
 minecraft:music_disc_cat  = minecraft:entity.item.break
 minecraft:music_disc_chirp  = minecraft:entity.item.break
 minecraft:music_disc_creator  = minecraft:entity.item.break

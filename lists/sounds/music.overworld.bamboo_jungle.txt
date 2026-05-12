@@ -2,6 +2,7 @@ minecraft:music/game/bromeliad
 minecraft:music/game/danny
 minecraft:music/game/dry_hands
 minecraft:music/game/haggstrom
+minecraft:music/game/home
 minecraft:music/game/key
 minecraft:music/game/left_to_bloom
 minecraft:music/game/living_mice

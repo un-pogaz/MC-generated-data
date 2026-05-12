@@ -1,29 +1,34 @@
 {
   "sounds": [
     {
-      "name": "music/game/below_and_above",
+      "name": "music/game/ebb",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
-      "name": "music/game/broken_clocks",
+      "name": "music/game/home",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
-      "name": "music/game/fireflies",
+      "name": "music/game/memories",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
-      "name": "music/game/lilypad",
+      "name": "music/game/nightly",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
-      "name": "music/game/os_piano",
+      "name": "music/game/shores",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/menu/beginning_2",

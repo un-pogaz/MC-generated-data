@@ -9,5 +9,6 @@ minecraft:music/game/mice_on_venus
 minecraft:music/game/minecraft
 minecraft:music/game/oxygene
 minecraft:music/game/pokopoko
+minecraft:music/game/shores
 minecraft:music/game/sweden
 minecraft:music/game/wending

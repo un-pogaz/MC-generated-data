@@ -842,6 +842,7 @@ minecraft:music_disc_11  = 1
 minecraft:music_disc_13  = 1
 minecraft:music_disc_5  = 1
 minecraft:music_disc_blocks  = 1
+minecraft:music_disc_bounce  = 1
 minecraft:music_disc_cat  = 1
 minecraft:music_disc_chirp  = 1
 minecraft:music_disc_creator  = 1

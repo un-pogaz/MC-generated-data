@@ -3,5 +3,4 @@ title: O's Piano
 author: Amos Roddy
 length: 4m 35s
 sound_event: minecraft:music.game
-sound_event: minecraft:music.menu
 sound_event: minecraft:music.overworld.lush_caves

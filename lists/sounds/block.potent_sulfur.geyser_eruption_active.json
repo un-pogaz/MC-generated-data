@@ -1,12 +1,36 @@
 {
   "sounds": [
-    "block/potent_sulfur/sulfur_spring/eruption_active1",
-    "block/potent_sulfur/sulfur_spring/eruption_active2",
-    "block/potent_sulfur/sulfur_spring/eruption_active3",
-    "block/potent_sulfur/sulfur_spring/eruption_active4",
-    "block/potent_sulfur/sulfur_spring/eruption_active5",
-    "block/potent_sulfur/sulfur_spring/eruption_active6",
-    "block/potent_sulfur/sulfur_spring/eruption_active7",
-    "block/potent_sulfur/sulfur_spring/eruption_active8"
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active1",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active2",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active3",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active4",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active5",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active6",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active7",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/sulfur_spring/eruption_active8",
+      "volume": 2.0
+    }
   ]
 }

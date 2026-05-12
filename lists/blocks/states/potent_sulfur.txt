@@ -2,3 +2,4 @@ potent_sulfur_state=dry  [default]
 potent_sulfur_state=wet
 potent_sulfur_state=dormant
 potent_sulfur_state=erupting
+potent_sulfur_state=continuous

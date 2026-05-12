@@ -11,6 +11,7 @@ minecraft:music/game/mice_on_venus
 minecraft:music/game/minecraft
 minecraft:music/game/one_more_day
 minecraft:music/game/oxygene
+minecraft:music/game/shores
 minecraft:music/game/subwoofer_lullaby
 minecraft:music/game/swamp/aerie
 minecraft:music/game/swamp/firebugs

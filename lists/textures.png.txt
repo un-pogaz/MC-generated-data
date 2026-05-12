@@ -1,11 +1,13 @@
 minecraft:block/acacia_door_bottom
 minecraft:block/acacia_door_top
+minecraft:block/acacia_hanging_sign
 minecraft:block/acacia_leaves  [mcmeta]
 minecraft:block/acacia_log
 minecraft:block/acacia_log_top
 minecraft:block/acacia_planks
 minecraft:block/acacia_sapling
 minecraft:block/acacia_shelf
+minecraft:block/acacia_sign
 minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
@@ -32,10 +34,12 @@ minecraft:block/bamboo_fence
 minecraft:block/bamboo_fence_gate
 minecraft:block/bamboo_fence_gate_particle
 minecraft:block/bamboo_fence_particle
+minecraft:block/bamboo_hanging_sign
 minecraft:block/bamboo_large_leaves
 minecraft:block/bamboo_mosaic
 minecraft:block/bamboo_planks
 minecraft:block/bamboo_shelf
+minecraft:block/bamboo_sign
 minecraft:block/bamboo_singleleaf
 minecraft:block/bamboo_small_leaves
 minecraft:block/bamboo_stage0
@@ -73,12 +77,14 @@ minecraft:block/big_dripleaf_tip
 minecraft:block/big_dripleaf_top
 minecraft:block/birch_door_bottom
 minecraft:block/birch_door_top
+minecraft:block/birch_hanging_sign
 minecraft:block/birch_leaves  [mcmeta]
 minecraft:block/birch_log
 minecraft:block/birch_log_top
 minecraft:block/birch_planks
 minecraft:block/birch_sapling
 minecraft:block/birch_shelf
+minecraft:block/birch_sign
 minecraft:block/birch_trapdoor
 minecraft:block/black_bed_foot_east
 minecraft:block/black_bed_foot_south
@@ -195,12 +201,14 @@ minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/cherry_door_bottom
 minecraft:block/cherry_door_top
+minecraft:block/cherry_hanging_sign
 minecraft:block/cherry_leaves  [mcmeta]
 minecraft:block/cherry_log
 minecraft:block/cherry_log_top
 minecraft:block/cherry_planks
 minecraft:block/cherry_sapling
 minecraft:block/cherry_shelf
+minecraft:block/cherry_sign
 minecraft:block/cherry_trapdoor
 minecraft:block/chipped_anvil_top
 minecraft:block/chiseled_bookshelf_empty
@@ -297,12 +305,14 @@ minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
 minecraft:block/crimson_fungus  [mcmeta]
+minecraft:block/crimson_hanging_sign
 minecraft:block/crimson_nylium
 minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
 minecraft:block/crimson_roots
 minecraft:block/crimson_roots_pot
 minecraft:block/crimson_shelf
+minecraft:block/crimson_sign
 minecraft:block/crimson_stem  [mcmeta]
 minecraft:block/crimson_stem_top
 minecraft:block/crimson_trapdoor
@@ -331,12 +341,14 @@ minecraft:block/damaged_anvil_top
 minecraft:block/dandelion  [mcmeta]
 minecraft:block/dark_oak_door_bottom
 minecraft:block/dark_oak_door_top
+minecraft:block/dark_oak_hanging_sign
 minecraft:block/dark_oak_leaves  [mcmeta]
 minecraft:block/dark_oak_log
 minecraft:block/dark_oak_log_top
 minecraft:block/dark_oak_planks
 minecraft:block/dark_oak_sapling
 minecraft:block/dark_oak_shelf
+minecraft:block/dark_oak_sign
 minecraft:block/dark_oak_trapdoor
 minecraft:block/dark_prismarine
 minecraft:block/daylight_detector_inverted_top
@@ -563,12 +575,14 @@ minecraft:block/jukebox_side
 minecraft:block/jukebox_top
 minecraft:block/jungle_door_bottom
 minecraft:block/jungle_door_top
+minecraft:block/jungle_hanging_sign
 minecraft:block/jungle_leaves  [mcmeta]
 minecraft:block/jungle_log
 minecraft:block/jungle_log_top
 minecraft:block/jungle_planks
 minecraft:block/jungle_sapling
 minecraft:block/jungle_shelf
+minecraft:block/jungle_sign
 minecraft:block/jungle_trapdoor
 minecraft:block/kelp  [mcmeta]
 minecraft:block/kelp_plant  [mcmeta]
@@ -670,6 +684,7 @@ minecraft:block/magenta_wool
 minecraft:block/magma  [mcmeta]
 minecraft:block/mangrove_door_bottom
 minecraft:block/mangrove_door_top
+minecraft:block/mangrove_hanging_sign
 minecraft:block/mangrove_leaves  [mcmeta]
 minecraft:block/mangrove_log
 minecraft:block/mangrove_log_top
@@ -679,6 +694,7 @@ minecraft:block/mangrove_propagule_hanging
 minecraft:block/mangrove_roots_side  [mcmeta]
 minecraft:block/mangrove_roots_top  [mcmeta]
 minecraft:block/mangrove_shelf
+minecraft:block/mangrove_sign
 minecraft:block/mangrove_trapdoor
 minecraft:block/medium_amethyst_bud  [mcmeta]
 minecraft:block/melon_side
@@ -709,12 +725,14 @@ minecraft:block/netherrack
 minecraft:block/note_block
 minecraft:block/oak_door_bottom
 minecraft:block/oak_door_top
+minecraft:block/oak_hanging_sign
 minecraft:block/oak_leaves  [mcmeta]
 minecraft:block/oak_log
 minecraft:block/oak_log_top
 minecraft:block/oak_planks
 minecraft:block/oak_sapling
 minecraft:block/oak_shelf
+minecraft:block/oak_sign
 minecraft:block/oak_trapdoor
 minecraft:block/observer_back
 minecraft:block/observer_back_on
@@ -770,12 +788,14 @@ minecraft:block/pale_moss_carpet_side_small
 minecraft:block/pale_moss_carpet_side_tall
 minecraft:block/pale_oak_door_bottom
 minecraft:block/pale_oak_door_top
+minecraft:block/pale_oak_hanging_sign
 minecraft:block/pale_oak_leaves  [mcmeta]
 minecraft:block/pale_oak_log
 minecraft:block/pale_oak_log_top
 minecraft:block/pale_oak_planks
 minecraft:block/pale_oak_sapling
 minecraft:block/pale_oak_shelf
+minecraft:block/pale_oak_sign
 minecraft:block/pale_oak_trapdoor
 minecraft:block/pearlescent_froglight_side
 minecraft:block/pearlescent_froglight_top
@@ -1029,12 +1049,14 @@ minecraft:block/spore_blossom
 minecraft:block/spore_blossom_base
 minecraft:block/spruce_door_bottom
 minecraft:block/spruce_door_top
+minecraft:block/spruce_hanging_sign
 minecraft:block/spruce_leaves  [mcmeta]
 minecraft:block/spruce_log
 minecraft:block/spruce_log_top
 minecraft:block/spruce_planks
 minecraft:block/spruce_sapling
 minecraft:block/spruce_shelf
+minecraft:block/spruce_sign
 minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
@@ -1166,12 +1188,14 @@ minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
 minecraft:block/warped_fungus  [mcmeta]
+minecraft:block/warped_hanging_sign
 minecraft:block/warped_nylium
 minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
 minecraft:block/warped_roots
 minecraft:block/warped_roots_pot
 minecraft:block/warped_shelf
+minecraft:block/warped_sign
 minecraft:block/warped_stem  [mcmeta]
 minecraft:block/warped_stem_top
 minecraft:block/warped_trapdoor
@@ -1792,30 +1816,6 @@ minecraft:entity/shulker/shulker_red
 minecraft:entity/shulker/shulker_white
 minecraft:entity/shulker/shulker_yellow
 minecraft:entity/shulker/spark
-minecraft:entity/signs/acacia
-minecraft:entity/signs/bamboo
-minecraft:entity/signs/birch
-minecraft:entity/signs/cherry
-minecraft:entity/signs/crimson
-minecraft:entity/signs/dark_oak
-minecraft:entity/signs/hanging/acacia
-minecraft:entity/signs/hanging/bamboo
-minecraft:entity/signs/hanging/birch
-minecraft:entity/signs/hanging/cherry
-minecraft:entity/signs/hanging/crimson
-minecraft:entity/signs/hanging/dark_oak
-minecraft:entity/signs/hanging/jungle
-minecraft:entity/signs/hanging/mangrove
-minecraft:entity/signs/hanging/oak
-minecraft:entity/signs/hanging/pale_oak
-minecraft:entity/signs/hanging/spruce
-minecraft:entity/signs/hanging/warped
-minecraft:entity/signs/jungle
-minecraft:entity/signs/mangrove
-minecraft:entity/signs/oak
-minecraft:entity/signs/pale_oak
-minecraft:entity/signs/spruce
-minecraft:entity/signs/warped
 minecraft:entity/silverfish/silverfish
 minecraft:entity/skeleton/bogged
 minecraft:entity/skeleton/bogged_overlay
@@ -2077,6 +2077,18 @@ minecraft:gui/realms/snapshot_realms
 minecraft:gui/realms/survival_spawn
 minecraft:gui/realms/upload
 minecraft:gui/recipe_book
+minecraft:gui/signs/acacia
+minecraft:gui/signs/bamboo
+minecraft:gui/signs/birch
+minecraft:gui/signs/cherry
+minecraft:gui/signs/crimson
+minecraft:gui/signs/dark_oak
+minecraft:gui/signs/jungle
+minecraft:gui/signs/mangrove
+minecraft:gui/signs/oak
+minecraft:gui/signs/pale_oak
+minecraft:gui/signs/spruce
+minecraft:gui/signs/warped
 minecraft:gui/sprites/advancements/box_obtained  [mcmeta]
 minecraft:gui/sprites/advancements/box_unobtained  [mcmeta]
 minecraft:gui/sprites/advancements/challenge_frame_obtained
@@ -2264,6 +2276,24 @@ minecraft:gui/sprites/container/villager/trade_arrow_out_of_stock
 minecraft:gui/sprites/dialog/warning_button
 minecraft:gui/sprites/dialog/warning_button_disabled
 minecraft:gui/sprites/dialog/warning_button_highlighted
+minecraft:gui/sprites/friends/accept
+minecraft:gui/sprites/friends/accept_highlighted
+minecraft:gui/sprites/friends/background  [mcmeta]
+minecraft:gui/sprites/friends/button  [mcmeta]
+minecraft:gui/sprites/friends/button_disabled  [mcmeta]
+minecraft:gui/sprites/friends/button_highlighted  [mcmeta]
+minecraft:gui/sprites/friends/cancel
+minecraft:gui/sprites/friends/friends
+minecraft:gui/sprites/friends/illustrations_00
+minecraft:gui/sprites/friends/list_separator_top
+minecraft:gui/sprites/friends/loading  [mcmeta]
+minecraft:gui/sprites/friends/multiplayer/invite
+minecraft:gui/sprites/friends/multiplayer/join_request
+minecraft:gui/sprites/friends/reject
+minecraft:gui/sprites/friends/reject_highlighted
+minecraft:gui/sprites/friends/remove
+minecraft:gui/sprites/friends/toast  [mcmeta]
+minecraft:gui/sprites/friends/toast_background  [mcmeta]
 minecraft:gui/sprites/gamemode_switcher/selection
 minecraft:gui/sprites/gamemode_switcher/slot
 minecraft:gui/sprites/hud/air
@@ -2379,6 +2409,9 @@ minecraft:gui/sprites/notification/3
 minecraft:gui/sprites/notification/4
 minecraft:gui/sprites/notification/5
 minecraft:gui/sprites/notification/more
+minecraft:gui/sprites/pause_menu/bug
+minecraft:gui/sprites/pause_menu/player_reporting
+minecraft:gui/sprites/pause_menu/social_interactions
 minecraft:gui/sprites/pending_invite/accept
 minecraft:gui/sprites/pending_invite/accept_highlighted
 minecraft:gui/sprites/pending_invite/reject
@@ -3033,6 +3066,7 @@ minecraft:item/music_disc_11
 minecraft:item/music_disc_13
 minecraft:item/music_disc_5
 minecraft:item/music_disc_blocks
+minecraft:item/music_disc_bounce
 minecraft:item/music_disc_cat
 minecraft:item/music_disc_chirp
 minecraft:item/music_disc_creator
