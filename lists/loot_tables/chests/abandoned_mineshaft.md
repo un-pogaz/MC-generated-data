@@ -22,11 +22,12 @@
 | minecraft:beetroot_seeds         |  2..4 |  10.2% |  10/98 |                               |
 | – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
 | 3 time                           |    -- |     -- |     -- |                               |
-| minecraft:rail                   |  4..8 |    40% |  20/50 |                               |
-| minecraft:powered_rail           |  1..4 |    10% |   5/50 |                               |
-| minecraft:detector_rail          |  1..4 |    10% |   5/50 |                               |
-| minecraft:activator_rail         |  1..4 |    10% |   5/50 |                               |
-| minecraft:torch                  | 1..16 |    30% |  15/50 |                               |
+| minecraft:rail                   |  4..8 |  33.3% |  20/60 |                               |
+| minecraft:powered_rail           |  1..4 |   8.3% |   5/60 |                               |
+| minecraft:detector_rail          |  1..4 |   8.3% |   5/60 |                               |
+| minecraft:activator_rail         |  1..4 |   8.3% |   5/60 |                               |
+| minecraft:torch                  | 1..16 |    25% |  15/60 |                               |
+| minecraft:music_disc_bounce      |     1 |  16.7% |  10/60 |                               |
 | – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
 | 1 time                           |    -- |     -- |     -- |                               |
 | empty                            |       |    80% |    4/5 |                               |
