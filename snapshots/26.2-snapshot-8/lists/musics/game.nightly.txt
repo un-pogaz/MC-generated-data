@@ -1,0 +1,13 @@
+assets: minecraft:music/game/nightly
+title: Nightly
+author: fingerspit
+length: 5m 2s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.menu
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.frozen_peaks
+sound_event: minecraft:music.overworld.jagged_peaks
+sound_event: minecraft:music.overworld.snowy_slopes
+sound_event: minecraft:music.overworld.stony_peaks
+sound_event: minecraft:music.overworld.sulfur_caves

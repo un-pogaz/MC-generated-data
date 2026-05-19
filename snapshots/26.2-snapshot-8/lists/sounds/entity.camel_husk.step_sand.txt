@@ -1,0 +1,6 @@
+minecraft:mob/camel_husk/step_sand1
+minecraft:mob/camel_husk/step_sand2
+minecraft:mob/camel_husk/step_sand3
+minecraft:mob/camel_husk/step_sand4
+minecraft:mob/camel_husk/step_sand5
+minecraft:mob/camel_husk/step_sand6

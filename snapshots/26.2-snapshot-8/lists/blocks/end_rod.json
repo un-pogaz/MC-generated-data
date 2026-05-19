@@ -1,0 +1,16 @@
+{
+  "definition": {
+    "type": "minecraft:end_rod",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ]
+  }
+}

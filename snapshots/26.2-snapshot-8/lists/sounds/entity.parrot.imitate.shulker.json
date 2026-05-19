@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.shulker.ambient",
+      "pitch": 1.7,
+      "type": "event",
+      "volume": 0.4
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.shulker"
+}
