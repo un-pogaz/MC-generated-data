@@ -75,10 +75,6 @@ minecraft:block/andesite_wall_post
 minecraft:block/andesite_wall_side
 minecraft:block/andesite_wall_side_tall
 minecraft:block/anvil
-minecraft:block/attached_hanging_sign_rot_0
-minecraft:block/attached_hanging_sign_rot_1
-minecraft:block/attached_hanging_sign_rot_2
-minecraft:block/attached_hanging_sign_rot_3
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
 minecraft:block/azalea
@@ -164,8 +160,6 @@ minecraft:block/barrel_open
 minecraft:block/barrier
 minecraft:block/basalt
 minecraft:block/beacon
-minecraft:block/bed_foot
-minecraft:block/bed_head
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
 minecraft:block/bee_nest_empty
@@ -1067,10 +1061,6 @@ minecraft:block/green_terracotta
 minecraft:block/green_wool
 minecraft:block/grindstone
 minecraft:block/hanging_roots
-minecraft:block/hanging_sign_rot_0
-minecraft:block/hanging_sign_rot_1
-minecraft:block/hanging_sign_rot_2
-minecraft:block/hanging_sign_rot_3
 minecraft:block/hay_block
 minecraft:block/hay_block_horizontal
 minecraft:block/heavy_core
@@ -2060,10 +2050,6 @@ minecraft:block/short_dry_grass
 minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
-minecraft:block/sign_rot_0
-minecraft:block/sign_rot_1
-minecraft:block/sign_rot_2
-minecraft:block/sign_rot_3
 minecraft:block/skull
 minecraft:block/slab
 minecraft:block/slab_top
@@ -2311,6 +2297,10 @@ minecraft:block/tall_seagrass_bottom
 minecraft:block/tall_seagrass_top
 minecraft:block/target
 minecraft:block/template_anvil
+minecraft:block/template_attached_hanging_sign_rot_0
+minecraft:block/template_attached_hanging_sign_rot_1
+minecraft:block/template_attached_hanging_sign_rot_2
+minecraft:block/template_attached_hanging_sign_rot_3
 minecraft:block/template_azalea
 minecraft:block/template_bars_cap
 minecraft:block/template_bars_cap_alt
@@ -2319,6 +2309,8 @@ minecraft:block/template_bars_post_ends
 minecraft:block/template_bars_side
 minecraft:block/template_bars_side_alt
 minecraft:block/template_bed
+minecraft:block/template_bed_foot
+minecraft:block/template_bed_head
 minecraft:block/template_cake_with_candle
 minecraft:block/template_campfire
 minecraft:block/template_candle
@@ -2358,6 +2350,10 @@ minecraft:block/template_glass_pane_side
 minecraft:block/template_glass_pane_side_alt
 minecraft:block/template_glazed_terracotta
 minecraft:block/template_hanging_lantern
+minecraft:block/template_hanging_sign_rot_0
+minecraft:block/template_hanging_sign_rot_1
+minecraft:block/template_hanging_sign_rot_2
+minecraft:block/template_hanging_sign_rot_3
 minecraft:block/template_item_frame
 minecraft:block/template_item_frame_map
 minecraft:block/template_lantern
@@ -2386,6 +2382,10 @@ minecraft:block/template_shelf_left
 minecraft:block/template_shelf_right
 minecraft:block/template_shelf_unconnected
 minecraft:block/template_shelf_unpowered
+minecraft:block/template_sign_rot_0
+minecraft:block/template_sign_rot_1
+minecraft:block/template_sign_rot_2
+minecraft:block/template_sign_rot_3
 minecraft:block/template_single_face
 minecraft:block/template_three_candles
 minecraft:block/template_three_turtle_eggs
@@ -2400,9 +2400,11 @@ minecraft:block/template_turtle_egg
 minecraft:block/template_two_candles
 minecraft:block/template_two_turtle_eggs
 minecraft:block/template_vault
+minecraft:block/template_wall_hanging_sign
 minecraft:block/template_wall_post
 minecraft:block/template_wall_side
 minecraft:block/template_wall_side_tall
+minecraft:block/template_wall_sign
 minecraft:block/terracotta
 minecraft:block/test_block_accept
 minecraft:block/test_block_fail
@@ -2488,9 +2490,7 @@ minecraft:block/verdant_froglight
 minecraft:block/verdant_froglight_horizontal
 minecraft:block/very_cracked_turtle_egg
 minecraft:block/vine
-minecraft:block/wall_hanging_sign
 minecraft:block/wall_inventory
-minecraft:block/wall_sign
 minecraft:block/wall_torch
 minecraft:block/warped_button
 minecraft:block/warped_button_inventory

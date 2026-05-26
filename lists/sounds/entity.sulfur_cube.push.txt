@@ -1,4 +1,0 @@
-minecraft:mob/sulfur_cube/ball/push1
-minecraft:mob/sulfur_cube/ball/push2
-minecraft:mob/sulfur_cube/ball/push3
-minecraft:mob/sulfur_cube/ball/push4
