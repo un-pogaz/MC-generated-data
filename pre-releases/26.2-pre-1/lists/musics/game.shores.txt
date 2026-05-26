@@ -1,0 +1,13 @@
+assets: minecraft:music/game/shores
+title: Shores
+author: fingerspit
+length: 5m 20s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.menu
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.grove
+sound_event: minecraft:music.overworld.lush_caves
+sound_event: minecraft:music.overworld.old_growth_taiga
+sound_event: minecraft:music.overworld.sulfur_caves

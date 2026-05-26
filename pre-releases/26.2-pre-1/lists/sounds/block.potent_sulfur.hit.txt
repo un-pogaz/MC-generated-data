@@ -1,0 +1,7 @@
+minecraft:block/potent_sulfur/hit1
+minecraft:block/potent_sulfur/hit2
+minecraft:block/potent_sulfur/hit3
+minecraft:block/potent_sulfur/hit4
+minecraft:block/potent_sulfur/hit5
+minecraft:block/potent_sulfur/hit6
+minecraft:block/potent_sulfur/hit7
