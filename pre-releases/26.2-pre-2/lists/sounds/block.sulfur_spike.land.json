@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/sulfur_spike/land1",
+    "block/sulfur_spike/land2",
+    "block/sulfur_spike/land3",
+    "block/sulfur_spike/land4",
+    "block/sulfur_spike/land5",
+    "block/sulfur_spike/land6",
+    "block/sulfur_spike/land7"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

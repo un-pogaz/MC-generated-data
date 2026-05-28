@@ -1,0 +1,14 @@
+{
+  "description": "Get all connected players",
+  "name": "minecraft:players",
+  "params": [],
+  "result": {
+    "name": "players",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

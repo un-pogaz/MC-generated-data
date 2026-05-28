@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:comparator",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "mode": [
+      "compare",
+      "subtract"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

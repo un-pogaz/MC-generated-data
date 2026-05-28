@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/sulfur_cube/absorb1",
+    {
+      "name": "mob/sulfur_cube/absorb2",
+      "weight": 2
+    }
+  ],
+  "subtitle": "subtitles.entity.sulfur_cube.absorb"
+}

@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/ball/fastsliding_hit1
+minecraft:mob/sulfur_cube/ball/fastsliding_hit2
+minecraft:mob/sulfur_cube/ball/fastsliding_hit3
+minecraft:mob/sulfur_cube/ball/fastsliding_hit4
