@@ -1,0 +1,23 @@
+{
+  "definition": {
+    "type": "minecraft:bed",
+    "color": "blue",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "occupied": [
+      "true",
+      "false"
+    ],
+    "part": [
+      "head",
+      "foot"
+    ]
+  }
+}

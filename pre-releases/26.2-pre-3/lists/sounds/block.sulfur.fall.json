@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/sulfur/hit1",
+    "block/sulfur/hit2",
+    "block/sulfur/hit3",
+    "block/sulfur/hit4",
+    "block/sulfur/hit5",
+    "block/sulfur/hit6",
+    "block/sulfur/hit7"
+  ],
+  "subtitle": "subtitles.block.generic.fall"
+}
