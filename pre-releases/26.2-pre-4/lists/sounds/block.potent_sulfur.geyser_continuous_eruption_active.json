@@ -1,0 +1,32 @@
+{
+  "sounds": [
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active1",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active2",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active3",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active4",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active5",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active6",
+      "volume": 2.0
+    },
+    {
+      "name": "block/potent_sulfur/geyser_continuous/eruption_active7",
+      "volume": 2.0
+    }
+  ]
+}

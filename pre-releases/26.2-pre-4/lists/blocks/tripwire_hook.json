@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:trip_wire_hook",
+    "properties": {}
+  },
+  "properties": {
+    "attached": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

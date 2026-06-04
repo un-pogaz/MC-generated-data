@@ -1,0 +1,24 @@
+{
+  "definition": {
+    "type": "minecraft:bell",
+    "properties": {}
+  },
+  "properties": {
+    "attachment": [
+      "floor",
+      "ceiling",
+      "single_wall",
+      "double_wall"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}
