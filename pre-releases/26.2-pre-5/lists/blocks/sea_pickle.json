@@ -1,0 +1,18 @@
+{
+  "definition": {
+    "type": "minecraft:sea_pickle",
+    "properties": {}
+  },
+  "properties": {
+    "pickles": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

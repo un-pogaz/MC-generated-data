@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    "mob/sulfur_cube/small_sulfur_cube/jump1",
+    "mob/sulfur_cube/small_sulfur_cube/jump2",
+    "mob/sulfur_cube/small_sulfur_cube/jump3",
+    "mob/sulfur_cube/small_sulfur_cube/jump4",
+    "mob/sulfur_cube/small_sulfur_cube/jump5",
+    "mob/sulfur_cube/small_sulfur_cube/jump6",
+    "mob/sulfur_cube/small_sulfur_cube/jump7",
+    "mob/sulfur_cube/small_sulfur_cube/jump8",
+    "mob/sulfur_cube/small_sulfur_cube/jump9",
+    "mob/sulfur_cube/small_sulfur_cube/jump10",
+    "mob/sulfur_cube/small_sulfur_cube/jump11"
+  ],
+  "subtitle": "subtitles.entity.small_sulfur_cube.jump"
+}

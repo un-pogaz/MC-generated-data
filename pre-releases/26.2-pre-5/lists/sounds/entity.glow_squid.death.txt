@@ -1,0 +1,3 @@
+minecraft:mob/glow_squid/death1
+minecraft:mob/glow_squid/death2
+minecraft:mob/glow_squid/death3

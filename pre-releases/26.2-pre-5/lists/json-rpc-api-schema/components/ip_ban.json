@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "expires": {
+      "type": "string"
+    },
+    "ip": {
+      "type": "string"
+    },
+    "reason": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

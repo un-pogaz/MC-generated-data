@@ -1,0 +1,7 @@
+{
+  "block_to_grow_on": {
+    "Name": "minecraft:sulfur"
+  },
+  "properties": {},
+  "type": "minecraft:sulfur_spike"
+}

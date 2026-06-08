@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/hoglin/step1",
+    "mob/hoglin/step2",
+    "mob/hoglin/step3",
+    "mob/hoglin/step4",
+    "mob/hoglin/step5",
+    "mob/hoglin/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

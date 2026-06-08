@@ -1,0 +1,8 @@
+minecraft:mob/nautilus/ambient1
+minecraft:mob/nautilus/ambient2
+minecraft:mob/nautilus/ambient3
+minecraft:mob/nautilus/ambient4
+minecraft:mob/nautilus/ambient5
+minecraft:mob/nautilus/ambient6
+minecraft:mob/nautilus/ambient7
+minecraft:mob/nautilus/ambient8
