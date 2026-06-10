@@ -1,0 +1,23 @@
+{
+  "definition": {
+    "type": "minecraft:lever",
+    "properties": {}
+  },
+  "properties": {
+    "face": [
+      "floor",
+      "wall",
+      "ceiling"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

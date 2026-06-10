@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:tall_flower",
+    "properties": {}
+  },
+  "properties": {
+    "half": [
+      "upper",
+      "lower"
+    ]
+  }
+}

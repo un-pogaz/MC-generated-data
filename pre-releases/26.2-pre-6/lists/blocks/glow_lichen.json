@@ -1,0 +1,36 @@
+{
+  "definition": {
+    "type": "minecraft:glow_lichen",
+    "properties": {}
+  },
+  "properties": {
+    "down": [
+      "true",
+      "false"
+    ],
+    "east": [
+      "true",
+      "false"
+    ],
+    "north": [
+      "true",
+      "false"
+    ],
+    "south": [
+      "true",
+      "false"
+    ],
+    "up": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ],
+    "west": [
+      "true",
+      "false"
+    ]
+  }
+}
