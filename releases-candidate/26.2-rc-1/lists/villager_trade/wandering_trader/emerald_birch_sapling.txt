@@ -1,0 +1,5 @@
+wants: emerald x5
+gives: birch_sapling
+xp: 1
+max use: 8
+reputation discount: 0.05

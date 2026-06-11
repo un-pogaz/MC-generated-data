@@ -1,0 +1,7 @@
+minecraft:block/potent_sulfur/step1
+minecraft:block/potent_sulfur/step2
+minecraft:block/potent_sulfur/step3
+minecraft:block/potent_sulfur/step4
+minecraft:block/potent_sulfur/step5
+minecraft:block/potent_sulfur/step6
+minecraft:block/potent_sulfur/step7
