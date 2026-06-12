@@ -1,0 +1,4 @@
+#minecraft:planks
+minecraft:bamboo_mosaic
+#minecraft:logs
+#minecraft:bamboo_blocks
