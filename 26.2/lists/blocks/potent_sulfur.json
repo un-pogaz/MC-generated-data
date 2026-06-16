@@ -1,0 +1,15 @@
+{
+  "definition": {
+    "type": "minecraft:potent_sulfur",
+    "properties": {}
+  },
+  "properties": {
+    "potent_sulfur_state": [
+      "dry",
+      "wet",
+      "dormant",
+      "erupting",
+      "continuous"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "definition": {
+    "type": "minecraft:weathering_copper_stair",
+    "base_state": {
+      "Name": "minecraft:cut_copper"
+    },
+    "properties": {},
+    "weathering_state": "unaffected"
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "half": [
+      "top",
+      "bottom"
+    ],
+    "shape": [
+      "straight",
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

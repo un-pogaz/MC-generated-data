@@ -1,0 +1,15 @@
+{
+  "definition": {
+    "type": "minecraft:wall_banner",
+    "color": "green",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

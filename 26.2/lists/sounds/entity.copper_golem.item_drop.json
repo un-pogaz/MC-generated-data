@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/item_drop"
+    }
+  ],
+  "subtitle": "subtitles.entity.copper_golem.item_drop"
+}

@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "type": "minecraft:wall_skull",
+    "kind": "zombie",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

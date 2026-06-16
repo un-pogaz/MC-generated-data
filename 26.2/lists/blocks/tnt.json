@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:tnt",
+    "properties": {}
+  },
+  "properties": {
+    "unstable": [
+      "true",
+      "false"
+    ]
+  }
+}

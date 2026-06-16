@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:mycelium",
+    "properties": {}
+  },
+  "properties": {
+    "snowy": [
+      "true",
+      "false"
+    ]
+  }
+}

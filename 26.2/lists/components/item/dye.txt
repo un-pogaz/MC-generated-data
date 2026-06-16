@@ -1,0 +1,16 @@
+minecraft:black_dye  = black
+minecraft:blue_dye  = blue
+minecraft:brown_dye  = brown
+minecraft:cyan_dye  = cyan
+minecraft:gray_dye  = gray
+minecraft:green_dye  = green
+minecraft:light_blue_dye  = light_blue
+minecraft:light_gray_dye  = light_gray
+minecraft:lime_dye  = lime
+minecraft:magenta_dye  = magenta
+minecraft:orange_dye  = orange
+minecraft:pink_dye  = pink
+minecraft:purple_dye  = purple
+minecraft:red_dye  = red
+minecraft:white_dye  = white
+minecraft:yellow_dye  = yellow

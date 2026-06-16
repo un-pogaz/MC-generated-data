@@ -1,0 +1,14 @@
+{
+  "definition": {
+    "type": "minecraft:nether_wart",
+    "properties": {}
+  },
+  "properties": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ]
+  }
+}

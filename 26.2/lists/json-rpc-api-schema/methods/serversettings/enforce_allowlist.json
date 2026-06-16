@@ -1,0 +1,11 @@
+{
+  "description": "Get whether allowlist enforcement is enabled (kicks players immediately when removed from allowlist)",
+  "name": "minecraft:serversettings/enforce_allowlist",
+  "params": [],
+  "result": {
+    "name": "enforced",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

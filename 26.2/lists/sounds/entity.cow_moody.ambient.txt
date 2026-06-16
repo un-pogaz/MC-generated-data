@@ -1,0 +1,9 @@
+minecraft:mob/cow/moody/ambient1
+minecraft:mob/cow/moody/ambient2
+minecraft:mob/cow/moody/ambient3
+minecraft:mob/cow/moody/ambient4
+minecraft:mob/cow/moody/ambient5
+minecraft:mob/cow/moody/ambient6
+minecraft:mob/cow/moody/ambient7
+minecraft:mob/cow/moody/ambient8
+minecraft:mob/cow/moody/ambient9

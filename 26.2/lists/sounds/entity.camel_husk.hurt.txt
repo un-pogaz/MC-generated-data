@@ -1,0 +1,4 @@
+minecraft:mob/camel_husk/hurt1
+minecraft:mob/camel_husk/hurt2
+minecraft:mob/camel_husk/hurt3
+minecraft:mob/camel_husk/hurt4
