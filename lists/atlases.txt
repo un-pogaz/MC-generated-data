@@ -1,6 +1,5 @@
 minecraft:armor_trims
 minecraft:banner_patterns
-minecraft:beds
 minecraft:blocks
 minecraft:celestials
 minecraft:chests
@@ -12,4 +11,3 @@ minecraft:paintings
 minecraft:particles
 minecraft:shield_patterns
 minecraft:shulker_boxes
-minecraft:signs

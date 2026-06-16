@@ -2,6 +2,7 @@ minecraft:music_disc_11  = minecraft:11
 minecraft:music_disc_13  = minecraft:13
 minecraft:music_disc_5  = minecraft:5
 minecraft:music_disc_blocks  = minecraft:blocks
+minecraft:music_disc_bounce  = minecraft:bounce
 minecraft:music_disc_cat  = minecraft:cat
 minecraft:music_disc_chirp  = minecraft:chirp
 minecraft:music_disc_creator  = minecraft:creator

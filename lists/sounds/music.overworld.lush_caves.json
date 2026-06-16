@@ -45,6 +45,11 @@
     {
       "name": "music/game/os_piano",
       "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/shores",
+      "stream": true,
       "volume": 0.4,
       "weight": 2
     },

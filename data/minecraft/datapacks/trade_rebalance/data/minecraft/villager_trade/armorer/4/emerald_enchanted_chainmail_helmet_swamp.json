@@ -1,7 +1,6 @@
 {
   "given_item_modifiers": [
     {
-      "add": false,
       "enchantments": {
         "minecraft:mending": 1.0
       },
@@ -32,7 +31,7 @@
     "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
-      "predicates": {
+      "minecraft:predicates": {
         "minecraft:villager/variant": "minecraft:swamp"
       }
     }

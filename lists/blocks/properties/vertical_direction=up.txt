@@ -1,1 +1,2 @@
 minecraft:pointed_dripstone
+minecraft:sulfur_spike

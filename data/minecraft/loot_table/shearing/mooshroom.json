@@ -2,7 +2,6 @@
   "type": "minecraft:shearing",
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:alternatives",
@@ -14,7 +13,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "components": {
+                    "minecraft:components": {
                       "minecraft:mooshroom/variant": "red"
                     }
                   }
@@ -29,7 +28,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "components": {
+                    "minecraft:components": {
                       "minecraft:mooshroom/variant": "brown"
                     }
                   }

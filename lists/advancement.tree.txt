@@ -82,10 +82,11 @@ husbandry/root
 │ └>husbandry/leash_all_frog_variants
 │   └>husbandry/froglights
 └>husbandry/tame_an_animal
-  └>husbandry/complete_catalogue
-  └>husbandry/remove_wolf_armor
-  └>husbandry/repair_wolf_armor
-  └>husbandry/whole_pack
+│ └>husbandry/complete_catalogue
+│ └>husbandry/remove_wolf_armor
+│ └>husbandry/repair_wolf_armor
+│ └>husbandry/whole_pack
+└>husbandry/uh_oh
 
 nether/root
 └>nether/distract_piglin

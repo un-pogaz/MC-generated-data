@@ -17,8 +17,7 @@
     {
       "name": "music/game/featherfall",
       "stream": true,
-      "volume": 0.4,
-      "weight": 2
+      "volume": 0.4
     },
     {
       "name": "music/game/haggstrom",
@@ -38,8 +37,20 @@
       "stream": true
     },
     {
+      "name": "music/game/memories",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/oxygene",
       "stream": true
+    },
+    {
+      "name": "music/game/shores",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/subwoofer_lullaby",

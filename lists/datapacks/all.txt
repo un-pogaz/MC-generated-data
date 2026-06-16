@@ -93,6 +93,7 @@ minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type
 minecraft:structure
+minecraft:sulfur_cube_archetype
 minecraft:test_environment
 minecraft:test_environment_definition_type
 minecraft:test_function

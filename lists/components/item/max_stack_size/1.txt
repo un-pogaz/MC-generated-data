@@ -147,6 +147,7 @@ minecraft:music_disc_11
 minecraft:music_disc_13
 minecraft:music_disc_5
 minecraft:music_disc_blocks
+minecraft:music_disc_bounce
 minecraft:music_disc_cat
 minecraft:music_disc_chirp
 minecraft:music_disc_creator
@@ -217,6 +218,7 @@ minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_spear
 minecraft:stone_sword
+minecraft:sulfur_cube_bucket
 minecraft:suspicious_stew
 minecraft:tadpole_bucket
 minecraft:tnt_minecart
