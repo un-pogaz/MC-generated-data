@@ -1,1 +1,2 @@
 minecraft:bush
+minecraft:red_shrub

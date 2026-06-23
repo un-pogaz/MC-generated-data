@@ -4,6 +4,7 @@ minecraft:archaeology/ocean_ruin_cold
 minecraft:archaeology/ocean_ruin_warm
 minecraft:archaeology/trail_ruins_common
 minecraft:archaeology/trail_ruins_rare
+minecraft:barrels/abandoned_camp_barrel
 minecraft:brush/armadillo
 minecraft:carve/pumpkin
 minecraft:charged_creeper/creeper
@@ -12,6 +13,8 @@ minecraft:charged_creeper/root
 minecraft:charged_creeper/skeleton
 minecraft:charged_creeper/wither_skeleton
 minecraft:charged_creeper/zombie
+minecraft:chests/abandoned_camp_common_chest
+minecraft:chests/abandoned_camp_secret_chest
 minecraft:chests/abandoned_mineshaft
 minecraft:chests/ancient_city
 minecraft:chests/ancient_city_ice_box

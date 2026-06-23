@@ -14,6 +14,7 @@ minecraft:birch_leaf_litter
 minecraft:birch_tall
 minecraft:blackstone_blobs
 minecraft:blue_ice
+minecraft:brown_mushroom_dappled_forest
 minecraft:brown_mushroom_nether
 minecraft:brown_mushroom_normal
 minecraft:brown_mushroom_old_growth
@@ -43,6 +44,7 @@ minecraft:end_spike
 minecraft:fallen_birch_tree
 minecraft:fallen_jungle_tree
 minecraft:fallen_oak_tree
+minecraft:fallen_poplar_tree
 minecraft:fallen_spruce_tree
 minecraft:fallen_super_birch_tree
 minecraft:fancy_oak_bees
@@ -97,6 +99,7 @@ minecraft:oak_bees_0002_leaf_litter
 minecraft:oak_bees_002
 minecraft:oak_checked
 minecraft:oak_leaf_litter
+minecraft:orange_poplar_leaf_litter
 minecraft:ore_ancient_debris_large
 minecraft:ore_andesite_lower
 minecraft:ore_andesite_upper
@@ -173,6 +176,7 @@ minecraft:patch_leaf_litter
 minecraft:patch_melon
 minecraft:patch_melon_sparse
 minecraft:patch_pumpkin
+minecraft:patch_red_shrub
 minecraft:patch_soul_fire
 minecraft:patch_sugar_cane
 minecraft:patch_sugar_cane_badlands
@@ -197,6 +201,7 @@ minecraft:red_mushroom_normal
 minecraft:red_mushroom_old_growth
 minecraft:red_mushroom_swamp
 minecraft:red_mushroom_taiga
+minecraft:red_poplar_leaf_litter
 minecraft:rooted_azalea_tree
 minecraft:rooted_sulfur_spring
 minecraft:sculk_patch_ancient_city
@@ -233,6 +238,7 @@ minecraft:trees_badlands
 minecraft:trees_birch
 minecraft:trees_birch_and_oak_leaf_litter
 minecraft:trees_cherry
+minecraft:trees_dappled_forest
 minecraft:trees_flower_forest
 minecraft:trees_grove
 minecraft:trees_jungle
@@ -260,3 +266,4 @@ minecraft:warped_fungi
 minecraft:weeping_vines
 minecraft:wildflowers_birch_forest
 minecraft:wildflowers_meadow
+minecraft:yellow_poplar_leaf_litter

@@ -10,3 +10,4 @@ minecraft:oak_shelf
 minecraft:pale_oak_shelf
 minecraft:spruce_shelf
 minecraft:warped_shelf
+minecraft:poplar_shelf

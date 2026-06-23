@@ -1,1 +1,1 @@
-minecraft:decorated_pot  = [[value]]
+minecraft:decorated_pot  = {}

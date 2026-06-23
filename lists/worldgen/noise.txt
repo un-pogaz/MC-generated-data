@@ -42,6 +42,7 @@ minecraft:pillar_rareness
 minecraft:pillar_thickness
 minecraft:powder_snow
 minecraft:ridge
+minecraft:small_patch
 minecraft:soul_sand_layer
 minecraft:spaghetti_2d
 minecraft:spaghetti_2d_elevation

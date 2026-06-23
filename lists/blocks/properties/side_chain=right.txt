@@ -8,5 +8,6 @@ minecraft:jungle_shelf
 minecraft:mangrove_shelf
 minecraft:oak_shelf
 minecraft:pale_oak_shelf
+minecraft:poplar_shelf
 minecraft:spruce_shelf
 minecraft:warped_shelf

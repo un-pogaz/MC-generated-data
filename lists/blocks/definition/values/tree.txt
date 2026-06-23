@@ -6,4 +6,5 @@ minecraft:jungle_sapling  = jungle
 minecraft:mangrove_propagule  = mangrove
 minecraft:oak_sapling  = oak
 minecraft:pale_oak_sapling  = pale_oak
+minecraft:poplar_sapling  = poplar
 minecraft:spruce_sapling  = spruce

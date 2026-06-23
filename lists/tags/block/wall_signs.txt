@@ -10,3 +10,4 @@ minecraft:warped_wall_sign
 minecraft:mangrove_wall_sign
 minecraft:bamboo_wall_sign
 minecraft:cherry_wall_sign
+minecraft:poplar_wall_sign

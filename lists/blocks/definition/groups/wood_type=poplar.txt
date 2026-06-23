@@ -1,0 +1,5 @@
+minecraft:poplar_fence_gate
+minecraft:poplar_hanging_sign
+minecraft:poplar_sign
+minecraft:poplar_wall_hanging_sign
+minecraft:poplar_wall_sign

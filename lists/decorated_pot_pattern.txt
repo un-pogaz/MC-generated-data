@@ -2,7 +2,6 @@ minecraft:angler
 minecraft:archer
 minecraft:arms_up
 minecraft:blade
-minecraft:blank
 minecraft:brewer
 minecraft:burn
 minecraft:danger

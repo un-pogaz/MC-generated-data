@@ -430,6 +430,7 @@ minecraft:wandering_trader/emerald_pink_dye
 minecraft:wandering_trader/emerald_pink_tulip
 minecraft:wandering_trader/emerald_podzol
 minecraft:wandering_trader/emerald_pointed_dripstone
+minecraft:wandering_trader/emerald_poplar_sapling
 minecraft:wandering_trader/emerald_poppy
 minecraft:wandering_trader/emerald_pufferfish_bucket
 minecraft:wandering_trader/emerald_pumpkin
@@ -442,6 +443,7 @@ minecraft:wandering_trader/emerald_red_tulip
 minecraft:wandering_trader/emerald_rooted_dirt
 minecraft:wandering_trader/emerald_sand
 minecraft:wandering_trader/emerald_sea_pickle
+minecraft:wandering_trader/emerald_shelf_mushroom
 minecraft:wandering_trader/emerald_slime_ball
 minecraft:wandering_trader/emerald_small_dripleaf
 minecraft:wandering_trader/emerald_spruce_log
