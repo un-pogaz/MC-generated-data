@@ -94,3 +94,7 @@
 	path = snapshots/26.2
 	url = https://github.com/un-pogaz/MC-generated-data.git
 	branch = snapshots/26.2
+[submodule "snapshots/26.3"]
+	path = snapshots/26.3
+	url = https://github.com/un-pogaz/MC-generated-data.git
+	branch = snapshots/26.3
