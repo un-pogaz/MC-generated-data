@@ -1,0 +1,2 @@
+minecraft:melon_stem  = minecraft:supports_melon_stem
+minecraft:pumpkin_stem  = minecraft:supports_pumpkin_stem

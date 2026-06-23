@@ -1,0 +1,15 @@
+minecraft:arrow
+minecraft:bone
+minecraft:bowl
+minecraft:bread
+minecraft:coal
+minecraft:cobweb
+minecraft:fishing_rod
+minecraft:glass_bottle
+minecraft:leather
+minecraft:bundle
+minecraft:rabbit_hide
+minecraft:string
+minecraft:wheat
+minecraft:white_candle
+minecraft:wooden_axe

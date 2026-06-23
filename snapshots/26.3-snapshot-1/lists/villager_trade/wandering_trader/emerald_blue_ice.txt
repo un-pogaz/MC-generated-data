@@ -1,0 +1,5 @@
+wants: emerald x6
+gives: blue_ice
+xp: 1
+max use: 6
+reputation discount: 0.05

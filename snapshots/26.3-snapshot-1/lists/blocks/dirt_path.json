@@ -1,0 +1,7 @@
+{
+  "definition": {
+    "type": "minecraft:path",
+    "base_block": "minecraft:dirt",
+    "properties": {}
+  }
+}

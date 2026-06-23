@@ -1,0 +1,22 @@
+{
+  "definition": {
+    "type": "minecraft:beehive",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "honey_level": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  }
+}

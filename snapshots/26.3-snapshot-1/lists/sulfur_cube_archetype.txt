@@ -1,0 +1,12 @@
+minecraft:bouncy
+minecraft:explosive
+minecraft:fast_flat
+minecraft:fast_sliding
+minecraft:high_resistance
+minecraft:hot
+minecraft:light
+minecraft:regular
+minecraft:slow_bouncy
+minecraft:slow_flat
+minecraft:slow_sliding
+minecraft:sticky

@@ -1,0 +1,5 @@
+minecraft:music/game/ebb
+minecraft:music/game/home
+minecraft:music/game/memories
+minecraft:music/game/nightly
+minecraft:music/game/shores

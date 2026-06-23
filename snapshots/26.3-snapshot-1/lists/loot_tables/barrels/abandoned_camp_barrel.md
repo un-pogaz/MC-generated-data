@@ -1,0 +1,18 @@
+| Name                   | Count | Chance | Weight | Comment |
+| ---------------------- | ----- | ------ | ------ | ------- |
+| 4 to 8 time            |    -- |     -- |     -- |         |
+| minecraft:arrow        |  1..3 |   6.7% |   1/15 |         |
+| minecraft:bone         |  2..4 |   6.7% |   1/15 |         |
+| minecraft:bowl         |  1..2 |   6.7% |   1/15 |         |
+| minecraft:bread        |  1..3 |   6.7% |   1/15 |         |
+| minecraft:coal         |  2..4 |   6.7% |   1/15 |         |
+| minecraft:cobweb       |     1 |   6.7% |   1/15 |         |
+| minecraft:fishing_rod  |     1 |   6.7% |   1/15 |         |
+| minecraft:glass_bottle |  1..3 |   6.7% |   1/15 |         |
+| minecraft:leather      |  1..3 |   6.7% |   1/15 |         |
+| minecraft:bundle       |     1 |   6.7% |   1/15 |         |
+| minecraft:rabbit_hide  |  1..4 |   6.7% |   1/15 |         |
+| minecraft:string       |  1..2 |   6.7% |   1/15 |         |
+| minecraft:wheat        |  1..4 |   6.7% |   1/15 |         |
+| minecraft:white_candle |  1..3 |   6.7% |   1/15 |         |
+| minecraft:wooden_axe   |     1 |   6.7% |   1/15 |         |

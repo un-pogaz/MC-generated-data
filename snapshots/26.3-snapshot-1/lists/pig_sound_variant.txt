@@ -1,0 +1,3 @@
+minecraft:big
+minecraft:classic
+minecraft:mini

@@ -1,0 +1,17 @@
+{
+  "definition": {
+    "type": "minecraft:weathering_copper_bulb",
+    "properties": {},
+    "weathering_state": "weathered"
+  },
+  "properties": {
+    "lit": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

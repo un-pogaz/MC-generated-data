@@ -1,0 +1,9 @@
+minecraft:above_water
+minecraft:deep_under_floor
+minecraft:not_under_deep_water
+minecraft:not_underwater
+minecraft:on_ceiling
+minecraft:on_floor
+minecraft:under_ceiling
+minecraft:under_floor
+minecraft:very_deep_under_floor

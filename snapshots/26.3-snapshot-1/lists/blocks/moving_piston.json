@@ -1,0 +1,20 @@
+{
+  "definition": {
+    "type": "minecraft:moving_piston",
+    "properties": {}
+  },
+  "properties": {
+    "type": [
+      "normal",
+      "sticky"
+    ],
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ]
+  }
+}
