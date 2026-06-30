@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:mangrove_roots",
-    "properties": {}
-  },
   "properties": {
     "waterlogged": [
       "true",

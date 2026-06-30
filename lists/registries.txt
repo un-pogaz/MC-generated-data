@@ -4,7 +4,6 @@ minecraft:attribute_type
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
-minecraft:block_type
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type
@@ -74,7 +73,7 @@ minecraft:villager_profession
 minecraft:villager_type
 minecraft:worldgen/biome_source
 minecraft:worldgen/block_state_provider_type
-minecraft:worldgen/carver
+minecraft:worldgen/carver_type
 minecraft:worldgen/chunk_generator
 minecraft:worldgen/density_function_type
 minecraft:worldgen/feature_size_type

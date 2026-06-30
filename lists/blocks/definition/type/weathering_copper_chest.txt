@@ -1,4 +1,0 @@
-minecraft:copper_chest
-minecraft:exposed_copper_chest
-minecraft:oxidized_copper_chest
-minecraft:weathered_copper_chest

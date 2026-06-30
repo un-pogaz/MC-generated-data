@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:skull",
-    "kind": "dragon",
-    "properties": {}
-  },
   "properties": {
     "powered": [
       "true",

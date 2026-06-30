@@ -1,4 +1,3 @@
-minecraft:above_water
 minecraft:deep_under_floor
 minecraft:not_under_deep_water
 minecraft:not_underwater

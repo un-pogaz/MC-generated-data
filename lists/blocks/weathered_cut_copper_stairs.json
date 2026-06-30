@@ -1,12 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:weathering_copper_stair",
-    "base_state": {
-      "Name": "minecraft:weathered_cut_copper"
-    },
-    "properties": {},
-    "weathering_state": "weathered"
-  },
   "properties": {
     "facing": [
       "north",

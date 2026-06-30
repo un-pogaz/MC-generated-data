@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:skull",
-    "kind": "piglin",
-    "properties": {}
-  },
   "properties": {
     "powered": [
       "true",

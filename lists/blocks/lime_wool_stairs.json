@@ -1,11 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:stair",
-    "base_state": {
-      "Name": "minecraft:lime_wool"
-    },
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",
