@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/ancestry",
+      "stream": true
+    },
+    {
+      "name": "music/game/deeper",
+      "stream": true,
+      "volume": 0.4
+    }
+  ]
+}

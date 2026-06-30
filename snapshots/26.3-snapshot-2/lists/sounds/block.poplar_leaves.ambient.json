@@ -1,0 +1,100 @@
+{
+  "sounds": [
+    {
+      "name": "block/poplar_leaves/ambient1",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient2",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient3",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient4",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient5",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient6",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient7",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient8",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient9",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient10",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient11",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient12",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient13",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/ambient14",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient15",
+      "volume": 4.0,
+      "weight": 3
+    },
+    {
+      "name": "block/poplar_leaves/ambient17",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/ambient18",
+      "volume": 4.0,
+      "weight": 3
+    },
+    {
+      "name": "block/poplar_leaves/ambient19",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/wind1",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/poplar_leaves/wind2",
+      "volume": 4.0
+    },
+    {
+      "name": "block/poplar_leaves/wind3",
+      "volume": 4.0
+    }
+  ],
+  "subtitle": "subtitles.block.poplar_leaves.ambient"
+}

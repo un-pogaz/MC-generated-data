@@ -1,0 +1,5 @@
+minecraft:cooked_beef
+minecraft:baked_potato
+minecraft:golden_carrot
+minecraft:potion
+minecraft:potion

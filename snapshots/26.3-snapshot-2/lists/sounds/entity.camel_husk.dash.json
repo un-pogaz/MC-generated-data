@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/camel_husk/dash1",
+    "mob/camel_husk/dash2",
+    "mob/camel_husk/dash3",
+    "mob/camel_husk/dash4",
+    "mob/camel_husk/dash5",
+    "mob/camel_husk/dash6"
+  ],
+  "subtitle": "subtitles.entity.camel_husk.dash"
+}
