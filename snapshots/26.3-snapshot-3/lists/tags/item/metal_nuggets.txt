@@ -1,0 +1,3 @@
+minecraft:copper_nugget
+minecraft:iron_nugget
+minecraft:gold_nugget

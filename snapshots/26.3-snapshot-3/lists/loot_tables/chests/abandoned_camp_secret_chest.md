@@ -1,0 +1,20 @@
+| Name                    | Count | Chance | Weight | Comment      |
+| ----------------------- | ----- | ------ | ------ | ------------ |
+| 2 time                  |    -- |     -- |     -- |              |
+| minecraft:diamond       |     1 |    20% |    1/5 |              |
+| minecraft:potion        |     1 |    20% |    1/5 | healing      |
+| minecraft:potion        |     1 |    20% |    1/5 | leaping      |
+| minecraft:potion        |     1 |    20% |    1/5 | night_vision |
+| minecraft:potion        |     1 |    20% |    1/5 | swiftness    |
+| – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – –  |
+| 4 to 6 time             |    -- |     -- |     -- |              |
+| minecraft:map           |     1 |    25% |    1/4 |              |
+| minecraft:copper_ingot  |  1..2 |    25% |    1/4 |              |
+| minecraft:gold_ingot    |  1..2 |    25% |    1/4 |              |
+| minecraft:iron_ingot    |     1 |    25% |    1/4 |              |
+| – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – –  |
+| 0 to 1 time             |    -- |     -- |     -- |              |
+| minecraft:iron_axe      |     1 |    25% |    1/4 |              |
+| minecraft:iron_boots    |     1 |    25% |    1/4 |              |
+| minecraft:iron_leggings |     1 |    25% |    1/4 |              |
+| minecraft:iron_spear    |     1 |    25% |    1/4 |              |

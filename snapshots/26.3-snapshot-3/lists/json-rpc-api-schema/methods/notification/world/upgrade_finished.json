@@ -1,0 +1,5 @@
+{
+  "description": "World upgrade finished",
+  "name": "minecraft:notification/world/upgrade_finished",
+  "params": []
+}

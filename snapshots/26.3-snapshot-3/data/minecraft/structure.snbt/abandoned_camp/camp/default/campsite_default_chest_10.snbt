@@ -1,0 +1,187 @@
+{
+  size: [10, 3, 10],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "cyan",
+        block_pos: [I; -45, -61, -7],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [90.0f, 0.0f],
+        Pos: [-44.5d, -60.0625d, -6.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; 1500284431, 1808551118, -1854456285, -111917388]
+      },
+      blockPos: [7, 0, 6],
+      pos: [7.5d, 0.9375d, 6.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "cyan",
+        block_pos: [I; -45, -61, -5],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-44.5d, -60.0625d, -4.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; 2140407643, 364332287, -1546806272, 84647591]
+      },
+      blockPos: [7, 0, 8],
+      pos: [7.5d, 0.9375d, 8.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [7, 0, 7],
+      state: 0
+    },
+    {
+      pos: [4, 0, 7],
+      state: 1
+    },
+    {
+      pos: [5, 0, 6],
+      state: 1
+    },
+    {
+      pos: [5, 0, 8],
+      state: 1
+    },
+    {
+      pos: [6, 0, 6],
+      state: 1
+    },
+    {
+      pos: [6, 0, 7],
+      state: 1
+    },
+    {
+      pos: [6, 0, 9],
+      state: 1
+    },
+    {
+      pos: [7, 0, 6],
+      state: 1
+    },
+    {
+      pos: [7, 0, 8],
+      state: 1
+    },
+    {
+      pos: [7, 0, 9],
+      state: 1
+    },
+    {
+      pos: [8, 0, 5],
+      state: 1
+    },
+    {
+      pos: [8, 0, 6],
+      state: 1
+    },
+    {
+      pos: [8, 0, 7],
+      state: 1
+    },
+    {
+      pos: [8, 0, 8],
+      state: 1
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_secret_chest",
+        components: {},
+        Items: [],
+        id: "minecraft:chest"
+      },
+      pos: [5, 0, 7],
+      state: 2
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [9, 0, 4],
+      state: 3
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_common_chest",
+        components: {},
+        Items: [],
+        id: "minecraft:chest"
+      },
+      pos: [5, 1, 7],
+      state: 4
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [7, 1, 7],
+      state: 5
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:dirt"
+    },
+    {
+      Name: "minecraft:dirt_path"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        facing: "east",
+        type: "single"
+      },
+      Name: "minecraft:oxidized_copper_chest"
+    },
+    {
+      Properties: {
+        orientation: "east_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        facing: "east",
+        type: "single"
+      },
+      Name: "minecraft:chest"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "north"
+      },
+      Name: "minecraft:campfire"
+    }
+  ],
+  DataVersion: 5001
+}

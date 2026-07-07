@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pufferfish/flop1",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/pufferfish/flop2",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/pufferfish/flop3",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/pufferfish/flop4",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.puffer_fish.flop"
+}

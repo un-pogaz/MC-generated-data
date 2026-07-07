@@ -1,0 +1,5 @@
+wants: emerald x4
+gives: compass
+xp: 15
+max use: 12
+reputation discount: 0.05
