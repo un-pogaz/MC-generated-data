@@ -1033,6 +1033,7 @@ minecraft:stone_pressure_plate
 minecraft:stone_slab
 minecraft:stone_stairs
 minecraft:stonecutter
+minecraft:straw_bed
 minecraft:stripped_acacia_log
 minecraft:stripped_acacia_wood
 minecraft:stripped_bamboo_block
@@ -1297,6 +1298,8 @@ minecraft:zombie_wall_head
 #minecraft:cannot_support_kelp
 #minecraft:cannot_support_seagrass
 #minecraft:cannot_support_snow_layer
+#minecraft:cats_can_lie_on
+#minecraft:cats_can_sit_on
 #minecraft:cauldrons
 #minecraft:causes_continuous_geyser_eruptions
 #minecraft:causes_periodic_geyser_eruptions
@@ -1311,7 +1314,7 @@ minecraft:zombie_wall_head
 #minecraft:completes_find_tree_tutorial
 #minecraft:concrete
 #minecraft:concrete_powders
-#minecraft:convertable_to_mud
+#minecraft:convertible_to_mud
 #minecraft:copper
 #minecraft:copper_chests
 #minecraft:copper_golem_statues
@@ -1361,6 +1364,7 @@ minecraft:zombie_wall_head
 #minecraft:grows_crops
 #minecraft:guarded_by_piglins
 #minecraft:happy_ghast_avoids
+#minecraft:height_specific_ore_replaceables
 #minecraft:hoglin_repellents
 #minecraft:huge_brown_mushroom_can_place_on
 #minecraft:huge_red_mushroom_can_place_on
@@ -1432,6 +1436,7 @@ minecraft:zombie_wall_head
 #minecraft:required_for_poplar_leaf_ambience
 #minecraft:sand
 #minecraft:saplings
+#minecraft:sculk_growth_inhibitors
 #minecraft:sculk_replaceable
 #minecraft:sculk_replaceable_world_gen
 #minecraft:shears_extreme_breaking_speed
@@ -1450,6 +1455,7 @@ minecraft:zombie_wall_head
 #minecraft:snow_golem_immune_to
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
+#minecraft:speeds_up_zombie_villager_curing
 #minecraft:speleothems
 #minecraft:spruce_logs
 #minecraft:stairs
@@ -1509,6 +1515,8 @@ minecraft:zombie_wall_head
 #minecraft:unstable_bottom_center
 #minecraft:valid_spawn
 #minecraft:vibration_resonators
+#minecraft:villager_babies_can_jump_on_bed
+#minecraft:villagers_can_sleep_on_bed
 #minecraft:wall_corals
 #minecraft:wall_hanging_signs
 #minecraft:wall_post_override

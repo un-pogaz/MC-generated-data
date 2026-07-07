@@ -1,0 +1,5 @@
+minecraft:compostable/always_add_one
+minecraft:compostable/low
+minecraft:compostable/low_medium
+minecraft:compostable/medium
+minecraft:compostable/medium_high

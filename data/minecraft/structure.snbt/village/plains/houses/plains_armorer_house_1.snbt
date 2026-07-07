@@ -2573,5 +2573,5 @@
       Name: "minecraft:blast_furnace"
     }
   ],
-  DataVersion: 4999
+  DataVersion: 5001
 }

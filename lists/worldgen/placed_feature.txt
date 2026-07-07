@@ -2,6 +2,7 @@ minecraft:acacia
 minecraft:acacia_checked
 minecraft:amethyst_geode
 minecraft:bamboo
+minecraft:bamboo_in_structure
 minecraft:bamboo_light
 minecraft:bamboo_vegetation
 minecraft:basalt_blobs
@@ -99,6 +100,7 @@ minecraft:oak_bees_0002_leaf_litter
 minecraft:oak_bees_002
 minecraft:oak_checked
 minecraft:oak_leaf_litter
+minecraft:orange_poplar
 minecraft:orange_poplar_leaf_litter
 minecraft:ore_ancient_debris_large
 minecraft:ore_andesite_lower
@@ -201,6 +203,7 @@ minecraft:red_mushroom_normal
 minecraft:red_mushroom_old_growth
 minecraft:red_mushroom_swamp
 minecraft:red_mushroom_taiga
+minecraft:red_poplar
 minecraft:red_poplar_leaf_litter
 minecraft:rooted_azalea_tree
 minecraft:rooted_sulfur_spring
@@ -266,4 +269,5 @@ minecraft:warped_fungi
 minecraft:weeping_vines
 minecraft:wildflowers_birch_forest
 minecraft:wildflowers_meadow
+minecraft:yellow_poplar
 minecraft:yellow_poplar_leaf_litter

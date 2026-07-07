@@ -2332,6 +2332,8 @@ minecraft:block/stone_stairs
 minecraft:block/stone_stairs_inner
 minecraft:block/stone_stairs_outer
 minecraft:block/stonecutter
+minecraft:block/straw_bed_foot
+minecraft:block/straw_bed_head
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_horizontal
 minecraft:block/stripped_acacia_wood
@@ -2849,6 +2851,7 @@ minecraft:item/black_bundle
 minecraft:item/black_bundle_open_back
 minecraft:item/black_bundle_open_front
 minecraft:item/black_candle
+minecraft:item/black_cushion
 minecraft:item/black_dye
 minecraft:item/black_harness
 minecraft:item/black_shulker_box
@@ -2861,6 +2864,7 @@ minecraft:item/blue_bundle
 minecraft:item/blue_bundle_open_back
 minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
+minecraft:item/blue_cushion
 minecraft:item/blue_dye
 minecraft:item/blue_egg
 minecraft:item/blue_harness
@@ -2890,6 +2894,7 @@ minecraft:item/brown_bundle
 minecraft:item/brown_bundle_open_back
 minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
+minecraft:item/brown_cushion
 minecraft:item/brown_dye
 minecraft:item/brown_egg
 minecraft:item/brown_harness
@@ -3181,6 +3186,7 @@ minecraft:item/cyan_bundle
 minecraft:item/cyan_bundle_open_back
 minecraft:item/cyan_bundle_open_front
 minecraft:item/cyan_candle
+minecraft:item/cyan_cushion
 minecraft:item/cyan_dye
 minecraft:item/cyan_harness
 minecraft:item/cyan_shulker_box
@@ -3403,6 +3409,7 @@ minecraft:item/gray_bundle
 minecraft:item/gray_bundle_open_back
 minecraft:item/gray_bundle_open_front
 minecraft:item/gray_candle
+minecraft:item/gray_cushion
 minecraft:item/gray_dye
 minecraft:item/gray_harness
 minecraft:item/gray_shulker_box
@@ -3411,6 +3418,7 @@ minecraft:item/green_bundle
 minecraft:item/green_bundle_open_back
 minecraft:item/green_bundle_open_front
 minecraft:item/green_candle
+minecraft:item/green_cushion
 minecraft:item/green_dye
 minecraft:item/green_harness
 minecraft:item/green_shulker_box
@@ -3570,7 +3578,6 @@ minecraft:item/leather_leggings_quartz_trim
 minecraft:item/leather_leggings_redstone_trim
 minecraft:item/leather_leggings_resin_trim
 minecraft:item/lever
-minecraft:item/light
 minecraft:item/light_00
 minecraft:item/light_01
 minecraft:item/light_02
@@ -3591,6 +3598,7 @@ minecraft:item/light_blue_bundle
 minecraft:item/light_blue_bundle_open_back
 minecraft:item/light_blue_bundle_open_front
 minecraft:item/light_blue_candle
+minecraft:item/light_blue_cushion
 minecraft:item/light_blue_dye
 minecraft:item/light_blue_harness
 minecraft:item/light_blue_shulker_box
@@ -3599,6 +3607,7 @@ minecraft:item/light_gray_bundle
 minecraft:item/light_gray_bundle_open_back
 minecraft:item/light_gray_bundle_open_front
 minecraft:item/light_gray_candle
+minecraft:item/light_gray_cushion
 minecraft:item/light_gray_dye
 minecraft:item/light_gray_harness
 minecraft:item/light_gray_shulker_box
@@ -3610,6 +3619,7 @@ minecraft:item/lime_bundle
 minecraft:item/lime_bundle_open_back
 minecraft:item/lime_bundle_open_front
 minecraft:item/lime_candle
+minecraft:item/lime_cushion
 minecraft:item/lime_dye
 minecraft:item/lime_harness
 minecraft:item/lime_shulker_box
@@ -3621,6 +3631,7 @@ minecraft:item/magenta_bundle
 minecraft:item/magenta_bundle_open_back
 minecraft:item/magenta_bundle_open_front
 minecraft:item/magenta_candle
+minecraft:item/magenta_cushion
 minecraft:item/magenta_dye
 minecraft:item/magenta_harness
 minecraft:item/magenta_shulker_box
@@ -3749,6 +3760,7 @@ minecraft:item/orange_bundle
 minecraft:item/orange_bundle_open_back
 minecraft:item/orange_bundle_open_front
 minecraft:item/orange_candle
+minecraft:item/orange_cushion
 minecraft:item/orange_dye
 minecraft:item/orange_harness
 minecraft:item/orange_shulker_box
@@ -3784,6 +3796,7 @@ minecraft:item/pink_bundle
 minecraft:item/pink_bundle_open_back
 minecraft:item/pink_bundle_open_front
 minecraft:item/pink_candle
+minecraft:item/pink_cushion
 minecraft:item/pink_dye
 minecraft:item/pink_harness
 minecraft:item/pink_petals
@@ -3821,6 +3834,7 @@ minecraft:item/purple_bundle
 minecraft:item/purple_bundle_open_back
 minecraft:item/purple_bundle_open_front
 minecraft:item/purple_candle
+minecraft:item/purple_cushion
 minecraft:item/purple_dye
 minecraft:item/purple_harness
 minecraft:item/purple_shulker_box
@@ -3873,6 +3887,7 @@ minecraft:item/red_bundle
 minecraft:item/red_bundle_open_back
 minecraft:item/red_bundle_open_front
 minecraft:item/red_candle
+minecraft:item/red_cushion
 minecraft:item/red_dye
 minecraft:item/red_harness
 minecraft:item/red_mushroom
@@ -4039,6 +4054,7 @@ minecraft:item/white_bundle
 minecraft:item/white_bundle_open_back
 minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
+minecraft:item/white_cushion
 minecraft:item/white_dye
 minecraft:item/white_harness
 minecraft:item/white_shulker_box
@@ -4067,6 +4083,7 @@ minecraft:item/yellow_bundle
 minecraft:item/yellow_bundle_open_back
 minecraft:item/yellow_bundle_open_front
 minecraft:item/yellow_candle
+minecraft:item/yellow_cushion
 minecraft:item/yellow_dye
 minecraft:item/yellow_harness
 minecraft:item/yellow_shulker_box

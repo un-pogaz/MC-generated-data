@@ -50,6 +50,7 @@ minecraft:village_plains
 minecraft:village_savanna
 minecraft:village_snowy
 minecraft:village_taiga
+#minecraft:abandoned_camp
 #minecraft:cats_spawn_as_black
 #minecraft:cats_spawn_in
 #minecraft:dolphin_located

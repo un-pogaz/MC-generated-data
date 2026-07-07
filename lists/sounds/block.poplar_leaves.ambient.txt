@@ -13,9 +13,15 @@ minecraft:block/poplar_leaves/ambient12
 minecraft:block/poplar_leaves/ambient13
 minecraft:block/poplar_leaves/ambient14
 minecraft:block/poplar_leaves/ambient15
+minecraft:block/poplar_leaves/ambient16
 minecraft:block/poplar_leaves/ambient17
 minecraft:block/poplar_leaves/ambient18
 minecraft:block/poplar_leaves/ambient19
+minecraft:block/poplar_leaves/ambient20
+minecraft:block/poplar_leaves/ambient21
+minecraft:block/poplar_leaves/ambient22
+minecraft:block/poplar_leaves/ambient23
+minecraft:block/poplar_leaves/ambient24
 minecraft:block/poplar_leaves/wind1
 minecraft:block/poplar_leaves/wind2
 minecraft:block/poplar_leaves/wind3
