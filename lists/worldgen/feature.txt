@@ -27,8 +27,13 @@ minecraft:cherry_bees_005
 minecraft:chorus_plant
 minecraft:clay_pool_with_dripleaves
 minecraft:clay_with_dripleaves
+minecraft:coral/block_decoration
+minecraft:coral/brain_block
+minecraft:coral/bubble_block
+minecraft:coral/fire_block
+minecraft:coral/horn_block
+minecraft:coral/tube_block
 minecraft:crimson_forest_vegetation
-minecraft:crimson_forest_vegetation_bonemeal
 minecraft:crimson_fungus
 minecraft:crimson_fungus_planted
 minecraft:crimson_roots
@@ -111,7 +116,7 @@ minecraft:moss_patch_ceiling
 minecraft:moss_vegetation
 minecraft:mushroom_island_vegetation
 minecraft:nether_sprouts
-minecraft:nether_sprouts_bonemeal
+minecraft:nylium_bonemeal
 minecraft:oak
 minecraft:oak_bees_0002_leaf_litter
 minecraft:oak_bees_002
@@ -221,13 +226,11 @@ minecraft:trees_taiga
 minecraft:trees_water
 minecraft:trees_windswept_hills
 minecraft:twisting_vines
-minecraft:twisting_vines_bonemeal
 minecraft:underwater_magma
 minecraft:vines
 minecraft:void_start_platform
 minecraft:warm_ocean_vegetation
 minecraft:warped_forest_vegetation
-minecraft:warped_forest_vegetation_bonemeal
 minecraft:warped_fungus
 minecraft:warped_fungus_planted
 minecraft:waterlily

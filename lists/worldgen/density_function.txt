@@ -14,6 +14,13 @@ minecraft:overworld/erosion
 minecraft:overworld/factor
 minecraft:overworld/jaggedness
 minecraft:overworld/offset
+minecraft:overworld/ore_vein/copper_density
+minecraft:overworld/ore_vein/gap
+minecraft:overworld/ore_vein/iron_density
+minecraft:overworld/ore_vein/mask
+minecraft:overworld/ore_vein/richness
+minecraft:overworld/ore_vein/toggle
+minecraft:overworld/preliminary_surface_level
 minecraft:overworld/ridges
 minecraft:overworld/ridges_folded
 minecraft:overworld/sloped_cheese
@@ -23,6 +30,7 @@ minecraft:overworld_amplified/depth
 minecraft:overworld_amplified/factor
 minecraft:overworld_amplified/jaggedness
 minecraft:overworld_amplified/offset
+minecraft:overworld_amplified/preliminary_surface_level
 minecraft:overworld_amplified/sloped_cheese
 minecraft:overworld_large_biomes/continents
 minecraft:overworld_large_biomes/depth
@@ -30,6 +38,7 @@ minecraft:overworld_large_biomes/erosion
 minecraft:overworld_large_biomes/factor
 minecraft:overworld_large_biomes/jaggedness
 minecraft:overworld_large_biomes/offset
+minecraft:overworld_large_biomes/preliminary_surface_level
 minecraft:overworld_large_biomes/sloped_cheese
 minecraft:overworld_large_biomes/temperature
 minecraft:overworld_large_biomes/vegetation

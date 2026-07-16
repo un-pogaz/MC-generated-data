@@ -1625,7 +1625,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:book_cloning_target
 #minecraft:bookshelf_books
 #minecraft:breaks_decorated_pots
-#minecraft:brewing_fuel
 #minecraft:bundles
 #minecraft:buttons
 #minecraft:camel_food
