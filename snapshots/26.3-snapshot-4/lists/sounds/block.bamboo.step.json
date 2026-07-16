@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    "block/bamboo/step1",
+    {
+      "name": "block/bamboo/step2",
+      "pitch": 0.7
+    },
+    "block/bamboo/step3",
+    {
+      "name": "block/bamboo/step4",
+      "pitch": 0.7
+    },
+    "block/bamboo/step5",
+    "block/bamboo/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

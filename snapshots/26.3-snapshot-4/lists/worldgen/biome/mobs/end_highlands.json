@@ -1,0 +1,9 @@
+{
+  "monster": [
+    {
+      "count": 4,
+      "type": "minecraft:enderman",
+      "weight": 10
+    }
+  ]
+}

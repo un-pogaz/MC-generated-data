@@ -1,0 +1,530 @@
+{
+  size: [11, 10, 10],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "light_gray",
+        block_pos: [I; -87, -61, 330],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-86.5d, -60.0625d, 330.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -1212307987, 834749513, -1581074597, -1076439364]
+      },
+      blockPos: [8, 0, 3],
+      pos: [8.5d, 0.9375d, 3.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "green",
+        block_pos: [I; -86, -61, 332],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-85.5d, -60.0625d, 332.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; 1850874905, -354793118, -1918203931, 1009521405]
+      },
+      blockPos: [9, 0, 5],
+      pos: [9.5d, 0.9375d, 5.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [2, 0, 6],
+      state: 0
+    },
+    {
+      pos: [2, 0, 8],
+      state: 1
+    },
+    {
+      pos: [3, 0, 5],
+      state: 2
+    },
+    {
+      pos: [3, 0, 7],
+      state: 0
+    },
+    {
+      pos: [3, 0, 8],
+      state: 1
+    },
+    {
+      pos: [4, 0, 4],
+      state: 3
+    },
+    {
+      pos: [4, 0, 7],
+      state: 0
+    },
+    {
+      pos: [4, 0, 8],
+      state: 0
+    },
+    {
+      pos: [5, 0, 2],
+      state: 2
+    },
+    {
+      pos: [5, 0, 5],
+      state: 1
+    },
+    {
+      pos: [5, 0, 8],
+      state: 1
+    },
+    {
+      pos: [6, 0, 1],
+      state: 1
+    },
+    {
+      pos: [6, 0, 2],
+      state: 2
+    },
+    {
+      pos: [6, 0, 3],
+      state: 2
+    },
+    {
+      pos: [6, 0, 4],
+      state: 3
+    },
+    {
+      pos: [6, 0, 5],
+      state: 3
+    },
+    {
+      pos: [6, 0, 7],
+      state: 1
+    },
+    {
+      pos: [7, 0, 1],
+      state: 2
+    },
+    {
+      pos: [7, 0, 2],
+      state: 2
+    },
+    {
+      pos: [7, 0, 5],
+      state: 3
+    },
+    {
+      pos: [8, 0, 1],
+      state: 1
+    },
+    {
+      pos: [8, 0, 2],
+      state: 2
+    },
+    {
+      pos: [8, 0, 4],
+      state: 4
+    },
+    {
+      pos: [9, 0, 1],
+      state: 2
+    },
+    {
+      pos: [9, 0, 2],
+      state: 2
+    },
+    {
+      pos: [9, 0, 3],
+      state: 3
+    },
+    {
+      pos: [10, 0, 3],
+      state: 3
+    },
+    {
+      pos: [10, 0, 5],
+      state: 3
+    },
+    {
+      pos: [4, 1, 6],
+      state: 0
+    },
+    {
+      pos: [6, 1, 2],
+      state: 5
+    },
+    {
+      pos: [7, 1, 2],
+      state: 5
+    },
+    {
+      pos: [8, 1, 2],
+      state: 5
+    },
+    {
+      pos: [9, 1, 2],
+      state: 6
+    },
+    {
+      pos: [2, 0, 5],
+      state: 7
+    },
+    {
+      pos: [3, 0, 4],
+      state: 7
+    },
+    {
+      pos: [3, 0, 6],
+      state: 8
+    },
+    {
+      pos: [4, 0, 5],
+      state: 9
+    },
+    {
+      pos: [5, 0, 4],
+      state: 7
+    },
+    {
+      pos: [5, 0, 6],
+      state: 10
+    },
+    {
+      pos: [7, 0, 3],
+      state: 7
+    },
+    {
+      pos: [7, 0, 4],
+      state: 7
+    },
+    {
+      pos: [8, 0, 3],
+      state: 7
+    },
+    {
+      pos: [8, 0, 6],
+      state: 7
+    },
+    {
+      pos: [9, 0, 4],
+      state: 7
+    },
+    {
+      pos: [9, 0, 5],
+      state: 7
+    },
+    {
+      pos: [9, 0, 6],
+      state: 7
+    },
+    {
+      pos: [10, 0, 1],
+      state: 7
+    },
+    {
+      pos: [10, 0, 2],
+      state: 7
+    },
+    {
+      pos: [10, 0, 6],
+      state: 7
+    },
+    {
+      pos: [2, 1, 8],
+      state: 11
+    },
+    {
+      pos: [3, 1, 5],
+      state: 8
+    },
+    {
+      pos: [3, 1, 8],
+      state: 11
+    },
+    {
+      pos: [4, 1, 4],
+      state: 11
+    },
+    {
+      pos: [5, 1, 2],
+      state: 8
+    },
+    {
+      pos: [5, 1, 5],
+      state: 11
+    },
+    {
+      pos: [5, 1, 6],
+      state: 8
+    },
+    {
+      pos: [5, 1, 8],
+      state: 11
+    },
+    {
+      pos: [6, 1, 1],
+      state: 11
+    },
+    {
+      pos: [6, 1, 3],
+      state: 8
+    },
+    {
+      pos: [6, 1, 4],
+      state: 11
+    },
+    {
+      pos: [6, 1, 5],
+      state: 8
+    },
+    {
+      pos: [6, 1, 7],
+      state: 11
+    },
+    {
+      pos: [7, 1, 1],
+      state: 12
+    },
+    {
+      pos: [8, 1, 1],
+      state: 11
+    },
+    {
+      pos: [9, 1, 1],
+      state: 8
+    },
+    {
+      pos: [9, 1, 3],
+      state: 8
+    },
+    {
+      pos: [10, 1, 3],
+      state: 11
+    },
+    {
+      pos: [10, 1, 5],
+      state: 11
+    },
+    {
+      pos: [6, 2, 2],
+      state: 11
+    },
+    {
+      pos: [7, 2, 2],
+      state: 8
+    },
+    {
+      pos: [8, 2, 2],
+      state: 11
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/spruce_on_snow",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [2, 0, 7],
+      state: 13
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/spruce_on_snow",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [3, 0, 2],
+      state: 14
+    },
+    {
+      nbt: {
+        components: {},
+        id: "minecraft:copper_golem_statue"
+      },
+      pos: [4, 0, 6],
+      state: 15
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/spruce_on_snow",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [8, 0, 7],
+      state: 13
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [10, 0, 4],
+      state: 16
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_common_chest",
+        components: {},
+        Items: [],
+        id: "minecraft:chest"
+      },
+      pos: [7, 1, 5],
+      state: 17
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [8, 1, 4],
+      state: 18
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:snow_block"
+    },
+    {
+      Properties: {
+        snowy: "true"
+      },
+      Name: "minecraft:grass_block"
+    },
+    {
+      Name: "minecraft:dirt"
+    },
+    {
+      Name: "minecraft:gravel"
+    },
+    {
+      Properties: {
+        snowy: "false"
+      },
+      Name: "minecraft:grass_block"
+    },
+    {
+      Properties: {
+        axis: "x"
+      },
+      Name: "minecraft:spruce_log"
+    },
+    {
+      Properties: {
+        axis: "y"
+      },
+      Name: "minecraft:spruce_log"
+    },
+    {
+      Name: "minecraft:dirt_path"
+    },
+    {
+      Properties: {
+        layers: "2"
+      },
+      Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        layers: "5"
+      },
+      Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        layers: "8"
+      },
+      Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        layers: "1"
+      },
+      Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        layers: "6"
+      },
+      Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        orientation: "up_east"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "up_west"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        copper_golem_pose: "running",
+        facing: "north"
+      },
+      Name: "minecraft:oxidized_copper_golem_statue"
+    },
+    {
+      Properties: {
+        orientation: "east_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        facing: "north",
+        type: "single"
+      },
+      Name: "minecraft:chest"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "south"
+      },
+      Name: "minecraft:campfire"
+    }
+  ],
+  DataVersion: 5003
+}

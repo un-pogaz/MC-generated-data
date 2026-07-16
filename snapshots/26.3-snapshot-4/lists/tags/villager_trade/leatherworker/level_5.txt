@@ -1,0 +1,2 @@
+minecraft:leatherworker/5/emerald_saddle
+minecraft:leatherworker/5/emerald_dyed_leather_helmet
