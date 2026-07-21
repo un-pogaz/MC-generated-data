@@ -12,6 +12,7 @@ minecraft:overworld/continents
 minecraft:overworld/depth
 minecraft:overworld/erosion
 minecraft:overworld/factor
+minecraft:overworld/final_density
 minecraft:overworld/jaggedness
 minecraft:overworld/offset
 minecraft:overworld/ore_vein/copper_density
@@ -28,6 +29,7 @@ minecraft:overworld/temperature
 minecraft:overworld/vegetation
 minecraft:overworld_amplified/depth
 minecraft:overworld_amplified/factor
+minecraft:overworld_amplified/final_density
 minecraft:overworld_amplified/jaggedness
 minecraft:overworld_amplified/offset
 minecraft:overworld_amplified/preliminary_surface_level
@@ -36,6 +38,7 @@ minecraft:overworld_large_biomes/continents
 minecraft:overworld_large_biomes/depth
 minecraft:overworld_large_biomes/erosion
 minecraft:overworld_large_biomes/factor
+minecraft:overworld_large_biomes/final_density
 minecraft:overworld_large_biomes/jaggedness
 minecraft:overworld_large_biomes/offset
 minecraft:overworld_large_biomes/preliminary_surface_level
