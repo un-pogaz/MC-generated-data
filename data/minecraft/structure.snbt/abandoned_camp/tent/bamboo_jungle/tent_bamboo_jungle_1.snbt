@@ -2057,7 +2057,6 @@
       nbt: {
         LootTable: "minecraft:barrels/abandoned_camp_barrel",
         components: {},
-        Items: [],
         id: "minecraft:barrel"
       },
       pos: [4, 1, 5],
@@ -2183,5 +2182,5 @@
       Name: "minecraft:oxidized_copper_golem_statue"
     }
   ],
-  DataVersion: 5004
+  DataVersion: 5005
 }

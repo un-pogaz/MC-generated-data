@@ -2061,7 +2061,6 @@
       nbt: {
         LootTable: "minecraft:chests/abandoned_camp_common_chest",
         components: {},
-        Items: [],
         id: "minecraft:chest"
       },
       pos: [5, 1, 5],
@@ -2204,5 +2203,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 5004
+  DataVersion: 5005
 }
