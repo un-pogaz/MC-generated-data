@@ -1,0 +1,288 @@
+{
+  size: [13, 10, 12],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "light_gray",
+        block_pos: [I; -90, -61, 528],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [90.0f, 0.0f],
+        Pos: [-89.5d, -60.0625d, 528.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -1479540355, 1591492689, -1797361078, 184847245]
+      },
+      blockPos: [6, 0, 8],
+      pos: [6.5d, 0.9375d, 8.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [4, 0, 8],
+      state: 0
+    },
+    {
+      pos: [5, 0, 6],
+      state: 0
+    },
+    {
+      pos: [5, 0, 7],
+      state: 0
+    },
+    {
+      pos: [5, 0, 8],
+      state: 0
+    },
+    {
+      pos: [7, 0, 6],
+      state: 0
+    },
+    {
+      pos: [8, 0, 5],
+      state: 0
+    },
+    {
+      pos: [8, 0, 8],
+      state: 0
+    },
+    {
+      pos: [8, 0, 9],
+      state: 0
+    },
+    {
+      pos: [9, 0, 8],
+      state: 0
+    },
+    {
+      pos: [9, 0, 9],
+      state: 0
+    },
+    {
+      pos: [10, 0, 4],
+      state: 1
+    },
+    {
+      pos: [11, 0, 5],
+      state: 1
+    },
+    {
+      pos: [4, 0, 9],
+      state: 2
+    },
+    {
+      pos: [5, 0, 9],
+      state: 2
+    },
+    {
+      pos: [5, 0, 10],
+      state: 2
+    },
+    {
+      pos: [5, 0, 11],
+      state: 2
+    },
+    {
+      pos: [6, 0, 7],
+      state: 2
+    },
+    {
+      pos: [6, 0, 8],
+      state: 2
+    },
+    {
+      pos: [6, 0, 10],
+      state: 2
+    },
+    {
+      pos: [7, 0, 7],
+      state: 2
+    },
+    {
+      pos: [7, 0, 8],
+      state: 2
+    },
+    {
+      pos: [7, 0, 9],
+      state: 2
+    },
+    {
+      pos: [9, 0, 4],
+      state: 2
+    },
+    {
+      pos: [11, 0, 4],
+      state: 2
+    },
+    {
+      pos: [11, 0, 6],
+      state: 2
+    },
+    {
+      pos: [12, 0, 5],
+      state: 2
+    },
+    {
+      pos: [4, 1, 7],
+      state: 3
+    },
+    {
+      pos: [4, 1, 8],
+      state: 3
+    },
+    {
+      pos: [5, 1, 6],
+      state: 3
+    },
+    {
+      pos: [5, 1, 7],
+      state: 3
+    },
+    {
+      pos: [6, 1, 6],
+      state: 3
+    },
+    {
+      pos: [7, 1, 5],
+      state: 3
+    },
+    {
+      pos: [7, 1, 6],
+      state: 3
+    },
+    {
+      pos: [8, 1, 5],
+      state: 3
+    },
+    {
+      pos: [8, 1, 9],
+      state: 3
+    },
+    {
+      pos: [9, 1, 9],
+      state: 3
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:down",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/acacia",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:down"
+      },
+      pos: [6, 0, 4],
+      state: 4
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:down",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/acacia",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:down"
+      },
+      pos: [6, 0, 9],
+      state: 5
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [12, 0, 6],
+      state: 6
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [5, 1, 8],
+      state: 7
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_common_chest",
+        components: {},
+        id: "minecraft:chest"
+      },
+      pos: [8, 1, 8],
+      state: 8
+    }
+  ],
+  palette: [
+    {
+      Properties: {
+        snowy: "false"
+      },
+      Name: "minecraft:grass_block"
+    },
+    {
+      Name: "minecraft:gravel"
+    },
+    {
+      Name: "minecraft:dirt_path"
+    },
+    {
+      Name: "minecraft:cobweb"
+    },
+    {
+      Properties: {
+        orientation: "up_north"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "up_west"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "east_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "north"
+      },
+      Name: "minecraft:campfire"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        facing: "west",
+        type: "single"
+      },
+      Name: "minecraft:chest"
+    }
+  ],
+  DataVersion: 5005
+}
