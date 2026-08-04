@@ -7,7 +7,7 @@
 "minecraft:cobweb","1","6.2%","1/16",
 "minecraft:compass","1","6.2%","1/16",
 "minecraft:map","1..2","6.2%","1/16",
-"minecraft:firework_rocket","2..4","6.2%","1/16",
+"minecraft:gunpowder","2..4","6.2%","1/16",
 "minecraft:fishing_rod","1","6.2%","1/16",
 "minecraft:flint_and_steel","1","6.2%","1/16",
 "minecraft:glass_bottle","1..4","6.2%","1/16",
@@ -29,3 +29,13 @@
 "minecraft:copper_sword","1","10%","1/10",
 "minecraft:spyglass","1","10%","1/10",
 "minecraft:shears","1","10%","1/10",
+——,——,——,——,——
+"1 time","--","--","--",
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_bamboo_jungle"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_cherry_grove"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_birch_forest"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_dappled_forest"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_flower_forest"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_pale_garden"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_swamp"
+"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_windswept"

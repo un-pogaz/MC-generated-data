@@ -125,6 +125,7 @@ minecraft:sound_entity
 minecraft:start_configuration
 minecraft:stop_sound
 minecraft:store_cookie
+minecraft:swing_animation
 minecraft:system_chat
 minecraft:tab_list
 minecraft:tag_query

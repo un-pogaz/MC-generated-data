@@ -1,3 +1,4 @@
+minecraft:abandoned_campsite_map
 minecraft:acacia_button
 minecraft:acacia_door
 minecraft:acacia_fence
@@ -19,6 +20,7 @@ minecraft:allium
 minecraft:amethyst_block
 minecraft:amethyst_cluster
 minecraft:amethyst_shard
+minecraft:ancient_city_map
 minecraft:ancient_debris
 minecraft:andesite
 minecraft:andesite_slab
@@ -84,6 +86,8 @@ minecraft:black_candle
 minecraft:black_carpet
 minecraft:black_concrete
 minecraft:black_concrete_powder
+minecraft:black_concrete_slab
+minecraft:black_concrete_stairs
 minecraft:black_dye
 minecraft:black_glazed_terracotta
 minecraft:black_stained_glass
@@ -105,6 +109,8 @@ minecraft:blue_candle
 minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
+minecraft:blue_concrete_slab
+minecraft:blue_concrete_stairs
 minecraft:blue_dye
 minecraft:blue_glazed_terracotta
 minecraft:blue_ice
@@ -140,6 +146,8 @@ minecraft:brown_candle
 minecraft:brown_carpet
 minecraft:brown_concrete
 minecraft:brown_concrete_powder
+minecraft:brown_concrete_slab
+minecraft:brown_concrete_stairs
 minecraft:brown_dye
 minecraft:brown_glazed_terracotta
 minecraft:brown_mushroom
@@ -154,6 +162,7 @@ minecraft:bubble_coral
 minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:budding_amethyst
+minecraft:buried_treasure_map
 minecraft:burn_pottery_sherd
 minecraft:bush
 minecraft:cactus
@@ -304,6 +313,8 @@ minecraft:cyan_candle
 minecraft:cyan_carpet
 minecraft:cyan_concrete
 minecraft:cyan_concrete_powder
+minecraft:cyan_concrete_slab
+minecraft:cyan_concrete_stairs
 minecraft:cyan_dye
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_stained_glass
@@ -367,6 +378,8 @@ minecraft:deepslate_tile_slab
 minecraft:deepslate_tile_stairs
 minecraft:deepslate_tile_wall
 minecraft:deepslate_tiles
+minecraft:desert_pyramid_map
+minecraft:desert_village_map
 minecraft:detector_rail
 minecraft:diamond
 minecraft:diamond_block
@@ -486,6 +499,8 @@ minecraft:gray_candle
 minecraft:gray_carpet
 minecraft:gray_concrete
 minecraft:gray_concrete_powder
+minecraft:gray_concrete_slab
+minecraft:gray_concrete_stairs
 minecraft:gray_dye
 minecraft:gray_glazed_terracotta
 minecraft:gray_stained_glass
@@ -498,6 +513,8 @@ minecraft:green_candle
 minecraft:green_carpet
 minecraft:green_concrete
 minecraft:green_concrete_powder
+minecraft:green_concrete_slab
+minecraft:green_concrete_stairs
 minecraft:green_dye
 minecraft:green_glazed_terracotta
 minecraft:green_stained_glass
@@ -554,6 +571,7 @@ minecraft:jigsaw
 minecraft:jukebox
 minecraft:jungle_button
 minecraft:jungle_door
+minecraft:jungle_explorer_map
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
 minecraft:jungle_leaves
@@ -584,6 +602,8 @@ minecraft:light_blue_candle
 minecraft:light_blue_carpet
 minecraft:light_blue_concrete
 minecraft:light_blue_concrete_powder
+minecraft:light_blue_concrete_slab
+minecraft:light_blue_concrete_stairs
 minecraft:light_blue_dye
 minecraft:light_blue_glazed_terracotta
 minecraft:light_blue_stained_glass
@@ -596,6 +616,8 @@ minecraft:light_gray_candle
 minecraft:light_gray_carpet
 minecraft:light_gray_concrete
 minecraft:light_gray_concrete_powder
+minecraft:light_gray_concrete_slab
+minecraft:light_gray_concrete_stairs
 minecraft:light_gray_dye
 minecraft:light_gray_glazed_terracotta
 minecraft:light_gray_stained_glass
@@ -613,6 +635,8 @@ minecraft:lime_candle
 minecraft:lime_carpet
 minecraft:lime_concrete
 minecraft:lime_concrete_powder
+minecraft:lime_concrete_slab
+minecraft:lime_concrete_stairs
 minecraft:lime_dye
 minecraft:lime_glazed_terracotta
 minecraft:lime_stained_glass
@@ -628,6 +652,8 @@ minecraft:magenta_candle
 minecraft:magenta_carpet
 minecraft:magenta_concrete
 minecraft:magenta_concrete_powder
+minecraft:magenta_concrete_slab
+minecraft:magenta_concrete_stairs
 minecraft:magenta_dye
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_stained_glass
@@ -660,6 +686,7 @@ minecraft:melon
 minecraft:melon_seeds
 minecraft:melon_slice
 minecraft:miner_pottery_sherd
+minecraft:mineshaft_map
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block
 minecraft:moss_carpet
@@ -719,6 +746,7 @@ minecraft:oak_trapdoor
 minecraft:oak_wood
 minecraft:observer
 minecraft:obsidian
+minecraft:ocean_explorer_map
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
 minecraft:ominous_bottle
@@ -728,6 +756,8 @@ minecraft:orange_candle
 minecraft:orange_carpet
 minecraft:orange_concrete
 minecraft:orange_concrete_powder
+minecraft:orange_concrete_slab
+minecraft:orange_concrete_stairs
 minecraft:orange_dye
 minecraft:orange_glazed_terracotta
 minecraft:orange_poplar_leaves
@@ -792,6 +822,8 @@ minecraft:pink_candle
 minecraft:pink_carpet
 minecraft:pink_concrete
 minecraft:pink_concrete_powder
+minecraft:pink_concrete_slab
+minecraft:pink_concrete_stairs
 minecraft:pink_dye
 minecraft:pink_glazed_terracotta
 minecraft:pink_petals
@@ -805,6 +837,7 @@ minecraft:pink_wool_stairs
 minecraft:piston
 minecraft:pitcher_plant
 minecraft:pitcher_pod
+minecraft:plains_village_map
 minecraft:player_head
 minecraft:plenty_pottery_sherd
 minecraft:podzol
@@ -885,6 +918,8 @@ minecraft:purple_candle
 minecraft:purple_carpet
 minecraft:purple_concrete
 minecraft:purple_concrete_powder
+minecraft:purple_concrete_slab
+minecraft:purple_concrete_stairs
 minecraft:purple_dye
 minecraft:purple_glazed_terracotta
 minecraft:purple_stained_glass
@@ -921,6 +956,8 @@ minecraft:red_candle
 minecraft:red_carpet
 minecraft:red_concrete
 minecraft:red_concrete_powder
+minecraft:red_concrete_slab
+minecraft:red_concrete_stairs
 minecraft:red_dye
 minecraft:red_glazed_terracotta
 minecraft:red_mushroom
@@ -970,6 +1007,7 @@ minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
+minecraft:savanna_village_map
 minecraft:scaffolding
 minecraft:scrape_pottery_sherd
 minecraft:sculk
@@ -1023,6 +1061,7 @@ minecraft:snout_armor_trim_smithing_template
 minecraft:snow
 minecraft:snow_block
 minecraft:snow_golem_spawn_egg
+minecraft:snowy_village_map
 minecraft:soul_campfire
 minecraft:soul_lantern
 minecraft:soul_sand
@@ -1107,8 +1146,10 @@ minecraft:sulfur_wall
 minecraft:sunflower
 minecraft:suspicious_gravel
 minecraft:suspicious_sand
+minecraft:swamp_explorer_map
 minecraft:sweet_berries
 minecraft:tadpole_spawn_egg
+minecraft:taiga_village_map
 minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
@@ -1124,6 +1165,7 @@ minecraft:torchflower
 minecraft:torchflower_seeds
 minecraft:trader_llama_spawn_egg
 minecraft:trapped_chest
+minecraft:trial_explorer_map
 minecraft:trial_key
 minecraft:trial_spawner
 minecraft:tripwire_hook
@@ -1154,6 +1196,7 @@ minecraft:vine
 minecraft:wandering_trader_spawn_egg
 minecraft:ward_armor_trim_smithing_template
 minecraft:warden_spawn_egg
+minecraft:warm_ocean_ruins_map
 minecraft:warped_button
 minecraft:warped_door
 minecraft:warped_fence
@@ -1254,6 +1297,8 @@ minecraft:white_candle
 minecraft:white_carpet
 minecraft:white_concrete
 minecraft:white_concrete_powder
+minecraft:white_concrete_slab
+minecraft:white_concrete_stairs
 minecraft:white_dye
 minecraft:white_glazed_terracotta
 minecraft:white_stained_glass
@@ -1272,10 +1317,13 @@ minecraft:wither_skeleton_skull
 minecraft:wither_skeleton_spawn_egg
 minecraft:wither_spawn_egg
 minecraft:wolf_spawn_egg
+minecraft:woodland_explorer_map
 minecraft:yellow_candle
 minecraft:yellow_carpet
 minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
+minecraft:yellow_concrete_slab
+minecraft:yellow_concrete_stairs
 minecraft:yellow_dye
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_poplar_leaves

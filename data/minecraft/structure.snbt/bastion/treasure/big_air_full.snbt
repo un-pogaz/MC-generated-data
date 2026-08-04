@@ -110621,14 +110621,14 @@
   ],
   palette: [
     {
-      Name: "minecraft:air"
+      id: "minecraft:air"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "north_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

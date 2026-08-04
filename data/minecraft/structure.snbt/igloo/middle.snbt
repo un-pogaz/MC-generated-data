@@ -65,15 +65,15 @@
   ],
   palette: [
     {
-      Name: "minecraft:stone_bricks"
+      id: "minecraft:stone_bricks"
     },
     {
-      Properties: {
+      id: "minecraft:ladder",
+      properties: {
         waterlogged: "false",
         facing: "north"
-      },
-      Name: "minecraft:ladder"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }
