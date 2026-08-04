@@ -1,0 +1,60 @@
+{
+  size: [2, 2, 1],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 0],
+      state: 1
+    },
+    {
+      pos: [1, 1, 0],
+      state: 2
+    },
+    {
+      nbt: {
+        joint: "rollable",
+        final_state: "minecraft:air",
+        name: "minecraft:bed",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:empty"
+      },
+      pos: [0, 1, 0],
+      state: 3
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:magenta_bed",
+      properties: {
+        part: "foot",
+        facing: "east",
+        occupied: "false"
+      }
+    },
+    {
+      id: "minecraft:magenta_bed",
+      properties: {
+        part: "head",
+        facing: "east",
+        occupied: "false"
+      }
+    },
+    {
+      id: "minecraft:air"
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    }
+  ],
+  DataVersion: 5009
+}

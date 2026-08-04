@@ -1,0 +1,9 @@
+((permissions: gamemasters))
+swing
+swing <targets minecraft:entity[type="entities", amount="multiple"]>
+swing <targets minecraft:entity[type="entities", amount="multiple"]> mainhand
+swing <targets minecraft:entity[type="entities", amount="multiple"]> mainhand <animation minecraft:swing_animation>
+swing <targets minecraft:entity[type="entities", amount="multiple"]> mainhand <animation minecraft:swing_animation> <duration minecraft:time[min="1"]>
+swing <targets minecraft:entity[type="entities", amount="multiple"]> offhand
+swing <targets minecraft:entity[type="entities", amount="multiple"]> offhand <animation minecraft:swing_animation>
+swing <targets minecraft:entity[type="entities", amount="multiple"]> offhand <animation minecraft:swing_animation> <duration minecraft:time[min="1"]>

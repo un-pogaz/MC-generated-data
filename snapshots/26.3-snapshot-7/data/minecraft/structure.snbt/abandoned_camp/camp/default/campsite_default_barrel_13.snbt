@@ -1,0 +1,203 @@
+{
+  size: [10, 3, 10],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "purple",
+        block_pos: [I; -32, -61, -108],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [90.0f, 0.0f],
+        Pos: [-31.5d, -60.0625d, -107.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -523578176, 481054558, -2020616408, 862463757]
+      },
+      blockPos: [7, 0, 4],
+      pos: [7.5d, 0.9375d, 4.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "purple",
+        block_pos: [I; -32, -61, -106],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [270.0f, 0.0f],
+        Pos: [-31.5d, -60.0625d, -105.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -1847391714, 712131979, -1269265979, 922728637]
+      },
+      blockPos: [7, 0, 6],
+      pos: [7.5d, 0.9375d, 6.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "purple",
+        block_pos: [I; -31, -61, -107],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [180.0f, 0.0f],
+        Pos: [-30.5d, -60.0625d, -106.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -621624115, -1897314167, -2128244811, -748902726]
+      },
+      blockPos: [8, 0, 5],
+      pos: [8.5d, 0.9375d, 5.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [6, 0, 4],
+      state: 0
+    },
+    {
+      pos: [6, 0, 5],
+      state: 1
+    },
+    {
+      pos: [7, 0, 3],
+      state: 1
+    },
+    {
+      pos: [7, 0, 4],
+      state: 1
+    },
+    {
+      pos: [7, 0, 6],
+      state: 1
+    },
+    {
+      pos: [8, 0, 2],
+      state: 1
+    },
+    {
+      pos: [8, 0, 4],
+      state: 1
+    },
+    {
+      pos: [8, 0, 5],
+      state: 1
+    },
+    {
+      pos: [8, 0, 7],
+      state: 1
+    },
+    {
+      pos: [9, 0, 2],
+      state: 1
+    },
+    {
+      pos: [9, 0, 3],
+      state: 1
+    },
+    {
+      pos: [9, 0, 5],
+      state: 1
+    },
+    {
+      pos: [9, 0, 6],
+      state: 1
+    },
+    {
+      pos: [9, 0, 7],
+      state: 1
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_secret_chest",
+        components: {},
+        id: "minecraft:chest"
+      },
+      pos: [7, 0, 5],
+      state: 2
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [9, 0, 4],
+      state: 3
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:barrels/abandoned_camp_barrel",
+        components: {},
+        id: "minecraft:barrel"
+      },
+      pos: [6, 1, 4],
+      state: 4
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [7, 1, 5],
+      state: 5
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:dirt"
+    },
+    {
+      id: "minecraft:dirt_path"
+    },
+    {
+      id: "minecraft:oxidized_copper_chest",
+      properties: {
+        waterlogged: "false",
+        facing: "south",
+        type: "single"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    },
+    {
+      id: "minecraft:barrel",
+      properties: {
+        facing: "up",
+        open: "false"
+      }
+    },
+    {
+      id: "minecraft:campfire",
+      properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "east"
+      }
+    }
+  ],
+  DataVersion: 5009
+}

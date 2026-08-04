@@ -1,0 +1,2 @@
+#minecraft:enchantable/melee_weapon
+#minecraft:axes
