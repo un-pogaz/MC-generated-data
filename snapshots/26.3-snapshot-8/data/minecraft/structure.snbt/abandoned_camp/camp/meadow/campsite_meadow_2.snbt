@@ -1,0 +1,589 @@
+{
+  size: [10, 10, 10],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "cyan",
+        block_pos: [I; -89, -61, -29],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [90.0f, 0.0f],
+        Pos: [-88.5d, -60.0625d, -28.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -108799371, -2060042173, -1077246062, 912233551]
+      },
+      blockPos: [5, 0, 4],
+      pos: [5.5d, 0.9375d, 4.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "yellow",
+        block_pos: [I; -89, -59, -26],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-88.5d, -59.0d, -25.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -2081639768, 1314475909, -1648047600, 1145021515]
+      },
+      blockPos: [5, 2, 7],
+      pos: [5.5d, 2.0d, 7.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [0, 0, 6],
+      state: 0
+    },
+    {
+      pos: [0, 0, 8],
+      state: 0
+    },
+    {
+      pos: [1, 0, 2],
+      state: 1
+    },
+    {
+      pos: [1, 0, 4],
+      state: 0
+    },
+    {
+      pos: [1, 0, 7],
+      state: 1
+    },
+    {
+      pos: [1, 0, 8],
+      state: 0
+    },
+    {
+      pos: [2, 0, 1],
+      state: 1
+    },
+    {
+      pos: [2, 0, 2],
+      state: 1
+    },
+    {
+      pos: [2, 0, 3],
+      state: 1
+    },
+    {
+      pos: [2, 0, 7],
+      state: 1
+    },
+    {
+      pos: [2, 0, 8],
+      state: 1
+    },
+    {
+      pos: [3, 0, 1],
+      state: 1
+    },
+    {
+      pos: [3, 0, 2],
+      state: 1
+    },
+    {
+      pos: [3, 0, 3],
+      state: 0
+    },
+    {
+      pos: [3, 0, 7],
+      state: 0
+    },
+    {
+      pos: [3, 0, 8],
+      state: 1
+    },
+    {
+      pos: [4, 0, 1],
+      state: 0
+    },
+    {
+      pos: [4, 0, 2],
+      state: 0
+    },
+    {
+      pos: [4, 0, 3],
+      state: 2
+    },
+    {
+      pos: [4, 0, 7],
+      state: 1
+    },
+    {
+      pos: [5, 0, 1],
+      state: 2
+    },
+    {
+      pos: [5, 0, 5],
+      state: 1
+    },
+    {
+      pos: [5, 0, 7],
+      state: 1
+    },
+    {
+      pos: [6, 0, 1],
+      state: 0
+    },
+    {
+      pos: [6, 0, 7],
+      state: 1
+    },
+    {
+      pos: [6, 0, 8],
+      state: 0
+    },
+    {
+      pos: [7, 0, 0],
+      state: 0
+    },
+    {
+      pos: [7, 0, 1],
+      state: 0
+    },
+    {
+      pos: [7, 0, 2],
+      state: 0
+    },
+    {
+      pos: [7, 0, 3],
+      state: 0
+    },
+    {
+      pos: [7, 0, 8],
+      state: 0
+    },
+    {
+      pos: [8, 0, 1],
+      state: 0
+    },
+    {
+      pos: [8, 0, 2],
+      state: 0
+    },
+    {
+      pos: [8, 0, 7],
+      state: 0
+    },
+    {
+      pos: [8, 0, 8],
+      state: 0
+    },
+    {
+      pos: [8, 0, 9],
+      state: 0
+    },
+    {
+      pos: [9, 0, 2],
+      state: 0
+    },
+    {
+      pos: [9, 0, 8],
+      state: 0
+    },
+    {
+      pos: [1, 1, 2],
+      state: 0
+    },
+    {
+      pos: [1, 1, 7],
+      state: 0
+    },
+    {
+      pos: [2, 1, 1],
+      state: 0
+    },
+    {
+      pos: [2, 1, 2],
+      state: 0
+    },
+    {
+      pos: [2, 1, 3],
+      state: 0
+    },
+    {
+      pos: [2, 1, 7],
+      state: 0
+    },
+    {
+      pos: [2, 1, 8],
+      state: 0
+    },
+    {
+      pos: [3, 1, 1],
+      state: 0
+    },
+    {
+      pos: [3, 1, 2],
+      state: 0
+    },
+    {
+      pos: [3, 1, 8],
+      state: 0
+    },
+    {
+      pos: [4, 1, 7],
+      state: 3
+    },
+    {
+      pos: [5, 1, 7],
+      state: 3
+    },
+    {
+      pos: [6, 1, 7],
+      state: 3
+    },
+    {
+      pos: [3, 0, 4],
+      state: 4
+    },
+    {
+      pos: [4, 0, 4],
+      state: 4
+    },
+    {
+      pos: [4, 0, 5],
+      state: 4
+    },
+    {
+      pos: [4, 0, 6],
+      state: 4
+    },
+    {
+      pos: [5, 0, 2],
+      state: 4
+    },
+    {
+      pos: [5, 0, 4],
+      state: 4
+    },
+    {
+      pos: [5, 0, 6],
+      state: 4
+    },
+    {
+      pos: [6, 0, 2],
+      state: 4
+    },
+    {
+      pos: [6, 0, 3],
+      state: 4
+    },
+    {
+      pos: [6, 0, 4],
+      state: 4
+    },
+    {
+      pos: [6, 0, 5],
+      state: 4
+    },
+    {
+      pos: [6, 0, 6],
+      state: 4
+    },
+    {
+      pos: [7, 0, 4],
+      state: 4
+    },
+    {
+      pos: [7, 0, 5],
+      state: 4
+    },
+    {
+      pos: [7, 0, 6],
+      state: 4
+    },
+    {
+      pos: [8, 0, 5],
+      state: 4
+    },
+    {
+      pos: [0, 1, 6],
+      state: 5
+    },
+    {
+      pos: [0, 1, 8],
+      state: 6
+    },
+    {
+      pos: [1, 1, 4],
+      state: 5
+    },
+    {
+      pos: [1, 1, 8],
+      state: 7
+    },
+    {
+      pos: [3, 1, 7],
+      state: 7
+    },
+    {
+      pos: [4, 1, 1],
+      state: 8
+    },
+    {
+      pos: [4, 1, 2],
+      state: 9
+    },
+    {
+      pos: [6, 1, 1],
+      state: 10
+    },
+    {
+      pos: [6, 1, 8],
+      state: 7
+    },
+    {
+      pos: [7, 1, 0],
+      state: 11
+    },
+    {
+      pos: [7, 1, 1],
+      state: 9
+    },
+    {
+      pos: [7, 1, 2],
+      state: 8
+    },
+    {
+      pos: [7, 1, 3],
+      state: 9
+    },
+    {
+      pos: [7, 1, 8],
+      state: 8
+    },
+    {
+      pos: [8, 1, 1],
+      state: 12
+    },
+    {
+      pos: [8, 1, 2],
+      state: 8
+    },
+    {
+      pos: [8, 1, 7],
+      state: 8
+    },
+    {
+      pos: [8, 1, 8],
+      state: 9
+    },
+    {
+      pos: [8, 1, 9],
+      state: 11
+    },
+    {
+      pos: [9, 1, 2],
+      state: 13
+    },
+    {
+      pos: [9, 1, 8],
+      state: 14
+    },
+    {
+      pos: [1, 2, 2],
+      state: 8
+    },
+    {
+      pos: [2, 2, 2],
+      state: 15
+    },
+    {
+      pos: [2, 2, 3],
+      state: 7
+    },
+    {
+      pos: [2, 2, 7],
+      state: 8
+    },
+    {
+      pos: [3, 2, 1],
+      state: 15
+    },
+    {
+      pos: [3, 2, 2],
+      state: 8
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/fancy_oak_bees",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [2, 0, 4],
+      state: 16
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [9, 0, 4],
+      state: 17
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_common_chest",
+        components: {},
+        id: "minecraft:chest"
+      },
+      pos: [3, 1, 3],
+      state: 18
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [5, 1, 5],
+      state: 19
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:grass_block",
+      properties: {
+        snowy: "false"
+      }
+    },
+    {
+      id: "minecraft:dirt"
+    },
+    {
+      id: "minecraft:gravel"
+    },
+    {
+      id: "minecraft:oak_log",
+      properties: {
+        axis: "x"
+      }
+    },
+    {
+      id: "minecraft:dirt_path"
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "south",
+        flower_amount: "1"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "south",
+        flower_amount: "2"
+      }
+    },
+    {
+      id: "minecraft:poppy"
+    },
+    {
+      id: "minecraft:dandelion"
+    },
+    {
+      id: "minecraft:allium"
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "south",
+        flower_amount: "3"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "north",
+        flower_amount: "3"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "south",
+        flower_amount: "4"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "north",
+        flower_amount: "2"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "north",
+        flower_amount: "4"
+      }
+    },
+    {
+      id: "minecraft:wildflowers",
+      properties: {
+        facing: "east",
+        flower_amount: "4"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "up_west"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    },
+    {
+      id: "minecraft:chest",
+      properties: {
+        waterlogged: "false",
+        facing: "east",
+        type: "single"
+      }
+    },
+    {
+      id: "minecraft:campfire",
+      properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "south"
+      }
+    }
+  ],
+  DataVersion: 5010
+}

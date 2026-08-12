@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wolf/baby/whine1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/wolf/baby/whine2",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_wolf.whine"
+}

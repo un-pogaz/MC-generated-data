@@ -1,0 +1,500 @@
+{
+  size: [11, 10, 14],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "magenta",
+        block_pos: [I; -88, -59, 14],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [180.0f, 0.0f],
+        Pos: [-87.5d, -59.0d, 14.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; -711591330, -1615705424, -1800443833, -532463810]
+      },
+      blockPos: [6, 2, 4],
+      pos: [6.5d, 2.0d, 4.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [1, 0, 3],
+      state: 0
+    },
+    {
+      pos: [1, 0, 4],
+      state: 0
+    },
+    {
+      pos: [1, 0, 5],
+      state: 0
+    },
+    {
+      pos: [1, 0, 6],
+      state: 0
+    },
+    {
+      pos: [1, 0, 7],
+      state: 0
+    },
+    {
+      pos: [2, 0, 2],
+      state: 0
+    },
+    {
+      pos: [2, 0, 3],
+      state: 1
+    },
+    {
+      pos: [2, 0, 4],
+      state: 0
+    },
+    {
+      pos: [2, 0, 8],
+      state: 0
+    },
+    {
+      pos: [2, 0, 9],
+      state: 0
+    },
+    {
+      pos: [2, 0, 10],
+      state: 0
+    },
+    {
+      pos: [3, 0, 3],
+      state: 0
+    },
+    {
+      pos: [3, 0, 4],
+      state: 0
+    },
+    {
+      pos: [3, 0, 5],
+      state: 0
+    },
+    {
+      pos: [3, 0, 8],
+      state: 0
+    },
+    {
+      pos: [3, 0, 9],
+      state: 1
+    },
+    {
+      pos: [3, 0, 10],
+      state: 0
+    },
+    {
+      pos: [4, 0, 4],
+      state: 0
+    },
+    {
+      pos: [4, 0, 6],
+      state: 1
+    },
+    {
+      pos: [4, 0, 9],
+      state: 0
+    },
+    {
+      pos: [4, 0, 10],
+      state: 0
+    },
+    {
+      pos: [5, 0, 4],
+      state: 1
+    },
+    {
+      pos: [5, 0, 9],
+      state: 0
+    },
+    {
+      pos: [6, 0, 4],
+      state: 1
+    },
+    {
+      pos: [6, 0, 6],
+      state: 1
+    },
+    {
+      pos: [7, 0, 4],
+      state: 1
+    },
+    {
+      pos: [8, 0, 3],
+      state: 0
+    },
+    {
+      pos: [8, 0, 7],
+      state: 0
+    },
+    {
+      pos: [8, 0, 8],
+      state: 0
+    },
+    {
+      pos: [1, 1, 3],
+      state: 2
+    },
+    {
+      pos: [2, 1, 2],
+      state: 2
+    },
+    {
+      pos: [2, 1, 3],
+      state: 3
+    },
+    {
+      pos: [2, 1, 4],
+      state: 2
+    },
+    {
+      pos: [2, 1, 9],
+      state: 2
+    },
+    {
+      pos: [3, 1, 3],
+      state: 2
+    },
+    {
+      pos: [3, 1, 8],
+      state: 2
+    },
+    {
+      pos: [3, 1, 9],
+      state: 3
+    },
+    {
+      pos: [3, 1, 10],
+      state: 2
+    },
+    {
+      pos: [4, 1, 9],
+      state: 2
+    },
+    {
+      pos: [5, 1, 4],
+      state: 4
+    },
+    {
+      pos: [6, 1, 4],
+      state: 4
+    },
+    {
+      pos: [7, 1, 4],
+      state: 4
+    },
+    {
+      pos: [2, 2, 3],
+      state: 2
+    },
+    {
+      pos: [3, 2, 9],
+      state: 2
+    },
+    {
+      pos: [4, 0, 5],
+      state: 5
+    },
+    {
+      pos: [5, 0, 5],
+      state: 5
+    },
+    {
+      pos: [5, 0, 6],
+      state: 5
+    },
+    {
+      pos: [5, 0, 7],
+      state: 5
+    },
+    {
+      pos: [5, 0, 8],
+      state: 5
+    },
+    {
+      pos: [6, 0, 5],
+      state: 5
+    },
+    {
+      pos: [6, 0, 7],
+      state: 5
+    },
+    {
+      pos: [7, 0, 5],
+      state: 5
+    },
+    {
+      pos: [7, 0, 6],
+      state: 5
+    },
+    {
+      pos: [7, 0, 7],
+      state: 5
+    },
+    {
+      pos: [8, 0, 5],
+      state: 5
+    },
+    {
+      pos: [8, 0, 6],
+      state: 5
+    },
+    {
+      pos: [9, 0, 5],
+      state: 5
+    },
+    {
+      pos: [9, 0, 6],
+      state: 5
+    },
+    {
+      pos: [10, 0, 5],
+      state: 5
+    },
+    {
+      pos: [1, 1, 4],
+      state: 6
+    },
+    {
+      pos: [1, 1, 5],
+      state: 7
+    },
+    {
+      pos: [1, 1, 7],
+      state: 7
+    },
+    {
+      pos: [2, 1, 8],
+      state: 7
+    },
+    {
+      pos: [2, 1, 10],
+      state: 8
+    },
+    {
+      pos: [3, 1, 4],
+      state: 7
+    },
+    {
+      pos: [3, 1, 5],
+      state: 9
+    },
+    {
+      pos: [4, 1, 4],
+      state: 10
+    },
+    {
+      pos: [4, 1, 10],
+      state: 8
+    },
+    {
+      pos: [5, 1, 9],
+      state: 8
+    },
+    {
+      pos: [8, 1, 3],
+      state: 11
+    },
+    {
+      pos: [8, 1, 7],
+      state: 12
+    },
+    {
+      pos: [8, 1, 8],
+      state: 12
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/cherry_bees",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [4, 0, 2],
+      state: 13
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:bottom",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/cherry_bees",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [4, 0, 7],
+      state: 14
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [10, 0, 6],
+      state: 15
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:barrels/abandoned_camp_barrel",
+        components: {},
+        id: "minecraft:barrel"
+      },
+      pos: [4, 1, 6],
+      state: 16
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [6, 1, 6],
+      state: 17
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:grass_block",
+      properties: {
+        snowy: "false"
+      }
+    },
+    {
+      id: "minecraft:dirt"
+    },
+    {
+      id: "minecraft:cherry_leaves",
+      properties: {
+        waterlogged: "false",
+        distance: "1",
+        persistent: "true"
+      }
+    },
+    {
+      id: "minecraft:cherry_log",
+      properties: {
+        axis: "y"
+      }
+    },
+    {
+      id: "minecraft:cherry_log",
+      properties: {
+        axis: "x"
+      }
+    },
+    {
+      id: "minecraft:dirt_path"
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "east",
+        flower_amount: "1"
+      }
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "north",
+        flower_amount: "1"
+      }
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "west",
+        flower_amount: "1"
+      }
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "north",
+        flower_amount: "4"
+      }
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "north",
+        flower_amount: "2"
+      }
+    },
+    {
+      id: "minecraft:cherry_fence",
+      properties: {
+        east: "false",
+        waterlogged: "false",
+        south: "false",
+        north: "false",
+        west: "false"
+      }
+    },
+    {
+      id: "minecraft:pink_petals",
+      properties: {
+        facing: "south",
+        flower_amount: "1"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "up_south"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "up_west"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    },
+    {
+      id: "minecraft:barrel",
+      properties: {
+        facing: "up",
+        open: "false"
+      }
+    },
+    {
+      id: "minecraft:campfire",
+      properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "east"
+      }
+    }
+  ],
+  DataVersion: 5010
+}

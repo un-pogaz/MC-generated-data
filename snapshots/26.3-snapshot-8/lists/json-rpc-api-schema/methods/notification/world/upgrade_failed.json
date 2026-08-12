@@ -1,0 +1,13 @@
+{
+  "description": "World upgrade failed",
+  "name": "minecraft:notification/world/upgrade_failed",
+  "params": [
+    {
+      "name": "reason",
+      "required": true,
+      "schema": {
+        "type": "string"
+      }
+    }
+  ]
+}

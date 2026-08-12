@@ -1,0 +1,360 @@
+{
+  size: [10, 10, 10],
+  entities: [
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "red",
+        block_pos: [I; -87, -61, 617],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-86.5d, -60.0625d, 617.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; 259104176, 734414446, -1926833845, -700329880]
+      },
+      blockPos: [7, 0, 5],
+      pos: [7.5d, 0.9375d, 5.5d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, 0.0d, 0.0d],
+        color: "orange",
+        block_pos: [I; -86, -61, 616],
+        Invulnerable: 0b,
+        Air: 300s,
+        OnGround: 0b,
+        fall_distance: 0.0d,
+        PortalCooldown: 0,
+        Rotation: [0.0f, 0.0f],
+        Pos: [-85.5d, -60.0625d, 616.5d],
+        Fire: 0s,
+        id: "minecraft:cushion",
+        UUID: [I; 554377484, 1324961464, -1477278784, -1922152680]
+      },
+      blockPos: [8, 0, 4],
+      pos: [8.5d, 0.9375d, 4.5d]
+    }
+  ],
+  blocks: [
+    {
+      pos: [1, 0, 1],
+      state: 0
+    },
+    {
+      pos: [1, 0, 2],
+      state: 0
+    },
+    {
+      pos: [1, 0, 4],
+      state: 0
+    },
+    {
+      pos: [2, 0, 7],
+      state: 0
+    },
+    {
+      pos: [3, 0, 3],
+      state: 0
+    },
+    {
+      pos: [3, 0, 4],
+      state: 0
+    },
+    {
+      pos: [3, 0, 5],
+      state: 0
+    },
+    {
+      pos: [4, 0, 2],
+      state: 0
+    },
+    {
+      pos: [4, 0, 3],
+      state: 0
+    },
+    {
+      pos: [4, 0, 4],
+      state: 0
+    },
+    {
+      pos: [4, 0, 7],
+      state: 0
+    },
+    {
+      pos: [5, 0, 3],
+      state: 0
+    },
+    {
+      pos: [5, 0, 7],
+      state: 0
+    },
+    {
+      pos: [6, 0, 2],
+      state: 0
+    },
+    {
+      pos: [6, 0, 3],
+      state: 0
+    },
+    {
+      pos: [7, 0, 4],
+      state: 1
+    },
+    {
+      pos: [1, 1, 1],
+      state: 2
+    },
+    {
+      pos: [1, 1, 2],
+      state: 2
+    },
+    {
+      pos: [1, 1, 4],
+      state: 3
+    },
+    {
+      pos: [2, 1, 7],
+      state: 3
+    },
+    {
+      pos: [3, 1, 3],
+      state: 1
+    },
+    {
+      pos: [3, 1, 4],
+      state: 1
+    },
+    {
+      pos: [3, 1, 5],
+      state: 1
+    },
+    {
+      pos: [4, 1, 2],
+      state: 1
+    },
+    {
+      pos: [4, 1, 4],
+      state: 1
+    },
+    {
+      pos: [4, 1, 7],
+      state: 4
+    },
+    {
+      pos: [5, 1, 3],
+      state: 1
+    },
+    {
+      pos: [5, 1, 7],
+      state: 4
+    },
+    {
+      pos: [6, 1, 2],
+      state: 1
+    },
+    {
+      pos: [6, 1, 7],
+      state: 4
+    },
+    {
+      pos: [5, 0, 4],
+      state: 5
+    },
+    {
+      pos: [5, 0, 5],
+      state: 5
+    },
+    {
+      pos: [5, 0, 6],
+      state: 5
+    },
+    {
+      pos: [6, 0, 4],
+      state: 5
+    },
+    {
+      pos: [6, 0, 5],
+      state: 5
+    },
+    {
+      pos: [6, 0, 6],
+      state: 5
+    },
+    {
+      pos: [7, 0, 5],
+      state: 5
+    },
+    {
+      pos: [7, 0, 6],
+      state: 5
+    },
+    {
+      pos: [8, 0, 3],
+      state: 5
+    },
+    {
+      pos: [8, 0, 4],
+      state: 5
+    },
+    {
+      pos: [8, 0, 5],
+      state: 5
+    },
+    {
+      pos: [9, 0, 2],
+      state: 5
+    },
+    {
+      pos: [9, 0, 3],
+      state: 5
+    },
+    {
+      pos: [9, 0, 5],
+      state: 5
+    },
+    {
+      pos: [6, 2, 7],
+      state: 6
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:chests/abandoned_camp_secret_chest",
+        components: {},
+        id: "minecraft:chest"
+      },
+      pos: [6, 0, 7],
+      state: 7
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:end_connector",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:connector"
+      },
+      pos: [9, 0, 4],
+      state: 8
+    },
+    {
+      nbt: {
+        components: {},
+        joint: "rollable",
+        final_state: "minecraft:dirt",
+        name: "minecraft:down",
+        placement_priority: 0,
+        pool: "minecraft:abandoned_camp/trees/yellow_poplar",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:down"
+      },
+      pos: [4, 1, 3],
+      state: 9
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:barrels/abandoned_camp_barrel",
+        components: {},
+        id: "minecraft:barrel"
+      },
+      pos: [6, 1, 3],
+      state: 10
+    },
+    {
+      nbt: {
+        components: {},
+        Items: [],
+        CookingTimes: [I; 0, 0, 0, 0],
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
+      },
+      pos: [7, 1, 4],
+      state: 11
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:dirt"
+    },
+    {
+      id: "minecraft:grass_block",
+      properties: {
+        snowy: "false"
+      }
+    },
+    {
+      id: "minecraft:poplar_log",
+      properties: {
+        axis: "z"
+      }
+    },
+    {
+      id: "minecraft:poplar_log",
+      properties: {
+        axis: "y"
+      }
+    },
+    {
+      id: "minecraft:poplar_log",
+      properties: {
+        axis: "x"
+      }
+    },
+    {
+      id: "minecraft:dirt_path"
+    },
+    {
+      id: "minecraft:leaf_litter",
+      properties: {
+        segment_amount: "1",
+        facing: "east"
+      }
+    },
+    {
+      id: "minecraft:oxidized_copper_chest",
+      properties: {
+        waterlogged: "false",
+        facing: "east",
+        type: "single"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "up_west"
+      }
+    },
+    {
+      id: "minecraft:barrel",
+      properties: {
+        facing: "south",
+        open: "false"
+      }
+    },
+    {
+      id: "minecraft:campfire",
+      properties: {
+        waterlogged: "false",
+        signal_fire: "false",
+        lit: "false",
+        facing: "east"
+      }
+    }
+  ],
+  DataVersion: 5010
+}

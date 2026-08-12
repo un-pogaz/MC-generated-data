@@ -1,0 +1,2 @@
+minecraft:mob/sulfur_cube/absorb1
+minecraft:mob/sulfur_cube/absorb2

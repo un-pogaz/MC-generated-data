@@ -1,0 +1,5 @@
+{
+  "description": "Server shutting down",
+  "name": "minecraft:notification/server/stopping",
+  "params": []
+}
