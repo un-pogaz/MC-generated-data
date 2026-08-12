@@ -2881,7 +2881,7 @@ minecraft:block/yellow_wool_slab_top
 minecraft:block/yellow_wool_stairs
 minecraft:block/yellow_wool_stairs_inner
 minecraft:block/yellow_wool_stairs_outer
-minecraft:item/abandoned_campsite_map
+minecraft:item/abandoned_camp_map
 minecraft:item/acacia_boat
 minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
@@ -2895,7 +2895,6 @@ minecraft:item/allium
 minecraft:item/amethyst_bud
 minecraft:item/amethyst_cluster
 minecraft:item/amethyst_shard
-minecraft:item/ancient_city_map
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
@@ -2993,6 +2992,8 @@ minecraft:item/bucket
 minecraft:item/bundle
 minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
+minecraft:item/buried_ancient_city_map
+minecraft:item/buried_mineshaft_map
 minecraft:item/buried_treasure_map
 minecraft:item/burn_pottery_sherd
 minecraft:item/bush
@@ -3737,7 +3738,6 @@ minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/miner_pottery_sherd
-minecraft:item/mineshaft_map
 minecraft:item/mojang_banner_pattern
 minecraft:item/mooshroom_spawn_egg
 minecraft:item/mourner_pottery_sherd

@@ -766,7 +766,7 @@ minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
 minecraft:block/orange_concrete_powder
 minecraft:block/orange_glazed_terracotta
-minecraft:block/orange_poplar_leaves
+minecraft:block/orange_poplar_leaves  [mcmeta]
 minecraft:block/orange_shulker_box
 minecraft:block/orange_stained_glass
 minecraft:block/orange_stained_glass_pane_top
@@ -945,7 +945,7 @@ minecraft:block/red_glazed_terracotta
 minecraft:block/red_mushroom  [mcmeta]
 minecraft:block/red_mushroom_block
 minecraft:block/red_nether_bricks
-minecraft:block/red_poplar_leaves
+minecraft:block/red_poplar_leaves  [mcmeta]
 minecraft:block/red_sand
 minecraft:block/red_sandstone
 minecraft:block/red_sandstone_bottom
@@ -1292,7 +1292,7 @@ minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_glazed_terracotta
-minecraft:block/yellow_poplar_leaves
+minecraft:block/yellow_poplar_leaves  [mcmeta]
 minecraft:block/yellow_shulker_box
 minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_top
@@ -2621,7 +2621,7 @@ minecraft:gui/title/minceraft
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojangstudios
 minecraft:gui/title/realms
-minecraft:item/abandoned_campsite_map
+minecraft:item/abandoned_camp_map
 minecraft:item/acacia_boat
 minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
@@ -2629,7 +2629,6 @@ minecraft:item/acacia_hanging_sign
 minecraft:item/acacia_sign
 minecraft:item/allay_spawn_egg
 minecraft:item/amethyst_shard
-minecraft:item/ancient_city_map
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
@@ -2709,6 +2708,8 @@ minecraft:item/bucket
 minecraft:item/bundle
 minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
+minecraft:item/buried_ancient_city_map
+minecraft:item/buried_mineshaft_map
 minecraft:item/buried_treasure_map
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
@@ -3123,7 +3124,6 @@ minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/miner_pottery_sherd
-minecraft:item/mineshaft_map
 minecraft:item/mojang_banner_pattern
 minecraft:item/mooshroom_spawn_egg
 minecraft:item/mourner_pottery_sherd

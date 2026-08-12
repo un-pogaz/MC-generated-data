@@ -31,11 +31,11 @@
 "minecraft:shears","1","10%","1/10",
 ——,——,——,——,——
 "1 time","--","--","--",
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_bamboo_jungle"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_cherry_grove"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_birch_forest"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_dappled_forest"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_flower_forest"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_pale_garden"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_swamp"
-"minecraft:abandoned_campsite_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_windswept"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_bamboo_jungle"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_cherry_grove"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_birch_forest"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_dappled_forest"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_flower_forest"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_pale_garden"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_swamp"
+"minecraft:abandoned_camp_map","1","12.5%","1/8","destination: #minecraft:on_abandoned_camp_windswept"
