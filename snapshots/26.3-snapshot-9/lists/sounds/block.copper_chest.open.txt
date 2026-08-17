@@ -1,0 +1,3 @@
+minecraft:block/copper_chest/copper_chest_open1
+minecraft:block/copper_chest/copper_chest_open2
+minecraft:block/copper_chest/copper_chest_open3

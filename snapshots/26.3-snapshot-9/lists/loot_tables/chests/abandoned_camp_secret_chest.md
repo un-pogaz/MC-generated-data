@@ -1,0 +1,29 @@
+| Name                              | Count | Chance | Weight | Comment                                           |
+| --------------------------------- | ----- | ------ | ------ | ------------------------------------------------- |
+| 2 time                            |    -- |     -- |     -- |                                                   |
+| minecraft:diamond                 |     1 |    20% |    1/5 |                                                   |
+| minecraft:potion                  |     1 |    20% |    1/5 | healing                                           |
+| minecraft:potion                  |     1 |    20% |    1/5 | leaping                                           |
+| minecraft:potion                  |     1 |    20% |    1/5 | night_vision                                      |
+| minecraft:potion                  |     1 |    20% |    1/5 | swiftness                                         |
+| – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – |
+| 4 to 6 time                       |    -- |     -- |     -- |                                                   |
+| minecraft:map                     |     1 |    25% |    1/4 |                                                   |
+| minecraft:copper_ingot            |  1..2 |    25% |    1/4 |                                                   |
+| minecraft:gold_ingot              |  1..2 |    25% |    1/4 |                                                   |
+| minecraft:iron_ingot              |     1 |    25% |    1/4 |                                                   |
+| – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – |
+| 0 to 1 time                       |    -- |     -- |     -- |                                                   |
+| minecraft:iron_axe                |     1 |    25% |    1/4 |                                                   |
+| minecraft:iron_boots              |     1 |    25% |    1/4 |                                                   |
+| minecraft:iron_leggings           |     1 |    25% |    1/4 |                                                   |
+| minecraft:iron_spear              |     1 |    25% |    1/4 |                                                   |
+| – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – |
+| 1 time                            |    -- |     -- |     -- |                                                   |
+| minecraft:buried_ancient_city_map |     1 |  14.3% |    1/7 | destination: #minecraft:on_ancient_city_maps      |
+| minecraft:trial_explorer_map      |     1 |  14.3% |    1/7 | destination: #minecraft:on_trial_chambers_maps    |
+| minecraft:buried_mineshaft_map    |     1 |  14.3% |    1/7 | destination: #minecraft:on_mineshaft_maps         |
+| minecraft:desert_pyramid_map      |     1 |  14.3% |    1/7 | destination: #minecraft:on_desert_pyramid_maps    |
+| minecraft:jungle_explorer_map     |     1 |  14.3% |    1/7 | destination: #minecraft:on_jungle_explorer_maps   |
+| minecraft:warm_ocean_ruins_map    |     1 |  14.3% |    1/7 | destination: #minecraft:on_ocean_ruin_warm_maps   |
+| minecraft:woodland_explorer_map   |     1 |  14.3% |    1/7 | destination: #minecraft:on_woodland_explorer_maps |

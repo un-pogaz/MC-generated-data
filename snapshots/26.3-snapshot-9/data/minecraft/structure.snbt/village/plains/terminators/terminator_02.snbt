@@ -1,0 +1,34 @@
+{
+  size: [1, 2, 1],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 0, 0],
+      state: 0
+    },
+    {
+      nbt: {
+        joint: "aligned",
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:empty",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [0, 1, 0],
+      state: 1
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:dirt_path"
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    }
+  ],
+  DataVersion: 5011
+}

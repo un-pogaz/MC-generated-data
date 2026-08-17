@@ -1,0 +1,10 @@
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish1
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish2
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish3
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish4
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish5
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish6
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish7
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish8
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish9
+minecraft:mob/sulfur_cube/small_sulfur_cube/squish10
