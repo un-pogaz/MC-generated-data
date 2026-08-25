@@ -1,0 +1,2 @@
+minecraft:lava_chicken
+minecraft:strad

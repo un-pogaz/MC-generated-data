@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/zombie_nautilus/hurt1",
+    "mob/zombie_nautilus/hurt2",
+    "mob/zombie_nautilus/hurt3",
+    "mob/zombie_nautilus/hurt4"
+  ],
+  "subtitle": "subtitles.entity.zombie_nautilus.hurt"
+}

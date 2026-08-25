@@ -1,0 +1,54 @@
+{
+  size: [2, 2, 1],
+  entities: [],
+  blocks: [
+    {
+      pos: [1, 1, 0],
+      state: 0
+    },
+    {
+      nbt: {
+        LootTable: "minecraft:dispensers/trial_chambers/chamber",
+        id: "minecraft:dispenser"
+      },
+      pos: [1, 0, 0],
+      state: 1
+    },
+    {
+      nbt: {
+        joint: "rollable",
+        final_state: "minecraft:air",
+        name: "minecraft:floor_dispenser",
+        placement_priority: 0,
+        pool: "minecraft:empty",
+        selection_priority: 0,
+        id: "minecraft:jigsaw",
+        target: "minecraft:empty"
+      },
+      pos: [0, 1, 0],
+      state: 2
+    }
+  ],
+  palette: [
+    {
+      id: "minecraft:oak_pressure_plate",
+      properties: {
+        powered: "false"
+      }
+    },
+    {
+      id: "minecraft:dispenser",
+      properties: {
+        triggered: "false",
+        facing: "up"
+      }
+    },
+    {
+      id: "minecraft:jigsaw",
+      properties: {
+        orientation: "east_up"
+      }
+    }
+  ],
+  DataVersion: 5015
+}

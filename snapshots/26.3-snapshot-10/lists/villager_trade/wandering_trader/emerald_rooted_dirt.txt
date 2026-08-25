@@ -1,0 +1,5 @@
+wants: emerald
+gives: rooted_dirt x2
+xp: 1
+max use: 5
+reputation discount: 0.05
