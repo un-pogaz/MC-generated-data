@@ -2149,21 +2149,10 @@
     "defaultgamemode": {
       "type": "literal",
       "children": {
-        "adventure": {
-          "type": "literal",
-          "executable": true
-        },
-        "creative": {
-          "type": "literal",
-          "executable": true
-        },
-        "spectator": {
-          "type": "literal",
-          "executable": true
-        },
-        "survival": {
-          "type": "literal",
-          "executable": true
+        "gamemode": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:gamemode"
         }
       }
     },
@@ -2211,7 +2200,10 @@
                 "effect": {
                   "type": "argument",
                   "executable": true,
-                  "parser": "minecraft:mob_effect"
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:mob_effect"
+                  }
                 }
               },
               "executable": true,
@@ -2262,7 +2254,10 @@
                     }
                   },
                   "executable": true,
-                  "parser": "minecraft:mob_effect"
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:mob_effect"
+                  }
                 }
               },
               "parser": "minecraft:entity",
@@ -2294,7 +2289,10 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:item_enchantment"
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:enchantment"
+              }
             }
           },
           "parser": "minecraft:entity",
@@ -2401,6 +2399,28 @@
         "if": {
           "type": "literal",
           "children": {
+            "biome": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "biome": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "minecraft:resource_or_tag",
+                      "properties": {
+                        "registry": "minecraft:worldgen/biome"
+                      },
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  },
+                  "parser": "minecraft:block_pos"
+                }
+              }
+            },
             "block": {
               "type": "literal",
               "children": {
@@ -3417,6 +3437,28 @@
         "unless": {
           "type": "literal",
           "children": {
+            "biome": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "children": {
+                    "biome": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "minecraft:resource_or_tag",
+                      "properties": {
+                        "registry": "minecraft:worldgen/biome"
+                      },
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  },
+                  "parser": "minecraft:block_pos"
+                }
+              }
+            },
             "block": {
               "type": "literal",
               "children": {
@@ -3858,6 +3900,46 @@
         }
       }
     },
+    "fillbiome": {
+      "type": "literal",
+      "children": {
+        "from": {
+          "type": "argument",
+          "children": {
+            "to": {
+              "type": "argument",
+              "children": {
+                "biome": {
+                  "type": "argument",
+                  "children": {
+                    "replace": {
+                      "type": "literal",
+                      "children": {
+                        "filter": {
+                          "type": "argument",
+                          "executable": true,
+                          "parser": "minecraft:resource_or_tag",
+                          "properties": {
+                            "registry": "minecraft:worldgen/biome"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:worldgen/biome"
+                  }
+                }
+              },
+              "parser": "minecraft:block_pos"
+            }
+          },
+          "parser": "minecraft:block_pos"
+        }
+      }
+    },
     "forceload": {
       "type": "literal",
       "children": {
@@ -3925,8 +4007,8 @@
     "gamemode": {
       "type": "literal",
       "children": {
-        "adventure": {
-          "type": "literal",
+        "gamemode": {
+          "type": "argument",
           "children": {
             "target": {
               "type": "argument",
@@ -3938,52 +4020,8 @@
               }
             }
           },
-          "executable": true
-        },
-        "creative": {
-          "type": "literal",
-          "children": {
-            "target": {
-              "type": "argument",
-              "executable": true,
-              "parser": "minecraft:entity",
-              "properties": {
-                "type": "players",
-                "amount": "multiple"
-              }
-            }
-          },
-          "executable": true
-        },
-        "spectator": {
-          "type": "literal",
-          "children": {
-            "target": {
-              "type": "argument",
-              "executable": true,
-              "parser": "minecraft:entity",
-              "properties": {
-                "type": "players",
-                "amount": "multiple"
-              }
-            }
-          },
-          "executable": true
-        },
-        "survival": {
-          "type": "literal",
-          "children": {
-            "target": {
-              "type": "argument",
-              "executable": true,
-              "parser": "minecraft:entity",
-              "properties": {
-                "type": "players",
-                "amount": "multiple"
-              }
-            }
-          },
-          "executable": true
+          "executable": true,
+          "parser": "minecraft:gamemode"
         }
       }
     },
@@ -3991,6 +4029,17 @@
       "type": "literal",
       "children": {
         "announceAdvancements": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
+        "blockExplosionDropDecay": {
           "type": "literal",
           "children": {
             "value": {
@@ -4232,7 +4281,29 @@
           },
           "executable": true
         },
+        "globalSoundEvents": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
         "keepInventory": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
+        "lavaSourceConversion": {
           "type": "literal",
           "children": {
             "value": {
@@ -4272,6 +4343,17 @@
               "type": "argument",
               "executable": true,
               "parser": "brigadier:integer"
+            }
+          },
+          "executable": true
+        },
+        "mobExplosionDropDecay": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
             }
           },
           "executable": true
@@ -4353,6 +4435,17 @@
           },
           "executable": true
         },
+        "snowAccumulationHeight": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:integer"
+            }
+          },
+          "executable": true
+        },
         "spawnRadius": {
           "type": "literal",
           "children": {
@@ -4375,7 +4468,29 @@
           },
           "executable": true
         },
+        "tntExplosionDropDecay": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
         "universalAnger": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "executable": true,
+              "parser": "brigadier:bool"
+            }
+          },
+          "executable": true
+        },
+        "waterSourceConversion": {
           "type": "literal",
           "children": {
             "value": {
@@ -4779,7 +4894,7 @@
             "structure": {
               "type": "argument",
               "executable": true,
-              "parser": "minecraft:resource_or_tag",
+              "parser": "minecraft:resource_or_tag_key",
               "properties": {
                 "registry": "minecraft:worldgen/structure"
               }
@@ -5617,7 +5732,7 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/configured_feature"
               }
@@ -5653,7 +5768,7 @@
                   "parser": "minecraft:resource_location"
                 }
               },
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/template_pool"
               }
@@ -5673,7 +5788,7 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/structure"
               }
@@ -6275,14 +6390,28 @@
     "publish": {
       "type": "literal",
       "children": {
-        "port": {
+        "allowCommands": {
           "type": "argument",
+          "children": {
+            "gamemode": {
+              "type": "argument",
+              "children": {
+                "port": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "max": 65535,
+                    "min": 0
+                  }
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:gamemode"
+            }
+          },
           "executable": true,
-          "parser": "brigadier:integer",
-          "properties": {
-            "max": 65535,
-            "min": 0
-          }
+          "parser": "brigadier:bool"
         }
       },
       "executable": true
@@ -7065,7 +7194,10 @@
             }
           },
           "executable": true,
-          "parser": "minecraft:entity_summon"
+          "parser": "minecraft:resource",
+          "properties": {
+            "registry": "minecraft:entity_type"
+          }
         }
       }
     },

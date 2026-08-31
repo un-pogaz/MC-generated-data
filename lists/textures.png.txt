@@ -23,11 +23,22 @@ minecraft:block/azalea_plant
 minecraft:block/azalea_side
 minecraft:block/azalea_top
 minecraft:block/azure_bluet
+minecraft:block/bamboo_block
+minecraft:block/bamboo_block_top
+minecraft:block/bamboo_door_bottom
+minecraft:block/bamboo_door_top
+minecraft:block/bamboo_fence
+minecraft:block/bamboo_fence_gate
+minecraft:block/bamboo_fence_gate_particle
+minecraft:block/bamboo_fence_particle
 minecraft:block/bamboo_large_leaves
+minecraft:block/bamboo_mosaic
+minecraft:block/bamboo_planks
 minecraft:block/bamboo_singleleaf
 minecraft:block/bamboo_small_leaves
 minecraft:block/bamboo_stage0
 minecraft:block/bamboo_stalk
+minecraft:block/bamboo_trapdoor
 minecraft:block/barrel_bottom
 minecraft:block/barrel_side
 minecraft:block/barrel_top
@@ -153,6 +164,10 @@ minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/chipped_anvil_top
+minecraft:block/chiseled_bookshelf_empty
+minecraft:block/chiseled_bookshelf_occupied
+minecraft:block/chiseled_bookshelf_side
+minecraft:block/chiseled_bookshelf_top
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
 minecraft:block/chiseled_polished_blackstone
@@ -750,6 +765,8 @@ minecraft:block/stonecutter_side
 minecraft:block/stonecutter_top
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_top
+minecraft:block/stripped_bamboo_block
+minecraft:block/stripped_bamboo_block_top
 minecraft:block/stripped_birch_log
 minecraft:block/stripped_birch_log_top
 minecraft:block/stripped_crimson_stem
@@ -859,7 +876,6 @@ minecraft:block/yellow_wool
 minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
-minecraft:entity/alex
 minecraft:entity/allay/allay
 minecraft:entity/armorstand/wood
 minecraft:entity/axolotl/axolotl_blue
@@ -936,12 +952,14 @@ minecraft:entity/bee/bee_stinger
 minecraft:entity/bell/bell_body
 minecraft:entity/blaze
 minecraft:entity/boat/acacia
+minecraft:entity/boat/bamboo
 minecraft:entity/boat/birch
 minecraft:entity/boat/dark_oak
 minecraft:entity/boat/jungle
 minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
+minecraft:entity/camel/camel
 minecraft:entity/cat/all_black
 minecraft:entity/cat/black
 minecraft:entity/cat/british_shorthair
@@ -966,6 +984,7 @@ minecraft:entity/chest/trapped
 minecraft:entity/chest/trapped_left
 minecraft:entity/chest/trapped_right
 minecraft:entity/chest_boat/acacia
+minecraft:entity/chest_boat/bamboo
 minecraft:entity/chest_boat/birch
 minecraft:entity/chest_boat/dark_oak
 minecraft:entity/chest_boat/jungle
@@ -1107,6 +1126,24 @@ minecraft:entity/pig/pig_saddle
 minecraft:entity/piglin/piglin
 minecraft:entity/piglin/piglin_brute
 minecraft:entity/piglin/zombified_piglin
+minecraft:entity/player/slim/alex
+minecraft:entity/player/slim/ari
+minecraft:entity/player/slim/efe
+minecraft:entity/player/slim/kai
+minecraft:entity/player/slim/makena
+minecraft:entity/player/slim/noor
+minecraft:entity/player/slim/steve
+minecraft:entity/player/slim/sunny
+minecraft:entity/player/slim/zuri
+minecraft:entity/player/wide/alex
+minecraft:entity/player/wide/ari
+minecraft:entity/player/wide/efe
+minecraft:entity/player/wide/kai
+minecraft:entity/player/wide/makena
+minecraft:entity/player/wide/noor
+minecraft:entity/player/wide/steve
+minecraft:entity/player/wide/sunny
+minecraft:entity/player/wide/zuri
 minecraft:entity/projectiles/arrow
 minecraft:entity/projectiles/spectral_arrow
 minecraft:entity/projectiles/tipped_arrow
@@ -1182,9 +1219,20 @@ minecraft:entity/shulker/shulker_white
 minecraft:entity/shulker/shulker_yellow
 minecraft:entity/shulker/spark
 minecraft:entity/signs/acacia
+minecraft:entity/signs/bamboo
 minecraft:entity/signs/birch
 minecraft:entity/signs/crimson
 minecraft:entity/signs/dark_oak
+minecraft:entity/signs/hanging/acacia
+minecraft:entity/signs/hanging/bamboo
+minecraft:entity/signs/hanging/birch
+minecraft:entity/signs/hanging/crimson
+minecraft:entity/signs/hanging/dark_oak
+minecraft:entity/signs/hanging/jungle
+minecraft:entity/signs/hanging/mangrove
+minecraft:entity/signs/hanging/oak
+minecraft:entity/signs/hanging/spruce
+minecraft:entity/signs/hanging/warped
 minecraft:entity/signs/jungle
 minecraft:entity/signs/mangrove
 minecraft:entity/signs/oak
@@ -1203,7 +1251,6 @@ minecraft:entity/spider/spider
 minecraft:entity/spider_eyes
 minecraft:entity/squid/glow_squid
 minecraft:entity/squid/squid
-minecraft:entity/steve
 minecraft:entity/strider/strider
 minecraft:entity/strider/strider_cold
 minecraft:entity/strider/strider_saddle
@@ -1529,6 +1576,7 @@ minecraft:gui/bars
 minecraft:gui/book
 minecraft:gui/chat_tags
 minecraft:gui/checkbox
+minecraft:gui/checkmark
 minecraft:gui/container/anvil
 minecraft:gui/container/beacon
 minecraft:gui/container/blast_furnace
@@ -1557,6 +1605,16 @@ minecraft:gui/container/stats_icons
 minecraft:gui/container/stonecutter
 minecraft:gui/container/villager2
 minecraft:gui/demo_background
+minecraft:gui/hanging_signs/acacia
+minecraft:gui/hanging_signs/bamboo
+minecraft:gui/hanging_signs/birch
+minecraft:gui/hanging_signs/crimson
+minecraft:gui/hanging_signs/dark_oak
+minecraft:gui/hanging_signs/jungle
+minecraft:gui/hanging_signs/mangrove
+minecraft:gui/hanging_signs/oak
+minecraft:gui/hanging_signs/spruce
+minecraft:gui/hanging_signs/warped
 minecraft:gui/icons
 minecraft:gui/options_background
 minecraft:gui/presets/isles
@@ -1584,6 +1642,7 @@ minecraft:gui/world_selection
 minecraft:item/acacia_boat
 minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
+minecraft:item/acacia_hanging_sign
 minecraft:item/acacia_sign
 minecraft:item/amethyst_shard
 minecraft:item/apple
@@ -1592,6 +1651,11 @@ minecraft:item/arrow
 minecraft:item/axolotl_bucket
 minecraft:item/baked_potato
 minecraft:item/bamboo
+minecraft:item/bamboo_chest_raft
+minecraft:item/bamboo_door
+minecraft:item/bamboo_hanging_sign
+minecraft:item/bamboo_raft
+minecraft:item/bamboo_sign
 minecraft:item/barrier
 minecraft:item/beef
 minecraft:item/beetroot
@@ -1601,6 +1665,7 @@ minecraft:item/bell
 minecraft:item/birch_boat
 minecraft:item/birch_chest_boat
 minecraft:item/birch_door
+minecraft:item/birch_hanging_sign
 minecraft:item/birch_sign
 minecraft:item/black_candle
 minecraft:item/black_dye
@@ -1754,6 +1819,7 @@ minecraft:item/cookie
 minecraft:item/copper_ingot
 minecraft:item/creeper_banner_pattern
 minecraft:item/crimson_door
+minecraft:item/crimson_hanging_sign
 minecraft:item/crimson_sign
 minecraft:item/crossbow_arrow
 minecraft:item/crossbow_firework
@@ -1766,6 +1832,7 @@ minecraft:item/cyan_dye
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_chest_boat
 minecraft:item/dark_oak_door
+minecraft:item/dark_oak_hanging_sign
 minecraft:item/dark_oak_sign
 minecraft:item/diamond
 minecraft:item/diamond_axe
@@ -1861,6 +1928,7 @@ minecraft:item/item_frame
 minecraft:item/jungle_boat
 minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
+minecraft:item/jungle_hanging_sign
 minecraft:item/jungle_sign
 minecraft:item/kelp
 minecraft:item/knowledge_book
@@ -1908,6 +1976,7 @@ minecraft:item/magma_cream
 minecraft:item/mangrove_boat
 minecraft:item/mangrove_chest_boat
 minecraft:item/mangrove_door
+minecraft:item/mangrove_hanging_sign
 minecraft:item/mangrove_propagule
 minecraft:item/mangrove_sign
 minecraft:item/map
@@ -1953,6 +2022,7 @@ minecraft:item/netherite_sword
 minecraft:item/oak_boat
 minecraft:item/oak_chest_boat
 minecraft:item/oak_door
+minecraft:item/oak_hanging_sign
 minecraft:item/oak_sign
 minecraft:item/orange_candle
 minecraft:item/orange_dye
@@ -2044,6 +2114,7 @@ minecraft:item/splash_potion
 minecraft:item/spruce_boat
 minecraft:item/spruce_chest_boat
 minecraft:item/spruce_door
+minecraft:item/spruce_hanging_sign
 minecraft:item/spruce_sign
 minecraft:item/spyglass
 minecraft:item/spyglass_model
@@ -2071,6 +2142,7 @@ minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/warped_door
 minecraft:item/warped_fungus_on_a_stick
+minecraft:item/warped_hanging_sign
 minecraft:item/warped_sign
 minecraft:item/water_bucket
 minecraft:item/wheat
@@ -2361,7 +2433,6 @@ minecraft:particle/sweep_7
 minecraft:particle/vibration  [mcmeta]
 realms:gui/realms/accept_icon
 realms:gui/realms/adventure
-realms:gui/realms/checkmark
 realms:gui/realms/configure_icon
 realms:gui/realms/cross_icon
 realms:gui/realms/cross_player_icon
