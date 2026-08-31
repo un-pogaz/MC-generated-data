@@ -7,4 +7,3 @@ minecraft:rooted_dirt
 minecraft:moss_block
 minecraft:mud
 minecraft:muddy_mangrove_roots
-minecraft:pale_moss_block

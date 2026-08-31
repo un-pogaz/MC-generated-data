@@ -9,4 +9,3 @@ minecraft:warped_button
 minecraft:mangrove_button
 minecraft:bamboo_button
 minecraft:cherry_button
-minecraft:pale_oak_button

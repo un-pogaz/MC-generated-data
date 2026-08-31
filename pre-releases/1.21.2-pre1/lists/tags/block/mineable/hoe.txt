@@ -25,4 +25,3 @@ minecraft:sculk_vein
 minecraft:sculk_shrieker
 minecraft:pink_petals
 minecraft:cherry_leaves
-minecraft:pale_oak_leaves

@@ -31,7 +31,6 @@
 | minecraft:coal                                 | 6..15 |   8.1% |   7/86 |                                                |
 | – – – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – –  |
 | 1 time                                         |    -- |     -- |     -- |                                                |
-| empty                                          |       |  88.8% |  71/80 |                                                |
-| minecraft:enchanted_book                       |     1 |     5% |   4/80 | enchantments: mending                          |
+| empty                                          |       |  93.8% |  75/80 |                                                |
 | minecraft:ward_armor_trim_smithing_template    |     1 |     5% |   4/80 |                                                |
 | minecraft:silence_armor_trim_smithing_template |     1 |   1.2% |   1/80 |                                                |

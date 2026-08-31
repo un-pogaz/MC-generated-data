@@ -1,3 +1,0 @@
-minecraft:punch
-minecraft:smite
-minecraft:bane_of_arthropods

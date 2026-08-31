@@ -8,7 +8,7 @@
 | minecraft:emerald                           |  1..3 |   2.3% |   2/88 |                                            |
 | minecraft:bone                              |  4..6 |  22.7% |  20/88 |                                            |
 | minecraft:rotten_flesh                      |  3..7 |  18.2% |  16/88 |                                            |
-| minecraft:saddle                            |     1 |   3.4% |   3/88 |                                            |
+| minecraft:leather                           |  1..5 |   3.4% |   3/88 |                                            |
 | minecraft:iron_horse_armor                  |     1 |   1.1% |   1/88 |                                            |
 | minecraft:golden_horse_armor                |     1 |   1.1% |   1/88 |                                            |
 | minecraft:diamond_horse_armor               |     1 |   1.1% |   1/88 |                                            |
@@ -17,7 +17,3 @@
 | 1 time                                      |    -- |     -- |     -- |                                            |
 | empty                                       |       |  66.7% |    2/3 |                                            |
 | minecraft:wild_armor_trim_smithing_template |     2 |  33.3% |    1/3 |                                            |
-| – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – –  |
-| 1 time                                      |    -- |     -- |     -- |                                            |
-| empty                                       |       |    50% |    1/2 |                                            |
-| minecraft:enchanted_book                    |     1 |    50% |    1/2 | enchantments: unbreaking                   |

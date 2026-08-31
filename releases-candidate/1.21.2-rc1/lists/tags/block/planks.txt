@@ -9,4 +9,3 @@ minecraft:warped_planks
 minecraft:mangrove_planks
 minecraft:bamboo_planks
 minecraft:cherry_planks
-minecraft:pale_oak_planks

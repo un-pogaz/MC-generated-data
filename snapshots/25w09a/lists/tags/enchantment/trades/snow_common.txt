@@ -1,3 +1,0 @@
-minecraft:aqua_affinity
-minecraft:looting
-minecraft:frost_walker

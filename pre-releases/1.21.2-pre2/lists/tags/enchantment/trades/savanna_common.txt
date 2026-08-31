@@ -1,3 +1,0 @@
-minecraft:knockback
-minecraft:binding_curse
-minecraft:sweeping_edge

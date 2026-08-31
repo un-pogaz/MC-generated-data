@@ -8,4 +8,3 @@ minecraft:mangrove_boat
 minecraft:bamboo_raft
 minecraft:cherry_boat
 #minecraft:chest_boats
-minecraft:pale_oak_boat
