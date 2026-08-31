@@ -5,4 +5,3 @@
 #minecraft:jungle_logs
 #minecraft:spruce_logs
 #minecraft:mangrove_logs
-#minecraft:cherry_logs

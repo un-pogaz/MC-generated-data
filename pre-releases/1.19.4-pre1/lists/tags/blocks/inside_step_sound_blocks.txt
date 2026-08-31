@@ -9,4 +9,3 @@ minecraft:glow_lichen
 minecraft:small_amethyst_bud
 minecraft:moss_carpet
 #minecraft:wool_carpets
-minecraft:pink_petals

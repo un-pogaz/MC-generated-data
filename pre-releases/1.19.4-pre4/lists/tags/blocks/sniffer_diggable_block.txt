@@ -1,8 +1,0 @@
-minecraft:dirt
-minecraft:grass_block
-minecraft:podzol
-minecraft:coarse_dirt
-minecraft:rooted_dirt
-minecraft:moss_block
-minecraft:mud
-minecraft:muddy_mangrove_roots
