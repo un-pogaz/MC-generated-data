@@ -1,2 +1,0 @@
-minecraft:barrier
-minecraft:bedrock
