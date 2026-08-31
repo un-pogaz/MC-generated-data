@@ -7,4 +7,3 @@ minecraft:spruce_trapdoor
 minecraft:crimson_trapdoor
 minecraft:warped_trapdoor
 minecraft:mangrove_trapdoor
-minecraft:bamboo_trapdoor

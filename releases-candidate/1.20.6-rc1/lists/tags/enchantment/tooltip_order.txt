@@ -37,6 +37,3 @@ minecraft:loyalty
 minecraft:unbreaking
 minecraft:infinity
 minecraft:mending
-minecraft:wind_burst
-minecraft:density
-minecraft:breach

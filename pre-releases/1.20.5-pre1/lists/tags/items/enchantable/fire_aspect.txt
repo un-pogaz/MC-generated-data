@@ -1,2 +1,1 @@
 #minecraft:enchantable/sword
-minecraft:mace
