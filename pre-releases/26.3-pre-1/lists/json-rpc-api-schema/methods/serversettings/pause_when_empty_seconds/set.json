@@ -1,0 +1,19 @@
+{
+  "description": "Set the number of seconds before the game is automatically paused when no players are online",
+  "name": "minecraft:serversettings/pause_when_empty_seconds/set",
+  "params": [
+    {
+      "name": "seconds",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "seconds",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+wants: emerald x4
+gives: iron_boots
+xp: 1
+max use: 12
+reputation discount: 0.2

@@ -1,0 +1,25 @@
+{
+  "description": "Add players to ban list",
+  "name": "minecraft:bans/add",
+  "params": [
+    {
+      "name": "add",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/user_ban"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/user_ban"
+      }
+    }
+  }
+}
