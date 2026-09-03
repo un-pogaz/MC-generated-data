@@ -1,5 +1,9 @@
 minecraft:archaeology/desert_pyramid
 minecraft:archaeology/desert_well
+minecraft:archaeology/ocean_ruin_cold
+minecraft:archaeology/ocean_ruin_warm
+minecraft:archaeology/trail_ruins_common
+minecraft:archaeology/trail_ruins_rare
 minecraft:chests/abandoned_mineshaft
 minecraft:chests/ancient_city
 minecraft:chests/ancient_city_ice_box
@@ -159,3 +163,4 @@ minecraft:gameplay/hero_of_the_village/shepherd_gift
 minecraft:gameplay/hero_of_the_village/toolsmith_gift
 minecraft:gameplay/hero_of_the_village/weaponsmith_gift
 minecraft:gameplay/piglin_bartering
+minecraft:gameplay/sniffer_digging
