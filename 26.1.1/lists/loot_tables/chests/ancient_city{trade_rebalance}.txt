@@ -5,7 +5,7 @@ minecraft:sculk_catalyst
 minecraft:diamond_hoe
 minecraft:lead
 minecraft:diamond_horse_armor
-minecraft:leather
+minecraft:saddle
 minecraft:music_disc_13
 minecraft:music_disc_cat
 minecraft:diamond_leggings
@@ -27,5 +27,6 @@ minecraft:soul_torch
 minecraft:coal
 
 empty
+minecraft:enchanted_book
 minecraft:ward_armor_trim_smithing_template
 minecraft:silence_armor_trim_smithing_template
