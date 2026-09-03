@@ -1,0 +1,2 @@
+minecraft:pointed_dripstone  = {Name: "minecraft:dripstone_block"}
+minecraft:sulfur_spike  = {Name: "minecraft:sulfur"}

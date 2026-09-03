@@ -1318,6 +1318,7 @@ minecraft:sulfur_bricks  = minecraft:entity.item.break
 minecraft:sulfur_cube_bucket  = minecraft:entity.item.break
 minecraft:sulfur_cube_spawn_egg  = minecraft:entity.item.break
 minecraft:sulfur_slab  = minecraft:entity.item.break
+minecraft:sulfur_spike  = minecraft:entity.item.break
 minecraft:sulfur_stairs  = minecraft:entity.item.break
 minecraft:sulfur_wall  = minecraft:entity.item.break
 minecraft:sunflower  = minecraft:entity.item.break

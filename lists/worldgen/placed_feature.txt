@@ -224,6 +224,8 @@ minecraft:spruce
 minecraft:spruce_checked
 minecraft:spruce_on_snow
 minecraft:sulfur_pool
+minecraft:sulfur_spike
+minecraft:sulfur_spike_cluster
 minecraft:super_birch_bees
 minecraft:super_birch_bees_0002
 minecraft:tall_mangrove_checked

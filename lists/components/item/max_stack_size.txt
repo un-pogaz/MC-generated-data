@@ -1318,6 +1318,7 @@ minecraft:sulfur_bricks  = 64
 minecraft:sulfur_cube_bucket  = 1
 minecraft:sulfur_cube_spawn_egg  = 64
 minecraft:sulfur_slab  = 64
+minecraft:sulfur_spike  = 64
 minecraft:sulfur_stairs  = 64
 minecraft:sulfur_wall  = 64
 minecraft:sunflower  = 64
