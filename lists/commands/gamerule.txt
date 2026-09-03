@@ -4,6 +4,8 @@ gamerule blockExplosionDropDecay
 gamerule blockExplosionDropDecay <value brigadier:bool>
 gamerule commandBlockOutput
 gamerule commandBlockOutput <value brigadier:bool>
+gamerule commandModificationBlockLimit
+gamerule commandModificationBlockLimit <value brigadier:integer>
 gamerule disableElytraMovementCheck
 gamerule disableElytraMovementCheck <value brigadier:bool>
 gamerule disableRaids
@@ -30,6 +32,8 @@ gamerule doTileDrops
 gamerule doTileDrops <value brigadier:bool>
 gamerule doTraderSpawning
 gamerule doTraderSpawning <value brigadier:bool>
+gamerule doVinesSpread
+gamerule doVinesSpread <value brigadier:bool>
 gamerule doWardenSpawning
 gamerule doWardenSpawning <value brigadier:bool>
 gamerule doWeatherCycle
