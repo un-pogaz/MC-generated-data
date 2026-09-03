@@ -68,10 +68,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:hay_block",
         name: "minecraft:bottom",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:bottom"
       },
@@ -81,9 +81,9 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
-        CookingTotalTimes: [I; 0, 0, 0, 0]
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
       },
       pos: [1, 1, 1],
       state: 6
@@ -149,5 +149,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

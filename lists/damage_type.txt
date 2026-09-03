@@ -32,6 +32,7 @@ minecraft:outside_border
 minecraft:player_attack
 minecraft:player_explosion
 minecraft:sonic_boom
+minecraft:spit
 minecraft:stalagmite
 minecraft:starve
 minecraft:sting
@@ -40,6 +41,7 @@ minecraft:thorns
 minecraft:thrown
 minecraft:trident
 minecraft:unattributed_fireball
+minecraft:wind_charge
 minecraft:wither
 minecraft:wither_skull
 #minecraft:always_hurts_ender_dragons
@@ -55,6 +57,7 @@ minecraft:wither_skull
 #minecraft:bypasses_invulnerability
 #minecraft:bypasses_resistance
 #minecraft:bypasses_shield
+#minecraft:bypasses_wolf_armor
 #minecraft:can_break_armor_stand
 #minecraft:damages_helmet
 #minecraft:ignites_armor_stands
@@ -64,6 +67,7 @@ minecraft:wither_skull
 #minecraft:is_fire
 #minecraft:is_freezing
 #minecraft:is_lightning
+#minecraft:is_player_attack
 #minecraft:is_projectile
 #minecraft:no_anger
 #minecraft:no_impact

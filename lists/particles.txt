@@ -48,9 +48,9 @@ minecraft:flash
 minecraft:glow
 minecraft:glow_squid_ink
 minecraft:gust
-minecraft:gust_dust
 minecraft:happy_villager
 minecraft:heart
+minecraft:infested
 minecraft:instant_effect
 minecraft:landing_honey
 minecraft:landing_lava
@@ -60,8 +60,10 @@ minecraft:lava
 minecraft:mycelium
 minecraft:nautilus
 minecraft:note
+minecraft:ominous_spawning
 minecraft:poof
 minecraft:portal
+minecraft:raid_omen
 minecraft:rain
 minecraft:reverse_portal
 minecraft:scrape
@@ -70,6 +72,7 @@ minecraft:sculk_charge_pop
 minecraft:sculk_soul
 minecraft:shriek
 minecraft:small_flame
+minecraft:small_gust
 minecraft:smoke
 minecraft:sneeze
 minecraft:snowflake
@@ -82,8 +85,11 @@ minecraft:spore_blossom_air
 minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
+minecraft:trial_omen
 minecraft:trial_spawner_detection
+minecraft:trial_spawner_detection_ominous
 minecraft:underwater
+minecraft:vault_connection
 minecraft:vibration
 minecraft:warped_spore
 minecraft:wax_off

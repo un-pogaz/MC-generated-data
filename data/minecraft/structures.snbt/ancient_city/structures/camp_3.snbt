@@ -616,10 +616,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:cobbled_deepslate",
         name: "minecraft:connect_structure",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -629,9 +629,9 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
-        CookingTotalTimes: [I; 0, 0, 0, 0]
+        CookingTotalTimes: [I; 0, 0, 0, 0],
+        id: "minecraft:campfire"
       },
       pos: [10, 1, 8],
       state: 13
@@ -732,5 +732,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

@@ -31536,10 +31536,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:deepslate_bricks",
         name: "minecraft:empty",
         pool: "minecraft:ancient_city/city_center/walls",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:connect_bottom"
       },
@@ -31548,10 +31548,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:deepslate",
         name: "minecraft:empty",
         pool: "minecraft:ancient_city/city_center/walls",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:connect_right"
       },
@@ -31560,10 +31560,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:deepslate_bricks",
         name: "minecraft:empty",
         pool: "minecraft:ancient_city/city_center/walls",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:connect_left"
       },
@@ -31572,10 +31572,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:deepslate",
         name: "minecraft:empty",
         pool: "minecraft:ancient_city/city_center/walls",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:connect_top"
       },
@@ -31655,20 +31655,17 @@
     },
     {
       nbt: {
-        CookTime: 0s,
         BurnTime: 0s,
+        CookTime: 0s,
         Items: [
           {
+            count: 1,
             Slot: 1b,
-            Count: 1b,
-            id: "minecraft:wooden_shovel",
-            tag: {
-              Damage: 0
-            }
+            id: "minecraft:wooden_shovel"
           },
           {
+            count: 24,
             Slot: 2b,
-            Count: 24b,
             id: "minecraft:deepslate"
           }
         ],
@@ -31700,8 +31697,8 @@
       nbt: {
         Items: [
           {
+            count: 1,
             Slot: 13b,
-            Count: 1b,
             id: "minecraft:golden_apple"
           }
         ],
@@ -31712,10 +31709,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:reinforced_deepslate",
         name: "minecraft:city_anchor",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -32730,5 +32727,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3700
+  DataVersion: 3837
 }

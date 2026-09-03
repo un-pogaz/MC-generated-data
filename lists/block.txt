@@ -426,6 +426,7 @@ minecraft:green_wool
 minecraft:grindstone
 minecraft:hanging_roots
 minecraft:hay_block
+minecraft:heavy_core
 minecraft:heavy_weighted_pressure_plate
 minecraft:honey_block
 minecraft:honeycomb_block
@@ -948,6 +949,7 @@ minecraft:tuff_wall
 minecraft:turtle_egg
 minecraft:twisting_vines
 minecraft:twisting_vines_plant
+minecraft:vault
 minecraft:verdant_froglight
 minecraft:vine
 minecraft:void_air
@@ -1062,9 +1064,11 @@ minecraft:zombie_wall_head
 #minecraft:ancient_city_replaceable
 #minecraft:animals_spawnable_on
 #minecraft:anvil
+#minecraft:armadillo_spawnable_on
 #minecraft:axolotls_spawnable_on
 #minecraft:azalea_grows_on
 #minecraft:azalea_root_replaceable
+#minecraft:badlands_terracotta
 #minecraft:bamboo_blocks
 #minecraft:bamboo_plantable_on
 #minecraft:banners
@@ -1076,6 +1080,7 @@ minecraft:zombie_wall_head
 #minecraft:beehives
 #minecraft:big_dripleaf_placeable
 #minecraft:birch_logs
+#minecraft:blocks_wind_charge_explosions
 #minecraft:buttons
 #minecraft:camel_sand_step_sound_blocks
 #minecraft:campfires
@@ -1104,6 +1109,7 @@ minecraft:zombie_wall_head
 #minecraft:deepslate_ore_replaceables
 #minecraft:diamond_ores
 #minecraft:dirt
+#minecraft:does_not_block_hoppers
 #minecraft:doors
 #minecraft:dragon_immune
 #minecraft:dragon_transparent
@@ -1129,6 +1135,12 @@ minecraft:zombie_wall_head
 #minecraft:hoglin_repellents
 #minecraft:ice
 #minecraft:impermeable
+#minecraft:incorrect_for_diamond_tool
+#minecraft:incorrect_for_gold_tool
+#minecraft:incorrect_for_iron_tool
+#minecraft:incorrect_for_netherite_tool
+#minecraft:incorrect_for_stone_tool
+#minecraft:incorrect_for_wooden_tool
 #minecraft:infiniburn_end
 #minecraft:infiniburn_nether
 #minecraft:infiniburn_overworld
