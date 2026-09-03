@@ -1,6 +1,7 @@
 minecraft:bamboo
 minecraft:basalt_columns
 minecraft:basalt_pillar
+minecraft:block_blob
 minecraft:block_column
 minecraft:block_pile
 minecraft:blue_ice
@@ -19,8 +20,6 @@ minecraft:end_platform
 minecraft:end_spike
 minecraft:fallen_tree
 minecraft:fill_layer
-minecraft:flower
-minecraft:forest_rock
 minecraft:fossil
 minecraft:freeze_top_layer
 minecraft:geode
@@ -28,7 +27,6 @@ minecraft:glowstone_blob
 minecraft:huge_brown_mushroom
 minecraft:huge_fungus
 minecraft:huge_red_mushroom
-minecraft:ice_spike
 minecraft:iceberg
 minecraft:kelp
 minecraft:lake
@@ -37,12 +35,10 @@ minecraft:monster_room
 minecraft:multiface_growth
 minecraft:nether_forest_vegetation
 minecraft:netherrack_replace_blobs
-minecraft:no_bonemeal_flower
 minecraft:no_op
 minecraft:ore
 minecraft:pointed_dripstone
 minecraft:random_boolean_selector
-minecraft:random_patch
 minecraft:random_selector
 minecraft:replace_single_block
 minecraft:root_system
@@ -52,6 +48,7 @@ minecraft:sea_pickle
 minecraft:seagrass
 minecraft:simple_block
 minecraft:simple_random_selector
+minecraft:spike
 minecraft:spring_feature
 minecraft:tree
 minecraft:twisting_vines

@@ -3,6 +3,7 @@ minecraft:azure_bluet
 minecraft:blue_orchid
 minecraft:cornflower
 minecraft:dandelion
+minecraft:golden_dandelion
 minecraft:lily_of_the_valley
 minecraft:orange_tulip
 minecraft:oxeye_daisy

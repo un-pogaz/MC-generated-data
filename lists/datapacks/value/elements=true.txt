@@ -1,8 +1,11 @@
 minecraft:advancement
 minecraft:banner_pattern
+minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:chicken_sound_variant
 minecraft:chicken_variant
+minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:damage_type
 minecraft:dialog
@@ -17,6 +20,7 @@ minecraft:item_modifier
 minecraft:jukebox_song
 minecraft:loot_table
 minecraft:painting_variant
+minecraft:pig_sound_variant
 minecraft:pig_variant
 minecraft:predicate
 minecraft:recipe
@@ -24,11 +28,14 @@ minecraft:structure
 minecraft:test_environment
 minecraft:test_instance
 minecraft:timeline
+minecraft:trade_set
 minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern
+minecraft:villager_trade
 minecraft:wolf_sound_variant
 minecraft:wolf_variant
+minecraft:world_clock
 minecraft:worldgen/biome
 minecraft:worldgen/configured_carver
 minecraft:worldgen/configured_feature

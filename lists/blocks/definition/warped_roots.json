@@ -1,4 +1,5 @@
 {
   "properties": {},
-  "type": "minecraft:roots"
+  "support_blocks": "minecraft:supports_warped_roots",
+  "type": "minecraft:nether_roots"
 }

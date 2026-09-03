@@ -1,16 +1,15 @@
 | Name                                       | Count | Chance | Weight | Comment                       |
 | ------------------------------------------ | ----- | ------ | ------ | ----------------------------- |
 | 1 to 3 time                                |    -- |     -- |     -- |                               |
-| minecraft:lead                             |     1 |  15.7% | 20/127 |                               |
-| minecraft:golden_apple                     |     1 |  11.8% | 15/127 |                               |
-| minecraft:enchanted_golden_apple           |     1 |   1.6% |  2/127 |                               |
-| minecraft:music_disc_13                    |     1 |  11.8% | 15/127 |                               |
-| minecraft:music_disc_cat                   |     1 |  11.8% | 15/127 |                               |
-| minecraft:name_tag                         |     1 |  15.7% | 20/127 |                               |
-| minecraft:chainmail_chestplate             |     1 |   7.9% | 10/127 |                               |
-| minecraft:diamond_hoe                      |     1 |  11.8% | 15/127 |                               |
-| minecraft:diamond_chestplate               |     1 |   3.9% |  5/127 |                               |
-| minecraft:enchanted_book                   |     1 |   7.9% | 10/127 | enchantments: #on_random_loot |
+| minecraft:lead                             |     1 |  18.7% | 20/107 |                               |
+| minecraft:golden_apple                     |     1 |    14% | 15/107 |                               |
+| minecraft:enchanted_golden_apple           |     1 |   1.9% |  2/107 |                               |
+| minecraft:music_disc_13                    |     1 |    14% | 15/107 |                               |
+| minecraft:music_disc_cat                   |     1 |    14% | 15/107 |                               |
+| minecraft:chainmail_chestplate             |     1 |   9.3% | 10/107 |                               |
+| minecraft:diamond_hoe                      |     1 |    14% | 15/107 |                               |
+| minecraft:diamond_chestplate               |     1 |   4.7% |  5/107 |                               |
+| minecraft:enchanted_book                   |     1 |   9.3% | 10/107 | enchantments: #on_random_loot |
 | – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
 | 1 to 4 time                                |    -- |     -- |     -- |                               |
 | minecraft:iron_ingot                       |  1..4 |   5.7% | 10/175 |                               |

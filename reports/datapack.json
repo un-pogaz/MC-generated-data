@@ -59,12 +59,22 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:cat_sound_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:cat_variant": {
       "elements": true,
       "stable": false,
       "tags": true
     },
     "minecraft:chat_type": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:chicken_sound_variant": {
       "elements": true,
       "stable": false,
       "tags": true
@@ -87,6 +97,11 @@
     "minecraft:consume_effect_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:cow_sound_variant": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:cow_variant": {
@@ -364,6 +379,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:pig_sound_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:pig_variant": {
       "elements": true,
       "stable": false,
@@ -494,6 +514,11 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:trade_set": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:trial_spawner": {
       "elements": true,
       "stable": false,
@@ -519,6 +544,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:villager_trade": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:villager_type": {
       "elements": false,
       "stable": true,
@@ -530,6 +560,11 @@
       "tags": true
     },
     "minecraft:wolf_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:world_clock": {
       "elements": true,
       "stable": false,
       "tags": true

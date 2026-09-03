@@ -1,0 +1,3 @@
+minecraft:mob/wolf/baby/pant1
+minecraft:mob/wolf/baby/pant2
+minecraft:mob/wolf/baby/pant3

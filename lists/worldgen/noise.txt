@@ -21,6 +21,8 @@ minecraft:iceberg_pillar
 minecraft:iceberg_pillar_roof
 minecraft:iceberg_surface
 minecraft:jagged
+minecraft:nether/temperature
+minecraft:nether/vegetation
 minecraft:nether_state_selector
 minecraft:nether_wart
 minecraft:netherrack

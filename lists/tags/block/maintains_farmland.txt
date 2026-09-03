@@ -9,3 +9,5 @@ minecraft:torchflower_crop
 minecraft:torchflower
 minecraft:pitcher_crop
 minecraft:wheat
+minecraft:moving_piston
+#minecraft:fence_gates
