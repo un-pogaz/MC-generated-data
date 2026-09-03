@@ -7,5 +7,5 @@
     "mob/cat/royal/ambient5",
     "mob/cat/royal/ambient6"
   ],
-  "subtitle": "subtitles.entity.cat.stray_ambient"
+  "subtitle": "subtitles.entity.cat.ambient"
 }
