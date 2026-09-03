@@ -1,4 +1,4 @@
-wants: emerald x16, diamond x4
+wants: emerald x16, diamond x3
 gives: diamond_leggings {enchantments: thorns}
 xp: 30
 max use: 3

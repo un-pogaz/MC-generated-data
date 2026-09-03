@@ -1,5 +1,5 @@
-wants: emerald x9
-gives: iron_helmet
+wants: emerald x7
+gives: iron_leggings
 xp: 5
 max use: 12
 reputation discount: 0.05

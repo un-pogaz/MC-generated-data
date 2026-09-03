@@ -2,7 +2,5 @@ minecraft:attached_melon_stem  = minecraft:supports_melon_stem
 minecraft:attached_pumpkin_stem  = minecraft:supports_pumpkin_stem
 minecraft:crimson_fungus  = minecraft:supports_crimson_fungus
 minecraft:crimson_roots  = minecraft:supports_crimson_roots
-minecraft:melon_stem  = minecraft:supports_melon_stem
-minecraft:pumpkin_stem  = minecraft:supports_pumpkin_stem
 minecraft:warped_fungus  = minecraft:supports_warped_fungus
 minecraft:warped_roots  = minecraft:supports_warped_roots

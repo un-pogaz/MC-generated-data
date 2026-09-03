@@ -1,0 +1,8 @@
+minecraft:mob/horse/baby_horse/ambient1
+minecraft:mob/horse/baby_horse/ambient2
+minecraft:mob/horse/baby_horse/ambient3
+minecraft:mob/horse/baby_horse/ambient4
+minecraft:mob/horse/baby_horse/ambient5
+minecraft:mob/horse/baby_horse/ambient7
+minecraft:mob/horse/baby_horse/ambient8
+minecraft:mob/horse/baby_horse/ambient9

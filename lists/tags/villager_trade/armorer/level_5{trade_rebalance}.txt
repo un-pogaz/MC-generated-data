@@ -1,6 +1,3 @@
-#minecraft:common_smith/level_5
-minecraft:armorer/5/emerald_enchanted_diamond_helmet
-minecraft:armorer/5/emerald_enchanted_diamond_chestplate
 minecraft:armorer/5/emerald_and_diamond_diamond_chestplate_desert
 minecraft:armorer/5/emerald_and_diamond_diamond_leggings_desert
 minecraft:armorer/5/emerald_and_diamond_diamond_leggings_plains
