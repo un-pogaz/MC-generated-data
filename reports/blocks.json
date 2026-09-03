@@ -2114,11 +2114,8 @@
   },
   "minecraft:acacia_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -9366,11 +9363,12 @@
   },
   "minecraft:azalea_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
+      "type": "minecraft:untinted_particle_leaves",
       "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
+        "type": "minecraft:tinted_leaves",
+        "color": -9399763
       },
-      "leaf_particle_chance": 100,
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -18068,11 +18066,8 @@
   },
   "minecraft:birch_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -40697,11 +40692,11 @@
   },
   "minecraft:cherry_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
+      "type": "minecraft:untinted_particle_leaves",
       "leaf_particle": {
         "type": "minecraft:cherry_leaves"
       },
-      "leaf_particle_chance": 10,
+      "leaf_particle_chance": 0.1,
       "properties": {}
     },
     "properties": {
@@ -67525,11 +67520,8 @@
   },
   "minecraft:dark_oak_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -99058,11 +99050,12 @@
   },
   "minecraft:flowering_azalea_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
+      "type": "minecraft:untinted_particle_leaves",
       "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
+        "type": "minecraft:tinted_leaves",
+        "color": -9399763
       },
-      "leaf_particle_chance": 100,
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -112668,11 +112661,8 @@
   },
   "minecraft:jungle_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -123052,10 +123042,7 @@
   "minecraft:mangrove_leaves": {
     "definition": {
       "type": "minecraft:mangrove_leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -156484,11 +156471,8 @@
   },
   "minecraft:oak_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -166126,11 +166110,11 @@
   },
   "minecraft:pale_oak_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
+      "type": "minecraft:untinted_particle_leaves",
       "leaf_particle": {
         "type": "minecraft:pale_oak_leaves"
       },
-      "leaf_particle_chance": 50,
+      "leaf_particle_chance": 0.02,
       "properties": {}
     },
     "properties": {
@@ -244795,11 +244779,8 @@
   },
   "minecraft:spruce_leaves": {
     "definition": {
-      "type": "minecraft:leaves",
-      "leaf_particle": {
-        "type": "minecraft:tinted_leaves"
-      },
-      "leaf_particle_chance": 100,
+      "type": "minecraft:tinted_particle_leaves",
+      "leaf_particle_chance": 0.01,
       "properties": {}
     },
     "properties": {
@@ -254061,7 +254042,7 @@
       "properties": {}
     },
     "properties": {
-      "test_block_mode": [
+      "mode": [
         "start",
         "log",
         "fail",
@@ -254073,25 +254054,25 @@
         "default": true,
         "id": 20391,
         "properties": {
-          "test_block_mode": "start"
+          "mode": "start"
         }
       },
       {
         "id": 20392,
         "properties": {
-          "test_block_mode": "log"
+          "mode": "log"
         }
       },
       {
         "id": 20393,
         "properties": {
-          "test_block_mode": "fail"
+          "mode": "fail"
         }
       },
       {
         "id": 20394,
         "properties": {
-          "test_block_mode": "accept"
+          "mode": "accept"
         }
       }
     ]
