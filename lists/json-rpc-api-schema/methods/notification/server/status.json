@@ -1,5 +1,5 @@
 {
-  "description": "Server status heartbeat",
+  "description": "Server status heartbeat, including before the server has spun up",
   "name": "minecraft:notification/server/status",
   "params": [
     {

@@ -31,8 +31,7 @@
     {
       "name": "music/game/lilypad",
       "stream": true,
-      "volume": 0.4,
-      "weight": 2
+      "volume": 0.4
     },
     {
       "name": "music/game/mice_on_venus",
@@ -50,6 +49,12 @@
       "name": "music/game/pokopoko",
       "stream": true,
       "volume": 0.8
+    },
+    {
+      "name": "music/game/shores",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/sweden",

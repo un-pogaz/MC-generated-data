@@ -1,3 +1,4 @@
+minecraft:music/game/ebb
 minecraft:music/game/swamp/aerie
 minecraft:music/game/swamp/firebugs
 minecraft:music/game/swamp/labyrinthine

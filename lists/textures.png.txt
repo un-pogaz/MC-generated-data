@@ -1,11 +1,13 @@
 minecraft:block/acacia_door_bottom
 minecraft:block/acacia_door_top
+minecraft:block/acacia_hanging_sign
 minecraft:block/acacia_leaves  [mcmeta]
 minecraft:block/acacia_log
 minecraft:block/acacia_log_top
 minecraft:block/acacia_planks
 minecraft:block/acacia_sapling
 minecraft:block/acacia_shelf
+minecraft:block/acacia_sign
 minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
@@ -32,10 +34,12 @@ minecraft:block/bamboo_fence
 minecraft:block/bamboo_fence_gate
 minecraft:block/bamboo_fence_gate_particle
 minecraft:block/bamboo_fence_particle
+minecraft:block/bamboo_hanging_sign
 minecraft:block/bamboo_large_leaves
 minecraft:block/bamboo_mosaic
 minecraft:block/bamboo_planks
 minecraft:block/bamboo_shelf
+minecraft:block/bamboo_sign
 minecraft:block/bamboo_singleleaf
 minecraft:block/bamboo_small_leaves
 minecraft:block/bamboo_stage0
@@ -48,6 +52,8 @@ minecraft:block/barrel_top_open
 minecraft:block/basalt_side
 minecraft:block/basalt_top
 minecraft:block/beacon
+minecraft:block/bed_down
+minecraft:block/bed_head_north
 minecraft:block/bedrock
 minecraft:block/bee_nest_bottom
 minecraft:block/bee_nest_front
@@ -71,13 +77,22 @@ minecraft:block/big_dripleaf_tip
 minecraft:block/big_dripleaf_top
 minecraft:block/birch_door_bottom
 minecraft:block/birch_door_top
+minecraft:block/birch_hanging_sign
 minecraft:block/birch_leaves  [mcmeta]
 minecraft:block/birch_log
 minecraft:block/birch_log_top
 minecraft:block/birch_planks
 minecraft:block/birch_sapling
 minecraft:block/birch_shelf
+minecraft:block/birch_sign
 minecraft:block/birch_trapdoor
+minecraft:block/black_bed_foot_east
+minecraft:block/black_bed_foot_south
+minecraft:block/black_bed_foot_up
+minecraft:block/black_bed_foot_west
+minecraft:block/black_bed_head_east
+minecraft:block/black_bed_head_up
+minecraft:block/black_bed_head_west
 minecraft:block/black_candle
 minecraft:block/black_candle_lit
 minecraft:block/black_concrete
@@ -94,6 +109,13 @@ minecraft:block/blast_furnace_front
 minecraft:block/blast_furnace_front_on  [mcmeta]
 minecraft:block/blast_furnace_side
 minecraft:block/blast_furnace_top
+minecraft:block/blue_bed_foot_east
+minecraft:block/blue_bed_foot_south
+minecraft:block/blue_bed_foot_up
+minecraft:block/blue_bed_foot_west
+minecraft:block/blue_bed_head_east
+minecraft:block/blue_bed_head_up
+minecraft:block/blue_bed_head_west
 minecraft:block/blue_candle
 minecraft:block/blue_candle_lit
 minecraft:block/blue_concrete
@@ -115,6 +137,13 @@ minecraft:block/brain_coral_fan
 minecraft:block/brewing_stand
 minecraft:block/brewing_stand_base
 minecraft:block/bricks
+minecraft:block/brown_bed_foot_east
+minecraft:block/brown_bed_foot_south
+minecraft:block/brown_bed_foot_up
+minecraft:block/brown_bed_foot_west
+minecraft:block/brown_bed_head_east
+minecraft:block/brown_bed_head_up
+minecraft:block/brown_bed_head_west
 minecraft:block/brown_candle
 minecraft:block/brown_candle_lit
 minecraft:block/brown_concrete
@@ -172,18 +201,21 @@ minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/cherry_door_bottom
 minecraft:block/cherry_door_top
+minecraft:block/cherry_hanging_sign
 minecraft:block/cherry_leaves  [mcmeta]
 minecraft:block/cherry_log
 minecraft:block/cherry_log_top
 minecraft:block/cherry_planks
 minecraft:block/cherry_sapling
 minecraft:block/cherry_shelf
+minecraft:block/cherry_sign
 minecraft:block/cherry_trapdoor
 minecraft:block/chipped_anvil_top
 minecraft:block/chiseled_bookshelf_empty
 minecraft:block/chiseled_bookshelf_occupied
 minecraft:block/chiseled_bookshelf_side
 minecraft:block/chiseled_bookshelf_top
+minecraft:block/chiseled_cinnabar
 minecraft:block/chiseled_copper
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
@@ -194,6 +226,7 @@ minecraft:block/chiseled_red_sandstone
 minecraft:block/chiseled_resin_bricks
 minecraft:block/chiseled_sandstone
 minecraft:block/chiseled_stone_bricks
+minecraft:block/chiseled_sulfur
 minecraft:block/chiseled_tuff
 minecraft:block/chiseled_tuff_bricks
 minecraft:block/chiseled_tuff_bricks_top
@@ -201,6 +234,8 @@ minecraft:block/chiseled_tuff_top
 minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
+minecraft:block/cinnabar
+minecraft:block/cinnabar_bricks
 minecraft:block/clay
 minecraft:block/closed_eyeblossom  [mcmeta]
 minecraft:block/coal_block
@@ -270,12 +305,14 @@ minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
 minecraft:block/crimson_fungus  [mcmeta]
+minecraft:block/crimson_hanging_sign
 minecraft:block/crimson_nylium
 minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
 minecraft:block/crimson_roots
 minecraft:block/crimson_roots_pot
 minecraft:block/crimson_shelf
+minecraft:block/crimson_sign
 minecraft:block/crimson_stem  [mcmeta]
 minecraft:block/crimson_stem_top
 minecraft:block/crimson_trapdoor
@@ -283,6 +320,13 @@ minecraft:block/crying_obsidian
 minecraft:block/cut_copper
 minecraft:block/cut_red_sandstone
 minecraft:block/cut_sandstone
+minecraft:block/cyan_bed_foot_east
+minecraft:block/cyan_bed_foot_south
+minecraft:block/cyan_bed_foot_up
+minecraft:block/cyan_bed_foot_west
+minecraft:block/cyan_bed_head_east
+minecraft:block/cyan_bed_head_up
+minecraft:block/cyan_bed_head_west
 minecraft:block/cyan_candle
 minecraft:block/cyan_candle_lit
 minecraft:block/cyan_concrete
@@ -297,12 +341,14 @@ minecraft:block/damaged_anvil_top
 minecraft:block/dandelion  [mcmeta]
 minecraft:block/dark_oak_door_bottom
 minecraft:block/dark_oak_door_top
+minecraft:block/dark_oak_hanging_sign
 minecraft:block/dark_oak_leaves  [mcmeta]
 minecraft:block/dark_oak_log
 minecraft:block/dark_oak_log_top
 minecraft:block/dark_oak_planks
 minecraft:block/dark_oak_sapling
 minecraft:block/dark_oak_shelf
+minecraft:block/dark_oak_sign
 minecraft:block/dark_oak_trapdoor
 minecraft:block/dark_prismarine
 minecraft:block/daylight_detector_inverted_top
@@ -460,6 +506,13 @@ minecraft:block/grass_block_side_overlay
 minecraft:block/grass_block_snow
 minecraft:block/grass_block_top
 minecraft:block/gravel
+minecraft:block/gray_bed_foot_east
+minecraft:block/gray_bed_foot_south
+minecraft:block/gray_bed_foot_up
+minecraft:block/gray_bed_foot_west
+minecraft:block/gray_bed_head_east
+minecraft:block/gray_bed_head_up
+minecraft:block/gray_bed_head_west
 minecraft:block/gray_candle
 minecraft:block/gray_candle_lit
 minecraft:block/gray_concrete
@@ -470,6 +523,13 @@ minecraft:block/gray_stained_glass
 minecraft:block/gray_stained_glass_pane_top
 minecraft:block/gray_terracotta
 minecraft:block/gray_wool
+minecraft:block/green_bed_foot_east
+minecraft:block/green_bed_foot_south
+minecraft:block/green_bed_foot_up
+minecraft:block/green_bed_foot_west
+minecraft:block/green_bed_head_east
+minecraft:block/green_bed_head_up
+minecraft:block/green_bed_head_west
 minecraft:block/green_candle
 minecraft:block/green_candle_lit
 minecraft:block/green_concrete
@@ -515,12 +575,14 @@ minecraft:block/jukebox_side
 minecraft:block/jukebox_top
 minecraft:block/jungle_door_bottom
 minecraft:block/jungle_door_top
+minecraft:block/jungle_hanging_sign
 minecraft:block/jungle_leaves  [mcmeta]
 minecraft:block/jungle_log
 minecraft:block/jungle_log_top
 minecraft:block/jungle_planks
 minecraft:block/jungle_sapling
 minecraft:block/jungle_shelf
+minecraft:block/jungle_sign
 minecraft:block/jungle_trapdoor
 minecraft:block/kelp  [mcmeta]
 minecraft:block/kelp_plant  [mcmeta]
@@ -539,6 +601,13 @@ minecraft:block/lectern_front
 minecraft:block/lectern_sides
 minecraft:block/lectern_top
 minecraft:block/lever
+minecraft:block/light_blue_bed_foot_east
+minecraft:block/light_blue_bed_foot_south
+minecraft:block/light_blue_bed_foot_up
+minecraft:block/light_blue_bed_foot_west
+minecraft:block/light_blue_bed_head_east
+minecraft:block/light_blue_bed_head_up
+minecraft:block/light_blue_bed_head_west
 minecraft:block/light_blue_candle
 minecraft:block/light_blue_candle_lit
 minecraft:block/light_blue_concrete
@@ -549,6 +618,13 @@ minecraft:block/light_blue_stained_glass
 minecraft:block/light_blue_stained_glass_pane_top
 minecraft:block/light_blue_terracotta
 minecraft:block/light_blue_wool
+minecraft:block/light_gray_bed_foot_east
+minecraft:block/light_gray_bed_foot_south
+minecraft:block/light_gray_bed_foot_up
+minecraft:block/light_gray_bed_foot_west
+minecraft:block/light_gray_bed_head_east
+minecraft:block/light_gray_bed_head_up
+minecraft:block/light_gray_bed_head_west
 minecraft:block/light_gray_candle
 minecraft:block/light_gray_candle_lit
 minecraft:block/light_gray_concrete
@@ -565,6 +641,13 @@ minecraft:block/lilac_bottom
 minecraft:block/lilac_top
 minecraft:block/lily_of_the_valley  [mcmeta]
 minecraft:block/lily_pad
+minecraft:block/lime_bed_foot_east
+minecraft:block/lime_bed_foot_south
+minecraft:block/lime_bed_foot_up
+minecraft:block/lime_bed_foot_west
+minecraft:block/lime_bed_head_east
+minecraft:block/lime_bed_head_up
+minecraft:block/lime_bed_head_west
 minecraft:block/lime_candle
 minecraft:block/lime_candle_lit
 minecraft:block/lime_concrete
@@ -581,6 +664,13 @@ minecraft:block/loom_bottom
 minecraft:block/loom_front
 minecraft:block/loom_side
 minecraft:block/loom_top
+minecraft:block/magenta_bed_foot_east
+minecraft:block/magenta_bed_foot_south
+minecraft:block/magenta_bed_foot_up
+minecraft:block/magenta_bed_foot_west
+minecraft:block/magenta_bed_head_east
+minecraft:block/magenta_bed_head_up
+minecraft:block/magenta_bed_head_west
 minecraft:block/magenta_candle
 minecraft:block/magenta_candle_lit
 minecraft:block/magenta_concrete
@@ -594,6 +684,7 @@ minecraft:block/magenta_wool
 minecraft:block/magma  [mcmeta]
 minecraft:block/mangrove_door_bottom
 minecraft:block/mangrove_door_top
+minecraft:block/mangrove_hanging_sign
 minecraft:block/mangrove_leaves  [mcmeta]
 minecraft:block/mangrove_log
 minecraft:block/mangrove_log_top
@@ -603,6 +694,7 @@ minecraft:block/mangrove_propagule_hanging
 minecraft:block/mangrove_roots_side  [mcmeta]
 minecraft:block/mangrove_roots_top  [mcmeta]
 minecraft:block/mangrove_shelf
+minecraft:block/mangrove_sign
 minecraft:block/mangrove_trapdoor
 minecraft:block/medium_amethyst_bud  [mcmeta]
 minecraft:block/melon_side
@@ -633,12 +725,14 @@ minecraft:block/netherrack
 minecraft:block/note_block
 minecraft:block/oak_door_bottom
 minecraft:block/oak_door_top
+minecraft:block/oak_hanging_sign
 minecraft:block/oak_leaves  [mcmeta]
 minecraft:block/oak_log
 minecraft:block/oak_log_top
 minecraft:block/oak_planks
 minecraft:block/oak_sapling
 minecraft:block/oak_shelf
+minecraft:block/oak_sign
 minecraft:block/oak_trapdoor
 minecraft:block/observer_back
 minecraft:block/observer_back_on
@@ -650,6 +744,13 @@ minecraft:block/ochre_froglight_side
 minecraft:block/ochre_froglight_top
 minecraft:block/open_eyeblossom  [mcmeta]
 minecraft:block/open_eyeblossom_emissive
+minecraft:block/orange_bed_foot_east
+minecraft:block/orange_bed_foot_south
+minecraft:block/orange_bed_foot_up
+minecraft:block/orange_bed_foot_west
+minecraft:block/orange_bed_head_east
+minecraft:block/orange_bed_head_up
+minecraft:block/orange_bed_head_west
 minecraft:block/orange_candle
 minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
@@ -687,17 +788,26 @@ minecraft:block/pale_moss_carpet_side_small
 minecraft:block/pale_moss_carpet_side_tall
 minecraft:block/pale_oak_door_bottom
 minecraft:block/pale_oak_door_top
+minecraft:block/pale_oak_hanging_sign
 minecraft:block/pale_oak_leaves  [mcmeta]
 minecraft:block/pale_oak_log
 minecraft:block/pale_oak_log_top
 minecraft:block/pale_oak_planks
 minecraft:block/pale_oak_sapling
 minecraft:block/pale_oak_shelf
+minecraft:block/pale_oak_sign
 minecraft:block/pale_oak_trapdoor
 minecraft:block/pearlescent_froglight_side
 minecraft:block/pearlescent_froglight_top
 minecraft:block/peony_bottom
 minecraft:block/peony_top
+minecraft:block/pink_bed_foot_east
+minecraft:block/pink_bed_foot_south
+minecraft:block/pink_bed_foot_up
+minecraft:block/pink_bed_foot_west
+minecraft:block/pink_bed_head_east
+minecraft:block/pink_bed_head_up
+minecraft:block/pink_bed_head_west
 minecraft:block/pink_candle
 minecraft:block/pink_candle_lit
 minecraft:block/pink_concrete
@@ -742,15 +852,18 @@ minecraft:block/polished_basalt_side
 minecraft:block/polished_basalt_top
 minecraft:block/polished_blackstone
 minecraft:block/polished_blackstone_bricks
+minecraft:block/polished_cinnabar
 minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
+minecraft:block/polished_sulfur
 minecraft:block/polished_tuff
 minecraft:block/poppy  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
 minecraft:block/potatoes_stage3
+minecraft:block/potent_sulfur
 minecraft:block/potted_azalea_bush_plant
 minecraft:block/potted_azalea_bush_side
 minecraft:block/potted_azalea_bush_top
@@ -765,6 +878,13 @@ minecraft:block/prismarine_bricks
 minecraft:block/pumpkin_side
 minecraft:block/pumpkin_stem
 minecraft:block/pumpkin_top
+minecraft:block/purple_bed_foot_east
+minecraft:block/purple_bed_foot_south
+minecraft:block/purple_bed_foot_up
+minecraft:block/purple_bed_foot_west
+minecraft:block/purple_bed_head_east
+minecraft:block/purple_bed_head_up
+minecraft:block/purple_bed_head_west
 minecraft:block/purple_candle
 minecraft:block/purple_candle_lit
 minecraft:block/purple_concrete
@@ -776,19 +896,26 @@ minecraft:block/purple_stained_glass_pane_top
 minecraft:block/purple_terracotta
 minecraft:block/purple_wool
 minecraft:block/purpur_block
-minecraft:block/purpur_pillar
+minecraft:block/purpur_pillar_side
 minecraft:block/purpur_pillar_top
 minecraft:block/quartz_block_bottom
 minecraft:block/quartz_block_side
 minecraft:block/quartz_block_top
 minecraft:block/quartz_bricks
-minecraft:block/quartz_pillar
+minecraft:block/quartz_pillar_side
 minecraft:block/quartz_pillar_top
 minecraft:block/rail
 minecraft:block/rail_corner
 minecraft:block/raw_copper_block
 minecraft:block/raw_gold_block
 minecraft:block/raw_iron_block
+minecraft:block/red_bed_foot_east
+minecraft:block/red_bed_foot_south
+minecraft:block/red_bed_foot_up
+minecraft:block/red_bed_foot_west
+minecraft:block/red_bed_head_east
+minecraft:block/red_bed_head_up
+minecraft:block/red_bed_head_west
 minecraft:block/red_candle
 minecraft:block/red_candle_lit
 minecraft:block/red_concrete
@@ -922,12 +1049,14 @@ minecraft:block/spore_blossom
 minecraft:block/spore_blossom_base
 minecraft:block/spruce_door_bottom
 minecraft:block/spruce_door_top
+minecraft:block/spruce_hanging_sign
 minecraft:block/spruce_leaves  [mcmeta]
 minecraft:block/spruce_log
 minecraft:block/spruce_log_top
 minecraft:block/spruce_planks
 minecraft:block/spruce_sapling
 minecraft:block/spruce_shelf
+minecraft:block/spruce_sign
 minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
@@ -965,6 +1094,18 @@ minecraft:block/structure_block_data
 minecraft:block/structure_block_load
 minecraft:block/structure_block_save
 minecraft:block/sugar_cane
+minecraft:block/sulfur
+minecraft:block/sulfur_bricks
+minecraft:block/sulfur_spike_down_base
+minecraft:block/sulfur_spike_down_frustum
+minecraft:block/sulfur_spike_down_middle
+minecraft:block/sulfur_spike_down_tip
+minecraft:block/sulfur_spike_down_tip_merge
+minecraft:block/sulfur_spike_up_base
+minecraft:block/sulfur_spike_up_frustum
+minecraft:block/sulfur_spike_up_middle
+minecraft:block/sulfur_spike_up_tip
+minecraft:block/sulfur_spike_up_tip_merge
 minecraft:block/sunflower_back
 minecraft:block/sunflower_bottom
 minecraft:block/sunflower_front
@@ -1047,12 +1188,14 @@ minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
 minecraft:block/warped_fungus  [mcmeta]
+minecraft:block/warped_hanging_sign
 minecraft:block/warped_nylium
 minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
 minecraft:block/warped_roots
 minecraft:block/warped_roots_pot
 minecraft:block/warped_shelf
+minecraft:block/warped_sign
 minecraft:block/warped_stem  [mcmeta]
 minecraft:block/warped_stem_top
 minecraft:block/warped_trapdoor
@@ -1086,6 +1229,13 @@ minecraft:block/wheat_stage4
 minecraft:block/wheat_stage5
 minecraft:block/wheat_stage6
 minecraft:block/wheat_stage7
+minecraft:block/white_bed_foot_east
+minecraft:block/white_bed_foot_south
+minecraft:block/white_bed_foot_up
+minecraft:block/white_bed_foot_west
+minecraft:block/white_bed_head_east
+minecraft:block/white_bed_head_up
+minecraft:block/white_bed_head_west
 minecraft:block/white_candle
 minecraft:block/white_candle_lit
 minecraft:block/white_concrete
@@ -1100,6 +1250,13 @@ minecraft:block/white_wool
 minecraft:block/wildflowers
 minecraft:block/wildflowers_stem
 minecraft:block/wither_rose  [mcmeta]
+minecraft:block/yellow_bed_foot_east
+minecraft:block/yellow_bed_foot_south
+minecraft:block/yellow_bed_foot_up
+minecraft:block/yellow_bed_foot_west
+minecraft:block/yellow_bed_head_east
+minecraft:block/yellow_bed_head_up
+minecraft:block/yellow_bed_head_west
 minecraft:block/yellow_candle
 minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
@@ -1176,22 +1333,6 @@ minecraft:entity/bat/bat
 minecraft:entity/beacon/beacon_beam
 minecraft:entity/bear/polarbear
 minecraft:entity/bear/polarbear_baby
-minecraft:entity/bed/black
-minecraft:entity/bed/blue
-minecraft:entity/bed/brown
-minecraft:entity/bed/cyan
-minecraft:entity/bed/gray
-minecraft:entity/bed/green
-minecraft:entity/bed/light_blue
-minecraft:entity/bed/light_gray
-minecraft:entity/bed/lime
-minecraft:entity/bed/magenta
-minecraft:entity/bed/orange
-minecraft:entity/bed/pink
-minecraft:entity/bed/purple
-minecraft:entity/bed/red
-minecraft:entity/bed/white
-minecraft:entity/bed/yellow
 minecraft:entity/bee/bee
 minecraft:entity/bee/bee_angry
 minecraft:entity/bee/bee_angry_baby
@@ -1675,30 +1816,6 @@ minecraft:entity/shulker/shulker_red
 minecraft:entity/shulker/shulker_white
 minecraft:entity/shulker/shulker_yellow
 minecraft:entity/shulker/spark
-minecraft:entity/signs/acacia
-minecraft:entity/signs/bamboo
-minecraft:entity/signs/birch
-minecraft:entity/signs/cherry
-minecraft:entity/signs/crimson
-minecraft:entity/signs/dark_oak
-minecraft:entity/signs/hanging/acacia
-minecraft:entity/signs/hanging/bamboo
-minecraft:entity/signs/hanging/birch
-minecraft:entity/signs/hanging/cherry
-minecraft:entity/signs/hanging/crimson
-minecraft:entity/signs/hanging/dark_oak
-minecraft:entity/signs/hanging/jungle
-minecraft:entity/signs/hanging/mangrove
-minecraft:entity/signs/hanging/oak
-minecraft:entity/signs/hanging/pale_oak
-minecraft:entity/signs/hanging/spruce
-minecraft:entity/signs/hanging/warped
-minecraft:entity/signs/jungle
-minecraft:entity/signs/mangrove
-minecraft:entity/signs/oak
-minecraft:entity/signs/pale_oak
-minecraft:entity/signs/spruce
-minecraft:entity/signs/warped
 minecraft:entity/silverfish/silverfish
 minecraft:entity/skeleton/bogged
 minecraft:entity/skeleton/bogged_overlay
@@ -1723,6 +1840,10 @@ minecraft:entity/strider/strider
 minecraft:entity/strider/strider_baby
 minecraft:entity/strider/strider_cold
 minecraft:entity/strider/strider_cold_baby
+minecraft:entity/sulfur_cube/sulfur_cube_inner
+minecraft:entity/sulfur_cube/sulfur_cube_inner_small
+minecraft:entity/sulfur_cube/sulfur_cube_outer
+minecraft:entity/sulfur_cube/sulfur_cube_outer_small
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident/trident
 minecraft:entity/trident/trident_riptide
@@ -1958,6 +2079,18 @@ minecraft:gui/realms/snapshot_realms
 minecraft:gui/realms/survival_spawn
 minecraft:gui/realms/upload
 minecraft:gui/recipe_book
+minecraft:gui/signs/acacia
+minecraft:gui/signs/bamboo
+minecraft:gui/signs/birch
+minecraft:gui/signs/cherry
+minecraft:gui/signs/crimson
+minecraft:gui/signs/dark_oak
+minecraft:gui/signs/jungle
+minecraft:gui/signs/mangrove
+minecraft:gui/signs/oak
+minecraft:gui/signs/pale_oak
+minecraft:gui/signs/spruce
+minecraft:gui/signs/warped
 minecraft:gui/sprites/advancements/box_obtained  [mcmeta]
 minecraft:gui/sprites/advancements/box_unobtained  [mcmeta]
 minecraft:gui/sprites/advancements/challenge_frame_obtained
@@ -2145,6 +2278,23 @@ minecraft:gui/sprites/container/villager/trade_arrow_out_of_stock
 minecraft:gui/sprites/dialog/warning_button
 minecraft:gui/sprites/dialog/warning_button_disabled
 minecraft:gui/sprites/dialog/warning_button_highlighted
+minecraft:gui/sprites/friends/accept
+minecraft:gui/sprites/friends/accept_highlighted
+minecraft:gui/sprites/friends/background  [mcmeta]
+minecraft:gui/sprites/friends/background_dark  [mcmeta]
+minecraft:gui/sprites/friends/button  [mcmeta]
+minecraft:gui/sprites/friends/button_disabled  [mcmeta]
+minecraft:gui/sprites/friends/button_highlighted  [mcmeta]
+minecraft:gui/sprites/friends/cancel
+minecraft:gui/sprites/friends/friends
+minecraft:gui/sprites/friends/illustrations_00
+minecraft:gui/sprites/friends/list_separator_top
+minecraft:gui/sprites/friends/loading  [mcmeta]
+minecraft:gui/sprites/friends/reject
+minecraft:gui/sprites/friends/reject_highlighted
+minecraft:gui/sprites/friends/remove
+minecraft:gui/sprites/friends/send_request
+minecraft:gui/sprites/friends/toast_background  [mcmeta]
 minecraft:gui/sprites/gamemode_switcher/selection
 minecraft:gui/sprites/gamemode_switcher/slot
 minecraft:gui/sprites/hud/air
@@ -2260,6 +2410,9 @@ minecraft:gui/sprites/notification/3
 minecraft:gui/sprites/notification/4
 minecraft:gui/sprites/notification/5
 minecraft:gui/sprites/notification/more
+minecraft:gui/sprites/pause_menu/bug
+minecraft:gui/sprites/pause_menu/player_reporting
+minecraft:gui/sprites/pause_menu/social_interactions
 minecraft:gui/sprites/pending_invite/accept
 minecraft:gui/sprites/pending_invite/accept_highlighted
 minecraft:gui/sprites/pending_invite/reject
@@ -2914,6 +3067,7 @@ minecraft:item/music_disc_11
 minecraft:item/music_disc_13
 minecraft:item/music_disc_5
 minecraft:item/music_disc_blocks
+minecraft:item/music_disc_bounce
 minecraft:item/music_disc_cat
 minecraft:item/music_disc_chirp
 minecraft:item/music_disc_creator
@@ -3135,6 +3289,9 @@ minecraft:item/string
 minecraft:item/structure_void
 minecraft:item/sugar
 minecraft:item/sugar_cane
+minecraft:item/sulfur_cube_bucket
+minecraft:item/sulfur_cube_spawn_egg
+minecraft:item/sulfur_spike
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
@@ -3370,6 +3527,7 @@ minecraft:particle/bubble_pop_1
 minecraft:particle/bubble_pop_2
 minecraft:particle/bubble_pop_3
 minecraft:particle/bubble_pop_4
+minecraft:particle/bubble_white
 minecraft:particle/cherry_0
 minecraft:particle/cherry_1
 minecraft:particle/cherry_10
@@ -3424,6 +3582,30 @@ minecraft:particle/generic_4
 minecraft:particle/generic_5
 minecraft:particle/generic_6
 minecraft:particle/generic_7
+minecraft:particle/geyser_base_01
+minecraft:particle/geyser_base_02
+minecraft:particle/geyser_base_03
+minecraft:particle/geyser_base_04
+minecraft:particle/geyser_base_05
+minecraft:particle/geyser_base_06
+minecraft:particle/geyser_base_07
+minecraft:particle/geyser_base_08
+minecraft:particle/geyser_plume_01
+minecraft:particle/geyser_plume_02
+minecraft:particle/geyser_plume_03
+minecraft:particle/geyser_plume_04
+minecraft:particle/geyser_plume_05
+minecraft:particle/geyser_plume_06
+minecraft:particle/geyser_plume_07
+minecraft:particle/geyser_plume_08
+minecraft:particle/geyser_poof_01
+minecraft:particle/geyser_poof_02
+minecraft:particle/geyser_poof_03
+minecraft:particle/geyser_poof_04
+minecraft:particle/geyser_poof_05
+minecraft:particle/geyser_poof_06
+minecraft:particle/geyser_poof_07
+minecraft:particle/geyser_poof_08
 minecraft:particle/glint
 minecraft:particle/glitter_0
 minecraft:particle/glitter_1
@@ -3466,6 +3648,14 @@ minecraft:particle/leaf_8
 minecraft:particle/leaf_9
 minecraft:particle/nautilus
 minecraft:particle/note
+minecraft:particle/noxious_gas_01
+minecraft:particle/noxious_gas_02
+minecraft:particle/noxious_gas_03
+minecraft:particle/noxious_gas_04
+minecraft:particle/noxious_gas_05
+minecraft:particle/noxious_gas_06
+minecraft:particle/noxious_gas_07
+minecraft:particle/noxious_gas_08
 minecraft:particle/ominous_spawning
 minecraft:particle/pale_oak_0
 minecraft:particle/pale_oak_1
@@ -3584,6 +3774,7 @@ minecraft:particle/splash_0
 minecraft:particle/splash_1
 minecraft:particle/splash_2
 minecraft:particle/splash_3
+minecraft:particle/sulfur_cube_goo
 minecraft:particle/sweep_0
 minecraft:particle/sweep_1
 minecraft:particle/sweep_2

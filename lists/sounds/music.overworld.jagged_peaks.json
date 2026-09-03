@@ -5,6 +5,12 @@
       "stream": true
     },
     {
+      "name": "music/game/ebb",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/eld_unknown",
       "stream": true,
       "volume": 0.4
@@ -30,6 +36,12 @@
     {
       "name": "music/game/mice_on_venus",
       "stream": true
+    },
+    {
+      "name": "music/game/nightly",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/oxygene",

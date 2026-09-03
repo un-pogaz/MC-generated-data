@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/ball/slowflat_hit1
+minecraft:mob/sulfur_cube/ball/slowflat_hit2
+minecraft:mob/sulfur_cube/ball/slowflat_hit3
+minecraft:mob/sulfur_cube/ball/slowflat_hit4

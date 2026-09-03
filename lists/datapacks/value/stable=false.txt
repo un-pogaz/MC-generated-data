@@ -18,6 +18,7 @@ minecraft:jukebox_song
 minecraft:painting_variant
 minecraft:pig_sound_variant
 minecraft:pig_variant
+minecraft:sulfur_cube_archetype
 minecraft:test_environment
 minecraft:test_instance
 minecraft:timeline

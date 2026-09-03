@@ -1,10 +1,13 @@
+minecraft:air_drag_modifier
 minecraft:armor
 minecraft:armor_toughness
 minecraft:attack_damage
 minecraft:attack_knockback
 minecraft:attack_speed
+minecraft:below_name_distance
 minecraft:block_break_speed
 minecraft:block_interaction_range
+minecraft:bounciness
 minecraft:burning_time
 minecraft:camera_distance
 minecraft:entity_interaction_range
@@ -12,6 +15,7 @@ minecraft:explosion_knockback_resistance
 minecraft:fall_damage_multiplier
 minecraft:flying_speed
 minecraft:follow_range
+minecraft:friction_modifier
 minecraft:gravity
 minecraft:jump_strength
 minecraft:knockback_resistance
@@ -21,6 +25,7 @@ minecraft:max_health
 minecraft:mining_efficiency
 minecraft:movement_efficiency
 minecraft:movement_speed
+minecraft:name_tag_distance
 minecraft:oxygen_bonus
 minecraft:safe_fall_distance
 minecraft:scale

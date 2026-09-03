@@ -74,6 +74,11 @@
     "region": "Česko",
     "bidirectional": false
   },
+  "cv_cu": {
+    "name": "Чӑвашла",
+    "region": "Чӑваш Ен, Раҫҫей",
+    "bidirectional": false
+  },
   "cy_gb": {
     "name": "Cymraeg",
     "region": "Cymru",
@@ -224,6 +229,11 @@
     "region": "Canada",
     "bidirectional": false
   },
+  "fr_ch": {
+    "name": "Français",
+    "region": "Suisse",
+    "bidirectional": false
+  },
   "fr_fr": {
     "name": "Français",
     "region": "France",
@@ -257,6 +267,11 @@
   "gl_es": {
     "name": "Galego",
     "region": "Galicia / Galiza",
+    "bidirectional": false
+  },
+  "go_fr": {
+    "name": "Galo",
+    "region": "Bertègn",
     "bidirectional": false
   },
   "hal_ua": {
@@ -611,7 +626,7 @@
   },
   "tok": {
     "name": "toki pona",
-    "region": "ma pona",
+    "region": "kulupu pona",
     "bidirectional": false
   },
   "tr_tr": {
@@ -634,6 +649,11 @@
     "region": "Україна",
     "bidirectional": false
   },
+  "uz_uz": {
+    "name": "O'zbekcha",
+    "region": "O'zbekiston",
+    "bidirectional": false
+  },
   "val_es": {
     "name": "Català (Valencià)",
     "region": "País Valencià",
@@ -652,6 +672,11 @@
   "vp_vl": {
     "name": "Viossa",
     "region": "Vilant",
+    "bidirectional": false
+  },
+  "vro": {
+    "name": "Võro",
+    "region": "Eesti",
     "bidirectional": false
   },
   "yi_de": {

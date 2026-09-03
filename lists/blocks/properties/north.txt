@@ -10,6 +10,8 @@ minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
 minecraft:cherry_fence
 minecraft:chorus_plant
+minecraft:cinnabar_brick_wall
+minecraft:cinnabar_wall
 minecraft:cobbled_deepslate_wall
 minecraft:cobblestone_wall
 minecraft:copper_bars
@@ -48,7 +50,9 @@ minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
+minecraft:polished_cinnabar_wall
 minecraft:polished_deepslate_wall
+minecraft:polished_sulfur_wall
 minecraft:polished_tuff_wall
 minecraft:prismarine_wall
 minecraft:purple_stained_glass_pane
@@ -63,6 +67,8 @@ minecraft:sandstone_wall
 minecraft:sculk_vein
 minecraft:spruce_fence
 minecraft:stone_brick_wall
+minecraft:sulfur_brick_wall
+minecraft:sulfur_wall
 minecraft:tripwire
 minecraft:tuff_brick_wall
 minecraft:tuff_wall

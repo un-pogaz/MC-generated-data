@@ -11892,10 +11892,14 @@
                 "color": {
                   "type": "literal",
                   "children": {
+                    "reset": {
+                      "type": "literal",
+                      "executable": true
+                    },
                     "value": {
                       "type": "argument",
                       "executable": true,
-                      "parser": "minecraft:color"
+                      "parser": "minecraft:team_color"
                     }
                   }
                 },
@@ -12900,6 +12904,17 @@
         }
       }
     },
+    "unpublish": {
+      "type": "literal",
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:require",
+        "permission": {
+          "type": "minecraft:command_level",
+          "level": "owners"
+        }
+      }
+    },
     "version": {
       "type": "literal",
       "executable": true,
@@ -12936,7 +12951,7 @@
                     "color": {
                       "type": "argument",
                       "executable": true,
-                      "parser": "minecraft:color"
+                      "parser": "minecraft:team_color"
                     },
                     "hex": {
                       "type": "literal",

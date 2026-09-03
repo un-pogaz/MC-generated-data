@@ -160,6 +160,7 @@ minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
 minecraft:entities/strider
+minecraft:entities/sulfur_cube
 minecraft:entities/tadpole
 minecraft:entities/trader_llama
 minecraft:entities/tropical_fish

@@ -130,6 +130,7 @@ minecraft:spruce_chest_boat
 minecraft:squid
 minecraft:stray
 minecraft:strider
+minecraft:sulfur_cube
 minecraft:tadpole
 minecraft:text_display
 minecraft:tnt
@@ -191,6 +192,7 @@ minecraft:zombified_piglin
 #minecraft:nautilus_hostiles
 #minecraft:no_anger_from_wind_charge
 #minecraft:non_controlling_rider
+#minecraft:not_affected_by_geysers
 #minecraft:not_scary_for_pufferfish
 #minecraft:powder_snow_walkable_mobs
 #minecraft:raiders

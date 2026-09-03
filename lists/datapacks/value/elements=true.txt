@@ -25,6 +25,7 @@ minecraft:pig_variant
 minecraft:predicate
 minecraft:recipe
 minecraft:structure
+minecraft:sulfur_cube_archetype
 minecraft:test_environment
 minecraft:test_instance
 minecraft:timeline

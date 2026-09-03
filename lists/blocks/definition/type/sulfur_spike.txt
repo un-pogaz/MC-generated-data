@@ -1,0 +1,1 @@
+minecraft:sulfur_spike
