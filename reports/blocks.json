@@ -103777,14 +103777,6 @@
       }
     ]
   },
-  "minecraft:grass": {
-    "states": [
-      {
-        "default": true,
-        "id": 2005
-      }
-    ]
-  },
   "minecraft:grass_block": {
     "properties": {
       "snowy": [
@@ -222221,6 +222213,14 @@
       {
         "default": true,
         "id": 2008
+      }
+    ]
+  },
+  "minecraft:short_grass": {
+    "states": [
+      {
+        "default": true,
+        "id": 2005
       }
     ]
   },
