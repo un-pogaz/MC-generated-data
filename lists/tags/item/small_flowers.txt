@@ -1,4 +1,5 @@
 minecraft:dandelion
+minecraft:open_eyeblossom
 minecraft:poppy
 minecraft:blue_orchid
 minecraft:allium
@@ -12,3 +13,4 @@ minecraft:cornflower
 minecraft:lily_of_the_valley
 minecraft:wither_rose
 minecraft:torchflower
+minecraft:closed_eyeblossom

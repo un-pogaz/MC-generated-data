@@ -32,13 +32,15 @@ minecraft:move_player_rot
 minecraft:move_player_status_only
 minecraft:move_vehicle
 minecraft:paddle_boat
-minecraft:pick_item
+minecraft:pick_item_from_block
+minecraft:pick_item_from_entity
 minecraft:ping_request
 minecraft:place_recipe
 minecraft:player_abilities
 minecraft:player_action
 minecraft:player_command
 minecraft:player_input
+minecraft:player_loaded
 minecraft:pong
 minecraft:recipe_book_change_settings
 minecraft:recipe_book_seen_recipe

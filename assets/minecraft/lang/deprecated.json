@@ -24,7 +24,10 @@
     "dataPack.update_1_20.name",
     "dataPack.update_1_21.description",
     "dataPack.update_1_21.name",
+    "dataPack.winter_drop.description",
+    "dataPack.winter_drop.name",
     "deathScreen.score",
+    "entity.minecraft.creaking_transient",
     "event.minecraft.raid.defeat",
     "event.minecraft.raid.victory",
     "gui.abuseReport.reason.false_reporting",
@@ -179,6 +182,8 @@
     "subtitles.entity.goat.step",
     "subtitles.entity.hoglin.step",
     "subtitles.entity.llama.step",
+    "subtitles.entity.minecart.inside",
+    "subtitles.entity.minecart.inside_underwater",
     "subtitles.entity.panda.step",
     "subtitles.entity.piglin_brute.step",
     "subtitles.entity.piglin.step",
@@ -231,7 +236,11 @@
     "attribute.name.zombie.spawn_reinforcements",
     "realms.missing.snapshot.error.text",
     "entity.minecraft.boat",
-    "entity.minecraft.chest_boat"
+    "entity.minecraft.chest_boat",
+    "subtitles.ambient.cave",
+    "subtitles.block.creaking_heart.idle",
+    "subtitles.block.eyeblossom.idle",
+    "subtitles.block.generic.idle"
   ],
   "renamed": {
     "item.minecraft.dune_armor_trim_smithing_template.new": "item.minecraft.dune_armor_trim_smithing_template",
@@ -267,6 +276,9 @@
     "selectWorld.allowCommands.new": "selectWorld.allowCommands",
     "gui.abuseReport.reason.generic": "gui.abuseReport.reason.i_want_to_report_them",
     "gui.abuseReport.reason.generic.description": "gui.abuseReport.reason.i_want_to_report_them.description",
-    "commands.drop.no_loot_table": "commands.drop.no_loot_table.entity"
+    "commands.drop.no_loot_table": "commands.drop.no_loot_table.entity",
+    "item.op_block_warning.line1": "item.op_warning.line1",
+    "item.op_block_warning.line2": "item.op_warning.line2",
+    "item.op_block_warning.line3": "item.op_warning.line3"
   }
 }

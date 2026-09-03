@@ -228,6 +228,7 @@ minecraft:chiseled_nether_bricks
 minecraft:chiseled_polished_blackstone
 minecraft:chiseled_quartz_block
 minecraft:chiseled_red_sandstone
+minecraft:chiseled_resin_bricks
 minecraft:chiseled_sandstone
 minecraft:chiseled_stone_bricks
 minecraft:chiseled_tuff
@@ -238,6 +239,7 @@ minecraft:chorus_plant
 minecraft:clay
 minecraft:clay_ball
 minecraft:clock
+minecraft:closed_eyeblossom
 minecraft:coal
 minecraft:coal_block
 minecraft:coal_ore
@@ -839,6 +841,7 @@ minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
 minecraft:ominous_bottle
 minecraft:ominous_trial_key
+minecraft:open_eyeblossom
 minecraft:orange_banner
 minecraft:orange_bed
 minecraft:orange_bundle
@@ -1050,6 +1053,13 @@ minecraft:redstone_torch
 minecraft:reinforced_deepslate
 minecraft:repeater
 minecraft:repeating_command_block
+minecraft:resin_block
+minecraft:resin_brick
+minecraft:resin_brick_slab
+minecraft:resin_brick_stairs
+minecraft:resin_brick_wall
+minecraft:resin_bricks
+minecraft:resin_clump
 minecraft:respawn_anchor
 minecraft:rib_armor_trim_smithing_template
 minecraft:rooted_dirt
@@ -1416,6 +1426,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:diamond_tool_materials
 #minecraft:dirt
 #minecraft:doors
+#minecraft:drowned_preferred_weapons
 #minecraft:duplicates_allays
 #minecraft:dyeable
 #minecraft:emerald_ores
@@ -1441,7 +1452,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:fence_gates
 #minecraft:fences
 #minecraft:fishes
-#minecraft:flowers
 #minecraft:foot_armor
 #minecraft:fox_food
 #minecraft:freeze_immune_wearables
@@ -1486,8 +1496,10 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:pig_food
 #minecraft:piglin_food
 #minecraft:piglin_loved
+#minecraft:piglin_preferred_weapons
 #minecraft:piglin_repellents
 #minecraft:piglin_safe_armor
+#minecraft:pillager_preferred_weapons
 #minecraft:planks
 #minecraft:rabbit_food
 #minecraft:rails
@@ -1506,6 +1518,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:shovels
 #minecraft:shulker_boxes
 #minecraft:signs
+#minecraft:skeleton_preferred_weapons
 #minecraft:skulls
 #minecraft:slabs
 #minecraft:small_flowers
@@ -1521,11 +1534,9 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:strider_food
 #minecraft:strider_tempt_items
 #minecraft:swords
-#minecraft:tall_flowers
 #minecraft:terracotta
 #minecraft:trapdoors
 #minecraft:trim_materials
-#minecraft:trim_templates
 #minecraft:trimmable_armor
 #minecraft:turtle_food
 #minecraft:villager_picks_up
@@ -1533,6 +1544,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:walls
 #minecraft:warped_stems
 #minecraft:wart_blocks
+#minecraft:wither_skeleton_disliked_weapons
 #minecraft:wolf_food
 #minecraft:wooden_buttons
 #minecraft:wooden_doors

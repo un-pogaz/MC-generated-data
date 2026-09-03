@@ -51,7 +51,7 @@
               }
             ],
             id: "minecraft:follow_range",
-            base: 48.0d
+            base: 16.0d
           }
         ],
         HurtTime: 0s
@@ -109,7 +109,7 @@
               }
             ],
             id: "minecraft:follow_range",
-            base: 48.0d
+            base: 16.0d
           }
         ],
         HurtTime: 0s
@@ -1054,5 +1054,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 4082
+  DataVersion: 4189
 }
