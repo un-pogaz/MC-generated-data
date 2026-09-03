@@ -1,1 +1,1 @@
-minecraft:entity.baby_cat.ambient
+minecraft:entity.cat.purr
