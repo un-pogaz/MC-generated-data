@@ -1,4 +1,5 @@
 minecraft:zombie_horse
+minecraft:camel_husk
 minecraft:zombie
 minecraft:zombie_villager
 minecraft:zombified_piglin

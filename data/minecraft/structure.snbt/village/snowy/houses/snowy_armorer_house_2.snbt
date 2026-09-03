@@ -1564,10 +1564,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:spruce_stairs[facing=south]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:building_entrance"
       },
@@ -1787,5 +1787,5 @@
       Name: "minecraft:blast_furnace"
     }
   ],
-  DataVersion: 4655
+  DataVersion: 4659
 }

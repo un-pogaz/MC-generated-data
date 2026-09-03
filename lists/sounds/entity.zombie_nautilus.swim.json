@@ -1,9 +1,14 @@
 {
   "sounds": [
-    {
-      "name": "entity.fish.swim",
-      "type": "event"
-    }
+    "mob/nautilus/swim1",
+    "mob/nautilus/swim2",
+    "mob/nautilus/swim3",
+    "mob/nautilus/swim4",
+    "mob/nautilus/swim5",
+    "mob/nautilus/swim6",
+    "mob/nautilus/swim7",
+    "mob/nautilus/swim8",
+    "mob/nautilus/swim9"
   ],
   "subtitle": "subtitles.entity.zombie_nautilus.swim"
 }

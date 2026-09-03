@@ -1,1 +1,9 @@
-minecraft:entity.fish.swim
+minecraft:mob/nautilus/swim1
+minecraft:mob/nautilus/swim2
+minecraft:mob/nautilus/swim3
+minecraft:mob/nautilus/swim4
+minecraft:mob/nautilus/swim5
+minecraft:mob/nautilus/swim6
+minecraft:mob/nautilus/swim7
+minecraft:mob/nautilus/swim8
+minecraft:mob/nautilus/swim9

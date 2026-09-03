@@ -3362,13 +3362,13 @@
       nbt: {
         Items: [
           {
+            count: 1,
+            Slot: 10b,
             components: {
               "minecraft:enchantments": {
                 "minecraft:efficiency": 1
               }
             },
-            count: 1,
-            Slot: 10b,
             id: "minecraft:iron_axe"
           }
         ],
@@ -3414,5 +3414,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 4655
+  DataVersion: 4659
 }
