@@ -274,6 +274,11 @@
     "region": "Bertègn",
     "bidirectional": false
   },
+  "got_de": {
+    "name": "𐌲𐌿𐍄𐍂𐌰𐌶𐌳𐌰",
+    "region": "𐌸𐍉 𐌰𐌹𐌽𐌰𐌼𐌿𐌽𐌳𐍉𐌽𐌰 𐍂𐌴𐌹𐌺𐌾𐌰",
+    "bidirectional": false
+  },
   "hal_ua": {
     "name": "Галицка",
     "region": "Галичина, Вкраїна",

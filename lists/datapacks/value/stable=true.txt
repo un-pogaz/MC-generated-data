@@ -48,6 +48,7 @@ minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
 minecraft:number_format_type
+minecraft:number_provider
 minecraft:outgoing_rpc_methods
 minecraft:particle_type
 minecraft:permission_check_type

@@ -298,6 +298,7 @@ minecraft:stone_brick_stairs
 minecraft:stone_button
 minecraft:stone_stairs
 minecraft:stonecutter
+minecraft:straw_bed
 minecraft:sulfur_brick_stairs
 minecraft:sulfur_stairs
 minecraft:trapped_chest

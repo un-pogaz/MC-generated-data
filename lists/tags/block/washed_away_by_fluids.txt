@@ -131,3 +131,4 @@ minecraft:heavy_core
 minecraft:pale_moss_carpet
 minecraft:red_shrub
 minecraft:shelf_mushroom
+minecraft:straw_bed

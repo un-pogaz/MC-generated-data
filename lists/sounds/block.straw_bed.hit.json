@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/straw_bed/hit1",
+    "block/straw_bed/hit2",
+    "block/straw_bed/hit3",
+    "block/straw_bed/hit4",
+    "block/straw_bed/hit5",
+    "block/straw_bed/hit6"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

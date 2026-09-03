@@ -20,6 +20,7 @@ minecraft:instrument
 minecraft:item_modifier
 minecraft:jukebox_song
 minecraft:loot_table
+minecraft:number_provider
 minecraft:painting_variant
 minecraft:pig_sound_variant
 minecraft:pig_variant

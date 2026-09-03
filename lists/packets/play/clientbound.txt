@@ -74,6 +74,7 @@ minecraft:player_look_at
 minecraft:player_position
 minecraft:player_rotation
 minecraft:pong_response
+minecraft:post_effects
 minecraft:projectile_power
 minecraft:recipe_book_add
 minecraft:recipe_book_remove
