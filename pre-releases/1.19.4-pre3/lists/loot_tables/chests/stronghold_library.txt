@@ -3,5 +3,3 @@ minecraft:paper
 minecraft:map
 minecraft:compass
 minecraft:enchanted_book
-
-minecraft:eye_armor_trim_smithing_template

@@ -10,6 +10,3 @@ minecraft:golden_horse_armor
 minecraft:iron_horse_armor
 minecraft:diamond_horse_armor
 minecraft:obsidian
-
-empty
-minecraft:rib_armor_trim_smithing_template
