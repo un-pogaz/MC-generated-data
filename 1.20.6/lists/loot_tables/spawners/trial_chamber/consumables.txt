@@ -1,6 +1,1 @@
-minecraft:cooked_chicken
-minecraft:bread
-minecraft:baked_potato
-minecraft:potion
-minecraft:potion
-minecraft:rotten_flesh
+empty

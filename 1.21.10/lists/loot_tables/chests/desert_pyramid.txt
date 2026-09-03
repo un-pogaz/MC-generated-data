@@ -5,7 +5,7 @@ minecraft:emerald
 minecraft:bone
 minecraft:spider_eye
 minecraft:rotten_flesh
-minecraft:saddle
+minecraft:leather
 minecraft:copper_horse_armor
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
@@ -23,4 +23,3 @@ minecraft:sand
 
 empty
 minecraft:dune_armor_trim_smithing_template
-minecraft:enchanted_book

@@ -1,1 +1,1 @@
-minecraft:ominous_bottle
+empty
