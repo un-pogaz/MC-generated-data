@@ -8,6 +8,7 @@ minecraft:music/game/mice_on_venus
 minecraft:music/game/minecraft
 minecraft:music/game/one_more_day
 minecraft:music/game/os_piano
+minecraft:music/game/shores
 minecraft:music/game/swamp/aerie
 minecraft:music/game/swamp/firebugs
 minecraft:music/game/swamp/labyrinthine

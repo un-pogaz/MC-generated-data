@@ -3,8 +3,7 @@
     {
       "name": "music/game/bromeliad",
       "stream": true,
-      "volume": 0.4,
-      "weight": 2
+      "volume": 0.4
     },
     {
       "name": "music/game/danny",
@@ -17,6 +16,12 @@
     {
       "name": "music/game/haggstrom",
       "stream": true
+    },
+    {
+      "name": "music/game/home",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/key",

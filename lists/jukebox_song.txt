@@ -2,6 +2,7 @@ minecraft:11
 minecraft:13
 minecraft:5
 minecraft:blocks
+minecraft:bounce
 minecraft:cat
 minecraft:chirp
 minecraft:creator

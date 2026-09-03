@@ -22,3 +22,4 @@ minecraft:powered_rail
 minecraft:detector_rail
 minecraft:activator_rail
 minecraft:torch
+minecraft:music_disc_bounce

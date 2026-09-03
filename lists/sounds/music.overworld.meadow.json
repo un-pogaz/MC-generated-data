@@ -9,6 +9,12 @@
       "stream": true
     },
     {
+      "name": "music/game/home",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/left_to_bloom",
       "stream": true,
       "volume": 0.4
