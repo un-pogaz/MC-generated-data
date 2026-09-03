@@ -1,4 +1,0 @@
-| Name                | Count | Chance | Weight | Comment |
-| ------------------- | ----- | ------ | ------ | ------- |
-| 1 time              |    -- |     -- |     -- |         |
-| minecraft:trial_key |     1 |   100% |      1 |         |

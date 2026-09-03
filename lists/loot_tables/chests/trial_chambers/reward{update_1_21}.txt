@@ -1,6 +1,0 @@
-loot_table[]minecraft:chests/trial_chambers/reward_rare
-loot_table[]minecraft:chests/trial_chambers/reward_common
-
-loot_table[]minecraft:chests/trial_chambers/reward_common
-
-loot_table[]minecraft:chests/trial_chambers/reward_unique

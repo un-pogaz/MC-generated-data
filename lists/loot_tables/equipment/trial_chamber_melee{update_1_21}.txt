@@ -1,6 +1,0 @@
-loot_table[]minecraft:equipment/trial_chamber
-
-minecraft:iron_sword
-minecraft:iron_sword
-minecraft:iron_sword
-minecraft:diamond_sword

@@ -758,11 +758,14 @@ minecraft:music_disc_5
 minecraft:music_disc_blocks
 minecraft:music_disc_cat
 minecraft:music_disc_chirp
+minecraft:music_disc_creator
+minecraft:music_disc_creator_music_box
 minecraft:music_disc_far
 minecraft:music_disc_mall
 minecraft:music_disc_mellohi
 minecraft:music_disc_otherside
 minecraft:music_disc_pigstep
+minecraft:music_disc_precipice
 minecraft:music_disc_relic
 minecraft:music_disc_stal
 minecraft:music_disc_strad
@@ -1418,7 +1421,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:logs_that_burn
 #minecraft:mangrove_logs
 #minecraft:meat
-#minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:noteblock_top_instruments
 #minecraft:oak_logs

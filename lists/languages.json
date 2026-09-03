@@ -26,7 +26,7 @@
   },
   "ba_ru": {
     "name": "Башҡортса",
-    "region": "Рәсәй",
+    "region": "Башҡортостан, Рәсәй",
     "bidirectional": false
   },
   "bar": {
@@ -401,7 +401,7 @@
   },
   "mk_mk": {
     "name": "Македонски",
-    "region": "Македонија",
+    "region": "Северна Македонија",
     "bidirectional": false
   },
   "mn_mn": {
@@ -586,7 +586,7 @@
   },
   "tt_ru": {
     "name": "Татарча",
-    "region": "Рәсәй",
+    "region": "Татарстан, Рәсәй",
     "bidirectional": false
   },
   "uk_ua": {
