@@ -122,6 +122,11 @@ minecraft:ore_quartz
 minecraft:ore_redstone
 minecraft:ore_soul_sand
 minecraft:ore_tuff
+minecraft:pale_garden_vegetation
+minecraft:pale_moss_patch_bonemeal
+minecraft:pale_moss_vegetation
+minecraft:pale_oak
+minecraft:pale_oak_creaking
 minecraft:patch_berry_bush
 minecraft:patch_brown_mushroom
 minecraft:patch_cactus
@@ -154,7 +159,6 @@ minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:seagrass_mid
 minecraft:seagrass_short
-minecraft:seagrass_simple
 minecraft:seagrass_slightly_less_short
 minecraft:seagrass_tall
 minecraft:single_piece_of_grass

@@ -1,6 +1,14 @@
 {
-    "vertex": "rendertype_entity_translucent_emissive",
-    "fragment": "rendertype_entity_translucent_emissive",
+    "vertex": "minecraft:core/entity",
+    "fragment": "minecraft:core/entity",
+    "defines": {
+        "values": {
+            "ALPHA_CUTOUT": "0.1"
+        },
+        "flags": [
+            "EMISSIVE"
+        ]
+    },
     "samplers": [
         { "name": "Sampler0" },
         { "name": "Sampler1" },
@@ -13,6 +21,8 @@
         { "name": "Light0_Direction", "type": "float", "count": 3, "values": [0.0, 0.0, 0.0] },
         { "name": "Light1_Direction", "type": "float", "count": 3, "values": [0.0, 0.0, 0.0] },
         { "name": "FogStart", "type": "float", "count": 1, "values": [ 0.0 ] },
-        { "name": "FogEnd", "type": "float", "count": 1, "values": [ 1.0 ] }
+        { "name": "FogEnd", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "FogColor", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+        { "name": "FogShape", "type": "int", "count": 1, "values": [ 0 ] }
     ]
 }

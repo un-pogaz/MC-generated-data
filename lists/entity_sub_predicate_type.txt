@@ -1,5 +1,4 @@
 minecraft:axolotl
-minecraft:boat
 minecraft:cat
 minecraft:fishing_hook
 minecraft:fox
@@ -13,6 +12,8 @@ minecraft:parrot
 minecraft:player
 minecraft:rabbit
 minecraft:raider
+minecraft:salmon
+minecraft:sheep
 minecraft:slime
 minecraft:tropical_fish
 minecraft:villager

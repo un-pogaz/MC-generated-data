@@ -8,6 +8,8 @@ gamerule commandModificationBlockLimit
 gamerule commandModificationBlockLimit <value brigadier:integer>
 gamerule disableElytraMovementCheck
 gamerule disableElytraMovementCheck <value brigadier:bool>
+gamerule disablePlayerMovementCheck
+gamerule disablePlayerMovementCheck <value brigadier:bool>
 gamerule disableRaids
 gamerule disableRaids <value brigadier:bool>
 gamerule doDaylightCycle
@@ -64,6 +66,8 @@ gamerule maxCommandForkCount
 gamerule maxCommandForkCount <value brigadier:integer>
 gamerule maxEntityCramming
 gamerule maxEntityCramming <value brigadier:integer>
+gamerule minecartMaxSpeed
+gamerule minecartMaxSpeed <value brigadier:integer[max="1000", min="1"]>
 gamerule mobExplosionDropDecay
 gamerule mobExplosionDropDecay <value brigadier:bool>
 gamerule mobGriefing

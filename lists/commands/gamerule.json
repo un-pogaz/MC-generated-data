@@ -56,6 +56,17 @@
       },
       "executable": true
     },
+    "disablePlayerMovementCheck": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:bool"
+        }
+      },
+      "executable": true
+    },
     "disableRaids": {
       "type": "literal",
       "children": {
@@ -360,6 +371,21 @@
           "type": "argument",
           "executable": true,
           "parser": "brigadier:integer"
+        }
+      },
+      "executable": true
+    },
+    "minecartMaxSpeed": {
+      "type": "literal",
+      "children": {
+        "value": {
+          "type": "argument",
+          "executable": true,
+          "parser": "brigadier:integer",
+          "properties": {
+            "max": 1000,
+            "min": 1
+          }
         }
       },
       "executable": true

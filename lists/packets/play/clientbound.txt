@@ -31,6 +31,7 @@ minecraft:delete_chat
 minecraft:disconnect
 minecraft:disguised_chat
 minecraft:entity_event
+minecraft:entity_position_sync
 minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
@@ -48,6 +49,7 @@ minecraft:merchant_offers
 minecraft:move_entity_pos
 minecraft:move_entity_pos_rot
 minecraft:move_entity_rot
+minecraft:move_minecart_along_track
 minecraft:move_vehicle
 minecraft:open_book
 minecraft:open_screen
@@ -63,9 +65,12 @@ minecraft:player_info_remove
 minecraft:player_info_update
 minecraft:player_look_at
 minecraft:player_position
+minecraft:player_rotation
 minecraft:pong_response
 minecraft:projectile_power
-minecraft:recipe
+minecraft:recipe_book_add
+minecraft:recipe_book_remove
+minecraft:recipe_book_settings
 minecraft:remove_entities
 minecraft:remove_mob_effect
 minecraft:reset_score
@@ -84,9 +89,9 @@ minecraft:set_border_size
 minecraft:set_border_warning_delay
 minecraft:set_border_warning_distance
 minecraft:set_camera
-minecraft:set_carried_item
 minecraft:set_chunk_cache_center
 minecraft:set_chunk_cache_radius
+minecraft:set_cursor_item
 minecraft:set_default_spawn_position
 minecraft:set_display_objective
 minecraft:set_entity_data
@@ -95,8 +100,10 @@ minecraft:set_entity_motion
 minecraft:set_equipment
 minecraft:set_experience
 minecraft:set_health
+minecraft:set_held_slot
 minecraft:set_objective
 minecraft:set_passengers
+minecraft:set_player_inventory
 minecraft:set_player_team
 minecraft:set_score
 minecraft:set_simulation_distance
