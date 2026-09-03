@@ -2,4 +2,4 @@ wants: emerald x14, compass
 gives: map {destination: #minecraft:on_woodland_explorer_maps}
 xp: 30
 max use: 12
-reputation discount: 0.05
+reputation discount: 0.2

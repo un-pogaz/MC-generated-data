@@ -149,7 +149,7 @@ minecraft:fisherman/5/oak_boat_emerald
 minecraft:fisherman/5/pufferfish_emerald
 minecraft:fisherman/5/spruce_boat_emerald
 minecraft:fletcher/1/emerald_arrow
-minecraft:fletcher/1/gravel_and_emerald_arrow
+minecraft:fletcher/1/gravel_and_emerald_flint
 minecraft:fletcher/1/stick_emerald
 minecraft:fletcher/2/emerald_bow
 minecraft:fletcher/2/flint_emerald
@@ -202,13 +202,6 @@ minecraft:librarian/3/emerald_and_book_swamp_enchanted_book
 minecraft:librarian/3/emerald_and_book_taiga_enchanted_book
 minecraft:librarian/3/emerald_glass
 minecraft:librarian/3/ink_sac_emerald
-minecraft:librarian/4/emerald_and_book_desert_enchanted_book
-minecraft:librarian/4/emerald_and_book_jungle_enchanted_book
-minecraft:librarian/4/emerald_and_book_plains_enchanted_book
-minecraft:librarian/4/emerald_and_book_savanna_enchanted_book
-minecraft:librarian/4/emerald_and_book_snow_enchanted_book
-minecraft:librarian/4/emerald_and_book_swamp_enchanted_book
-minecraft:librarian/4/emerald_and_book_taiga_enchanted_book
 minecraft:librarian/4/emerald_book_and_enchanted_book
 minecraft:librarian/4/emerald_clock
 minecraft:librarian/4/emerald_compass
