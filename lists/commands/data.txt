@@ -11,12 +11,12 @@ data get storage <target minecraft:resource_location> <path minecraft:nbt_path> 
 data merge block <target minecraft:block_pos> <nbt minecraft:nbt_compound_tag>
 data merge entity <target minecraft:entity[type="entities", amount="single"]> <nbt minecraft:nbt_compound_tag>
 data merge storage <target minecraft:resource_location> <nbt minecraft:nbt_compound_tag>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute default float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute default integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -36,12 +36,12 @@ data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> a
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -61,12 +61,12 @@ data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> i
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute default float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute default integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -86,12 +86,12 @@ data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> m
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute default float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute default integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -111,12 +111,12 @@ data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> p
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider> integer
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute default float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute default integer <provider minecraft:context_int_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -136,12 +136,12 @@ data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> s
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify block <target minecraft:block_pos> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute default float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute default integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -161,12 +161,12 @@ data modify entity <target minecraft:entity[type="entities", amount="single"]> <
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -186,12 +186,12 @@ data modify entity <target minecraft:entity[type="entities", amount="single"]> <
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute default float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute default integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -211,12 +211,12 @@ data modify entity <target minecraft:entity[type="entities", amount="single"]> <
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute default float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute default integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -236,12 +236,12 @@ data modify entity <target minecraft:entity[type="entities", amount="single"]> <
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider> integer
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute default float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute default integer <provider minecraft:context_int_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -261,12 +261,12 @@ data modify entity <target minecraft:entity[type="entities", amount="single"]> <
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute default <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute default float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute default integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -286,12 +286,12 @@ data modify storage <target minecraft:resource_location> <targetPath minecraft:n
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute default integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -311,12 +311,12 @@ data modify storage <target minecraft:resource_location> <targetPath minecraft:n
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute default <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute default float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute default integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -336,12 +336,12 @@ data modify storage <target minecraft:resource_location> <targetPath minecraft:n
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute default <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute default float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute default integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
@@ -361,12 +361,12 @@ data modify storage <target minecraft:resource_location> <targetPath minecraft:n
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend string storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path> <start brigadier:integer> <end brigadier:integer>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute default <provider minecraft:number_provider> integer
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> <provider minecraft:number_provider> integer
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute default float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute default integer <provider minecraft:context_int_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <source minecraft:block_pos> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>

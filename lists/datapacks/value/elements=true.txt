@@ -6,6 +6,8 @@ minecraft:cat_variant
 minecraft:chat_type
 minecraft:chicken_sound_variant
 minecraft:chicken_variant
+minecraft:context_float_provider
+minecraft:context_int_provider
 minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:damage_type
@@ -21,7 +23,6 @@ minecraft:instrument
 minecraft:item_modifier
 minecraft:jukebox_song
 minecraft:loot_table
-minecraft:number_provider
 minecraft:painting_variant
 minecraft:pig_sound_variant
 minecraft:pig_variant
@@ -42,6 +43,7 @@ minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:world_clock
 minecraft:worldgen/biome
+minecraft:worldgen/block_state_provider
 minecraft:worldgen/carver
 minecraft:worldgen/density_function
 minecraft:worldgen/feature

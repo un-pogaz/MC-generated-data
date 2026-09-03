@@ -174,7 +174,7 @@
       }
     },
     {
-      id: "minecraft:coarse_dirt"
+      id: "minecraft:dirt"
     },
     {
       id: "minecraft:dirt_path"
@@ -203,5 +203,5 @@
       }
     }
   ],
-  DataVersion: 5015
+  DataVersion: 5017
 }
