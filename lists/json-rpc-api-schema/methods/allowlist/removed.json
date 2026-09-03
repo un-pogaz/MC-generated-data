@@ -1,0 +1,13 @@
+{
+  "description": "Player was removed from allowlist",
+  "name": "notification:allowlist/removed",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  ]
+}

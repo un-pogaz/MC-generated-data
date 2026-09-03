@@ -1,0 +1,13 @@
+{
+  "description": "Player left",
+  "name": "notification:players/left",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  ]
+}

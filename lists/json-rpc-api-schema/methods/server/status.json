@@ -1,0 +1,13 @@
+{
+  "description": "Server status heartbeat",
+  "name": "notification:server/status",
+  "params": [
+    {
+      "name": "status",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/server_state"
+      }
+    }
+  ]
+}

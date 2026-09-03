@@ -1,0 +1,13 @@
+{
+  "description": "Player was deoped",
+  "name": "notification:operators/removed",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  ]
+}

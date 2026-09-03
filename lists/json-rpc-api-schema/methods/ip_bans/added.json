@@ -1,0 +1,13 @@
+{
+  "description": "Ip was added to ip ban list",
+  "name": "notification:ip_bans/added",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/ip_ban"
+      }
+    }
+  ]
+}

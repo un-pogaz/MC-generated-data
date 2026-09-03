@@ -40252,68 +40252,6 @@
       }
     ]
   },
-  "minecraft:chain": {
-    "definition": {
-      "type": "minecraft:chain",
-      "properties": {}
-    },
-    "properties": {
-      "axis": [
-        "x",
-        "y",
-        "z"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    },
-    "states": [
-      {
-        "id": 8045,
-        "properties": {
-          "axis": "x",
-          "waterlogged": "true"
-        }
-      },
-      {
-        "id": 8046,
-        "properties": {
-          "axis": "x",
-          "waterlogged": "false"
-        }
-      },
-      {
-        "id": 8047,
-        "properties": {
-          "axis": "y",
-          "waterlogged": "true"
-        }
-      },
-      {
-        "default": true,
-        "id": 8048,
-        "properties": {
-          "axis": "y",
-          "waterlogged": "false"
-        }
-      },
-      {
-        "id": 8049,
-        "properties": {
-          "axis": "z",
-          "waterlogged": "true"
-        }
-      },
-      {
-        "id": 8050,
-        "properties": {
-          "axis": "z",
-          "waterlogged": "false"
-        }
-      }
-    ]
-  },
   "minecraft:chain_command_block": {
     "definition": {
       "type": "minecraft:command",
@@ -115191,6 +115129,68 @@
       {
         "default": true,
         "id": 2138
+      }
+    ]
+  },
+  "minecraft:iron_chain": {
+    "definition": {
+      "type": "minecraft:chain",
+      "properties": {}
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "states": [
+      {
+        "id": 8045,
+        "properties": {
+          "axis": "x",
+          "waterlogged": "true"
+        }
+      },
+      {
+        "id": 8046,
+        "properties": {
+          "axis": "x",
+          "waterlogged": "false"
+        }
+      },
+      {
+        "id": 8047,
+        "properties": {
+          "axis": "y",
+          "waterlogged": "true"
+        }
+      },
+      {
+        "default": true,
+        "id": 8048,
+        "properties": {
+          "axis": "y",
+          "waterlogged": "false"
+        }
+      },
+      {
+        "id": 8049,
+        "properties": {
+          "axis": "z",
+          "waterlogged": "true"
+        }
+      },
+      {
+        "id": 8050,
+        "properties": {
+          "axis": "z",
+          "waterlogged": "false"
+        }
       }
     ]
   },

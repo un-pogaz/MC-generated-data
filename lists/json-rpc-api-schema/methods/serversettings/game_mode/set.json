@@ -1,0 +1,19 @@
+{
+  "description": "Set the server's default game mode",
+  "name": "minecraft:serversettings/game_mode/set",
+  "params": [
+    {
+      "name": "mode",
+      "required": true,
+      "schema": {
+        "type": "string"
+      }
+    }
+  ],
+  "result": {
+    "name": "mode",
+    "schema": {
+      "type": "string"
+    }
+  }
+}

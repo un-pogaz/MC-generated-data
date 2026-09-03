@@ -1,0 +1,11 @@
+{
+  "description": "Get the current difficulty level of the server",
+  "name": "minecraft:serversettings/difficulty",
+  "params": [],
+  "result": {
+    "name": "difficulty",
+    "schema": {
+      "type": "string"
+    }
+  }
+}

@@ -166,7 +166,6 @@ minecraft:block/cave_vines
 minecraft:block/cave_vines_lit
 minecraft:block/cave_vines_plant
 minecraft:block/cave_vines_plant_lit
-minecraft:block/chain
 minecraft:block/chain_command_block_back  [mcmeta]
 minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
@@ -500,6 +499,7 @@ minecraft:block/horn_coral_fan
 minecraft:block/ice
 minecraft:block/iron_bars
 minecraft:block/iron_block
+minecraft:block/iron_chain
 minecraft:block/iron_door_bottom
 minecraft:block/iron_door_top
 minecraft:block/iron_ore
@@ -2337,7 +2337,6 @@ minecraft:item/carrot_on_a_stick
 minecraft:item/cat_spawn_egg
 minecraft:item/cauldron
 minecraft:item/cave_spider_spawn_egg
-minecraft:item/chain
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_chestplate
 minecraft:item/chainmail_helmet
@@ -2625,6 +2624,7 @@ minecraft:item/husk_spawn_egg
 minecraft:item/ink_sac
 minecraft:item/iron_axe
 minecraft:item/iron_boots
+minecraft:item/iron_chain
 minecraft:item/iron_chestplate
 minecraft:item/iron_door
 minecraft:item/iron_golem_spawn_egg

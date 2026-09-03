@@ -1,0 +1,5 @@
+{
+  "description": "Server shutting down",
+  "name": "notification:server/stopping",
+  "params": []
+}

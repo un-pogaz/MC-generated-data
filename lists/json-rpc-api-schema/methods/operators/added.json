@@ -1,0 +1,13 @@
+{
+  "description": "Player was oped",
+  "name": "notification:operators/added",
+  "params": [
+    {
+      "name": "player",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  ]
+}
