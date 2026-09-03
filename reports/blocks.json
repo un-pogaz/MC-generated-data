@@ -9874,7 +9874,8 @@
       "fruit": "minecraft:melon",
       "properties": {},
       "seed": "minecraft:melon_seeds",
-      "stem": "minecraft:melon_stem"
+      "stem": "minecraft:melon_stem",
+      "support_blocks": "minecraft:supports_melon_stem"
     },
     "properties": {
       "facing": [
@@ -9918,7 +9919,8 @@
       "fruit": "minecraft:pumpkin",
       "properties": {},
       "seed": "minecraft:pumpkin_seeds",
-      "stem": "minecraft:pumpkin_stem"
+      "stem": "minecraft:pumpkin_stem",
+      "support_blocks": "minecraft:supports_pumpkin_stem"
     },
     "properties": {
       "facing": [
@@ -64143,10 +64145,11 @@
   },
   "minecraft:crimson_fungus": {
     "definition": {
-      "type": "minecraft:fungus",
+      "type": "minecraft:nether_fungus",
       "feature": "minecraft:crimson_fungus_planted",
       "grows_on": "minecraft:crimson_nylium",
-      "properties": {}
+      "properties": {},
+      "support_blocks": "minecraft:supports_crimson_fungus"
     },
     "states": [
       {
@@ -64793,8 +64796,9 @@
   },
   "minecraft:crimson_roots": {
     "definition": {
-      "type": "minecraft:roots",
-      "properties": {}
+      "type": "minecraft:nether_roots",
+      "properties": {},
+      "support_blocks": "minecraft:supports_crimson_roots"
     },
     "states": [
       {
@@ -99204,7 +99208,7 @@
   },
   "minecraft:farmland": {
     "definition": {
-      "type": "minecraft:farm",
+      "type": "minecraft:farmland",
       "properties": {}
     },
     "properties": {
@@ -125579,7 +125583,7 @@
   },
   "minecraft:lily_pad": {
     "definition": {
-      "type": "minecraft:waterlily",
+      "type": "minecraft:lily_pad",
       "properties": {}
     },
     "states": [
@@ -133239,7 +133243,8 @@
       "attached_stem": "minecraft:attached_melon_stem",
       "fruit": "minecraft:melon",
       "properties": {},
-      "seed": "minecraft:melon_seeds"
+      "seed": "minecraft:melon_seeds",
+      "support_blocks": "minecraft:supports_melon_stem"
     },
     "properties": {
       "age": [
@@ -207438,7 +207443,8 @@
       "attached_stem": "minecraft:attached_pumpkin_stem",
       "fruit": "minecraft:pumpkin",
       "properties": {},
-      "seed": "minecraft:pumpkin_seeds"
+      "seed": "minecraft:pumpkin_seeds",
+      "support_blocks": "minecraft:supports_pumpkin_stem"
     },
     "properties": {
       "age": [
@@ -278273,10 +278279,11 @@
   },
   "minecraft:warped_fungus": {
     "definition": {
-      "type": "minecraft:fungus",
+      "type": "minecraft:nether_fungus",
       "feature": "minecraft:warped_fungus_planted",
       "grows_on": "minecraft:warped_nylium",
-      "properties": {}
+      "properties": {},
+      "support_blocks": "minecraft:supports_warped_fungus"
     },
     "states": [
       {
@@ -278923,8 +278930,9 @@
   },
   "minecraft:warped_roots": {
     "definition": {
-      "type": "minecraft:roots",
-      "properties": {}
+      "type": "minecraft:nether_roots",
+      "properties": {},
+      "support_blocks": "minecraft:supports_warped_roots"
     },
     "states": [
       {

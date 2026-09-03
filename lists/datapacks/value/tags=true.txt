@@ -103,6 +103,7 @@ minecraft:villager_trade
 minecraft:villager_type
 minecraft:wolf_sound_variant
 minecraft:wolf_variant
+minecraft:world_clock
 minecraft:worldgen/biome
 minecraft:worldgen/biome_source
 minecraft:worldgen/block_state_provider_type

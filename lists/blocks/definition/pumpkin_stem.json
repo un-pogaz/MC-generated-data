@@ -3,5 +3,6 @@
   "fruit": "minecraft:pumpkin",
   "properties": {},
   "seed": "minecraft:pumpkin_seeds",
+  "support_blocks": "minecraft:supports_pumpkin_stem",
   "type": "minecraft:stem"
 }
