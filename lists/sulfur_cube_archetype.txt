@@ -1,4 +1,5 @@
 minecraft:bouncy
+minecraft:explosive
 minecraft:fast_flat
 minecraft:fast_sliding
 minecraft:high_resistance

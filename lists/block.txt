@@ -1257,6 +1257,7 @@ minecraft:zombie_wall_head
 #minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
 #minecraft:deepslate_ore_replaceables
+#minecraft:default_immune_to
 #minecraft:diamond_ores
 #minecraft:dirt
 #minecraft:does_not_block_hoppers
@@ -1279,6 +1280,7 @@ minecraft:zombie_wall_head
 #minecraft:flower_pots
 #minecraft:flowers
 #minecraft:forest_rock_can_place_on
+#minecraft:fox_immune_to
 #minecraft:foxes_spawnable_on
 #minecraft:frog_prefer_jump_to
 #minecraft:frogs_spawnable_on
@@ -1345,6 +1347,7 @@ minecraft:zombie_wall_head
 #minecraft:parrots_spawnable_on
 #minecraft:piglin_repellents
 #minecraft:planks
+#minecraft:polar_bear_immune_to
 #minecraft:polar_bears_spawnable_on_alternate
 #minecraft:portals
 #minecraft:pressure_plates
@@ -1372,6 +1375,7 @@ minecraft:zombie_wall_head
 #minecraft:sniffer_diggable_block
 #minecraft:sniffer_egg_hatch_boost
 #minecraft:snow
+#minecraft:snow_golem_immune_to
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
 #minecraft:speleothems
@@ -1382,6 +1386,7 @@ minecraft:zombie_wall_head
 #minecraft:stone_buttons
 #minecraft:stone_ore_replaceables
 #minecraft:stone_pressure_plates
+#minecraft:stray_immune_to
 #minecraft:strider_warm_blocks
 #minecraft:substrate_overworld
 #minecraft:sulfur_spike_replaceable_blocks
@@ -1438,6 +1443,8 @@ minecraft:zombie_wall_head
 #minecraft:warped_stems
 #minecraft:wart_blocks
 #minecraft:wither_immune
+#minecraft:wither_immune_to
+#minecraft:wither_skeleton_immune_to
 #minecraft:wither_summon_base_blocks
 #minecraft:wolves_spawnable_on
 #minecraft:wooden_buttons
