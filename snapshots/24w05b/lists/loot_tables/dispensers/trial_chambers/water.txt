@@ -1,1 +1,1 @@
-minecraft:water_bucket
+empty

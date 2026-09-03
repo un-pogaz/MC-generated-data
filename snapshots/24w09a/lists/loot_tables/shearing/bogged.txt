@@ -1,2 +1,1 @@
-minecraft:brown_mushroom
-minecraft:red_mushroom
+empty

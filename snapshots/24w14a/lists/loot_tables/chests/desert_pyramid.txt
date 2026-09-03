@@ -22,4 +22,3 @@ minecraft:sand
 
 empty
 minecraft:dune_armor_trim_smithing_template
-minecraft:enchanted_book
