@@ -31,7 +31,7 @@ attached=true,rotation=14,waterlogged=false
 attached=true,rotation=15,waterlogged=true
 attached=true,rotation=15,waterlogged=false
 attached=false,rotation=0,waterlogged=true
-attached=false,rotation=0,waterlogged=false  [default]
+attached=false,rotation=0,waterlogged=false
 attached=false,rotation=1,waterlogged=true
 attached=false,rotation=1,waterlogged=false
 attached=false,rotation=2,waterlogged=true
@@ -47,7 +47,7 @@ attached=false,rotation=6,waterlogged=false
 attached=false,rotation=7,waterlogged=true
 attached=false,rotation=7,waterlogged=false
 attached=false,rotation=8,waterlogged=true
-attached=false,rotation=8,waterlogged=false
+attached=false,rotation=8,waterlogged=false  [default]
 attached=false,rotation=9,waterlogged=true
 attached=false,rotation=9,waterlogged=false
 attached=false,rotation=10,waterlogged=true

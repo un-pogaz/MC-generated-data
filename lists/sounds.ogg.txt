@@ -3551,6 +3551,8 @@ minecraft:mob/pig/baby_pig/ambient4
 minecraft:mob/pig/baby_pig/ambient5
 minecraft:mob/pig/baby_pig/ambient6
 minecraft:mob/pig/baby_pig/death
+minecraft:mob/pig/baby_pig/eat1
+minecraft:mob/pig/baby_pig/eat2
 minecraft:mob/pig/baby_pig/hit1
 minecraft:mob/pig/baby_pig/hit2
 minecraft:mob/pig/baby_pig/hit3
@@ -3575,6 +3577,8 @@ minecraft:mob/pig/big/hit1
 minecraft:mob/pig/big/hit2
 minecraft:mob/pig/big/hit3
 minecraft:mob/pig/death
+minecraft:mob/pig/eat1
+minecraft:mob/pig/eat2
 minecraft:mob/pig/mini/ambient1
 minecraft:mob/pig/mini/ambient2
 minecraft:mob/pig/mini/ambient3
@@ -3582,6 +3586,8 @@ minecraft:mob/pig/mini/ambient4
 minecraft:mob/pig/mini/ambient5
 minecraft:mob/pig/mini/ambient6
 minecraft:mob/pig/mini/death
+minecraft:mob/pig/mini/eat1
+minecraft:mob/pig/mini/eat2
 minecraft:mob/pig/mini/hurt1
 minecraft:mob/pig/mini/hurt2
 minecraft:mob/pig/mini/hurt3

@@ -1,5 +1,5 @@
-wants: emerald x20
-gives: name_tag
+wants: emerald x3
+gives: yellow_candle
 xp: 30
 max use: 12
 reputation discount: 0.05

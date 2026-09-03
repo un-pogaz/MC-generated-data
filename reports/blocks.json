@@ -1862,7 +1862,6 @@
         }
       },
       {
-        "default": true,
         "id": 6132,
         "properties": {
           "attached": "false",
@@ -1991,6 +1990,7 @@
         }
       },
       {
+        "default": true,
         "id": 6148,
         "properties": {
           "attached": "false",
@@ -3113,7 +3113,6 @@
         }
       },
       {
-        "default": true,
         "id": 5432,
         "properties": {
           "rotation": "0",
@@ -3226,6 +3225,7 @@
         }
       },
       {
+        "default": true,
         "id": 5448,
         "properties": {
           "rotation": "8",
@@ -12262,7 +12262,6 @@
         }
       },
       {
-        "default": true,
         "id": 6644,
         "properties": {
           "attached": "false",
@@ -12391,6 +12390,7 @@
         }
       },
       {
+        "default": true,
         "id": 6660,
         "properties": {
           "attached": "false",
@@ -14039,7 +14039,6 @@
         }
       },
       {
-        "default": true,
         "id": 5624,
         "properties": {
           "rotation": "0",
@@ -14152,6 +14151,7 @@
         }
       },
       {
+        "default": true,
         "id": 5640,
         "properties": {
           "rotation": "8",
@@ -19030,7 +19030,6 @@
         }
       },
       {
-        "default": true,
         "id": 6068,
         "properties": {
           "attached": "false",
@@ -19159,6 +19158,7 @@
         }
       },
       {
+        "default": true,
         "id": 6084,
         "properties": {
           "attached": "false",
@@ -20281,7 +20281,6 @@
         }
       },
       {
-        "default": true,
         "id": 5400,
         "properties": {
           "rotation": "0",
@@ -20394,6 +20393,7 @@
         }
       },
       {
+        "default": true,
         "id": 5416,
         "properties": {
           "rotation": "8",
@@ -22209,7 +22209,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13167,
         "properties": {
           "rotation": "0"
@@ -22258,6 +22257,7 @@
         }
       },
       {
+        "default": true,
         "id": 13175,
         "properties": {
           "rotation": "8"
@@ -27745,7 +27745,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13103,
         "properties": {
           "rotation": "0"
@@ -27794,6 +27793,7 @@
         }
       },
       {
+        "default": true,
         "id": 13111,
         "properties": {
           "rotation": "8"
@@ -33514,7 +33514,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13119,
         "properties": {
           "rotation": "0"
@@ -33563,6 +33562,7 @@
         }
       },
       {
+        "default": true,
         "id": 13127,
         "properties": {
           "rotation": "8"
@@ -42225,7 +42225,6 @@
         }
       },
       {
-        "default": true,
         "id": 6196,
         "properties": {
           "attached": "false",
@@ -42354,6 +42353,7 @@
         }
       },
       {
+        "default": true,
         "id": 6212,
         "properties": {
           "attached": "false",
@@ -43479,7 +43479,6 @@
         }
       },
       {
-        "default": true,
         "id": 5464,
         "properties": {
           "rotation": "0",
@@ -43592,6 +43591,7 @@
         }
       },
       {
+        "default": true,
         "id": 5480,
         "properties": {
           "rotation": "8",
@@ -64458,7 +64458,6 @@
         }
       },
       {
-        "default": true,
         "id": 6452,
         "properties": {
           "attached": "false",
@@ -64587,6 +64586,7 @@
         }
       },
       {
+        "default": true,
         "id": 6468,
         "properties": {
           "attached": "false",
@@ -65453,7 +65453,6 @@
         }
       },
       {
-        "default": true,
         "id": 21643,
         "properties": {
           "rotation": "0",
@@ -65566,6 +65565,7 @@
         }
       },
       {
+        "default": true,
         "id": 21659,
         "properties": {
           "rotation": "8",
@@ -68373,7 +68373,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13071,
         "properties": {
           "rotation": "0"
@@ -68422,6 +68421,7 @@
         }
       },
       {
+        "default": true,
         "id": 13079,
         "properties": {
           "rotation": "8"
@@ -71294,7 +71294,6 @@
         }
       },
       {
-        "default": true,
         "id": 6324,
         "properties": {
           "attached": "false",
@@ -71423,6 +71422,7 @@
         }
       },
       {
+        "default": true,
         "id": 6340,
         "properties": {
           "attached": "false",
@@ -72545,7 +72545,6 @@
         }
       },
       {
-        "default": true,
         "id": 5528,
         "properties": {
           "rotation": "0",
@@ -72658,6 +72657,7 @@
         }
       },
       {
+        "default": true,
         "id": 5544,
         "properties": {
           "rotation": "8",
@@ -112056,7 +112056,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13039,
         "properties": {
           "rotation": "0"
@@ -112105,6 +112104,7 @@
         }
       },
       {
+        "default": true,
         "id": 13047,
         "properties": {
           "rotation": "8"
@@ -113083,7 +113083,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13135,
         "properties": {
           "rotation": "0"
@@ -113132,6 +113131,7 @@
         }
       },
       {
+        "default": true,
         "id": 13143,
         "properties": {
           "rotation": "8"
@@ -118605,7 +118605,6 @@
         }
       },
       {
-        "default": true,
         "id": 6260,
         "properties": {
           "attached": "false",
@@ -118734,6 +118733,7 @@
         }
       },
       {
+        "default": true,
         "id": 6276,
         "properties": {
           "attached": "false",
@@ -119856,7 +119856,6 @@
         }
       },
       {
-        "default": true,
         "id": 5496,
         "properties": {
           "rotation": "0",
@@ -119969,6 +119968,7 @@
         }
       },
       {
+        "default": true,
         "id": 5512,
         "properties": {
           "rotation": "8",
@@ -123181,7 +123181,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 12975,
         "properties": {
           "rotation": "0"
@@ -123230,6 +123229,7 @@
         }
       },
       {
+        "default": true,
         "id": 12983,
         "properties": {
           "rotation": "8"
@@ -124208,7 +124208,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13055,
         "properties": {
           "rotation": "0"
@@ -124257,6 +124256,7 @@
         }
       },
       {
+        "default": true,
         "id": 13063,
         "properties": {
           "rotation": "8"
@@ -125639,7 +125639,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13007,
         "properties": {
           "rotation": "0"
@@ -125688,6 +125687,7 @@
         }
       },
       {
+        "default": true,
         "id": 13015,
         "properties": {
           "rotation": "8"
@@ -126719,7 +126719,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 12959,
         "properties": {
           "rotation": "0"
@@ -126768,6 +126767,7 @@
         }
       },
       {
+        "default": true,
         "id": 12967,
         "properties": {
           "rotation": "8"
@@ -129593,7 +129593,6 @@
         }
       },
       {
-        "default": true,
         "id": 6580,
         "properties": {
           "attached": "false",
@@ -129722,6 +129721,7 @@
         }
       },
       {
+        "default": true,
         "id": 6596,
         "properties": {
           "attached": "false",
@@ -131234,7 +131234,6 @@
         }
       },
       {
-        "default": true,
         "id": 5592,
         "properties": {
           "rotation": "0",
@@ -131347,6 +131346,7 @@
         }
       },
       {
+        "default": true,
         "id": 5608,
         "properties": {
           "rotation": "8",
@@ -165236,7 +165236,6 @@
         }
       },
       {
-        "default": true,
         "id": 5940,
         "properties": {
           "attached": "false",
@@ -165365,6 +165364,7 @@
         }
       },
       {
+        "default": true,
         "id": 5956,
         "properties": {
           "attached": "false",
@@ -166487,7 +166487,6 @@
         }
       },
       {
-        "default": true,
         "id": 5336,
         "properties": {
           "rotation": "0",
@@ -166600,6 +166599,7 @@
         }
       },
       {
+        "default": true,
         "id": 5352,
         "properties": {
           "rotation": "8",
@@ -168581,7 +168581,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 12943,
         "properties": {
           "rotation": "0"
@@ -168630,6 +168629,7 @@
         }
       },
       {
+        "default": true,
         "id": 12951,
         "properties": {
           "rotation": "8"
@@ -176670,7 +176670,6 @@
         }
       },
       {
-        "default": true,
         "id": 6388,
         "properties": {
           "attached": "false",
@@ -176799,6 +176798,7 @@
         }
       },
       {
+        "default": true,
         "id": 6404,
         "properties": {
           "attached": "false",
@@ -177924,7 +177924,6 @@
         }
       },
       {
-        "default": true,
         "id": 5560,
         "properties": {
           "rotation": "0",
@@ -178037,6 +178036,7 @@
         }
       },
       {
+        "default": true,
         "id": 5576,
         "properties": {
           "rotation": "8",
@@ -180310,7 +180310,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13023,
         "properties": {
           "rotation": "0"
@@ -180359,6 +180358,7 @@
         }
       },
       {
+        "default": true,
         "id": 13031,
         "properties": {
           "rotation": "8"
@@ -209175,7 +209175,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13087,
         "properties": {
           "rotation": "0"
@@ -209224,6 +209223,7 @@
         }
       },
       {
+        "default": true,
         "id": 13095,
         "properties": {
           "rotation": "8"
@@ -212143,7 +212143,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 13151,
         "properties": {
           "rotation": "0"
@@ -212192,6 +212191,7 @@
         }
       },
       {
+        "default": true,
         "id": 13159,
         "properties": {
           "rotation": "8"
@@ -255973,7 +255973,6 @@
         }
       },
       {
-        "default": true,
         "id": 6004,
         "properties": {
           "attached": "false",
@@ -256102,6 +256101,7 @@
         }
       },
       {
+        "default": true,
         "id": 6020,
         "properties": {
           "attached": "false",
@@ -257224,7 +257224,6 @@
         }
       },
       {
-        "default": true,
         "id": 5368,
         "properties": {
           "rotation": "0",
@@ -257337,6 +257336,7 @@
         }
       },
       {
+        "default": true,
         "id": 5384,
         "properties": {
           "rotation": "8",
@@ -280229,7 +280229,6 @@
         }
       },
       {
-        "default": true,
         "id": 6516,
         "properties": {
           "attached": "false",
@@ -280358,6 +280357,7 @@
         }
       },
       {
+        "default": true,
         "id": 6532,
         "properties": {
           "attached": "false",
@@ -281224,7 +281224,6 @@
         }
       },
       {
-        "default": true,
         "id": 21675,
         "properties": {
           "rotation": "0",
@@ -281337,6 +281336,7 @@
         }
       },
       {
+        "default": true,
         "id": 21691,
         "properties": {
           "rotation": "8",
@@ -300922,7 +300922,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 12927,
         "properties": {
           "rotation": "0"
@@ -300971,6 +300970,7 @@
         }
       },
       {
+        "default": true,
         "id": 12935,
         "properties": {
           "rotation": "8"
@@ -302454,7 +302454,6 @@
     },
     "states": [
       {
-        "default": true,
         "id": 12991,
         "properties": {
           "rotation": "0"
@@ -302503,6 +302502,7 @@
         }
       },
       {
+        "default": true,
         "id": 12999,
         "properties": {
           "rotation": "8"

@@ -220,7 +220,8 @@ minecraft:librarian/5/emerald_and_book_savanna_enchanted_book
 minecraft:librarian/5/emerald_and_book_snow_enchanted_book
 minecraft:librarian/5/emerald_and_book_swamp_enchanted_book
 minecraft:librarian/5/emerald_and_book_taiga_enchanted_book
-minecraft:librarian/5/emerald_name_tag
+minecraft:librarian/5/emerald_red_candle
+minecraft:librarian/5/emerald_yellow_candle
 minecraft:mason/1/clay_ball_emerald
 minecraft:mason/1/emerald_brick
 minecraft:mason/2/emerald_chiseled_stone_bricks
@@ -419,6 +420,7 @@ minecraft:wandering_trader/emerald_mangrove_log
 minecraft:wandering_trader/emerald_mangrove_propagule
 minecraft:wandering_trader/emerald_melon_seeds
 minecraft:wandering_trader/emerald_moss_block
+minecraft:wandering_trader/emerald_name_tag
 minecraft:wandering_trader/emerald_nautilus_shell
 minecraft:wandering_trader/emerald_oak_log
 minecraft:wandering_trader/emerald_oak_sapling
