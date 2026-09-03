@@ -14,6 +14,7 @@ minecraft:golden_chestplate
 minecraft:golden_leggings
 minecraft:golden_boots
 minecraft:golden_horse_armor
+minecraft:golden_nautilus_armor
 minecraft:golden_sword
 minecraft:golden_spear
 minecraft:golden_pickaxe

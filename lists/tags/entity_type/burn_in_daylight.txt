@@ -1,4 +1,7 @@
-#minecraft:skeletons
+minecraft:skeleton
+minecraft:stray
+minecraft:wither_skeleton
+minecraft:bogged
 minecraft:zombie
 minecraft:zombie_horse
 minecraft:zombie_villager

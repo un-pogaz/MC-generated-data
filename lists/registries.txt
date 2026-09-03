@@ -1,5 +1,6 @@
 minecraft:activity
 minecraft:attribute
+minecraft:attribute_type
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
@@ -24,6 +25,7 @@ minecraft:enchantment_provider_type
 minecraft:enchantment_value_effect_type
 minecraft:entity_sub_predicate_type
 minecraft:entity_type
+minecraft:environment_attribute
 minecraft:float_provider_type
 minecraft:fluid
 minecraft:game_event

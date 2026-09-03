@@ -3368,6 +3368,7 @@ minecraft/sounds/mob/nautilus/hurt1.ogg
 minecraft/sounds/mob/nautilus/hurt2.ogg
 minecraft/sounds/mob/nautilus/hurt3.ogg
 minecraft/sounds/mob/nautilus/hurt4.ogg
+minecraft/sounds/mob/nautilus/ride.ogg
 minecraft/sounds/mob/panda/aggressive/aggressive1.ogg
 minecraft/sounds/mob/panda/aggressive/aggressive2.ogg
 minecraft/sounds/mob/panda/aggressive/aggressive3.ogg
