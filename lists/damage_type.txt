@@ -47,6 +47,7 @@ minecraft:wither_skull
 #minecraft:always_most_significant_fall
 #minecraft:always_triggers_silverfish
 #minecraft:avoids_guardian_thorns
+#minecraft:breeze_immune_to
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
 #minecraft:bypasses_effects
@@ -54,6 +55,7 @@ minecraft:wither_skull
 #minecraft:bypasses_invulnerability
 #minecraft:bypasses_resistance
 #minecraft:bypasses_shield
+#minecraft:can_break_armor_stand
 #minecraft:damages_helmet
 #minecraft:ignites_armor_stands
 #minecraft:is_drowning
