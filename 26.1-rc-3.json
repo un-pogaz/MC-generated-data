@@ -1,0 +1,13 @@
+{
+  "id": "26.1-rc-3",
+  "type": "snapshot",
+  "time": "2026-03-23T11:11:54+00:00",
+  "releaseTime": "2026-03-23T11:11:54+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/e4f4b149da06270d5c57c0b5f1d8e273c2040169/26.1-rc-3.json",
+  "assets": "30",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/9f7699c06a12a302eb26991538e3a0bc2b27c33c/30.json",
+  "client": "https://piston-data.mojang.com/v1/objects/acda2db8c537c233c82d43919de5adcc5f7b43e9/client.jar",
+  "client_mappings": null,
+  "server": "https://piston-data.mojang.com/v1/objects/17e0a5221b14e1cc3d39eea8aa626b2d20671efc/server.jar",
+  "server_mappings": null
+}
