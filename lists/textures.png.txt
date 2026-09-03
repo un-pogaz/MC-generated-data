@@ -9,9 +9,9 @@ minecraft:block/acacia_shelf
 minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
-minecraft:block/allium
+minecraft:block/allium  [mcmeta]
 minecraft:block/amethyst_block
-minecraft:block/amethyst_cluster
+minecraft:block/amethyst_cluster  [mcmeta]
 minecraft:block/ancient_debris_side
 minecraft:block/ancient_debris_top
 minecraft:block/andesite
@@ -23,7 +23,7 @@ minecraft:block/azalea_leaves  [mcmeta]
 minecraft:block/azalea_plant
 minecraft:block/azalea_side
 minecraft:block/azalea_top
-minecraft:block/azure_bluet
+minecraft:block/azure_bluet  [mcmeta]
 minecraft:block/bamboo_block
 minecraft:block/bamboo_block_top
 minecraft:block/bamboo_door_bottom
@@ -100,7 +100,7 @@ minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
 minecraft:block/blue_ice
-minecraft:block/blue_orchid
+minecraft:block/blue_orchid  [mcmeta]
 minecraft:block/blue_shulker_box
 minecraft:block/blue_stained_glass
 minecraft:block/blue_stained_glass_pane_top
@@ -120,7 +120,7 @@ minecraft:block/brown_candle_lit
 minecraft:block/brown_concrete
 minecraft:block/brown_concrete_powder
 minecraft:block/brown_glazed_terracotta
-minecraft:block/brown_mushroom
+minecraft:block/brown_mushroom  [mcmeta]
 minecraft:block/brown_mushroom_block
 minecraft:block/brown_shulker_box
 minecraft:block/brown_stained_glass
@@ -133,7 +133,7 @@ minecraft:block/bubble_coral_fan
 minecraft:block/budding_amethyst
 minecraft:block/bush
 minecraft:block/cactus_bottom
-minecraft:block/cactus_flower
+minecraft:block/cactus_flower  [mcmeta]
 minecraft:block/cactus_side
 minecraft:block/cactus_top
 minecraft:block/cake_bottom
@@ -202,7 +202,7 @@ minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
 minecraft:block/clay
-minecraft:block/closed_eyeblossom
+minecraft:block/closed_eyeblossom  [mcmeta]
 minecraft:block/coal_block
 minecraft:block/coal_ore
 minecraft:block/coarse_dirt
@@ -238,7 +238,7 @@ minecraft:block/copper_lantern  [mcmeta]
 minecraft:block/copper_ore
 minecraft:block/copper_torch
 minecraft:block/copper_trapdoor
-minecraft:block/cornflower
+minecraft:block/cornflower  [mcmeta]
 minecraft:block/cracked_deepslate_bricks
 minecraft:block/cracked_deepslate_tiles
 minecraft:block/cracked_nether_bricks
@@ -269,7 +269,7 @@ minecraft:block/creaking_heart_top_awake
 minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
-minecraft:block/crimson_fungus
+minecraft:block/crimson_fungus  [mcmeta]
 minecraft:block/crimson_nylium
 minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
@@ -294,7 +294,7 @@ minecraft:block/cyan_stained_glass_pane_top
 minecraft:block/cyan_terracotta
 minecraft:block/cyan_wool
 minecraft:block/damaged_anvil_top
-minecraft:block/dandelion
+minecraft:block/dandelion  [mcmeta]
 minecraft:block/dark_oak_door_bottom
 minecraft:block/dark_oak_door_top
 minecraft:block/dark_oak_leaves  [mcmeta]
@@ -446,7 +446,7 @@ minecraft:block/furnace_front_on
 minecraft:block/furnace_side
 minecraft:block/furnace_top
 minecraft:block/gilded_blackstone
-minecraft:block/glass
+minecraft:block/glass  [mcmeta]
 minecraft:block/glass_pane_top
 minecraft:block/glow_item_frame
 minecraft:block/glow_lichen
@@ -527,7 +527,7 @@ minecraft:block/ladder
 minecraft:block/lantern  [mcmeta]
 minecraft:block/lapis_block
 minecraft:block/lapis_ore
-minecraft:block/large_amethyst_bud
+minecraft:block/large_amethyst_bud  [mcmeta]
 minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
@@ -562,7 +562,7 @@ minecraft:block/lightning_rod
 minecraft:block/lightning_rod_on
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
-minecraft:block/lily_of_the_valley
+minecraft:block/lily_of_the_valley  [mcmeta]
 minecraft:block/lily_pad
 minecraft:block/lime_candle
 minecraft:block/lime_candle_lit
@@ -603,7 +603,7 @@ minecraft:block/mangrove_roots_side  [mcmeta]
 minecraft:block/mangrove_roots_top  [mcmeta]
 minecraft:block/mangrove_shelf
 minecraft:block/mangrove_trapdoor
-minecraft:block/medium_amethyst_bud
+minecraft:block/medium_amethyst_bud  [mcmeta]
 minecraft:block/melon_side
 minecraft:block/melon_stem
 minecraft:block/melon_top
@@ -647,7 +647,7 @@ minecraft:block/observer_top
 minecraft:block/obsidian
 minecraft:block/ochre_froglight_side
 minecraft:block/ochre_froglight_top
-minecraft:block/open_eyeblossom
+minecraft:block/open_eyeblossom  [mcmeta]
 minecraft:block/open_eyeblossom_emissive
 minecraft:block/orange_candle
 minecraft:block/orange_candle_lit
@@ -658,9 +658,9 @@ minecraft:block/orange_shulker_box
 minecraft:block/orange_stained_glass
 minecraft:block/orange_stained_glass_pane_top
 minecraft:block/orange_terracotta
-minecraft:block/orange_tulip
+minecraft:block/orange_tulip  [mcmeta]
 minecraft:block/orange_wool
-minecraft:block/oxeye_daisy
+minecraft:block/oxeye_daisy  [mcmeta]
 minecraft:block/oxidized_chiseled_copper
 minecraft:block/oxidized_copper
 minecraft:block/oxidized_copper_bars
@@ -708,7 +708,7 @@ minecraft:block/pink_shulker_box
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_top
 minecraft:block/pink_terracotta
-minecraft:block/pink_tulip
+minecraft:block/pink_tulip  [mcmeta]
 minecraft:block/pink_wool
 minecraft:block/piston_bottom
 minecraft:block/piston_inner
@@ -745,7 +745,7 @@ minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/polished_tuff
-minecraft:block/poppy
+minecraft:block/poppy  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
@@ -793,7 +793,7 @@ minecraft:block/red_candle_lit
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_glazed_terracotta
-minecraft:block/red_mushroom
+minecraft:block/red_mushroom  [mcmeta]
 minecraft:block/red_mushroom_block
 minecraft:block/red_nether_bricks
 minecraft:block/red_sand
@@ -804,13 +804,13 @@ minecraft:block/red_shulker_box
 minecraft:block/red_stained_glass
 minecraft:block/red_stained_glass_pane_top
 minecraft:block/red_terracotta
-minecraft:block/red_tulip
+minecraft:block/red_tulip  [mcmeta]
 minecraft:block/red_wool
 minecraft:block/redstone_block
-minecraft:block/redstone_dust_dot
-minecraft:block/redstone_dust_line0
-minecraft:block/redstone_dust_line1
-minecraft:block/redstone_dust_overlay
+minecraft:block/redstone_dust_dot  [mcmeta]
+minecraft:block/redstone_dust_line0  [mcmeta]
+minecraft:block/redstone_dust_line1  [mcmeta]
+minecraft:block/redstone_dust_overlay  [mcmeta]
 minecraft:block/redstone_lamp
 minecraft:block/redstone_lamp_on
 minecraft:block/redstone_ore
@@ -871,7 +871,7 @@ minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/slime_block
-minecraft:block/small_amethyst_bud
+minecraft:block/small_amethyst_bud  [mcmeta]
 minecraft:block/small_dripleaf_side
 minecraft:block/small_dripleaf_stem_bottom
 minecraft:block/small_dripleaf_stem_top
@@ -998,7 +998,7 @@ minecraft:block/tnt_bottom
 minecraft:block/tnt_side
 minecraft:block/tnt_top
 minecraft:block/torch
-minecraft:block/torchflower
+minecraft:block/torchflower  [mcmeta]
 minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
 minecraft:block/trial_spawner_bottom
@@ -1045,7 +1045,7 @@ minecraft:block/verdant_froglight_top
 minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
-minecraft:block/warped_fungus
+minecraft:block/warped_fungus  [mcmeta]
 minecraft:block/warped_nylium
 minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
@@ -1094,11 +1094,11 @@ minecraft:block/white_shulker_box
 minecraft:block/white_stained_glass
 minecraft:block/white_stained_glass_pane_top
 minecraft:block/white_terracotta
-minecraft:block/white_tulip
+minecraft:block/white_tulip  [mcmeta]
 minecraft:block/white_wool
 minecraft:block/wildflowers
 minecraft:block/wildflowers_stem
-minecraft:block/wither_rose
+minecraft:block/wither_rose  [mcmeta]
 minecraft:block/yellow_candle
 minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
