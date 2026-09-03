@@ -66,12 +66,12 @@
   },
   "requirements": [
     [
-      "desert_pyramid",
       "desert_well",
-      "ocean_ruin_cold",
+      "trail_ruins_common",
       "ocean_ruin_warm",
-      "trail_ruins_rare",
-      "trail_ruins_common"
+      "desert_pyramid",
+      "ocean_ruin_cold",
+      "trail_ruins_rare"
     ],
     [
       "has_sherd"
