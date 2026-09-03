@@ -6,6 +6,9 @@
     "minecraft:short_grass",
     "minecraft:fern",
     "minecraft:dead_bush",
+    "minecraft:bush",
+    "minecraft:short_dry_grass",
+    "minecraft:tall_dry_grass",
     "minecraft:seagrass",
     "minecraft:tall_seagrass",
     "minecraft:fire",
@@ -24,6 +27,7 @@
     "minecraft:warped_roots",
     "minecraft:nether_sprouts",
     "minecraft:crimson_roots",
+    "minecraft:leaf_litter",
     "minecraft:hanging_roots"
   ]
 }

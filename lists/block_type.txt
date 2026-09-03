@@ -26,8 +26,10 @@ minecraft:brewing_stand
 minecraft:brushable
 minecraft:bubble_column
 minecraft:budding_amethyst
+minecraft:bush
 minecraft:button
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:cake
 minecraft:calibrated_sculk_sensor
 minecraft:campfire
@@ -63,7 +65,6 @@ minecraft:creaking_heart
 minecraft:crop
 minecraft:crying_obsidian
 minecraft:daylight_detector
-minecraft:dead_bush
 minecraft:decorated_pot
 minecraft:detector_rail
 minecraft:dirt_path
@@ -73,6 +74,7 @@ minecraft:double_plant
 minecraft:dragon_egg
 minecraft:drop_experience
 minecraft:dropper
+minecraft:dry_vegetation
 minecraft:enchantment_table
 minecraft:end_gateway
 minecraft:end_portal
@@ -84,8 +86,10 @@ minecraft:farm
 minecraft:fence
 minecraft:fence_gate
 minecraft:fire
+minecraft:firefly_bush
 minecraft:fletching_table
 minecraft:flower
+minecraft:flower_bed
 minecraft:flower_pot
 minecraft:frogspawn
 minecraft:frosted_ice
@@ -116,7 +120,7 @@ minecraft:ladder
 minecraft:lantern
 minecraft:lava_cauldron
 minecraft:layered_cauldron
-minecraft:leaves
+minecraft:leaf_litter
 minecraft:lectern
 minecraft:lever
 minecraft:light
@@ -140,9 +144,7 @@ minecraft:netherrack
 minecraft:note
 minecraft:nylium
 minecraft:observer
-minecraft:particle_leaves
 minecraft:piglinwallskull
-minecraft:pink_petals
 minecraft:piston_base
 minecraft:piston_head
 minecraft:pitcher_crop
@@ -166,6 +168,7 @@ minecraft:respawn_anchor
 minecraft:rooted_dirt
 minecraft:roots
 minecraft:rotated_pillar
+minecraft:sand
 minecraft:sapling
 minecraft:scaffolding
 minecraft:sculk
@@ -175,6 +178,7 @@ minecraft:sculk_shrieker
 minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:short_dry_grass
 minecraft:shulker_box
 minecraft:skull
 minecraft:slab
@@ -200,11 +204,16 @@ minecraft:structure
 minecraft:structure_void
 minecraft:sugar_cane
 minecraft:sweet_berry_bush
+minecraft:tall_dry_grass
 minecraft:tall_flower
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
+minecraft:terracotta
+minecraft:test
+minecraft:test_instance
 minecraft:tinted_glass
+minecraft:tinted_particle_leaves
 minecraft:tnt
 minecraft:torch
 minecraft:torchflower_crop
@@ -217,6 +226,7 @@ minecraft:tripwire
 minecraft:turtle_egg
 minecraft:twisting_vines
 minecraft:twisting_vines_plant
+minecraft:untinted_particle_leaves
 minecraft:vault
 minecraft:vine
 minecraft:wall

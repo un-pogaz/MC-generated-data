@@ -146,7 +146,9 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
 minecraft:budding_amethyst
+minecraft:bush
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:cake
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
@@ -378,6 +380,7 @@ minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
+minecraft:firefly_bush
 minecraft:fletching_table
 minecraft:flower_pot
 minecraft:flowering_azalea
@@ -481,6 +484,7 @@ minecraft:large_amethyst_bud
 minecraft:large_fern
 minecraft:lava
 minecraft:lava_cauldron
+minecraft:leaf_litter
 minecraft:lectern
 minecraft:lever
 minecraft:light
@@ -863,6 +867,7 @@ minecraft:sculk_vein
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
@@ -956,10 +961,13 @@ minecraft:sunflower
 minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berry_bush
+minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
 minecraft:terracotta
+minecraft:test_block
+minecraft:test_instance_block
 minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch
@@ -1074,6 +1082,7 @@ minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wall_banner
 minecraft:white_wool
+minecraft:wildflowers
 minecraft:wither_rose
 minecraft:wither_skeleton_skull
 minecraft:wither_skeleton_wall_skull
@@ -1121,6 +1130,7 @@ minecraft:zombie_wall_head
 #minecraft:blocks_wind_charge_explosions
 #minecraft:buttons
 #minecraft:camel_sand_step_sound_blocks
+#minecraft:camels_spawnable_on
 #minecraft:campfires
 #minecraft:candle_cakes
 #minecraft:candles
@@ -1143,7 +1153,6 @@ minecraft:zombie_wall_head
 #minecraft:crystal_sound_blocks
 #minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
-#minecraft:dead_bush_may_place_on
 #minecraft:deepslate_ore_replaceables
 #minecraft:diamond_ores
 #minecraft:dirt
@@ -1152,6 +1161,8 @@ minecraft:zombie_wall_head
 #minecraft:dragon_immune
 #minecraft:dragon_transparent
 #minecraft:dripstone_replaceable_blocks
+#minecraft:dry_vegetation_may_place_on
+#minecraft:edible_for_sheep
 #minecraft:emerald_ores
 #minecraft:enchantment_power_provider
 #minecraft:enchantment_power_transmitter
@@ -1217,6 +1228,7 @@ minecraft:zombie_wall_head
 #minecraft:parrots_spawnable_on
 #minecraft:piglin_repellents
 #minecraft:planks
+#minecraft:plays_ambient_desert_block_sounds
 #minecraft:polar_bears_spawnable_on_alternate
 #minecraft:portals
 #minecraft:pressure_plates
@@ -1225,6 +1237,7 @@ minecraft:zombie_wall_head
 #minecraft:rails
 #minecraft:redstone_ores
 #minecraft:replaceable
+#minecraft:replaceable_by_mushrooms
 #minecraft:replaceable_by_trees
 #minecraft:sand
 #minecraft:saplings
@@ -1253,6 +1266,7 @@ minecraft:zombie_wall_head
 #minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks
 #minecraft:sword_efficient
+#minecraft:sword_instantly_mines
 #minecraft:terracotta
 #minecraft:trail_ruins_replaceable
 #minecraft:trapdoors
