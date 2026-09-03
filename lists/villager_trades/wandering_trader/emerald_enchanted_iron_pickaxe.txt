@@ -1,0 +1,5 @@
+wants: emerald
+gives: iron_pickaxe {enchantments: {levels: 5..20, #on_traded_equipment}}
+xp: 1
+max use: 1
+reputation discount: 0.2

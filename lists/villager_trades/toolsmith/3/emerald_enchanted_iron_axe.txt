@@ -1,0 +1,5 @@
+wants: emerald
+gives: iron_axe {enchantments: {levels: 5..20, #on_traded_equipment}}
+xp: 10
+max use: 3
+reputation discount: 0.2

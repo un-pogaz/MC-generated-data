@@ -1,0 +1,1 @@
+minecraft:librarian/5/emerald_name_tag

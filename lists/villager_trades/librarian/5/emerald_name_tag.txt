@@ -1,0 +1,5 @@
+wants: emerald x20
+gives: name_tag
+xp: 30
+max use: 12
+reputation discount: 0.05

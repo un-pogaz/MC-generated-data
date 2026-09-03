@@ -17,9 +17,11 @@ minecraft:pig_variant
 minecraft:test_environment
 minecraft:test_instance
 minecraft:timeline
+minecraft:trade_set
 minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern
+minecraft:villager_trade
 minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:worldgen/biome

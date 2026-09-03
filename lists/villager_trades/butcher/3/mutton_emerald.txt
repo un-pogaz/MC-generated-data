@@ -1,0 +1,5 @@
+wants: mutton x7
+gives: emerald
+xp: 20
+max use: 16
+reputation discount: 0.05
