@@ -26,6 +26,10 @@ minecraft:custom_chat_completions
 minecraft:custom_payload
 minecraft:custom_report_details
 minecraft:damage_event
+minecraft:debug/block_value
+minecraft:debug/chunk_value
+minecraft:debug/entity_value
+minecraft:debug/event
 minecraft:debug_sample
 minecraft:delete_chat
 minecraft:disconnect
@@ -35,6 +39,7 @@ minecraft:entity_position_sync
 minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
+minecraft:game_test_highlight_pos
 minecraft:horse_screen_open
 minecraft:hurt_animation
 minecraft:initialize_border
