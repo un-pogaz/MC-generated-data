@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/ball/hit1
+minecraft:mob/sulfur_cube/ball/hit2
+minecraft:mob/sulfur_cube/ball/hit3
+minecraft:mob/sulfur_cube/ball/hit4

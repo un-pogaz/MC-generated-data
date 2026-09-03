@@ -321,6 +321,16 @@ minecraft:shipwreck/upsidedown_full
 minecraft:shipwreck/upsidedown_full_degraded
 minecraft:shipwreck/with_mast
 minecraft:shipwreck/with_mast_degraded
+minecraft:spring/sulfur_spring_extra_large_1
+minecraft:spring/sulfur_spring_large_1
+minecraft:spring/sulfur_spring_large_2
+minecraft:spring/sulfur_spring_medium_1
+minecraft:spring/sulfur_spring_medium_2
+minecraft:spring/sulfur_spring_medium_3
+minecraft:spring/sulfur_spring_small_1
+minecraft:spring/sulfur_spring_small_2
+minecraft:spring/sulfur_spring_small_3
+minecraft:spring/sulfur_spring_small_4
 minecraft:trail_ruins/buildings/group_full_1
 minecraft:trail_ruins/buildings/group_full_2
 minecraft:trail_ruins/buildings/group_full_3

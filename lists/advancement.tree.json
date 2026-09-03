@@ -847,7 +847,7 @@
                           "minecraft:story/enter_the_nether": {
                             "icon": "minecraft:flint_and_steel",
                             "title": "We Need to Go Deeper",
-                            "description": "Build, light and enter a Nether Portal",
+                            "description": "Build, light, and enter a Nether Portal",
                             "frame": "task",
                             "childs": {
                               "minecraft:story/cure_zombie_villager": {

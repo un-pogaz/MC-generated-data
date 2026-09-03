@@ -79,5 +79,6 @@ minecraft:wither_skull
 #minecraft:no_knockback
 #minecraft:panic_causes
 #minecraft:panic_environmental_causes
+#minecraft:sulfur_cube_with_block_immune_to
 #minecraft:witch_resistant_to
 #minecraft:wither_immune_to

@@ -198,6 +198,7 @@ minecraft:red_mushroom_old_growth
 minecraft:red_mushroom_swamp
 minecraft:red_mushroom_taiga
 minecraft:rooted_azalea_tree
+minecraft:rooted_sulfur_spring
 minecraft:sculk_patch_ancient_city
 minecraft:sculk_patch_deep_dark
 minecraft:sculk_vein
@@ -222,6 +223,7 @@ minecraft:spring_water
 minecraft:spruce
 minecraft:spruce_checked
 minecraft:spruce_on_snow
+minecraft:sulfur_pool
 minecraft:super_birch_bees
 minecraft:super_birch_bees_0002
 minecraft:tall_mangrove_checked

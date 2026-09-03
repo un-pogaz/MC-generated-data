@@ -166,6 +166,7 @@ minecraft:pointed_dripstone
 minecraft:pumpkin
 minecraft:red_mushroom
 minecraft:rooted_azalea_tree
+minecraft:rooted_sulfur_spring
 minecraft:sculk_patch_ancient_city
 minecraft:sculk_patch_deep_dark
 minecraft:sculk_vein
@@ -184,6 +185,8 @@ minecraft:spring_nether_open
 minecraft:spring_water
 minecraft:spruce
 minecraft:sugar_cane
+minecraft:sulfur_pool
+minecraft:sulfur_spring
 minecraft:sunflower
 minecraft:super_birch_bees
 minecraft:super_birch_bees_0002

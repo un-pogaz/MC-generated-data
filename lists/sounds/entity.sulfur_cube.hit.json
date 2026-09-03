@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/sulfur_cube/ball/hit1",
+    "mob/sulfur_cube/ball/hit2",
+    "mob/sulfur_cube/ball/hit3",
+    "mob/sulfur_cube/ball/hit4"
+  ],
+  "subtitle": "subtitles.entity.sulfur_cube.hit"
+}

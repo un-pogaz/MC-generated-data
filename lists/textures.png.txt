@@ -184,6 +184,7 @@ minecraft:block/chiseled_bookshelf_empty
 minecraft:block/chiseled_bookshelf_occupied
 minecraft:block/chiseled_bookshelf_side
 minecraft:block/chiseled_bookshelf_top
+minecraft:block/chiseled_cinnabar
 minecraft:block/chiseled_copper
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
@@ -194,6 +195,7 @@ minecraft:block/chiseled_red_sandstone
 minecraft:block/chiseled_resin_bricks
 minecraft:block/chiseled_sandstone
 minecraft:block/chiseled_stone_bricks
+minecraft:block/chiseled_sulfur
 minecraft:block/chiseled_tuff
 minecraft:block/chiseled_tuff_bricks
 minecraft:block/chiseled_tuff_bricks_top
@@ -201,6 +203,8 @@ minecraft:block/chiseled_tuff_top
 minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
+minecraft:block/cinnabar
+minecraft:block/cinnabar_bricks
 minecraft:block/clay
 minecraft:block/closed_eyeblossom  [mcmeta]
 minecraft:block/coal_block
@@ -742,15 +746,18 @@ minecraft:block/polished_basalt_side
 minecraft:block/polished_basalt_top
 minecraft:block/polished_blackstone
 minecraft:block/polished_blackstone_bricks
+minecraft:block/polished_cinnabar
 minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
+minecraft:block/polished_sulfur
 minecraft:block/polished_tuff
 minecraft:block/poppy  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
 minecraft:block/potatoes_stage3
+minecraft:block/potent_sulfur
 minecraft:block/potted_azalea_bush_plant
 minecraft:block/potted_azalea_bush_side
 minecraft:block/potted_azalea_bush_top
@@ -965,6 +972,8 @@ minecraft:block/structure_block_data
 minecraft:block/structure_block_load
 minecraft:block/structure_block_save
 minecraft:block/sugar_cane
+minecraft:block/sulfur
+minecraft:block/sulfur_bricks
 minecraft:block/sunflower_back
 minecraft:block/sunflower_bottom
 minecraft:block/sunflower_front
@@ -1723,6 +1732,8 @@ minecraft:entity/strider/strider
 minecraft:entity/strider/strider_baby
 minecraft:entity/strider/strider_cold
 minecraft:entity/strider/strider_cold_baby
+minecraft:entity/sulfur_cube/sulfur_cube_inner
+minecraft:entity/sulfur_cube/sulfur_cube_outer
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident/trident
 minecraft:entity/trident/trident_riptide
@@ -3135,6 +3146,8 @@ minecraft:item/string
 minecraft:item/structure_void
 minecraft:item/sugar
 minecraft:item/sugar_cane
+minecraft:item/sulfur_cube_bucket
+minecraft:item/sulfur_cube_spawn_egg
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
@@ -3370,6 +3383,7 @@ minecraft:particle/bubble_pop_1
 minecraft:particle/bubble_pop_2
 minecraft:particle/bubble_pop_3
 minecraft:particle/bubble_pop_4
+minecraft:particle/bubble_white
 minecraft:particle/cherry_0
 minecraft:particle/cherry_1
 minecraft:particle/cherry_10
@@ -3466,6 +3480,14 @@ minecraft:particle/leaf_8
 minecraft:particle/leaf_9
 minecraft:particle/nautilus
 minecraft:particle/note
+minecraft:particle/noxious_gas_01
+minecraft:particle/noxious_gas_02
+minecraft:particle/noxious_gas_03
+minecraft:particle/noxious_gas_04
+minecraft:particle/noxious_gas_05
+minecraft:particle/noxious_gas_06
+minecraft:particle/noxious_gas_07
+minecraft:particle/noxious_gas_08
 minecraft:particle/ominous_spawning
 minecraft:particle/pale_oak_0
 minecraft:particle/pale_oak_1
@@ -3584,6 +3606,7 @@ minecraft:particle/splash_0
 minecraft:particle/splash_1
 minecraft:particle/splash_2
 minecraft:particle/splash_3
+minecraft:particle/sulfur_cube_goo
 minecraft:particle/sweep_0
 minecraft:particle/sweep_1
 minecraft:particle/sweep_2

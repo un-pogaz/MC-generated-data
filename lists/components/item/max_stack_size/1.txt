@@ -217,6 +217,7 @@ minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_spear
 minecraft:stone_sword
+minecraft:sulfur_cube_bucket
 minecraft:suspicious_stew
 minecraft:tadpole_bucket
 minecraft:tnt_minecart
