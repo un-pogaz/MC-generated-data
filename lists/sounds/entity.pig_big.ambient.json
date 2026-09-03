@@ -14,8 +14,7 @@
       "name": "mob/pig/big/ambient8",
       "weight": 2
     },
-    "mob/pig/big/ambient9",
-    "mob/pig/big/ambient10"
+    "mob/pig/big/ambient9"
   ],
   "subtitle": "subtitles.entity.pig.ambient"
 }

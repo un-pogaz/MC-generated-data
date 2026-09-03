@@ -3560,7 +3560,6 @@ minecraft:mob/pig/baby_pig/step3
 minecraft:mob/pig/baby_pig/step4
 minecraft:mob/pig/baby_pig/step5
 minecraft:mob/pig/big/ambient1
-minecraft:mob/pig/big/ambient10
 minecraft:mob/pig/big/ambient2
 minecraft:mob/pig/big/ambient3
 minecraft:mob/pig/big/ambient4

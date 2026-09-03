@@ -1477,7 +1477,9 @@ minecraft:entity/guardian/guardian
 minecraft:entity/guardian/guardian_beam
 minecraft:entity/guardian/guardian_elder
 minecraft:entity/hoglin/hoglin
+minecraft:entity/hoglin/hoglin_baby
 minecraft:entity/hoglin/zoglin
+minecraft:entity/hoglin/zoglin_baby
 minecraft:entity/horse/donkey
 minecraft:entity/horse/donkey_baby
 minecraft:entity/horse/horse_black
@@ -1535,13 +1537,20 @@ minecraft:entity/nautilus/nautilus
 minecraft:entity/nautilus/nautilus_baby
 minecraft:entity/nautilus/zombie_nautilus
 minecraft:entity/nautilus/zombie_nautilus_coral
+minecraft:entity/panda/aggressive_panda_baby
+minecraft:entity/panda/brown_panda_baby
+minecraft:entity/panda/lazy_panda_baby
 minecraft:entity/panda/panda
 minecraft:entity/panda/panda_aggressive
+minecraft:entity/panda/panda_baby
 minecraft:entity/panda/panda_brown
 minecraft:entity/panda/panda_lazy
 minecraft:entity/panda/panda_playful
 minecraft:entity/panda/panda_weak
 minecraft:entity/panda/panda_worried
+minecraft:entity/panda/playful_panda_baby
+minecraft:entity/panda/weak_panda_baby
+minecraft:entity/panda/worried_panda_baby
 minecraft:entity/parrot/parrot_blue
 minecraft:entity/parrot/parrot_green
 minecraft:entity/parrot/parrot_grey
@@ -1701,6 +1710,7 @@ minecraft:entity/skeleton/wither_skeleton
 minecraft:entity/slime/magmacube
 minecraft:entity/slime/slime
 minecraft:entity/sniffer/sniffer
+minecraft:entity/sniffer/snifflet
 minecraft:entity/snow_golem/snow_golem
 minecraft:entity/spider/cave_spider
 minecraft:entity/spider/spider
@@ -1710,7 +1720,9 @@ minecraft:entity/squid/glow_squid_baby
 minecraft:entity/squid/squid
 minecraft:entity/squid/squid_baby
 minecraft:entity/strider/strider
+minecraft:entity/strider/strider_baby
 minecraft:entity/strider/strider_cold
+minecraft:entity/strider/strider_cold_baby
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident/trident
 minecraft:entity/trident/trident_riptide
@@ -2367,6 +2379,7 @@ minecraft:gui/sprites/widget/page_backward
 minecraft:gui/sprites/widget/page_backward_highlighted
 minecraft:gui/sprites/widget/page_forward
 minecraft:gui/sprites/widget/page_forward_highlighted
+minecraft:gui/sprites/widget/preedit  [mcmeta]
 minecraft:gui/sprites/widget/scroller  [mcmeta]
 minecraft:gui/sprites/widget/scroller_background  [mcmeta]
 minecraft:gui/sprites/widget/slider  [mcmeta]
