@@ -2279,6 +2279,7 @@ minecraft:gui/sprites/dialog/warning_button_highlighted
 minecraft:gui/sprites/friends/accept
 minecraft:gui/sprites/friends/accept_highlighted
 minecraft:gui/sprites/friends/background  [mcmeta]
+minecraft:gui/sprites/friends/background_dark  [mcmeta]
 minecraft:gui/sprites/friends/button  [mcmeta]
 minecraft:gui/sprites/friends/button_disabled  [mcmeta]
 minecraft:gui/sprites/friends/button_highlighted  [mcmeta]
@@ -2292,7 +2293,6 @@ minecraft:gui/sprites/friends/multiplayer/join_request
 minecraft:gui/sprites/friends/reject
 minecraft:gui/sprites/friends/reject_highlighted
 minecraft:gui/sprites/friends/remove
-minecraft:gui/sprites/friends/toast  [mcmeta]
 minecraft:gui/sprites/friends/toast_background  [mcmeta]
 minecraft:gui/sprites/gamemode_switcher/selection
 minecraft:gui/sprites/gamemode_switcher/slot

@@ -1,5 +1,6 @@
 ((permissions: owners))
 publish
-publish <allowCommands brigadier:bool>
-publish <allowCommands brigadier:bool> <gamemode minecraft:gamemode>
-publish <allowCommands brigadier:bool> <gamemode minecraft:gamemode> <port brigadier:integer[max="65535", min="0"]>
+publish <online brigadier:bool>
+publish <online brigadier:bool> <allowCommands brigadier:bool>
+publish <online brigadier:bool> <allowCommands brigadier:bool> <gamemode minecraft:gamemode>
+publish <online brigadier:bool> <allowCommands brigadier:bool> <gamemode minecraft:gamemode> <port brigadier:integer[max="65535", min="0"]>
