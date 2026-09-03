@@ -1,7 +1,0 @@
-minecraft:angry
-minecraft:big
-minecraft:classic
-minecraft:cute
-minecraft:grumpy
-minecraft:puglin
-minecraft:sad

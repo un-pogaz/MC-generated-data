@@ -1,2 +1,0 @@
-minecraft:block_based
-minecraft:function
