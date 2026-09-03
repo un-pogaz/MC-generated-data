@@ -1,5 +1,0 @@
-minecraft:trial_key
-minecraft:stick
-minecraft:wooden_axe
-minecraft:honeycomb
-minecraft:arrow

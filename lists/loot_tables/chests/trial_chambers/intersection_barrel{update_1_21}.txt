@@ -1,9 +1,0 @@
-minecraft:diamond_axe
-minecraft:diamond_pickaxe
-minecraft:diamond
-minecraft:compass
-minecraft:bucket
-minecraft:golden_axe
-minecraft:golden_pickaxe
-minecraft:bamboo_planks
-minecraft:baked_potato

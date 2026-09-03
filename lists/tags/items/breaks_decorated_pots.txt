@@ -4,3 +4,4 @@
 #minecraft:shovels
 #minecraft:hoes
 minecraft:trident
+minecraft:mace
