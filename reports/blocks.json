@@ -55700,6 +55700,419 @@
       }
     ]
   },
+  "minecraft:crafter": {
+    "properties": {
+      "crafting": [
+        "true",
+        "false"
+      ],
+      "orientation": [
+        "down_east",
+        "down_north",
+        "down_south",
+        "down_west",
+        "up_east",
+        "up_north",
+        "up_south",
+        "up_west",
+        "west_up",
+        "east_up",
+        "north_up",
+        "south_up"
+      ],
+      "triggered": [
+        "true",
+        "false"
+      ]
+    },
+    "states": [
+      {
+        "id": 24276,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_east",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24277,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_east",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24278,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_north",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24279,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_north",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24280,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_south",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24281,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_south",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24282,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_west",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24283,
+        "properties": {
+          "crafting": "true",
+          "orientation": "down_west",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24284,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_east",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24285,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_east",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24286,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_north",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24287,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_north",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24288,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_south",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24289,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_south",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24290,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_west",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24291,
+        "properties": {
+          "crafting": "true",
+          "orientation": "up_west",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24292,
+        "properties": {
+          "crafting": "true",
+          "orientation": "west_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24293,
+        "properties": {
+          "crafting": "true",
+          "orientation": "west_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24294,
+        "properties": {
+          "crafting": "true",
+          "orientation": "east_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24295,
+        "properties": {
+          "crafting": "true",
+          "orientation": "east_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24296,
+        "properties": {
+          "crafting": "true",
+          "orientation": "north_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24297,
+        "properties": {
+          "crafting": "true",
+          "orientation": "north_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24298,
+        "properties": {
+          "crafting": "true",
+          "orientation": "south_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24299,
+        "properties": {
+          "crafting": "true",
+          "orientation": "south_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24300,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_east",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24301,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_east",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24302,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_north",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24303,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_north",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24304,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_south",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24305,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_south",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24306,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_west",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24307,
+        "properties": {
+          "crafting": "false",
+          "orientation": "down_west",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24308,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_east",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24309,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_east",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24310,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_north",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24311,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_north",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24312,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_south",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24313,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_south",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24314,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_west",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24315,
+        "properties": {
+          "crafting": "false",
+          "orientation": "up_west",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24316,
+        "properties": {
+          "crafting": "false",
+          "orientation": "west_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24317,
+        "properties": {
+          "crafting": "false",
+          "orientation": "west_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24318,
+        "properties": {
+          "crafting": "false",
+          "orientation": "east_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24319,
+        "properties": {
+          "crafting": "false",
+          "orientation": "east_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24320,
+        "properties": {
+          "crafting": "false",
+          "orientation": "north_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "default": true,
+        "id": 24321,
+        "properties": {
+          "crafting": "false",
+          "orientation": "north_up",
+          "triggered": "false"
+        }
+      },
+      {
+        "id": 24322,
+        "properties": {
+          "crafting": "false",
+          "orientation": "south_up",
+          "triggered": "true"
+        }
+      },
+      {
+        "id": 24323,
+        "properties": {
+          "crafting": "false",
+          "orientation": "south_up",
+          "triggered": "false"
+        }
+      }
+    ]
+  },
   "minecraft:crafting_table": {
     "states": [
       {
