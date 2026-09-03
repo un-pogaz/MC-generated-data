@@ -1,8 +1,17 @@
 {
   "sounds": [
-    "mob/chicken/say1",
-    "mob/chicken/say2",
-    "mob/chicken/say3"
+    {
+      "name": "mob/chicken/say1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/chicken/say2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/chicken/say3",
+      "volume": 0.8
+    }
   ],
   "subtitle": "subtitles.entity.chicken.ambient"
 }

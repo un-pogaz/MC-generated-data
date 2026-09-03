@@ -1387,6 +1387,15 @@ minecraft:entity/equipment/humanoid/leather
 minecraft:entity/equipment/humanoid/leather_overlay
 minecraft:entity/equipment/humanoid/netherite
 minecraft:entity/equipment/humanoid/turtle_scute
+minecraft:entity/equipment/humanoid_baby/chainmail
+minecraft:entity/equipment/humanoid_baby/copper
+minecraft:entity/equipment/humanoid_baby/diamond
+minecraft:entity/equipment/humanoid_baby/gold
+minecraft:entity/equipment/humanoid_baby/iron
+minecraft:entity/equipment/humanoid_baby/leather
+minecraft:entity/equipment/humanoid_baby/leather_overlay
+minecraft:entity/equipment/humanoid_baby/netherite
+minecraft:entity/equipment/humanoid_baby/turtle_scute
 minecraft:entity/equipment/humanoid_leggings/chainmail
 minecraft:entity/equipment/humanoid_leggings/copper
 minecraft:entity/equipment/humanoid_leggings/diamond
@@ -1547,8 +1556,10 @@ minecraft:entity/pig/pig_temperate_baby
 minecraft:entity/pig/pig_warm
 minecraft:entity/pig/pig_warm_baby
 minecraft:entity/piglin/piglin
+minecraft:entity/piglin/piglin_baby
 minecraft:entity/piglin/piglin_brute
 minecraft:entity/piglin/zombified_piglin
+minecraft:entity/piglin/zombified_piglin_baby
 minecraft:entity/player/slim/alex
 minecraft:entity/player/slim/ari
 minecraft:entity/player/slim/efe
@@ -1705,6 +1716,13 @@ minecraft:entity/trident/trident
 minecraft:entity/trident/trident_riptide
 minecraft:entity/turtle/turtle
 minecraft:entity/turtle/turtle_baby
+minecraft:entity/villager/baby/desert
+minecraft:entity/villager/baby/jungle
+minecraft:entity/villager/baby/plains
+minecraft:entity/villager/baby/savanna
+minecraft:entity/villager/baby/snow
+minecraft:entity/villager/baby/swamp
+minecraft:entity/villager/baby/taiga
 minecraft:entity/villager/profession/armorer
 minecraft:entity/villager/profession/butcher  [mcmeta]
 minecraft:entity/villager/profession/cartographer
@@ -1732,6 +1750,7 @@ minecraft:entity/villager/type/snow  [mcmeta]
 minecraft:entity/villager/type/swamp
 minecraft:entity/villager/type/taiga
 minecraft:entity/villager/villager
+minecraft:entity/villager/villager_baby
 minecraft:entity/wandering_trader/wandering_trader
 minecraft:entity/warden/warden
 minecraft:entity/warden/warden_bioluminescent_layer
@@ -1802,9 +1821,20 @@ minecraft:entity/wolf/wolf_woods_baby
 minecraft:entity/wolf/wolf_woods_tame
 minecraft:entity/wolf/wolf_woods_tame_baby
 minecraft:entity/zombie/drowned
+minecraft:entity/zombie/drowned_baby
 minecraft:entity/zombie/drowned_outer_layer
+minecraft:entity/zombie/drowned_outer_layer_baby
 minecraft:entity/zombie/husk
+minecraft:entity/zombie/husk_baby
 minecraft:entity/zombie/zombie
+minecraft:entity/zombie/zombie_baby
+minecraft:entity/zombie_villager/baby/desert
+minecraft:entity/zombie_villager/baby/jungle
+minecraft:entity/zombie_villager/baby/plains
+minecraft:entity/zombie_villager/baby/savanna
+minecraft:entity/zombie_villager/baby/snow
+minecraft:entity/zombie_villager/baby/swamp
+minecraft:entity/zombie_villager/baby/taiga
 minecraft:entity/zombie_villager/profession/armorer
 minecraft:entity/zombie_villager/profession/butcher  [mcmeta]
 minecraft:entity/zombie_villager/profession/cartographer
@@ -1832,6 +1862,7 @@ minecraft:entity/zombie_villager/type/snow
 minecraft:entity/zombie_villager/type/swamp
 minecraft:entity/zombie_villager/type/taiga
 minecraft:entity/zombie_villager/zombie_villager
+minecraft:entity/zombie_villager/zombie_villager_baby
 minecraft:environment/celestial/end_flash
 minecraft:environment/celestial/moon/first_quarter
 minecraft:environment/celestial/moon/full_moon
