@@ -78,6 +78,7 @@ minecraft:wither_skull
 #minecraft:no_anger
 #minecraft:no_impact
 #minecraft:no_knockback
+#minecraft:no_wolf_retaliation
 #minecraft:panic_causes
 #minecraft:panic_environmental_causes
 #minecraft:sulfur_cube_with_block_immune_to

@@ -34,6 +34,8 @@ minecraft:pale_oak_sign
 minecraft:piglin_head
 minecraft:pink_banner
 minecraft:player_head
+minecraft:poplar_hanging_sign
+minecraft:poplar_sign
 minecraft:purple_banner
 minecraft:red_banner
 minecraft:skeleton_skull

@@ -756,6 +756,7 @@ minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
 minecraft:block/orange_concrete_powder
 minecraft:block/orange_glazed_terracotta
+minecraft:block/orange_poplar_leaves
 minecraft:block/orange_shulker_box
 minecraft:block/orange_stained_glass
 minecraft:block/orange_stained_glass_pane_top
@@ -858,6 +859,16 @@ minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/polished_sulfur
 minecraft:block/polished_tuff
+minecraft:block/poplar_door_bottom
+minecraft:block/poplar_door_top
+minecraft:block/poplar_hanging_sign
+minecraft:block/poplar_log
+minecraft:block/poplar_log_top
+minecraft:block/poplar_planks
+minecraft:block/poplar_sapling
+minecraft:block/poplar_shelf
+minecraft:block/poplar_sign
+minecraft:block/poplar_trapdoor
 minecraft:block/poppy  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
@@ -924,10 +935,12 @@ minecraft:block/red_glazed_terracotta
 minecraft:block/red_mushroom  [mcmeta]
 minecraft:block/red_mushroom_block
 minecraft:block/red_nether_bricks
+minecraft:block/red_poplar_leaves
 minecraft:block/red_sand
 minecraft:block/red_sandstone
 minecraft:block/red_sandstone_bottom
 minecraft:block/red_sandstone_top
+minecraft:block/red_shrub
 minecraft:block/red_shulker_box
 minecraft:block/red_stained_glass
 minecraft:block/red_stained_glass_pane_top
@@ -994,6 +1007,8 @@ minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/shelf_mushroom_stage0
+minecraft:block/shelf_mushroom_stage1
 minecraft:block/short_dry_grass
 minecraft:block/short_grass
 minecraft:block/shroomlight
@@ -1084,6 +1099,8 @@ minecraft:block/stripped_oak_log
 minecraft:block/stripped_oak_log_top
 minecraft:block/stripped_pale_oak_log
 minecraft:block/stripped_pale_oak_log_top
+minecraft:block/stripped_poplar_log
+minecraft:block/stripped_poplar_log_top
 minecraft:block/stripped_spruce_log
 minecraft:block/stripped_spruce_log_top
 minecraft:block/stripped_warped_stem
@@ -1262,6 +1279,7 @@ minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_glazed_terracotta
+minecraft:block/yellow_poplar_leaves
 minecraft:block/yellow_shulker_box
 minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_top
@@ -1353,6 +1371,7 @@ minecraft:entity/boat/jungle
 minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/pale_oak
+minecraft:entity/boat/poplar
 minecraft:entity/boat/spruce
 minecraft:entity/breeze/breeze
 minecraft:entity/breeze/breeze_eyes
@@ -1417,6 +1436,7 @@ minecraft:entity/chest_boat/jungle
 minecraft:entity/chest_boat/mangrove
 minecraft:entity/chest_boat/oak
 minecraft:entity/chest_boat/pale_oak
+minecraft:entity/chest_boat/poplar
 minecraft:entity/chest_boat/spruce
 minecraft:entity/chicken/chicken_cold
 minecraft:entity/chicken/chicken_cold_baby
@@ -2059,6 +2079,7 @@ minecraft:gui/hanging_signs/jungle
 minecraft:gui/hanging_signs/mangrove
 minecraft:gui/hanging_signs/oak
 minecraft:gui/hanging_signs/pale_oak
+minecraft:gui/hanging_signs/poplar
 minecraft:gui/hanging_signs/spruce
 minecraft:gui/hanging_signs/warped
 minecraft:gui/header_separator
@@ -2089,6 +2110,7 @@ minecraft:gui/signs/jungle
 minecraft:gui/signs/mangrove
 minecraft:gui/signs/oak
 minecraft:gui/signs/pale_oak
+minecraft:gui/signs/poplar
 minecraft:gui/signs/spruce
 minecraft:gui/signs/warped
 minecraft:gui/sprites/advancements/box_obtained  [mcmeta]
@@ -3156,6 +3178,11 @@ minecraft:item/plenty_pottery_sherd
 minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
 minecraft:item/polar_bear_spawn_egg
+minecraft:item/poplar_boat
+minecraft:item/poplar_chest_boat
+minecraft:item/poplar_door
+minecraft:item/poplar_hanging_sign
+minecraft:item/poplar_sign
 minecraft:item/popped_chorus_fruit
 minecraft:item/porkchop
 minecraft:item/potato
@@ -3508,6 +3535,23 @@ minecraft:painting/wasteland
 minecraft:painting/water
 minecraft:painting/wind
 minecraft:painting/wither
+minecraft:palettes/trim/amethyst
+minecraft:palettes/trim/copper
+minecraft:palettes/trim/copper_darker
+minecraft:palettes/trim/diamond
+minecraft:palettes/trim/diamond_darker
+minecraft:palettes/trim/emerald
+minecraft:palettes/trim/gold
+minecraft:palettes/trim/gold_darker
+minecraft:palettes/trim/iron
+minecraft:palettes/trim/iron_darker
+minecraft:palettes/trim/lapis
+minecraft:palettes/trim/netherite
+minecraft:palettes/trim/netherite_darker
+minecraft:palettes/trim/quartz
+minecraft:palettes/trim/redstone
+minecraft:palettes/trim/resin
+minecraft:palettes/trim_base
 minecraft:particle/angry
 minecraft:particle/big_smoke_0
 minecraft:particle/big_smoke_1
@@ -3657,6 +3701,10 @@ minecraft:particle/noxious_gas_06
 minecraft:particle/noxious_gas_07
 minecraft:particle/noxious_gas_08
 minecraft:particle/ominous_spawning
+minecraft:particle/orange_poplar_1
+minecraft:particle/orange_poplar_2
+minecraft:particle/orange_poplar_3
+minecraft:particle/orange_poplar_4
 minecraft:particle/pale_oak_0
 minecraft:particle/pale_oak_1
 minecraft:particle/pale_oak_10
@@ -3670,6 +3718,10 @@ minecraft:particle/pale_oak_7
 minecraft:particle/pale_oak_8
 minecraft:particle/pale_oak_9
 minecraft:particle/raid_omen
+minecraft:particle/red_poplar_1
+minecraft:particle/red_poplar_2
+minecraft:particle/red_poplar_3
+minecraft:particle/red_poplar_4
 minecraft:particle/sculk_charge_0
 minecraft:particle/sculk_charge_1
 minecraft:particle/sculk_charge_2
@@ -3796,59 +3848,46 @@ minecraft:particle/trial_spawner_detection_ominous_3
 minecraft:particle/trial_spawner_detection_ominous_4
 minecraft:particle/vault_connection
 minecraft:particle/vibration  [mcmeta]
-minecraft:trims/color_palettes/amethyst
-minecraft:trims/color_palettes/copper
-minecraft:trims/color_palettes/copper_darker
-minecraft:trims/color_palettes/diamond
-minecraft:trims/color_palettes/diamond_darker
-minecraft:trims/color_palettes/emerald
-minecraft:trims/color_palettes/gold
-minecraft:trims/color_palettes/gold_darker
-minecraft:trims/color_palettes/iron
-minecraft:trims/color_palettes/iron_darker
-minecraft:trims/color_palettes/lapis
-minecraft:trims/color_palettes/netherite
-minecraft:trims/color_palettes/netherite_darker
-minecraft:trims/color_palettes/quartz
-minecraft:trims/color_palettes/redstone
-minecraft:trims/color_palettes/resin
-minecraft:trims/color_palettes/trim_palette
-minecraft:trims/entity/humanoid/bolt
-minecraft:trims/entity/humanoid/coast
-minecraft:trims/entity/humanoid/dune
-minecraft:trims/entity/humanoid/eye
-minecraft:trims/entity/humanoid/flow
-minecraft:trims/entity/humanoid/host
-minecraft:trims/entity/humanoid/raiser
-minecraft:trims/entity/humanoid/rib
-minecraft:trims/entity/humanoid/sentry
-minecraft:trims/entity/humanoid/shaper
-minecraft:trims/entity/humanoid/silence
-minecraft:trims/entity/humanoid/snout
-minecraft:trims/entity/humanoid/spire
-minecraft:trims/entity/humanoid/tide
-minecraft:trims/entity/humanoid/vex
-minecraft:trims/entity/humanoid/ward
-minecraft:trims/entity/humanoid/wayfinder
-minecraft:trims/entity/humanoid/wild
-minecraft:trims/entity/humanoid_leggings/bolt
-minecraft:trims/entity/humanoid_leggings/coast
-minecraft:trims/entity/humanoid_leggings/dune
-minecraft:trims/entity/humanoid_leggings/eye
-minecraft:trims/entity/humanoid_leggings/flow
-minecraft:trims/entity/humanoid_leggings/host
-minecraft:trims/entity/humanoid_leggings/raiser
-minecraft:trims/entity/humanoid_leggings/rib
-minecraft:trims/entity/humanoid_leggings/sentry
-minecraft:trims/entity/humanoid_leggings/shaper
-minecraft:trims/entity/humanoid_leggings/silence
-minecraft:trims/entity/humanoid_leggings/snout
-minecraft:trims/entity/humanoid_leggings/spire
-minecraft:trims/entity/humanoid_leggings/tide
-minecraft:trims/entity/humanoid_leggings/vex
-minecraft:trims/entity/humanoid_leggings/ward
-minecraft:trims/entity/humanoid_leggings/wayfinder
-minecraft:trims/entity/humanoid_leggings/wild
+minecraft:particle/yellow_poplar_1
+minecraft:particle/yellow_poplar_2
+minecraft:particle/yellow_poplar_3
+minecraft:particle/yellow_poplar_4
+minecraft:trims/entity/humanoid/bolt  [mcmeta]
+minecraft:trims/entity/humanoid/coast  [mcmeta]
+minecraft:trims/entity/humanoid/dune  [mcmeta]
+minecraft:trims/entity/humanoid/eye  [mcmeta]
+minecraft:trims/entity/humanoid/flow  [mcmeta]
+minecraft:trims/entity/humanoid/host  [mcmeta]
+minecraft:trims/entity/humanoid/raiser  [mcmeta]
+minecraft:trims/entity/humanoid/rib  [mcmeta]
+minecraft:trims/entity/humanoid/sentry  [mcmeta]
+minecraft:trims/entity/humanoid/shaper  [mcmeta]
+minecraft:trims/entity/humanoid/silence  [mcmeta]
+minecraft:trims/entity/humanoid/snout  [mcmeta]
+minecraft:trims/entity/humanoid/spire  [mcmeta]
+minecraft:trims/entity/humanoid/tide  [mcmeta]
+minecraft:trims/entity/humanoid/vex  [mcmeta]
+minecraft:trims/entity/humanoid/ward  [mcmeta]
+minecraft:trims/entity/humanoid/wayfinder  [mcmeta]
+minecraft:trims/entity/humanoid/wild  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/bolt  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/coast  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/dune  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/eye  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/flow  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/host  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/raiser  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/rib  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/sentry  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/shaper  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/silence  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/snout  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/spire  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/tide  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/vex  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/ward  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/wayfinder  [mcmeta]
+minecraft:trims/entity/humanoid_leggings/wild  [mcmeta]
 minecraft:trims/items/boots_trim
 minecraft:trims/items/chestplate_trim
 minecraft:trims/items/helmet_trim

@@ -14,7 +14,6 @@ minecraft:custom_stat
 minecraft:data_component_predicate_type
 minecraft:data_component_type
 minecraft:debug_subscription
-minecraft:decorated_pot_pattern
 minecraft:dialog_action_type
 minecraft:dialog_body_type
 minecraft:dialog_type
@@ -68,6 +67,7 @@ minecraft:rule_block_entity_modifier
 minecraft:rule_test
 minecraft:sensor_type
 minecraft:slot_display
+minecraft:slot_source
 minecraft:slot_source_type
 minecraft:sound_event
 minecraft:spawn_condition_type
@@ -85,11 +85,11 @@ minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
 minecraft:worldgen/chunk_generator
 minecraft:worldgen/density_function_type
-minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
+minecraft:worldgen/feature_type
 minecraft:worldgen/foliage_placer_type
-minecraft:worldgen/material_condition
-minecraft:worldgen/material_rule
+minecraft:worldgen/material_condition_type
+minecraft:worldgen/material_rule_type
 minecraft:worldgen/placement_modifier_type
 minecraft:worldgen/pool_alias_binding
 minecraft:worldgen/root_placer_type

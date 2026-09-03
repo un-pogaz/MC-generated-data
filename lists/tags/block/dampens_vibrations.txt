@@ -1,2 +1,4 @@
 #minecraft:wool
 #minecraft:wool_carpets
+#minecraft:wool_slabs
+#minecraft:wool_stairs

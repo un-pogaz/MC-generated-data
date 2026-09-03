@@ -1,4 +1,5 @@
 {
+  "base_block": "minecraft:dirt",
   "properties": {},
-  "type": "minecraft:dirt_path"
+  "type": "minecraft:path"
 }

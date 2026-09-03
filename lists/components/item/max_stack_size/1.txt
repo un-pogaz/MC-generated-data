@@ -190,6 +190,8 @@ minecraft:pink_bed
 minecraft:pink_bundle
 minecraft:pink_harness
 minecraft:pink_shulker_box
+minecraft:poplar_boat
+minecraft:poplar_chest_boat
 minecraft:potion
 minecraft:powder_snow_bucket
 minecraft:pufferfish_bucket

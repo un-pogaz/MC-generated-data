@@ -1,0 +1,1 @@
+#minecraft:overworld_natural_logs

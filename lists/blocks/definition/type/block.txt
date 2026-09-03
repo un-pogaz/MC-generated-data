@@ -122,6 +122,7 @@ minecraft:polished_diorite
 minecraft:polished_granite
 minecraft:polished_sulfur
 minecraft:polished_tuff
+minecraft:poplar_planks
 minecraft:prismarine
 minecraft:prismarine_bricks
 minecraft:purple_concrete

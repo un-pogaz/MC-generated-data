@@ -1,0 +1,4 @@
+minecraft:bush  = 13
+minecraft:pink_petals  = 3
+minecraft:red_shrub  = 13
+minecraft:wildflowers  = 3

@@ -1,5 +1,9 @@
 {
-  "leaf_particle_chance": 0.01,
+  "ambient_leaves_block_sound_player": {
+    "chance": 0,
+    "nearby_same_leaves_required": 0,
+    "nearby_satisfying_blocks_required": 0
+  },
   "properties": {},
-  "type": "minecraft:tinted_particle_leaves"
+  "type": "minecraft:leaves"
 }
