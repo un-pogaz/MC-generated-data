@@ -47292,10 +47292,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 2,
-          "min_inclusive": 0
-        }
+        "max_inclusive": 2,
+        "min_inclusive": 0
       },
       "properties": {}
     },
@@ -76044,10 +76042,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 2,
-          "min_inclusive": 0
-        }
+        "max_inclusive": 2,
+        "min_inclusive": 0
       },
       "properties": {}
     },
@@ -76076,10 +76072,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 7,
-          "min_inclusive": 3
-        }
+        "max_inclusive": 7,
+        "min_inclusive": 3
       },
       "properties": {}
     },
@@ -76095,10 +76089,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 7,
-          "min_inclusive": 3
-        }
+        "max_inclusive": 7,
+        "min_inclusive": 3
       },
       "properties": {}
     },
@@ -76140,10 +76132,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 5,
-          "min_inclusive": 2
-        }
+        "max_inclusive": 5,
+        "min_inclusive": 2
       },
       "properties": {}
     },
@@ -80849,10 +80839,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 7,
-          "min_inclusive": 3
-        }
+        "max_inclusive": 7,
+        "min_inclusive": 3
       },
       "properties": {}
     },
@@ -85922,10 +85910,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 7,
-          "min_inclusive": 3
-        }
+        "max_inclusive": 7,
+        "min_inclusive": 3
       },
       "properties": {}
     },
@@ -107930,14 +107916,14 @@
     },
     "states": [
       {
-        "id": 26660,
+        "id": 26682,
         "properties": {
           "waterlogged": "true"
         }
       },
       {
         "default": true,
-        "id": 26661,
+        "id": 26683,
         "properties": {
           "waterlogged": "false"
         }
@@ -115102,10 +115088,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 5,
-          "min_inclusive": 2
-        }
+        "max_inclusive": 5,
+        "min_inclusive": 2
       },
       "properties": {}
     },
@@ -144610,10 +144594,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 1,
-          "min_inclusive": 0
-        }
+        "max_inclusive": 1,
+        "min_inclusive": 0
       },
       "properties": {}
     },
@@ -144656,10 +144638,8 @@
       "type": "minecraft:drop_experience",
       "experience": {
         "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 5,
-          "min_inclusive": 2
-        }
+        "max_inclusive": 5,
+        "min_inclusive": 2
       },
       "properties": {}
     },
@@ -241780,6 +241760,10 @@
       "properties": {}
     },
     "properties": {
+      "ominous": [
+        "true",
+        "false"
+      ],
       "trial_spawner_state": [
         "inactive",
         "waiting_for_players",
@@ -241791,39 +241775,87 @@
     },
     "states": [
       {
-        "default": true,
         "id": 26638,
         "properties": {
+          "ominous": "true",
           "trial_spawner_state": "inactive"
         }
       },
       {
         "id": 26639,
         "properties": {
+          "ominous": "true",
           "trial_spawner_state": "waiting_for_players"
         }
       },
       {
         "id": 26640,
         "properties": {
+          "ominous": "true",
           "trial_spawner_state": "active"
         }
       },
       {
         "id": 26641,
         "properties": {
+          "ominous": "true",
           "trial_spawner_state": "waiting_for_reward_ejection"
         }
       },
       {
         "id": 26642,
         "properties": {
+          "ominous": "true",
           "trial_spawner_state": "ejecting_reward"
         }
       },
       {
         "id": 26643,
         "properties": {
+          "ominous": "true",
+          "trial_spawner_state": "cooldown"
+        }
+      },
+      {
+        "default": true,
+        "id": 26644,
+        "properties": {
+          "ominous": "false",
+          "trial_spawner_state": "inactive"
+        }
+      },
+      {
+        "id": 26645,
+        "properties": {
+          "ominous": "false",
+          "trial_spawner_state": "waiting_for_players"
+        }
+      },
+      {
+        "id": 26646,
+        "properties": {
+          "ominous": "false",
+          "trial_spawner_state": "active"
+        }
+      },
+      {
+        "id": 26647,
+        "properties": {
+          "ominous": "false",
+          "trial_spawner_state": "waiting_for_reward_ejection"
+        }
+      },
+      {
+        "id": 26648,
+        "properties": {
+          "ominous": "false",
+          "trial_spawner_state": "ejecting_reward"
+        }
+      },
+      {
+        "id": 26649,
+        "properties": {
+          "ominous": "false",
           "trial_spawner_state": "cooldown"
         }
       }
@@ -252894,6 +252926,10 @@
         "west",
         "east"
       ],
+      "ominous": [
+        "true",
+        "false"
+      ],
       "vault_state": [
         "inactive",
         "active",
@@ -252903,115 +252939,259 @@
     },
     "states": [
       {
-        "default": true,
-        "id": 26644,
-        "properties": {
-          "facing": "north",
-          "vault_state": "inactive"
-        }
-      },
-      {
-        "id": 26645,
-        "properties": {
-          "facing": "north",
-          "vault_state": "active"
-        }
-      },
-      {
-        "id": 26646,
-        "properties": {
-          "facing": "north",
-          "vault_state": "unlocking"
-        }
-      },
-      {
-        "id": 26647,
-        "properties": {
-          "facing": "north",
-          "vault_state": "ejecting"
-        }
-      },
-      {
-        "id": 26648,
-        "properties": {
-          "facing": "south",
-          "vault_state": "inactive"
-        }
-      },
-      {
-        "id": 26649,
-        "properties": {
-          "facing": "south",
-          "vault_state": "active"
-        }
-      },
-      {
         "id": 26650,
         "properties": {
-          "facing": "south",
-          "vault_state": "unlocking"
+          "facing": "north",
+          "ominous": "true",
+          "vault_state": "inactive"
         }
       },
       {
         "id": 26651,
         "properties": {
-          "facing": "south",
-          "vault_state": "ejecting"
+          "facing": "north",
+          "ominous": "true",
+          "vault_state": "active"
         }
       },
       {
         "id": 26652,
         "properties": {
-          "facing": "west",
-          "vault_state": "inactive"
+          "facing": "north",
+          "ominous": "true",
+          "vault_state": "unlocking"
         }
       },
       {
         "id": 26653,
         "properties": {
-          "facing": "west",
-          "vault_state": "active"
+          "facing": "north",
+          "ominous": "true",
+          "vault_state": "ejecting"
         }
       },
       {
+        "default": true,
         "id": 26654,
         "properties": {
-          "facing": "west",
-          "vault_state": "unlocking"
+          "facing": "north",
+          "ominous": "false",
+          "vault_state": "inactive"
         }
       },
       {
         "id": 26655,
         "properties": {
-          "facing": "west",
-          "vault_state": "ejecting"
+          "facing": "north",
+          "ominous": "false",
+          "vault_state": "active"
         }
       },
       {
         "id": 26656,
         "properties": {
-          "facing": "east",
-          "vault_state": "inactive"
+          "facing": "north",
+          "ominous": "false",
+          "vault_state": "unlocking"
         }
       },
       {
         "id": 26657,
         "properties": {
-          "facing": "east",
-          "vault_state": "active"
+          "facing": "north",
+          "ominous": "false",
+          "vault_state": "ejecting"
         }
       },
       {
         "id": 26658,
         "properties": {
-          "facing": "east",
-          "vault_state": "unlocking"
+          "facing": "south",
+          "ominous": "true",
+          "vault_state": "inactive"
         }
       },
       {
         "id": 26659,
         "properties": {
+          "facing": "south",
+          "ominous": "true",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26660,
+        "properties": {
+          "facing": "south",
+          "ominous": "true",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26661,
+        "properties": {
+          "facing": "south",
+          "ominous": "true",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26662,
+        "properties": {
+          "facing": "south",
+          "ominous": "false",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26663,
+        "properties": {
+          "facing": "south",
+          "ominous": "false",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26664,
+        "properties": {
+          "facing": "south",
+          "ominous": "false",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26665,
+        "properties": {
+          "facing": "south",
+          "ominous": "false",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26666,
+        "properties": {
+          "facing": "west",
+          "ominous": "true",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26667,
+        "properties": {
+          "facing": "west",
+          "ominous": "true",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26668,
+        "properties": {
+          "facing": "west",
+          "ominous": "true",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26669,
+        "properties": {
+          "facing": "west",
+          "ominous": "true",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26670,
+        "properties": {
+          "facing": "west",
+          "ominous": "false",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26671,
+        "properties": {
+          "facing": "west",
+          "ominous": "false",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26672,
+        "properties": {
+          "facing": "west",
+          "ominous": "false",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26673,
+        "properties": {
+          "facing": "west",
+          "ominous": "false",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26674,
+        "properties": {
           "facing": "east",
+          "ominous": "true",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26675,
+        "properties": {
+          "facing": "east",
+          "ominous": "true",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26676,
+        "properties": {
+          "facing": "east",
+          "ominous": "true",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26677,
+        "properties": {
+          "facing": "east",
+          "ominous": "true",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26678,
+        "properties": {
+          "facing": "east",
+          "ominous": "false",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26679,
+        "properties": {
+          "facing": "east",
+          "ominous": "false",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26680,
+        "properties": {
+          "facing": "east",
+          "ominous": "false",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26681,
+        "properties": {
+          "facing": "east",
+          "ominous": "false",
           "vault_state": "ejecting"
         }
       }
