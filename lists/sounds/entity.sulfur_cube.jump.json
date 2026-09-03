@@ -12,5 +12,5 @@
     "mob/sulfur_cube/jump10",
     "mob/sulfur_cube/jump11"
   ],
-  "subtitle": "subtitles.entity.sulfur_cube.squish"
+  "subtitle": "subtitles.entity.sulfur_cube.jump"
 }

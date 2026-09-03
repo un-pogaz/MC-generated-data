@@ -5,5 +5,5 @@
     "mob/sulfur_cube/small_sulfur_cube/hit3",
     "mob/sulfur_cube/small_sulfur_cube/hit4"
   ],
-  "subtitle": "subtitles.entity.sulfur_cube.hurt"
+  "subtitle": "subtitles.entity.small_sulfur_cube.hurt"
 }
