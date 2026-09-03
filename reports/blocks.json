@@ -55664,7 +55664,7 @@
     "states": [
       {
         "default": true,
-        "id": 22941
+        "id": 22938
       }
     ]
   },
@@ -88902,7 +88902,7 @@
     "states": [
       {
         "default": true,
-        "id": 22940
+        "id": 22939
       }
     ]
   },
@@ -156585,7 +156585,7 @@
     "states": [
       {
         "default": true,
-        "id": 22938
+        "id": 22941
       }
     ]
   },
@@ -237290,6 +237290,57 @@
       }
     ]
   },
+  "minecraft:trial_spawner": {
+    "properties": {
+      "trial_spawner_state": [
+        "inactive",
+        "waiting_for_players",
+        "active",
+        "waiting_for_reward_ejection",
+        "ejecting_reward",
+        "cooldown"
+      ]
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 26630,
+        "properties": {
+          "trial_spawner_state": "inactive"
+        }
+      },
+      {
+        "id": 26631,
+        "properties": {
+          "trial_spawner_state": "waiting_for_players"
+        }
+      },
+      {
+        "id": 26632,
+        "properties": {
+          "trial_spawner_state": "active"
+        }
+      },
+      {
+        "id": 26633,
+        "properties": {
+          "trial_spawner_state": "waiting_for_reward_ejection"
+        }
+      },
+      {
+        "id": 26634,
+        "properties": {
+          "trial_spawner_state": "ejecting_reward"
+        }
+      },
+      {
+        "id": 26635,
+        "properties": {
+          "trial_spawner_state": "cooldown"
+        }
+      }
+    ]
+  },
   "minecraft:tripwire": {
     "properties": {
       "attached": [
@@ -261810,7 +261861,7 @@
     "states": [
       {
         "default": true,
-        "id": 22939
+        "id": 22940
       }
     ]
   },
