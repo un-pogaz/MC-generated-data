@@ -2122,9 +2122,12 @@ minecraft:gui/presets/isles
 minecraft:gui/realms/adventure
 minecraft:gui/realms/empty_frame
 minecraft:gui/realms/experience
+minecraft:gui/realms/friends
 minecraft:gui/realms/inspiration
+minecraft:gui/realms/minigames
 minecraft:gui/realms/new_world
 minecraft:gui/realms/no_realms
+minecraft:gui/realms/private_server
 minecraft:gui/realms/snapshot_realms
 minecraft:gui/realms/survival_spawn
 minecraft:gui/realms/upload
@@ -2584,6 +2587,9 @@ minecraft:gui/sprites/widget/page_backward_highlighted
 minecraft:gui/sprites/widget/page_forward
 minecraft:gui/sprites/widget/page_forward_highlighted
 minecraft:gui/sprites/widget/preedit  [mcmeta]
+minecraft:gui/sprites/widget/realms_button  [mcmeta]
+minecraft:gui/sprites/widget/realms_button_disabled  [mcmeta]
+minecraft:gui/sprites/widget/realms_button_highlighted  [mcmeta]
 minecraft:gui/sprites/widget/scroller  [mcmeta]
 minecraft:gui/sprites/widget/scroller_background  [mcmeta]
 minecraft:gui/sprites/widget/slider  [mcmeta]
@@ -2711,6 +2717,7 @@ minecraft:item/bundle_open_front
 minecraft:item/buried_ancient_city_map
 minecraft:item/buried_mineshaft_map
 minecraft:item/buried_treasure_map
+minecraft:item/buried_trial_chambers_map
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
 minecraft:item/camel_husk_spawn_egg
@@ -3043,8 +3050,8 @@ minecraft:item/jungle_boat
 minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
 minecraft:item/jungle_hanging_sign
+minecraft:item/jungle_pyramid_map
 minecraft:item/jungle_sign
-minecraft:item/jungle_temple_map
 minecraft:item/kelp
 minecraft:item/knowledge_book
 minecraft:item/lantern
@@ -3384,7 +3391,6 @@ minecraft:item/tnt_minecart
 minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
 minecraft:item/trader_llama_spawn_egg
-minecraft:item/trial_chamber_map
 minecraft:item/trial_key
 minecraft:item/trident
 minecraft:item/tropical_fish

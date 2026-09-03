@@ -71,17 +71,17 @@
 ==,==
 "minecraft:visual/cloud_color","ease: linear (modifier: multiply)"
 ——,——
-"133","-1"
-"11867","-1"
-"13670","-15132378"
-"22330","-15132378"
+"133","#ffffffff"
+"11867","#ffffffff"
+"13670","#ff191926"
+"22330","#ff191926"
 ==,==
 "minecraft:visual/fog_color","ease: linear (modifier: multiply)"
 ——,——
 "133","#ffffff"
 "11867","#ffffff"
-"13670","#0c0c16"
-"22330","#161616"
+"13670","#0f0f16"
+"22330","#0f0f16"
 ==,==
 "minecraft:visual/moon_angle","ease: {cubic_bezier: [0.362, 0.241, 0.638, 0.759]} (modifier: override)"
 ——,——

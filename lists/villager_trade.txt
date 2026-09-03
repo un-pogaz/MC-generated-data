@@ -87,8 +87,8 @@ minecraft:cartographer/2/emerald_and_compass_village_snowy_map
 minecraft:cartographer/2/emerald_and_compass_village_taiga_map
 minecraft:cartographer/2/glass_pane_emerald
 minecraft:cartographer/3/compass_emerald
-minecraft:cartographer/3/emerald_and_compass_ocean_explorer_map
-minecraft:cartographer/3/emerald_and_compass_trial_chamber_map
+minecraft:cartographer/3/emerald_and_compass_buried_trial_chambers_map
+minecraft:cartographer/3/emerald_and_compass_ocean_monument_map
 minecraft:cartographer/4/emerald_black_banner
 minecraft:cartographer/4/emerald_blue_banner
 minecraft:cartographer/4/emerald_brown_banner

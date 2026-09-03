@@ -2995,6 +2995,7 @@ minecraft:item/bundle_open_front
 minecraft:item/buried_ancient_city_map
 minecraft:item/buried_mineshaft_map
 minecraft:item/buried_treasure_map
+minecraft:item/buried_trial_chambers_map
 minecraft:item/burn_pottery_sherd
 minecraft:item/bush
 minecraft:item/cactus_flower
@@ -3600,8 +3601,8 @@ minecraft:item/item_frame
 minecraft:item/jungle_boat
 minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
-minecraft:item/jungle_explorer_map
 minecraft:item/jungle_hanging_sign
+minecraft:item/jungle_pyramid_map
 minecraft:item/jungle_sapling
 minecraft:item/jungle_sign
 minecraft:item/kelp
@@ -3839,7 +3840,7 @@ minecraft:item/oak_door
 minecraft:item/oak_hanging_sign
 minecraft:item/oak_sapling
 minecraft:item/oak_sign
-minecraft:item/ocean_explorer_map
+minecraft:item/ocean_monument_map
 minecraft:item/ocelot_spawn_egg
 minecraft:item/ominous_bottle
 minecraft:item/ominous_trial_key
@@ -4068,7 +4069,7 @@ minecraft:item/sulfur_cube_spawn_egg
 minecraft:item/sulfur_spike
 minecraft:item/sunflower
 minecraft:item/suspicious_stew
-minecraft:item/swamp_explorer_map
+minecraft:item/swamp_hut_map
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
 minecraft:item/tadpole_spawn_egg
@@ -4093,7 +4094,6 @@ minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
 minecraft:item/trader_llama_spawn_egg
 minecraft:item/trapped_chest
-minecraft:item/trial_explorer_map
 minecraft:item/trial_key
 minecraft:item/trident
 minecraft:item/trident_in_hand
@@ -4172,7 +4172,7 @@ minecraft:item/wooden_shovel
 minecraft:item/wooden_spear
 minecraft:item/wooden_spear_in_hand
 minecraft:item/wooden_sword
-minecraft:item/woodland_explorer_map
+minecraft:item/woodland_mansion_map
 minecraft:item/writable_book
 minecraft:item/written_book
 minecraft:item/yellow_bundle

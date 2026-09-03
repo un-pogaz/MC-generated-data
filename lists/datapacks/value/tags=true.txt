@@ -5,6 +5,7 @@ minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
+minecraft:block_transformer
 minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
