@@ -248360,6 +248360,137 @@
       }
     ]
   },
+  "minecraft:vault": {
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "vault_state": [
+        "inactive",
+        "active",
+        "unlocking",
+        "ejecting"
+      ]
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 26644,
+        "properties": {
+          "facing": "north",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26645,
+        "properties": {
+          "facing": "north",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26646,
+        "properties": {
+          "facing": "north",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26647,
+        "properties": {
+          "facing": "north",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26648,
+        "properties": {
+          "facing": "south",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26649,
+        "properties": {
+          "facing": "south",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26650,
+        "properties": {
+          "facing": "south",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26651,
+        "properties": {
+          "facing": "south",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26652,
+        "properties": {
+          "facing": "west",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26653,
+        "properties": {
+          "facing": "west",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26654,
+        "properties": {
+          "facing": "west",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26655,
+        "properties": {
+          "facing": "west",
+          "vault_state": "ejecting"
+        }
+      },
+      {
+        "id": 26656,
+        "properties": {
+          "facing": "east",
+          "vault_state": "inactive"
+        }
+      },
+      {
+        "id": 26657,
+        "properties": {
+          "facing": "east",
+          "vault_state": "active"
+        }
+      },
+      {
+        "id": 26658,
+        "properties": {
+          "facing": "east",
+          "vault_state": "unlocking"
+        }
+      },
+      {
+        "id": 26659,
+        "properties": {
+          "facing": "east",
+          "vault_state": "ejecting"
+        }
+      }
+    ]
+  },
   "minecraft:verdant_froglight": {
     "properties": {
       "axis": [
