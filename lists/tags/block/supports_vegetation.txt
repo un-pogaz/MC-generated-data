@@ -1,2 +1,2 @@
-#minecraft:dirt
+#minecraft:substrate_overworld
 minecraft:farmland
