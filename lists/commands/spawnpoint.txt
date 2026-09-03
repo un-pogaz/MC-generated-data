@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 spawnpoint
 spawnpoint <targets minecraft:entity[type="players", amount="multiple"]>
 spawnpoint <targets minecraft:entity[type="players", amount="multiple"]> <pos minecraft:block_pos>

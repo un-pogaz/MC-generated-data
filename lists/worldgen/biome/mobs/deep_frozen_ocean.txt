@@ -3,6 +3,7 @@ minecraft:creeper
 minecraft:drowned
 minecraft:enderman
 minecraft:glow_squid
+minecraft:nautilus
 minecraft:polar_bear
 minecraft:salmon
 minecraft:skeleton

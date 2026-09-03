@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 weather clear
 weather clear <duration minecraft:time[min="1"]>
 weather rain

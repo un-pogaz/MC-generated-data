@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 gamerule allowEnteringNetherUsingPortals
 gamerule allowEnteringNetherUsingPortals <value brigadier:bool>
 gamerule allowFireTicksAwayFromPlayer

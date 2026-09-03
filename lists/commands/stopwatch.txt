@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+stopwatch <id minecraft:resource_location> create
+stopwatch <id minecraft:resource_location> query
+stopwatch <id minecraft:resource_location> remove
+stopwatch <id minecraft:resource_location> restart

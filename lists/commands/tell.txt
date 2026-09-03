@@ -1,2 +1,2 @@
-((required_level: 0))
+((permissions: players))
 tell >>redirect{msg}

@@ -2744,9 +2744,12 @@ minecraft:item/copper_leggings_netherite_trim
 minecraft:item/copper_leggings_quartz_trim
 minecraft:item/copper_leggings_redstone_trim
 minecraft:item/copper_leggings_resin_trim
+minecraft:item/copper_nautilus_armor
 minecraft:item/copper_nugget
 minecraft:item/copper_pickaxe
 minecraft:item/copper_shovel
+minecraft:item/copper_spear
+minecraft:item/copper_spear_in_hand
 minecraft:item/copper_sword
 minecraft:item/copper_torch
 minecraft:item/cornflower
@@ -2848,8 +2851,11 @@ minecraft:item/diamond_leggings_netherite_trim
 minecraft:item/diamond_leggings_quartz_trim
 minecraft:item/diamond_leggings_redstone_trim
 minecraft:item/diamond_leggings_resin_trim
+minecraft:item/diamond_nautilus_armor
 minecraft:item/diamond_pickaxe
 minecraft:item/diamond_shovel
+minecraft:item/diamond_spear
+minecraft:item/diamond_spear_in_hand
 minecraft:item/diamond_sword
 minecraft:item/disc_fragment_5
 minecraft:item/dolphin_spawn_egg
@@ -2978,8 +2984,11 @@ minecraft:item/golden_leggings_netherite_trim
 minecraft:item/golden_leggings_quartz_trim
 minecraft:item/golden_leggings_redstone_trim
 minecraft:item/golden_leggings_resin_trim
+minecraft:item/golden_nautilus_armor
 minecraft:item/golden_pickaxe
 minecraft:item/golden_shovel
+minecraft:item/golden_spear
+minecraft:item/golden_spear_in_hand
 minecraft:item/golden_sword
 minecraft:item/gray_bed
 minecraft:item/gray_bundle
@@ -3079,9 +3088,12 @@ minecraft:item/iron_leggings_netherite_trim
 minecraft:item/iron_leggings_quartz_trim
 minecraft:item/iron_leggings_redstone_trim
 minecraft:item/iron_leggings_resin_trim
+minecraft:item/iron_nautilus_armor
 minecraft:item/iron_nugget
 minecraft:item/iron_pickaxe
 minecraft:item/iron_shovel
+minecraft:item/iron_spear
+minecraft:item/iron_spear_in_hand
 minecraft:item/iron_sword
 minecraft:item/item_frame
 minecraft:item/jungle_boat
@@ -3254,6 +3266,7 @@ minecraft:item/music_disc_ward
 minecraft:item/mutton
 minecraft:item/name_tag
 minecraft:item/nautilus_shell
+minecraft:item/nautilus_spawn_egg
 minecraft:item/nether_brick
 minecraft:item/nether_sprouts
 minecraft:item/nether_star
@@ -3309,9 +3322,12 @@ minecraft:item/netherite_leggings_netherite_trim
 minecraft:item/netherite_leggings_quartz_trim
 minecraft:item/netherite_leggings_redstone_trim
 minecraft:item/netherite_leggings_resin_trim
+minecraft:item/netherite_nautilus_armor
 minecraft:item/netherite_pickaxe
 minecraft:item/netherite_scrap
 minecraft:item/netherite_shovel
+minecraft:item/netherite_spear
+minecraft:item/netherite_spear_in_hand
 minecraft:item/netherite_sword
 minecraft:item/netherite_upgrade_smithing_template
 minecraft:item/oak_boat
@@ -3503,6 +3519,7 @@ minecraft:item/snowball
 minecraft:item/soul_campfire
 minecraft:item/soul_lantern
 minecraft:item/soul_torch
+minecraft:item/spear_in_hand
 minecraft:item/spectral_arrow
 minecraft:item/spider_eye
 minecraft:item/spider_spawn_egg
@@ -3522,6 +3539,8 @@ minecraft:item/stone_axe
 minecraft:item/stone_hoe
 minecraft:item/stone_pickaxe
 minecraft:item/stone_shovel
+minecraft:item/stone_spear
+minecraft:item/stone_spear_in_hand
 minecraft:item/stone_sword
 minecraft:item/stray_spawn_egg
 minecraft:item/strider_spawn_egg
@@ -3629,6 +3648,8 @@ minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
 minecraft:item/wooden_shovel
+minecraft:item/wooden_spear
+minecraft:item/wooden_spear_in_hand
 minecraft:item/wooden_sword
 minecraft:item/writable_book
 minecraft:item/written_book
@@ -3643,6 +3664,7 @@ minecraft:item/yellow_shulker_box
 minecraft:item/yellow_stained_glass_pane
 minecraft:item/zoglin_spawn_egg
 minecraft:item/zombie_horse_spawn_egg
+minecraft:item/zombie_nautilus_spawn_egg
 minecraft:item/zombie_spawn_egg
 minecraft:item/zombie_villager_spawn_egg
 minecraft:item/zombified_piglin_spawn_egg

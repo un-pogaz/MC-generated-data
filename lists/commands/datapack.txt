@@ -1,6 +1,6 @@
-((required_level: 4))
+((permissions: owners))
 datapack create <id brigadier:string[type="phrase"]> <description minecraft:component>
-((required_level: 2))
+((permissions: gamemasters))
 datapack disable <name brigadier:string[type="phrase"]>
 datapack enable <name brigadier:string[type="phrase"]>
 datapack enable <name brigadier:string[type="phrase"]> after <existing brigadier:string[type="phrase"]>

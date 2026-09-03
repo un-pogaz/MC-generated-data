@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 data get block <targetPos minecraft:block_pos>
 data get block <targetPos minecraft:block_pos> <path minecraft:nbt_path>
 data get block <targetPos minecraft:block_pos> <path minecraft:nbt_path> <scale brigadier:double>

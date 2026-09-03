@@ -10,4 +10,5 @@ minecraft:spider
 minecraft:stray
 minecraft:witch
 minecraft:zombie
+minecraft:zombie_horse
 minecraft:zombie_villager

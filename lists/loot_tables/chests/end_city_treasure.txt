@@ -9,6 +9,7 @@ minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor
 minecraft:diamond_sword
+minecraft:diamond_spear
 minecraft:diamond_boots
 minecraft:diamond_chestplate
 minecraft:diamond_leggings

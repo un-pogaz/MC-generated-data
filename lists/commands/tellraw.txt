@@ -1,2 +1,2 @@
-((required_level: 2))
+((permissions: gamemasters))
 tellraw <targets minecraft:entity[type="players", amount="multiple"]> <message minecraft:component>

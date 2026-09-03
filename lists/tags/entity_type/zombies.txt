@@ -5,3 +5,4 @@ minecraft:zombified_piglin
 minecraft:zoglin
 minecraft:drowned
 minecraft:husk
+minecraft:zombie_nautilus

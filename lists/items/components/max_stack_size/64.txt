@@ -652,6 +652,7 @@ minecraft:mutton
 minecraft:mycelium
 minecraft:name_tag
 minecraft:nautilus_shell
+minecraft:nautilus_spawn_egg
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
@@ -1203,6 +1204,7 @@ minecraft:yellow_wool
 minecraft:zoglin_spawn_egg
 minecraft:zombie_head
 minecraft:zombie_horse_spawn_egg
+minecraft:zombie_nautilus_spawn_egg
 minecraft:zombie_spawn_egg
 minecraft:zombie_villager_spawn_egg
 minecraft:zombified_piglin_spawn_egg

@@ -35,6 +35,7 @@ minecraft:outside_border
 minecraft:player_attack
 minecraft:player_explosion
 minecraft:sonic_boom
+minecraft:spear
 minecraft:spit
 minecraft:stalagmite
 minecraft:starve
