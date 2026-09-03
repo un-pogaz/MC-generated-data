@@ -4642,7 +4642,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 80,
+          "duration": 60,
           "id": "minecraft:fire_resistance"
         }
       ]
@@ -9618,6 +9618,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
+          "duration": 220,
           "id": "minecraft:blindness"
         }
       ]
@@ -58149,7 +58150,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 120,
+          "duration": 100,
           "id": "minecraft:jump_boost"
         }
       ]
@@ -118584,7 +118585,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 240,
+          "duration": 220,
           "id": "minecraft:poison"
         }
       ]
@@ -159707,7 +159708,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 180,
+          "duration": 140,
           "id": "minecraft:weakness"
         }
       ]
@@ -159779,6 +159780,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
+          "duration": 140,
           "id": "minecraft:regeneration"
         }
       ]
@@ -169775,7 +169777,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 180,
+          "duration": 140,
           "id": "minecraft:weakness"
         }
       ]
@@ -211087,7 +211089,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 180,
+          "duration": 140,
           "id": "minecraft:weakness"
         }
       ]
@@ -282183,7 +282185,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
-          "duration": 180,
+          "duration": 140,
           "id": "minecraft:weakness"
         }
       ]
@@ -282255,6 +282257,7 @@
       "properties": {},
       "suspicious_stew_effects": [
         {
+          "duration": 140,
           "id": "minecraft:wither"
         }
       ]
