@@ -36300,23 +36300,23 @@
         Fuel: 0b,
         Items: [
           {
+            count: 1,
+            Slot: 0b,
             components: {
               "minecraft:potion_contents": {
                 potion: "minecraft:strong_healing"
               }
             },
-            count: 1,
-            Slot: 0b,
             id: "minecraft:potion"
           },
           {
+            count: 1,
+            Slot: 2b,
             components: {
               "minecraft:potion_contents": {
                 potion: "minecraft:strong_healing"
               }
             },
-            count: 1,
-            Slot: 2b,
             id: "minecraft:potion"
           }
         ],
@@ -36641,5 +36641,5 @@
       Name: "minecraft:dragon_wall_head"
     }
   ],
-  DataVersion: 4768
+  DataVersion: 4770
 }

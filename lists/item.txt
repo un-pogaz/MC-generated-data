@@ -560,6 +560,7 @@ minecraft:golden_axe
 minecraft:golden_boots
 minecraft:golden_carrot
 minecraft:golden_chestplate
+minecraft:golden_dandelion
 minecraft:golden_helmet
 minecraft:golden_hoe
 minecraft:golden_horse_armor
@@ -1526,7 +1527,9 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:camel_food
 #minecraft:camel_husk_food
 #minecraft:candles
+#minecraft:cat_collar_dyes
 #minecraft:cat_food
+#minecraft:cauldron_can_remove_dye
 #minecraft:chains
 #minecraft:cherry_logs
 #minecraft:chest_armor
@@ -1556,7 +1559,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:doors
 #minecraft:drowned_preferred_weapons
 #minecraft:duplicates_allays
-#minecraft:dyeable
+#minecraft:dyes
 #minecraft:eggs
 #minecraft:emerald_ores
 #minecraft:enchantable/armor
@@ -1616,6 +1619,8 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:llama_tempt_items
 #minecraft:logs
 #minecraft:logs_that_burn
+#minecraft:loom_dyes
+#minecraft:loom_patterns
 #minecraft:mangrove_logs
 #minecraft:map_invisibility_equipment
 #minecraft:meat
@@ -1689,6 +1694,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:warped_stems
 #minecraft:wart_blocks
 #minecraft:wither_skeleton_disliked_weapons
+#minecraft:wolf_collar_dyes
 #minecraft:wolf_food
 #minecraft:wooden_buttons
 #minecraft:wooden_doors

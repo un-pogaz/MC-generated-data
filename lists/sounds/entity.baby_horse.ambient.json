@@ -24,17 +24,16 @@
       "pitch": 0.75
     },
     {
+      "name": "mob/horse/baby_horse/ambient6",
+      "pitch": 0.75
+    },
+    {
       "name": "mob/horse/baby_horse/ambient7",
       "pitch": 0.75
     },
     {
       "name": "mob/horse/baby_horse/ambient8",
       "pitch": 0.75
-    },
-    {
-      "name": "mob/horse/baby_horse/ambient9",
-      "pitch": 0.75,
-      "weight": 2
     }
   ],
   "subtitle": "subtitles.entity.baby_horse.ambient"

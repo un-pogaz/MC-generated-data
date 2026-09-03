@@ -453,6 +453,7 @@ minecraft:block/glow_lichen
 minecraft:block/glowstone
 minecraft:block/gold_block
 minecraft:block/gold_ore
+minecraft:block/golden_dandelion
 minecraft:block/granite
 minecraft:block/grass_block_side
 minecraft:block/grass_block_side_overlay
@@ -1117,10 +1118,15 @@ minecraft:entity/allay/allay
 minecraft:entity/armadillo/armadillo
 minecraft:entity/armorstand/armorstand
 minecraft:entity/axolotl/axolotl_blue
+minecraft:entity/axolotl/axolotl_blue_baby
 minecraft:entity/axolotl/axolotl_cyan
+minecraft:entity/axolotl/axolotl_cyan_baby
 minecraft:entity/axolotl/axolotl_gold
+minecraft:entity/axolotl/axolotl_gold_baby
 minecraft:entity/axolotl/axolotl_lucy
+minecraft:entity/axolotl/axolotl_lucy_baby
 minecraft:entity/axolotl/axolotl_wild
+minecraft:entity/axolotl/axolotl_wild_baby
 minecraft:entity/banner/banner_base
 minecraft:entity/banner/base
 minecraft:entity/banner/border
@@ -1325,6 +1331,7 @@ minecraft:entity/decorated_pot/shelter_pottery_pattern
 minecraft:entity/decorated_pot/skull_pottery_pattern
 minecraft:entity/decorated_pot/snort_pottery_pattern
 minecraft:entity/dolphin/dolphin
+minecraft:entity/dolphin/dolphin_baby
 minecraft:entity/enchantment/enchanting_table_book
 minecraft:entity/end_crystal/end_crystal
 minecraft:entity/end_crystal/end_crystal_beam
@@ -1671,13 +1678,16 @@ minecraft:entity/spider/cave_spider
 minecraft:entity/spider/spider
 minecraft:entity/spider/spider_eyes
 minecraft:entity/squid/glow_squid
+minecraft:entity/squid/glow_squid_baby
 minecraft:entity/squid/squid
+minecraft:entity/squid/squid_baby
 minecraft:entity/strider/strider
 minecraft:entity/strider/strider_cold
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident/trident
 minecraft:entity/trident/trident_riptide
 minecraft:entity/turtle/turtle
+minecraft:entity/turtle/turtle_baby
 minecraft:entity/villager/profession/armorer
 minecraft:entity/villager/profession/butcher  [mcmeta]
 minecraft:entity/villager/profession/cartographer
@@ -1857,7 +1867,6 @@ minecraft:gui/container/smithing
 minecraft:gui/container/smoker
 minecraft:gui/container/stonecutter
 minecraft:gui/container/villager
-minecraft:gui/demo_background
 minecraft:gui/footer_separator
 minecraft:gui/hanging_signs/acacia
 minecraft:gui/hanging_signs/bamboo

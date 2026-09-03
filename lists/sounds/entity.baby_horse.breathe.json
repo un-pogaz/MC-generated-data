@@ -1,6 +1,6 @@
 {
   "sounds": [
-    "mob/horse/baby_horse/ambient9"
+    "mob/horse/baby_horse/ambient3"
   ],
   "subtitle": "subtitles.entity.baby_horse.breathe"
 }

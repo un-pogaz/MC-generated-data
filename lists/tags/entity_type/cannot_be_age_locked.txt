@@ -1,0 +1,2 @@
+minecraft:camel_husk
+minecraft:hoglin
