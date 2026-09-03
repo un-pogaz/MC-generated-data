@@ -44,4 +44,8 @@ minecraft:water_breathing
 minecraft:weakness
 minecraft:weaving
 minecraft:wind_charged
+#minecraft:douses_fire
+#minecraft:extinguishes_entities
+#minecraft:hurts_water_sensitive_entities
+#minecraft:rehydrates_axolotls
 #minecraft:tradeable

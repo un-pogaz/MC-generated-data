@@ -57,6 +57,7 @@ minecraft:wither_skull
 #minecraft:burn_from_stepping
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
+#minecraft:bypasses_cooldown
 #minecraft:bypasses_effects
 #minecraft:bypasses_enchantments
 #minecraft:bypasses_invulnerability
