@@ -1773,6 +1773,7 @@ minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
 minecraft:gui/container/loom
+minecraft:gui/container/nautilus
 minecraft:gui/container/shulker_box
 minecraft:gui/container/smithing
 minecraft:gui/container/smoker
@@ -1963,6 +1964,7 @@ minecraft:gui/sprites/container/slot/lapis_lazuli
 minecraft:gui/sprites/container/slot/leggings
 minecraft:gui/sprites/container/slot/llama_armor
 minecraft:gui/sprites/container/slot/nautilus_armor
+minecraft:gui/sprites/container/slot/nautilus_armor_inventory
 minecraft:gui/sprites/container/slot/pickaxe
 minecraft:gui/sprites/container/slot/potion
 minecraft:gui/sprites/container/slot/quartz
