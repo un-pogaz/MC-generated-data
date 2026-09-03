@@ -869,26 +869,26 @@
   ],
   palette: [
     {
-      Name: "minecraft:mud_bricks"
+      id: "minecraft:mud_bricks"
     },
     {
-      Name: "minecraft:gravel"
+      id: "minecraft:gravel"
     },
     {
-      Name: "minecraft:red_terracotta"
+      id: "minecraft:red_terracotta"
     },
     {
-      Name: "minecraft:blue_terracotta"
+      id: "minecraft:blue_terracotta"
     },
     {
-      Name: "minecraft:cauldron"
+      id: "minecraft:cauldron"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "south_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

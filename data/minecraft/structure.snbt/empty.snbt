@@ -9,8 +9,8 @@
   ],
   palette: [
     {
-      Name: "minecraft:air"
+      id: "minecraft:air"
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

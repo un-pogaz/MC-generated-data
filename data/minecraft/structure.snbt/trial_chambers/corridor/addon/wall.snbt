@@ -1085,14 +1085,14 @@
   ],
   palette: [
     {
-      Name: "minecraft:tuff_bricks"
+      id: "minecraft:tuff_bricks"
     },
     {
-      Name: "minecraft:waxed_oxidized_cut_copper"
+      id: "minecraft:waxed_oxidized_cut_copper"
     },
     {
-      Name: "minecraft:air"
+      id: "minecraft:air"
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

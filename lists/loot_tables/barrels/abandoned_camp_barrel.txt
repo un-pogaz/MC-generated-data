@@ -4,12 +4,15 @@ minecraft:bowl
 minecraft:bread
 minecraft:coal
 minecraft:cobweb
-minecraft:fishing_rod
 minecraft:glass_bottle
 minecraft:leather
-minecraft:bundle
 minecraft:rabbit_hide
 minecraft:string
 minecraft:wheat
 minecraft:white_candle
+minecraft:white_cushion
+minecraft:straw_bed
+
+minecraft:bundle
 minecraft:wooden_axe
+minecraft:fishing_rod

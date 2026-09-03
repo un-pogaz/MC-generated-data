@@ -2621,6 +2621,7 @@ minecraft:gui/title/minceraft
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojangstudios
 minecraft:gui/title/realms
+minecraft:item/abandoned_campsite_map
 minecraft:item/acacia_boat
 minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
@@ -2628,6 +2629,7 @@ minecraft:item/acacia_hanging_sign
 minecraft:item/acacia_sign
 minecraft:item/allay_spawn_egg
 minecraft:item/amethyst_shard
+minecraft:item/ancient_city_map
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
@@ -2707,6 +2709,7 @@ minecraft:item/bucket
 minecraft:item/bundle
 minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
+minecraft:item/buried_treasure_map
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
 minecraft:item/camel_husk_spawn_egg
@@ -2890,6 +2893,8 @@ minecraft:item/dark_oak_chest_boat
 minecraft:item/dark_oak_door
 minecraft:item/dark_oak_hanging_sign
 minecraft:item/dark_oak_sign
+minecraft:item/desert_pyramid_map
+minecraft:item/desert_village_map
 minecraft:item/diamond
 minecraft:item/diamond_axe
 minecraft:item/diamond_boots
@@ -2935,7 +2940,6 @@ minecraft:item/feather
 minecraft:item/fermented_spider_eye
 minecraft:item/field_masoned_banner_pattern
 minecraft:item/filled_map
-minecraft:item/filled_map_markings
 minecraft:item/fire_charge
 minecraft:item/firefly_bush
 minecraft:item/firework_rocket
@@ -3039,6 +3043,7 @@ minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
 minecraft:item/jungle_hanging_sign
 minecraft:item/jungle_sign
+minecraft:item/jungle_temple_map
 minecraft:item/kelp
 minecraft:item/knowledge_book
 minecraft:item/lantern
@@ -3118,6 +3123,7 @@ minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/miner_pottery_sherd
+minecraft:item/mineshaft_map
 minecraft:item/mojang_banner_pattern
 minecraft:item/mooshroom_spawn_egg
 minecraft:item/mourner_pottery_sherd
@@ -3174,6 +3180,7 @@ minecraft:item/oak_chest_boat
 minecraft:item/oak_door
 minecraft:item/oak_hanging_sign
 minecraft:item/oak_sign
+minecraft:item/ocean_monument_map
 minecraft:item/ocelot_spawn_egg
 minecraft:item/ominous_bottle
 minecraft:item/ominous_trial_key
@@ -3214,6 +3221,7 @@ minecraft:item/pink_harness
 minecraft:item/pink_petals
 minecraft:item/pitcher_plant
 minecraft:item/pitcher_pod
+minecraft:item/plains_village_map
 minecraft:item/plenty_pottery_sherd
 minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
@@ -3304,6 +3312,7 @@ minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
 minecraft:item/salmon_spawn_egg
+minecraft:item/savanna_village_map
 minecraft:item/scrape_pottery_sherd
 minecraft:item/sea_pickle
 minecraft:item/seagrass
@@ -3329,6 +3338,7 @@ minecraft:item/snort_pottery_sherd
 minecraft:item/snout_armor_trim_smithing_template
 minecraft:item/snow_golem_spawn_egg
 minecraft:item/snowball
+minecraft:item/snowy_village_map
 minecraft:item/soul_campfire
 minecraft:item/soul_lantern
 minecraft:item/spectral_arrow
@@ -3362,9 +3372,11 @@ minecraft:item/sulfur_cube_bucket
 minecraft:item/sulfur_cube_spawn_egg
 minecraft:item/sulfur_spike
 minecraft:item/suspicious_stew
+minecraft:item/swamp_hut_map
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
 minecraft:item/tadpole_spawn_egg
+minecraft:item/taiga_village_map
 minecraft:item/tide_armor_trim_smithing_template
 minecraft:item/tipped_arrow_base
 minecraft:item/tipped_arrow_head
@@ -3372,6 +3384,7 @@ minecraft:item/tnt_minecart
 minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
 minecraft:item/trader_llama_spawn_egg
+minecraft:item/trial_chamber_map
 minecraft:item/trial_key
 minecraft:item/trident
 minecraft:item/tropical_fish
@@ -3388,6 +3401,7 @@ minecraft:item/vindicator_spawn_egg
 minecraft:item/wandering_trader_spawn_egg
 minecraft:item/ward_armor_trim_smithing_template
 minecraft:item/warden_spawn_egg
+minecraft:item/warm_ocean_ruins_map
 minecraft:item/warped_door
 minecraft:item/warped_fungus_on_a_stick
 minecraft:item/warped_hanging_sign
@@ -3422,6 +3436,7 @@ minecraft:item/wooden_shovel
 minecraft:item/wooden_spear
 minecraft:item/wooden_spear_in_hand
 minecraft:item/wooden_sword
+minecraft:item/woodland_mansion_map
 minecraft:item/writable_book
 minecraft:item/written_book
 minecraft:item/yellow_bundle
@@ -3437,11 +3452,14 @@ minecraft:item/zombie_nautilus_spawn_egg
 minecraft:item/zombie_spawn_egg
 minecraft:item/zombie_villager_spawn_egg
 minecraft:item/zombified_piglin_spawn_egg
+minecraft:map/decorations/abandoned_camp
+minecraft:map/decorations/ancient_city
 minecraft:map/decorations/black_banner
 minecraft:map/decorations/blue_banner
 minecraft:map/decorations/blue_marker
 minecraft:map/decorations/brown_banner
 minecraft:map/decorations/cyan_banner
+minecraft:map/decorations/desert_pyramid
 minecraft:map/decorations/desert_village
 minecraft:map/decorations/frame
 minecraft:map/decorations/gray_banner
@@ -3451,6 +3469,7 @@ minecraft:map/decorations/light_blue_banner
 minecraft:map/decorations/light_gray_banner
 minecraft:map/decorations/lime_banner
 minecraft:map/decorations/magenta_banner
+minecraft:map/decorations/mineshaft
 minecraft:map/decorations/ocean_monument
 minecraft:map/decorations/orange_banner
 minecraft:map/decorations/pink_banner
@@ -3469,6 +3488,7 @@ minecraft:map/decorations/taiga_village
 minecraft:map/decorations/target_point
 minecraft:map/decorations/target_x
 minecraft:map/decorations/trial_chambers
+minecraft:map/decorations/warm_ocean_ruins
 minecraft:map/decorations/white_banner
 minecraft:map/decorations/woodland_mansion
 minecraft:map/decorations/yellow_banner

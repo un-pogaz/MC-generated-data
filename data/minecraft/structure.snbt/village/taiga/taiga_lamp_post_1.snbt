@@ -21,14 +21,14 @@
   ],
   palette: [
     {
-      Name: "minecraft:torch"
+      id: "minecraft:torch"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "down_south"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

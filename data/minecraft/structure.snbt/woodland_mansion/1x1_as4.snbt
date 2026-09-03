@@ -1573,11 +1573,11 @@
   ],
   palette: [
     {
-      Name: "minecraft:birch_planks"
+      id: "minecraft:birch_planks"
     },
     {
-      Name: "minecraft:air"
+      id: "minecraft:air"
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }
