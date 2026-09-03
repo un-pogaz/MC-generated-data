@@ -13,6 +13,7 @@ minecraft:armorer/2/emerald_enchanted_iron_boots_group_1
 minecraft:armorer/2/emerald_enchanted_iron_chestplate_group_1
 minecraft:armorer/2/emerald_enchanted_iron_helmet_group_1
 minecraft:armorer/2/emerald_enchanted_iron_leggings_group_1
+minecraft:armorer/3/diamond_emerald
 minecraft:armorer/3/emerald_bell
 minecraft:armorer/3/emerald_chainmail_chestplate
 minecraft:armorer/3/emerald_chainmail_helmet
@@ -355,7 +356,6 @@ minecraft:shepherd/5/emerald_painting
 minecraft:smith/1/coal_emerald
 minecraft:smith/2/emerald_bell
 minecraft:smith/2/iron_ingot_emerald
-minecraft:smith/4/diamond_emerald
 minecraft:toolsmith/1/emerald_stone_axe
 minecraft:toolsmith/1/emerald_stone_hoe
 minecraft:toolsmith/1/emerald_stone_pickaxe
@@ -365,6 +365,7 @@ minecraft:toolsmith/3/emerald_enchanted_iron_axe
 minecraft:toolsmith/3/emerald_enchanted_iron_pickaxe
 minecraft:toolsmith/3/emerald_enchanted_iron_shovel
 minecraft:toolsmith/3/flint_emerald
+minecraft:toolsmith/4/diamond_emerald
 minecraft:toolsmith/4/emerald_enchanted_diamond_axe
 minecraft:toolsmith/4/emerald_enchanted_diamond_shovel
 minecraft:toolsmith/5/emerald_enchanted_diamond_pickaxe
@@ -465,6 +466,7 @@ minecraft:wandering_trader/water_bucket_emerald
 minecraft:weaponsmith/1/emerald_enchanted_iron_sword
 minecraft:weaponsmith/1/emerald_iron_axe
 minecraft:weaponsmith/3/flint_emerald
+minecraft:weaponsmith/4/diamond_emerald
 minecraft:weaponsmith/4/emerald_enchanted_diamond_axe
 minecraft:weaponsmith/5/emerald_enchanted_diamond_sword
 #minecraft:armorer/level_1

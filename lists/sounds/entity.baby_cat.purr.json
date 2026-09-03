@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.baby_cat.ambient",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_cat.purr"
+}
