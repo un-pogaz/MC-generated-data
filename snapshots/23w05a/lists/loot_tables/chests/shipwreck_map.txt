@@ -6,6 +6,3 @@ minecraft:clock
 minecraft:paper
 minecraft:feather
 minecraft:book
-
-empty
-minecraft:coast_armor_trim_smithing_template

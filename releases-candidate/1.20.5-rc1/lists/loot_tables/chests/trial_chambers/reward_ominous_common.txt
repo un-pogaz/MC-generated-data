@@ -1,5 +1,1 @@
-minecraft:emerald
-minecraft:wind_charge
-minecraft:tipped_arrow
-minecraft:diamond
-minecraft:ominous_bottle
+empty

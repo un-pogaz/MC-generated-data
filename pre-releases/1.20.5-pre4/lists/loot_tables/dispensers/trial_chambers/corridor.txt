@@ -1,1 +1,1 @@
-minecraft:arrow
+empty
