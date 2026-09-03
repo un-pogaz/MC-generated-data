@@ -1,6 +1,7 @@
 minecraft:coal
 minecraft:gold_nugget
 minecraft:emerald
+minecraft:stone_spear
 minecraft:wheat
 
 minecraft:golden_apple
@@ -9,3 +10,9 @@ minecraft:leather_chestplate
 minecraft:golden_helmet
 minecraft:fishing_rod
 minecraft:explorer_map
+
+empty
+minecraft:copper_nautilus_armor
+minecraft:iron_nautilus_armor
+minecraft:golden_nautilus_armor
+minecraft:diamond_nautilus_armor

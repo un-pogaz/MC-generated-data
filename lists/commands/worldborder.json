@@ -10,7 +10,7 @@
             "time": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
                 "min": 0
               }
@@ -79,7 +79,7 @@
             "time": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
                 "min": 0
               }
@@ -116,7 +116,7 @@
             "time": {
               "type": "argument",
               "executable": true,
-              "parser": "brigadier:integer",
+              "parser": "minecraft:time",
               "properties": {
                 "min": 0
               }
@@ -126,5 +126,11 @@
       }
     }
   },
-  "required_level": 2
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
 }

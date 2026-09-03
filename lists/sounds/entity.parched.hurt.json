@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/parched/hurt1",
+    "mob/parched/hurt2",
+    "mob/parched/hurt3",
+    "mob/parched/hurt4"
+  ],
+  "subtitle": "subtitles.entity.parched.hurt"
+}

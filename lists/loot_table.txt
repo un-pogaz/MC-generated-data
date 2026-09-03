@@ -81,6 +81,7 @@ minecraft:entities/blaze
 minecraft:entities/bogged
 minecraft:entities/breeze
 minecraft:entities/camel
+minecraft:entities/camel_husk
 minecraft:entities/cat
 minecraft:entities/cave_spider
 minecraft:entities/chicken
@@ -115,8 +116,10 @@ minecraft:entities/magma_cube
 minecraft:entities/mannequin
 minecraft:entities/mooshroom
 minecraft:entities/mule
+minecraft:entities/nautilus
 minecraft:entities/ocelot
 minecraft:entities/panda
+minecraft:entities/parched
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
@@ -173,6 +176,7 @@ minecraft:entities/wolf
 minecraft:entities/zoglin
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
+minecraft:entities/zombie_nautilus
 minecraft:entities/zombie_villager
 minecraft:entities/zombified_piglin
 minecraft:equipment/trial_chamber

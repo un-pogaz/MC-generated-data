@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 time add <time minecraft:time[min="0"]>
 time query day
 time query daytime

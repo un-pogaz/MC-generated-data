@@ -1,3 +1,3 @@
-((required_level: 3))
+((permissions: admins))
 kick <targets minecraft:entity[type="players", amount="multiple"]>
 kick <targets minecraft:entity[type="players", amount="multiple"]> <reason minecraft:message>

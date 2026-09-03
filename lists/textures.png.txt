@@ -1,6 +1,6 @@
 minecraft:block/acacia_door_bottom
 minecraft:block/acacia_door_top
-minecraft:block/acacia_leaves
+minecraft:block/acacia_leaves  [mcmeta]
 minecraft:block/acacia_log
 minecraft:block/acacia_log_top
 minecraft:block/acacia_planks
@@ -9,9 +9,9 @@ minecraft:block/acacia_shelf
 minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
-minecraft:block/allium
+minecraft:block/allium  [mcmeta]
 minecraft:block/amethyst_block
-minecraft:block/amethyst_cluster
+minecraft:block/amethyst_cluster  [mcmeta]
 minecraft:block/ancient_debris_side
 minecraft:block/ancient_debris_top
 minecraft:block/andesite
@@ -19,11 +19,11 @@ minecraft:block/anvil
 minecraft:block/anvil_top
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
-minecraft:block/azalea_leaves
+minecraft:block/azalea_leaves  [mcmeta]
 minecraft:block/azalea_plant
 minecraft:block/azalea_side
 minecraft:block/azalea_top
-minecraft:block/azure_bluet
+minecraft:block/azure_bluet  [mcmeta]
 minecraft:block/bamboo_block
 minecraft:block/bamboo_block_top
 minecraft:block/bamboo_door_bottom
@@ -71,7 +71,7 @@ minecraft:block/big_dripleaf_tip
 minecraft:block/big_dripleaf_top
 minecraft:block/birch_door_bottom
 minecraft:block/birch_door_top
-minecraft:block/birch_leaves
+minecraft:block/birch_leaves  [mcmeta]
 minecraft:block/birch_log
 minecraft:block/birch_log_top
 minecraft:block/birch_planks
@@ -100,7 +100,7 @@ minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
 minecraft:block/blue_ice
-minecraft:block/blue_orchid
+minecraft:block/blue_orchid  [mcmeta]
 minecraft:block/blue_shulker_box
 minecraft:block/blue_stained_glass
 minecraft:block/blue_stained_glass_pane_top
@@ -120,7 +120,7 @@ minecraft:block/brown_candle_lit
 minecraft:block/brown_concrete
 minecraft:block/brown_concrete_powder
 minecraft:block/brown_glazed_terracotta
-minecraft:block/brown_mushroom
+minecraft:block/brown_mushroom  [mcmeta]
 minecraft:block/brown_mushroom_block
 minecraft:block/brown_shulker_box
 minecraft:block/brown_stained_glass
@@ -133,7 +133,7 @@ minecraft:block/bubble_coral_fan
 minecraft:block/budding_amethyst
 minecraft:block/bush
 minecraft:block/cactus_bottom
-minecraft:block/cactus_flower
+minecraft:block/cactus_flower  [mcmeta]
 minecraft:block/cactus_side
 minecraft:block/cactus_top
 minecraft:block/cake_bottom
@@ -172,7 +172,7 @@ minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/cherry_door_bottom
 minecraft:block/cherry_door_top
-minecraft:block/cherry_leaves
+minecraft:block/cherry_leaves  [mcmeta]
 minecraft:block/cherry_log
 minecraft:block/cherry_log_top
 minecraft:block/cherry_planks
@@ -202,7 +202,7 @@ minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
 minecraft:block/clay
-minecraft:block/closed_eyeblossom
+minecraft:block/closed_eyeblossom  [mcmeta]
 minecraft:block/coal_block
 minecraft:block/coal_ore
 minecraft:block/coarse_dirt
@@ -238,7 +238,7 @@ minecraft:block/copper_lantern  [mcmeta]
 minecraft:block/copper_ore
 minecraft:block/copper_torch
 minecraft:block/copper_trapdoor
-minecraft:block/cornflower
+minecraft:block/cornflower  [mcmeta]
 minecraft:block/cracked_deepslate_bricks
 minecraft:block/cracked_deepslate_tiles
 minecraft:block/cracked_nether_bricks
@@ -269,7 +269,7 @@ minecraft:block/creaking_heart_top_awake
 minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
-minecraft:block/crimson_fungus
+minecraft:block/crimson_fungus  [mcmeta]
 minecraft:block/crimson_nylium
 minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
@@ -294,10 +294,10 @@ minecraft:block/cyan_stained_glass_pane_top
 minecraft:block/cyan_terracotta
 minecraft:block/cyan_wool
 minecraft:block/damaged_anvil_top
-minecraft:block/dandelion
+minecraft:block/dandelion  [mcmeta]
 minecraft:block/dark_oak_door_bottom
 minecraft:block/dark_oak_door_top
-minecraft:block/dark_oak_leaves
+minecraft:block/dark_oak_leaves  [mcmeta]
 minecraft:block/dark_oak_log
 minecraft:block/dark_oak_log_top
 minecraft:block/dark_oak_planks
@@ -433,7 +433,7 @@ minecraft:block/fletching_table_front
 minecraft:block/fletching_table_side
 minecraft:block/fletching_table_top
 minecraft:block/flower_pot
-minecraft:block/flowering_azalea_leaves
+minecraft:block/flowering_azalea_leaves  [mcmeta]
 minecraft:block/flowering_azalea_side
 minecraft:block/flowering_azalea_top
 minecraft:block/frogspawn
@@ -446,7 +446,7 @@ minecraft:block/furnace_front_on
 minecraft:block/furnace_side
 minecraft:block/furnace_top
 minecraft:block/gilded_blackstone
-minecraft:block/glass
+minecraft:block/glass  [mcmeta]
 minecraft:block/glass_pane_top
 minecraft:block/glow_item_frame
 minecraft:block/glow_lichen
@@ -514,7 +514,7 @@ minecraft:block/jukebox_side
 minecraft:block/jukebox_top
 minecraft:block/jungle_door_bottom
 minecraft:block/jungle_door_top
-minecraft:block/jungle_leaves
+minecraft:block/jungle_leaves  [mcmeta]
 minecraft:block/jungle_log
 minecraft:block/jungle_log_top
 minecraft:block/jungle_planks
@@ -527,7 +527,7 @@ minecraft:block/ladder
 minecraft:block/lantern  [mcmeta]
 minecraft:block/lapis_block
 minecraft:block/lapis_ore
-minecraft:block/large_amethyst_bud
+minecraft:block/large_amethyst_bud  [mcmeta]
 minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
@@ -562,7 +562,7 @@ minecraft:block/lightning_rod
 minecraft:block/lightning_rod_on
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
-minecraft:block/lily_of_the_valley
+minecraft:block/lily_of_the_valley  [mcmeta]
 minecraft:block/lily_pad
 minecraft:block/lime_candle
 minecraft:block/lime_candle_lit
@@ -593,17 +593,17 @@ minecraft:block/magenta_wool
 minecraft:block/magma  [mcmeta]
 minecraft:block/mangrove_door_bottom
 minecraft:block/mangrove_door_top
-minecraft:block/mangrove_leaves
+minecraft:block/mangrove_leaves  [mcmeta]
 minecraft:block/mangrove_log
 minecraft:block/mangrove_log_top
 minecraft:block/mangrove_planks
 minecraft:block/mangrove_propagule
 minecraft:block/mangrove_propagule_hanging
-minecraft:block/mangrove_roots_side
-minecraft:block/mangrove_roots_top
+minecraft:block/mangrove_roots_side  [mcmeta]
+minecraft:block/mangrove_roots_top  [mcmeta]
 minecraft:block/mangrove_shelf
 minecraft:block/mangrove_trapdoor
-minecraft:block/medium_amethyst_bud
+minecraft:block/medium_amethyst_bud  [mcmeta]
 minecraft:block/melon_side
 minecraft:block/melon_stem
 minecraft:block/melon_top
@@ -622,7 +622,7 @@ minecraft:block/nether_bricks
 minecraft:block/nether_gold_ore
 minecraft:block/nether_portal  [mcmeta]
 minecraft:block/nether_quartz_ore
-minecraft:block/nether_sprouts
+minecraft:block/nether_sprouts  [mcmeta]
 minecraft:block/nether_wart_block
 minecraft:block/nether_wart_stage0
 minecraft:block/nether_wart_stage1
@@ -632,7 +632,7 @@ minecraft:block/netherrack
 minecraft:block/note_block
 minecraft:block/oak_door_bottom
 minecraft:block/oak_door_top
-minecraft:block/oak_leaves
+minecraft:block/oak_leaves  [mcmeta]
 minecraft:block/oak_log
 minecraft:block/oak_log_top
 minecraft:block/oak_planks
@@ -647,7 +647,7 @@ minecraft:block/observer_top
 minecraft:block/obsidian
 minecraft:block/ochre_froglight_side
 minecraft:block/ochre_froglight_top
-minecraft:block/open_eyeblossom
+minecraft:block/open_eyeblossom  [mcmeta]
 minecraft:block/open_eyeblossom_emissive
 minecraft:block/orange_candle
 minecraft:block/orange_candle_lit
@@ -658,9 +658,9 @@ minecraft:block/orange_shulker_box
 minecraft:block/orange_stained_glass
 minecraft:block/orange_stained_glass_pane_top
 minecraft:block/orange_terracotta
-minecraft:block/orange_tulip
+minecraft:block/orange_tulip  [mcmeta]
 minecraft:block/orange_wool
-minecraft:block/oxeye_daisy
+minecraft:block/oxeye_daisy  [mcmeta]
 minecraft:block/oxidized_chiseled_copper
 minecraft:block/oxidized_copper
 minecraft:block/oxidized_copper_bars
@@ -686,7 +686,7 @@ minecraft:block/pale_moss_carpet_side_small
 minecraft:block/pale_moss_carpet_side_tall
 minecraft:block/pale_oak_door_bottom
 minecraft:block/pale_oak_door_top
-minecraft:block/pale_oak_leaves
+minecraft:block/pale_oak_leaves  [mcmeta]
 minecraft:block/pale_oak_log
 minecraft:block/pale_oak_log_top
 minecraft:block/pale_oak_planks
@@ -708,7 +708,7 @@ minecraft:block/pink_shulker_box
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_top
 minecraft:block/pink_terracotta
-minecraft:block/pink_tulip
+minecraft:block/pink_tulip  [mcmeta]
 minecraft:block/pink_wool
 minecraft:block/piston_bottom
 minecraft:block/piston_inner
@@ -745,7 +745,7 @@ minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/polished_tuff
-minecraft:block/poppy
+minecraft:block/poppy  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
@@ -793,7 +793,7 @@ minecraft:block/red_candle_lit
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_glazed_terracotta
-minecraft:block/red_mushroom
+minecraft:block/red_mushroom  [mcmeta]
 minecraft:block/red_mushroom_block
 minecraft:block/red_nether_bricks
 minecraft:block/red_sand
@@ -804,13 +804,13 @@ minecraft:block/red_shulker_box
 minecraft:block/red_stained_glass
 minecraft:block/red_stained_glass_pane_top
 minecraft:block/red_terracotta
-minecraft:block/red_tulip
+minecraft:block/red_tulip  [mcmeta]
 minecraft:block/red_wool
 minecraft:block/redstone_block
-minecraft:block/redstone_dust_dot
-minecraft:block/redstone_dust_line0
-minecraft:block/redstone_dust_line1
-minecraft:block/redstone_dust_overlay
+minecraft:block/redstone_dust_dot  [mcmeta]
+minecraft:block/redstone_dust_line0  [mcmeta]
+minecraft:block/redstone_dust_line1  [mcmeta]
+minecraft:block/redstone_dust_overlay  [mcmeta]
 minecraft:block/redstone_lamp
 minecraft:block/redstone_lamp_on
 minecraft:block/redstone_ore
@@ -871,7 +871,7 @@ minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/slime_block
-minecraft:block/small_amethyst_bud
+minecraft:block/small_amethyst_bud  [mcmeta]
 minecraft:block/small_dripleaf_side
 minecraft:block/small_dripleaf_stem_bottom
 minecraft:block/small_dripleaf_stem_top
@@ -921,7 +921,7 @@ minecraft:block/spore_blossom
 minecraft:block/spore_blossom_base
 minecraft:block/spruce_door_bottom
 minecraft:block/spruce_door_top
-minecraft:block/spruce_leaves
+minecraft:block/spruce_leaves  [mcmeta]
 minecraft:block/spruce_log
 minecraft:block/spruce_log_top
 minecraft:block/spruce_planks
@@ -976,7 +976,7 @@ minecraft:block/suspicious_sand_0
 minecraft:block/suspicious_sand_1
 minecraft:block/suspicious_sand_2
 minecraft:block/suspicious_sand_3
-minecraft:block/sweet_berry_bush_stage0
+minecraft:block/sweet_berry_bush_stage0  [mcmeta]
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
 minecraft:block/sweet_berry_bush_stage3
@@ -998,7 +998,7 @@ minecraft:block/tnt_bottom
 minecraft:block/tnt_side
 minecraft:block/tnt_top
 minecraft:block/torch
-minecraft:block/torchflower
+minecraft:block/torchflower  [mcmeta]
 minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
 minecraft:block/trial_spawner_bottom
@@ -1045,7 +1045,7 @@ minecraft:block/verdant_froglight_top
 minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
-minecraft:block/warped_fungus
+minecraft:block/warped_fungus  [mcmeta]
 minecraft:block/warped_nylium
 minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
@@ -1094,11 +1094,11 @@ minecraft:block/white_shulker_box
 minecraft:block/white_stained_glass
 minecraft:block/white_stained_glass_pane_top
 minecraft:block/white_terracotta
-minecraft:block/white_tulip
+minecraft:block/white_tulip  [mcmeta]
 minecraft:block/white_wool
 minecraft:block/wildflowers
 minecraft:block/wildflowers_stem
-minecraft:block/wither_rose
+minecraft:block/wither_rose  [mcmeta]
 minecraft:block/yellow_candle
 minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
@@ -1205,6 +1205,7 @@ minecraft:entity/breeze/breeze
 minecraft:entity/breeze/breeze_eyes
 minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
+minecraft:entity/camel/camel_husk
 minecraft:entity/cat/all_black
 minecraft:entity/cat/black
 minecraft:entity/cat/british_shorthair
@@ -1315,6 +1316,7 @@ minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
+minecraft:entity/equipment/camel_husk_saddle/saddle
 minecraft:entity/equipment/camel_saddle/saddle
 minecraft:entity/equipment/donkey_saddle/saddle
 minecraft:entity/equipment/happy_ghast_body/black_harness
@@ -1338,6 +1340,8 @@ minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
+minecraft:entity/equipment/horse_body/leather_overlay
+minecraft:entity/equipment/horse_body/netherite
 minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
 minecraft:entity/equipment/humanoid/copper
@@ -1374,6 +1378,12 @@ minecraft:entity/equipment/llama_body/trader_llama
 minecraft:entity/equipment/llama_body/white
 minecraft:entity/equipment/llama_body/yellow
 minecraft:entity/equipment/mule_saddle/saddle
+minecraft:entity/equipment/nautilus_body/copper
+minecraft:entity/equipment/nautilus_body/diamond
+minecraft:entity/equipment/nautilus_body/gold
+minecraft:entity/equipment/nautilus_body/iron
+minecraft:entity/equipment/nautilus_body/netherite
+minecraft:entity/equipment/nautilus_saddle/saddle
 minecraft:entity/equipment/pig_saddle/saddle
 minecraft:entity/equipment/skeleton_horse_saddle/saddle
 minecraft:entity/equipment/strider_saddle/saddle
@@ -1452,6 +1462,10 @@ minecraft:entity/llama/gray
 minecraft:entity/llama/spit
 minecraft:entity/llama/white
 minecraft:entity/minecart
+minecraft:entity/nautilus/nautilus
+minecraft:entity/nautilus/nautilus_baby
+minecraft:entity/nautilus/zombie_nautilus
+minecraft:entity/nautilus/zombie_nautilus_coral
 minecraft:entity/panda/aggressive_panda
 minecraft:entity/panda/brown_panda
 minecraft:entity/panda/lazy_panda
@@ -1595,6 +1609,7 @@ minecraft:entity/signs/warped
 minecraft:entity/silverfish
 minecraft:entity/skeleton/bogged
 minecraft:entity/skeleton/bogged_overlay
+minecraft:entity/skeleton/parched
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
 minecraft:entity/skeleton/stray_overlay
@@ -1713,13 +1728,20 @@ minecraft:entity/zombie_villager/type/snow
 minecraft:entity/zombie_villager/type/swamp
 minecraft:entity/zombie_villager/type/taiga
 minecraft:entity/zombie_villager/zombie_villager
+minecraft:environment/celestial/end_flash
+minecraft:environment/celestial/moon/first_quarter
+minecraft:environment/celestial/moon/full_moon
+minecraft:environment/celestial/moon/new_moon
+minecraft:environment/celestial/moon/third_quarter
+minecraft:environment/celestial/moon/waning_crescent
+minecraft:environment/celestial/moon/waning_gibbous
+minecraft:environment/celestial/moon/waxing_crescent
+minecraft:environment/celestial/moon/waxing_gibbous
+minecraft:environment/celestial/sun
 minecraft:environment/clouds
-minecraft:environment/end_flash
 minecraft:environment/end_sky
-minecraft:environment/moon_phases
 minecraft:environment/rain
 minecraft:environment/snow
-minecraft:environment/sun
 minecraft:font/accented
 minecraft:font/ascii
 minecraft:font/ascii_sga
@@ -1752,6 +1774,7 @@ minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
 minecraft:gui/container/loom
+minecraft:gui/container/nautilus
 minecraft:gui/container/shulker_box
 minecraft:gui/container/smithing
 minecraft:gui/container/smoker
@@ -1915,8 +1938,8 @@ minecraft:gui/sprites/container/furnace/burn_progress
 minecraft:gui/sprites/container/furnace/lit_progress
 minecraft:gui/sprites/container/grindstone/error
 minecraft:gui/sprites/container/horse/chest_slots
-minecraft:gui/sprites/container/inventory/effect_background_large
-minecraft:gui/sprites/container/inventory/effect_background_small
+minecraft:gui/sprites/container/inventory/effect_background  [mcmeta]
+minecraft:gui/sprites/container/inventory/effect_background_ambient  [mcmeta]
 minecraft:gui/sprites/container/loom/error
 minecraft:gui/sprites/container/loom/pattern
 minecraft:gui/sprites/container/loom/pattern_highlighted
@@ -1941,6 +1964,8 @@ minecraft:gui/sprites/container/slot/ingot
 minecraft:gui/sprites/container/slot/lapis_lazuli
 minecraft:gui/sprites/container/slot/leggings
 minecraft:gui/sprites/container/slot/llama_armor
+minecraft:gui/sprites/container/slot/nautilus_armor
+minecraft:gui/sprites/container/slot/nautilus_armor_inventory
 minecraft:gui/sprites/container/slot/pickaxe
 minecraft:gui/sprites/container/slot/potion
 minecraft:gui/sprites/container/slot/quartz
@@ -1950,6 +1975,7 @@ minecraft:gui/sprites/container/slot/shield
 minecraft:gui/sprites/container/slot/shovel
 minecraft:gui/sprites/container/slot/smithing_template_armor_trim
 minecraft:gui/sprites/container/slot/smithing_template_netherite_upgrade
+minecraft:gui/sprites/container/slot/spear
 minecraft:gui/sprites/container/slot/sword
 minecraft:gui/sprites/container/slot_highlight_back  [mcmeta]
 minecraft:gui/sprites/container/slot_highlight_front  [mcmeta]
@@ -2329,6 +2355,7 @@ minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
+minecraft:item/camel_husk_spawn_egg
 minecraft:item/camel_spawn_egg
 minecraft:item/campfire
 minecraft:item/candle
@@ -2476,9 +2503,12 @@ minecraft:item/copper_horse_armor
 minecraft:item/copper_ingot
 minecraft:item/copper_lantern
 minecraft:item/copper_leggings
+minecraft:item/copper_nautilus_armor
 minecraft:item/copper_nugget
 minecraft:item/copper_pickaxe
 minecraft:item/copper_shovel
+minecraft:item/copper_spear
+minecraft:item/copper_spear_in_hand
 minecraft:item/copper_sword
 minecraft:item/cow_spawn_egg
 minecraft:item/creaking_spawn_egg
@@ -2513,8 +2543,11 @@ minecraft:item/diamond_helmet
 minecraft:item/diamond_hoe
 minecraft:item/diamond_horse_armor
 minecraft:item/diamond_leggings
+minecraft:item/diamond_nautilus_armor
 minecraft:item/diamond_pickaxe
 minecraft:item/diamond_shovel
+minecraft:item/diamond_spear
+minecraft:item/diamond_spear_in_hand
 minecraft:item/diamond_sword
 minecraft:item/disc_fragment_5
 minecraft:item/dolphin_spawn_egg
@@ -2589,8 +2622,11 @@ minecraft:item/golden_helmet
 minecraft:item/golden_hoe
 minecraft:item/golden_horse_armor
 minecraft:item/golden_leggings
+minecraft:item/golden_nautilus_armor
 minecraft:item/golden_pickaxe
 minecraft:item/golden_shovel
+minecraft:item/golden_spear
+minecraft:item/golden_spear_in_hand
 minecraft:item/golden_sword
 minecraft:item/gray_bundle
 minecraft:item/gray_bundle_open_back
@@ -2633,9 +2669,12 @@ minecraft:item/iron_hoe
 minecraft:item/iron_horse_armor
 minecraft:item/iron_ingot
 minecraft:item/iron_leggings
+minecraft:item/iron_nautilus_armor
 minecraft:item/iron_nugget
 minecraft:item/iron_pickaxe
 minecraft:item/iron_shovel
+minecraft:item/iron_spear
+minecraft:item/iron_spear_in_hand
 minecraft:item/iron_sword
 minecraft:item/item_frame
 minecraft:item/jungle_boat
@@ -2658,6 +2697,7 @@ minecraft:item/leather_chestplate_overlay
 minecraft:item/leather_helmet
 minecraft:item/leather_helmet_overlay
 minecraft:item/leather_horse_armor
+minecraft:item/leather_horse_armor_overlay
 minecraft:item/leather_leggings
 minecraft:item/leather_leggings_overlay
 minecraft:item/light
@@ -2747,6 +2787,7 @@ minecraft:item/music_disc_ward
 minecraft:item/mutton
 minecraft:item/name_tag
 minecraft:item/nautilus_shell
+minecraft:item/nautilus_spawn_egg
 minecraft:item/nether_brick
 minecraft:item/nether_sprouts
 minecraft:item/nether_star
@@ -2756,11 +2797,15 @@ minecraft:item/netherite_boots
 minecraft:item/netherite_chestplate
 minecraft:item/netherite_helmet
 minecraft:item/netherite_hoe
+minecraft:item/netherite_horse_armor
 minecraft:item/netherite_ingot
 minecraft:item/netherite_leggings
+minecraft:item/netherite_nautilus_armor
 minecraft:item/netherite_pickaxe
 minecraft:item/netherite_scrap
 minecraft:item/netherite_shovel
+minecraft:item/netherite_spear
+minecraft:item/netherite_spear_in_hand
 minecraft:item/netherite_sword
 minecraft:item/netherite_upgrade_smithing_template
 minecraft:item/oak_boat
@@ -2788,6 +2833,7 @@ minecraft:item/pale_oak_hanging_sign
 minecraft:item/pale_oak_sign
 minecraft:item/panda_spawn_egg
 minecraft:item/paper
+minecraft:item/parched_spawn_egg
 minecraft:item/parrot_spawn_egg
 minecraft:item/phantom_membrane
 minecraft:item/phantom_spawn_egg
@@ -2933,6 +2979,8 @@ minecraft:item/stone_axe
 minecraft:item/stone_hoe
 minecraft:item/stone_pickaxe
 minecraft:item/stone_shovel
+minecraft:item/stone_spear
+minecraft:item/stone_spear_in_hand
 minecraft:item/stone_sword
 minecraft:item/stray_spawn_egg
 minecraft:item/strider_spawn_egg
@@ -2997,6 +3045,8 @@ minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
 minecraft:item/wooden_shovel
+minecraft:item/wooden_spear
+minecraft:item/wooden_spear_in_hand
 minecraft:item/wooden_sword
 minecraft:item/writable_book
 minecraft:item/written_book
@@ -3008,6 +3058,7 @@ minecraft:item/yellow_dye
 minecraft:item/yellow_harness
 minecraft:item/zoglin_spawn_egg
 minecraft:item/zombie_horse_spawn_egg
+minecraft:item/zombie_nautilus_spawn_egg
 minecraft:item/zombie_spawn_egg
 minecraft:item/zombie_villager_spawn_egg
 minecraft:item/zombified_piglin_spawn_egg
@@ -3064,6 +3115,7 @@ minecraft:misc/vignette  [mcmeta]
 minecraft:mob_effect/absorption
 minecraft:mob_effect/bad_omen
 minecraft:mob_effect/blindness
+minecraft:mob_effect/breath_of_the_nautilus
 minecraft:mob_effect/conduit_power
 minecraft:mob_effect/darkness
 minecraft:mob_effect/dolphins_grace

@@ -1,2 +1,2 @@
-((required_level: 3))
+((permissions: admins))
 op <targets minecraft:game_profile>

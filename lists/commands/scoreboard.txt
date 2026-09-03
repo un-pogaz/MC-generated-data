@@ -1,4 +1,4 @@
-((required_level: 2))
+((permissions: gamemasters))
 scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria>
 scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria> <displayName minecraft:component>
 scoreboard objectives list

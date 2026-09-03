@@ -1,6 +1,7 @@
 minecraft:activity
 minecraft:advancement
 minecraft:attribute
+minecraft:attribute_type
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
@@ -25,10 +26,12 @@ minecraft:enchantment_provider_type
 minecraft:enchantment_value_effect_type
 minecraft:entity_sub_predicate_type
 minecraft:entity_type
+minecraft:environment_attribute
 minecraft:float_provider_type
 minecraft:fluid
 minecraft:function
 minecraft:game_event
+minecraft:game_rule
 minecraft:height_provider_type
 minecraft:incoming_rpc_methods
 minecraft:input_control_type
@@ -49,6 +52,8 @@ minecraft:mob_effect
 minecraft:number_format_type
 minecraft:outgoing_rpc_methods
 minecraft:particle_type
+minecraft:permission_check_type
+minecraft:permission_type
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
 minecraft:position_source_type
@@ -61,9 +66,9 @@ minecraft:recipe_serializer
 minecraft:recipe_type
 minecraft:rule_block_entity_modifier
 minecraft:rule_test
-minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
+minecraft:slot_source_type
 minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type

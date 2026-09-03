@@ -2,9 +2,11 @@ minecraft:armor_trims
 minecraft:banner_patterns
 minecraft:beds
 minecraft:blocks
+minecraft:celestials
 minecraft:chests
 minecraft:decorated_pot
 minecraft:gui
+minecraft:items
 minecraft:map_decorations
 minecraft:paintings
 minecraft:particles
