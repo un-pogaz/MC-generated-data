@@ -119,6 +119,26 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:dialog": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:dialog_action_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:dialog_body_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:dialog_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:dimension": {
       "elements": true,
       "stable": false,
@@ -200,6 +220,11 @@
       "tags": true
     },
     "minecraft:height_provider_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:input_control_type": {
       "elements": false,
       "stable": true,
       "tags": true

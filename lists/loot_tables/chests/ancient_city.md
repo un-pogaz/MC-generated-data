@@ -9,7 +9,7 @@
 | minecraft:diamond_hoe                          |     1 |   2.3% |   2/86 | enchantments: {levels: 30..50, #on_random_loot} |
 | minecraft:lead                                 |     1 |   2.3% |   2/86 |                                                 |
 | minecraft:diamond_horse_armor                  |     1 |   2.3% |   2/86 |                                                 |
-| minecraft:saddle                               |     1 |   2.3% |   2/86 |                                                 |
+| minecraft:leather                              |  1..5 |   2.3% |   2/86 |                                                 |
 | minecraft:music_disc_13                        |     1 |   2.3% |   2/86 |                                                 |
 | minecraft:music_disc_cat                       |     1 |   2.3% |   2/86 |                                                 |
 | minecraft:diamond_leggings                     |     1 |   2.3% |   2/86 | enchantments: {levels: 30..50, #on_random_loot} |

@@ -1,3 +1,4 @@
+((required_level: 2))
 gamerule allowFireTicksAwayFromPlayer
 gamerule allowFireTicksAwayFromPlayer <value brigadier:bool>
 gamerule announceAdvancements
@@ -60,6 +61,8 @@ gamerule keepInventory
 gamerule keepInventory <value brigadier:bool>
 gamerule lavaSourceConversion
 gamerule lavaSourceConversion <value brigadier:bool>
+gamerule locatorBar
+gamerule locatorBar <value brigadier:bool>
 gamerule logAdminCommands
 gamerule logAdminCommands <value brigadier:bool>
 gamerule maxCommandChainLength

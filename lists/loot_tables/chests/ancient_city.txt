@@ -6,7 +6,7 @@ minecraft:name_tag
 minecraft:diamond_hoe
 minecraft:lead
 minecraft:diamond_horse_armor
-minecraft:saddle
+minecraft:leather
 minecraft:music_disc_13
 minecraft:music_disc_cat
 minecraft:diamond_leggings

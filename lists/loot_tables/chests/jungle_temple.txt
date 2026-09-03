@@ -5,7 +5,7 @@ minecraft:bamboo
 minecraft:emerald
 minecraft:bone
 minecraft:rotten_flesh
-minecraft:saddle
+minecraft:leather
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor

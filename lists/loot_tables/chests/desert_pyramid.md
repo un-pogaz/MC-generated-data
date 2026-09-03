@@ -8,7 +8,7 @@
 | minecraft:bone                              |  4..6 |  10.8% | 25/232 |                               |
 | minecraft:spider_eye                        |  1..3 |  10.8% | 25/232 |                               |
 | minecraft:rotten_flesh                      |  3..7 |  10.8% | 25/232 |                               |
-| minecraft:saddle                            |     1 |   8.6% | 20/232 |                               |
+| minecraft:leather                           |  1..5 |   8.6% | 20/232 |                               |
 | minecraft:iron_horse_armor                  |     1 |   6.5% | 15/232 |                               |
 | minecraft:golden_horse_armor                |     1 |   4.3% | 10/232 |                               |
 | minecraft:diamond_horse_armor               |     1 |   2.2% |  5/232 |                               |
