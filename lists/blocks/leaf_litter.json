@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:leaf_litter",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

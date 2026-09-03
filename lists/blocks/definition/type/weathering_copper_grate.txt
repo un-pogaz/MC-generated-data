@@ -1,4 +1,0 @@
-minecraft:copper_grate
-minecraft:exposed_copper_grate
-minecraft:oxidized_copper_grate
-minecraft:weathered_copper_grate

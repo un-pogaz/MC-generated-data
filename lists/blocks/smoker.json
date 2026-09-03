@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:smoker",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

@@ -1,2 +1,0 @@
-minecraft:fern
-minecraft:short_grass

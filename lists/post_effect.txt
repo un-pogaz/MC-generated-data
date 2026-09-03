@@ -3,4 +3,3 @@ minecraft:creeper
 minecraft:entity_outline
 minecraft:invert
 minecraft:spider
-minecraft:transparency

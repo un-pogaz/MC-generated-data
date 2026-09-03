@@ -847,6 +847,7 @@ minecraft:recipes/decorations/birch_sign
 minecraft:recipes/decorations/black_banner
 minecraft:recipes/decorations/black_bed
 minecraft:recipes/decorations/black_candle
+minecraft:recipes/decorations/black_carpet
 minecraft:recipes/decorations/black_glazed_terracotta
 minecraft:recipes/decorations/black_shulker_box
 minecraft:recipes/decorations/black_stained_glass_pane
@@ -857,6 +858,7 @@ minecraft:recipes/decorations/blast_furnace
 minecraft:recipes/decorations/blue_banner
 minecraft:recipes/decorations/blue_bed
 minecraft:recipes/decorations/blue_candle
+minecraft:recipes/decorations/blue_carpet
 minecraft:recipes/decorations/blue_glazed_terracotta
 minecraft:recipes/decorations/blue_shulker_box
 minecraft:recipes/decorations/blue_stained_glass_pane
@@ -866,6 +868,7 @@ minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting
 minecraft:recipes/decorations/brown_banner
 minecraft:recipes/decorations/brown_bed
 minecraft:recipes/decorations/brown_candle
+minecraft:recipes/decorations/brown_carpet
 minecraft:recipes/decorations/brown_glazed_terracotta
 minecraft:recipes/decorations/brown_shulker_box
 minecraft:recipes/decorations/brown_stained_glass_pane
@@ -904,6 +907,7 @@ minecraft:recipes/decorations/crimson_sign
 minecraft:recipes/decorations/cyan_banner
 minecraft:recipes/decorations/cyan_bed
 minecraft:recipes/decorations/cyan_candle
+minecraft:recipes/decorations/cyan_carpet
 minecraft:recipes/decorations/cyan_glazed_terracotta
 minecraft:recipes/decorations/cyan_shulker_box
 minecraft:recipes/decorations/cyan_stained_glass_pane
@@ -976,6 +980,7 @@ minecraft:recipes/decorations/granite_wall_from_granite_stonecutting
 minecraft:recipes/decorations/gray_banner
 minecraft:recipes/decorations/gray_bed
 minecraft:recipes/decorations/gray_candle
+minecraft:recipes/decorations/gray_carpet
 minecraft:recipes/decorations/gray_glazed_terracotta
 minecraft:recipes/decorations/gray_shulker_box
 minecraft:recipes/decorations/gray_stained_glass_pane
@@ -983,6 +988,7 @@ minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/green_banner
 minecraft:recipes/decorations/green_bed
 minecraft:recipes/decorations/green_candle
+minecraft:recipes/decorations/green_carpet
 minecraft:recipes/decorations/green_glazed_terracotta
 minecraft:recipes/decorations/green_shulker_box
 minecraft:recipes/decorations/green_stained_glass_pane
@@ -1002,6 +1008,7 @@ minecraft:recipes/decorations/lantern
 minecraft:recipes/decorations/light_blue_banner
 minecraft:recipes/decorations/light_blue_bed
 minecraft:recipes/decorations/light_blue_candle
+minecraft:recipes/decorations/light_blue_carpet
 minecraft:recipes/decorations/light_blue_glazed_terracotta
 minecraft:recipes/decorations/light_blue_shulker_box
 minecraft:recipes/decorations/light_blue_stained_glass_pane
@@ -1009,6 +1016,7 @@ minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/light_gray_banner
 minecraft:recipes/decorations/light_gray_bed
 minecraft:recipes/decorations/light_gray_candle
+minecraft:recipes/decorations/light_gray_carpet
 minecraft:recipes/decorations/light_gray_glazed_terracotta
 minecraft:recipes/decorations/light_gray_shulker_box
 minecraft:recipes/decorations/light_gray_stained_glass_pane
@@ -1016,6 +1024,7 @@ minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/lime_banner
 minecraft:recipes/decorations/lime_bed
 minecraft:recipes/decorations/lime_candle
+minecraft:recipes/decorations/lime_carpet
 minecraft:recipes/decorations/lime_glazed_terracotta
 minecraft:recipes/decorations/lime_shulker_box
 minecraft:recipes/decorations/lime_stained_glass_pane
@@ -1025,6 +1034,7 @@ minecraft:recipes/decorations/loom
 minecraft:recipes/decorations/magenta_banner
 minecraft:recipes/decorations/magenta_bed
 minecraft:recipes/decorations/magenta_candle
+minecraft:recipes/decorations/magenta_carpet
 minecraft:recipes/decorations/magenta_glazed_terracotta
 minecraft:recipes/decorations/magenta_shulker_box
 minecraft:recipes/decorations/magenta_stained_glass_pane
@@ -1050,6 +1060,7 @@ minecraft:recipes/decorations/oak_sign
 minecraft:recipes/decorations/orange_banner
 minecraft:recipes/decorations/orange_bed
 minecraft:recipes/decorations/orange_candle
+minecraft:recipes/decorations/orange_carpet
 minecraft:recipes/decorations/orange_glazed_terracotta
 minecraft:recipes/decorations/orange_shulker_box
 minecraft:recipes/decorations/orange_stained_glass_pane
@@ -1063,6 +1074,7 @@ minecraft:recipes/decorations/pale_oak_sign
 minecraft:recipes/decorations/pink_banner
 minecraft:recipes/decorations/pink_bed
 minecraft:recipes/decorations/pink_candle
+minecraft:recipes/decorations/pink_carpet
 minecraft:recipes/decorations/pink_glazed_terracotta
 minecraft:recipes/decorations/pink_shulker_box
 minecraft:recipes/decorations/pink_stained_glass_pane
@@ -1096,6 +1108,7 @@ minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting
 minecraft:recipes/decorations/purple_banner
 minecraft:recipes/decorations/purple_bed
 minecraft:recipes/decorations/purple_candle
+minecraft:recipes/decorations/purple_carpet
 minecraft:recipes/decorations/purple_glazed_terracotta
 minecraft:recipes/decorations/purple_shulker_box
 minecraft:recipes/decorations/purple_stained_glass_pane
@@ -1103,6 +1116,7 @@ minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/red_banner
 minecraft:recipes/decorations/red_bed
 minecraft:recipes/decorations/red_candle
+minecraft:recipes/decorations/red_carpet
 minecraft:recipes/decorations/red_glazed_terracotta
 minecraft:recipes/decorations/red_nether_brick_wall
 minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting
@@ -1152,6 +1166,7 @@ minecraft:recipes/decorations/warped_sign
 minecraft:recipes/decorations/white_banner
 minecraft:recipes/decorations/white_bed
 minecraft:recipes/decorations/white_candle
+minecraft:recipes/decorations/white_carpet
 minecraft:recipes/decorations/white_glazed_terracotta
 minecraft:recipes/decorations/white_shulker_box
 minecraft:recipes/decorations/white_stained_glass_pane
@@ -1159,6 +1174,7 @@ minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/yellow_banner
 minecraft:recipes/decorations/yellow_bed
 minecraft:recipes/decorations/yellow_candle
+minecraft:recipes/decorations/yellow_carpet
 minecraft:recipes/decorations/yellow_glazed_terracotta
 minecraft:recipes/decorations/yellow_shulker_box
 minecraft:recipes/decorations/yellow_stained_glass_pane

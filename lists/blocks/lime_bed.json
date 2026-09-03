@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:bed",
-    "color": "lime",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

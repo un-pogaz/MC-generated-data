@@ -6,7 +6,6 @@ minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
-minecraft:block_type
 minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
@@ -115,8 +114,8 @@ minecraft:worldgen/biome
 minecraft:worldgen/biome_source
 minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
+minecraft:worldgen/carver_type
 minecraft:worldgen/chunk_generator
-minecraft:worldgen/configured_carver
 minecraft:worldgen/density_function
 minecraft:worldgen/density_function_type
 minecraft:worldgen/feature

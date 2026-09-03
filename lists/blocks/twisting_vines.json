@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:twisting_vines",
-    "properties": {}
-  },
   "properties": {
     "age": [
       "0",

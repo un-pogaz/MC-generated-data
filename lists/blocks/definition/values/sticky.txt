@@ -1,2 +1,0 @@
-minecraft:piston  = false
-minecraft:sticky_piston  = true

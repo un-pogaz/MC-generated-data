@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:cave_vines_plant",
-    "properties": {}
-  },
   "properties": {
     "berries": [
       "true",

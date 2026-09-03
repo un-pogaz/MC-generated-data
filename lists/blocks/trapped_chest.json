@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:trapped_chest",
-    "properties": {}
-  },
   "properties": {
     "type": [
       "single",

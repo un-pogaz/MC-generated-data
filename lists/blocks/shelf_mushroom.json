@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:shelf_mushroom",
-    "properties": {}
-  },
   "properties": {
     "age": [
       "0",

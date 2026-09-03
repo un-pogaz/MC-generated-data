@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:decorated_pot",
-    "properties": {}
-  },
   "properties": {
     "cracked": [
       "true",

@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:flower_bed",
-    "properties": {},
-    "shape_height": 3
-  },
   "properties": {
     "facing": [
       "north",

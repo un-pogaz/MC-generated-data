@@ -1,2 +1,0 @@
-minecraft:dragon_head
-minecraft:dragon_wall_head

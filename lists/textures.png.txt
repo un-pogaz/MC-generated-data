@@ -384,6 +384,16 @@ minecraft:block/deepslate_lapis_ore
 minecraft:block/deepslate_redstone_ore
 minecraft:block/deepslate_tiles
 minecraft:block/deepslate_top
+minecraft:block/destroy_oit_stage_0
+minecraft:block/destroy_oit_stage_1
+minecraft:block/destroy_oit_stage_2
+minecraft:block/destroy_oit_stage_3
+minecraft:block/destroy_oit_stage_4
+minecraft:block/destroy_oit_stage_5
+minecraft:block/destroy_oit_stage_6
+minecraft:block/destroy_oit_stage_7
+minecraft:block/destroy_oit_stage_8
+minecraft:block/destroy_oit_stage_9
 minecraft:block/destroy_stage_0
 minecraft:block/destroy_stage_1
 minecraft:block/destroy_stage_2
@@ -1007,6 +1017,7 @@ minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/shelf_mushroom_particle
 minecraft:block/shelf_mushroom_stage0
 minecraft:block/shelf_mushroom_stage1
 minecraft:block/short_dry_grass
