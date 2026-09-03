@@ -904,7 +904,7 @@
     },
     {
       pos: [4, 3, 3],
-      state: 18
+      state: 7
     },
     {
       pos: [4, 3, 4],
@@ -2231,5 +2231,5 @@
       Name: "minecraft:barrel"
     }
   ],
-  DataVersion: 5004
+  DataVersion: 5005
 }

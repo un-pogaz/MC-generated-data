@@ -1549,7 +1549,6 @@
       nbt: {
         LootTable: "minecraft:barrels/abandoned_camp_barrel",
         components: {},
-        Items: [],
         id: "minecraft:barrel"
       },
       pos: [1, 1, 2],
@@ -1669,5 +1668,5 @@
       Name: "minecraft:barrel"
     }
   ],
-  DataVersion: 5004
+  DataVersion: 5005
 }
