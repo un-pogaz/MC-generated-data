@@ -2,4 +2,4 @@
 spawnpoint
 spawnpoint <targets minecraft:entity[type="players", amount="multiple"]>
 spawnpoint <targets minecraft:entity[type="players", amount="multiple"]> <pos minecraft:block_pos>
-spawnpoint <targets minecraft:entity[type="players", amount="multiple"]> <pos minecraft:block_pos> <angle minecraft:angle>
+spawnpoint <targets minecraft:entity[type="players", amount="multiple"]> <pos minecraft:block_pos> <rotation minecraft:rotation>

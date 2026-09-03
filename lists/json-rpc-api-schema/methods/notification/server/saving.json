@@ -1,5 +1,5 @@
 {
   "description": "Server save started",
-  "name": "notification:server/saving",
+  "name": "minecraft:notification/server/saving",
   "params": []
 }

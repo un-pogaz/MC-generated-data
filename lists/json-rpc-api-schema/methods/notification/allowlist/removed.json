@@ -1,6 +1,6 @@
 {
-  "description": "Player was removed from ban list",
-  "name": "notification:bans/removed",
+  "description": "Player was removed from allowlist",
+  "name": "minecraft:notification/allowlist/removed",
   "params": [
     {
       "name": "player",

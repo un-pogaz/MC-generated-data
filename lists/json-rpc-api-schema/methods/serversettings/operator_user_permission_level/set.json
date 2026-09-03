@@ -1,5 +1,5 @@
 {
-  "description": "Set the permission level required for operator commands",
+  "description": "Set default operator permission level",
   "name": "minecraft:serversettings/operator_user_permission_level/set",
   "params": [
     {

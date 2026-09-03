@@ -1,6 +1,6 @@
 {
   "description": "Player was deoped",
-  "name": "notification:operators/removed",
+  "name": "minecraft:notification/operators/removed",
   "params": [
     {
       "name": "player",

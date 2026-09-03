@@ -6,14 +6,14 @@
       "name": "difficulty",
       "required": true,
       "schema": {
-        "type": "string"
+        "$ref": "#/components/schemas/difficulty"
       }
     }
   ],
   "result": {
     "name": "difficulty",
     "schema": {
-      "type": "string"
+      "$ref": "#/components/schemas/difficulty"
     }
   }
 }

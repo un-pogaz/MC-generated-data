@@ -5,7 +5,7 @@
   "result": {
     "name": "difficulty",
     "schema": {
-      "type": "string"
+      "$ref": "#/components/schemas/difficulty"
     }
   }
 }
