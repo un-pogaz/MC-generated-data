@@ -87,7 +87,7 @@
             "icon": "minecraft:iron_spear",
             "title": "Mob Kabob",
             "description": "Hit five mobs in the same Charge attack using the Spear",
-            "frame": "challenge"
+            "frame": "goal"
           },
           "minecraft:adventure/throw_trident": {
             "icon": "minecraft:trident",

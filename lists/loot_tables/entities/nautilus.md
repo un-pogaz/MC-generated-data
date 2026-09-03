@@ -1,5 +1,4 @@
-| Name                     | Count | Chance | Weight | Comment          |
-| ------------------------ | ----- | ------ | ------ | ---------------- |
-| 1 time                   |    -- |     -- |     -- | killed by player |
-| minecraft:nautilus_shell |     1 |     5% |   1/20 |                  |
-| empty                    |       |    95% |  19/20 |                  |
+| Name                     | Count | Chance | Weight | Comment                                                                                       |
+| ------------------------ | ----- | ------ | ------ | --------------------------------------------------------------------------------------------- |
+| 1 time                   |    -- |     -- |     -- | killed by player, random chance: 0.05%|{enchantment: looting}: 0.060000002% + 0.01%*(level-1) |
+| minecraft:nautilus_shell |     1 |   100% |      1 |                                                                                               |
