@@ -1340,6 +1340,7 @@ minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
+minecraft:entity/equipment/horse_body/netherite
 minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
 minecraft:entity/equipment/humanoid/copper
@@ -1463,6 +1464,7 @@ minecraft:entity/minecart
 minecraft:entity/nautilus/nautilus
 minecraft:entity/nautilus/nautilus_baby
 minecraft:entity/nautilus/zombie_nautilus
+minecraft:entity/nautilus/zombie_nautilus_coral
 minecraft:entity/panda/aggressive_panda
 minecraft:entity/panda/brown_panda
 minecraft:entity/panda/lazy_panda
@@ -2791,6 +2793,7 @@ minecraft:item/netherite_boots
 minecraft:item/netherite_chestplate
 minecraft:item/netherite_helmet
 minecraft:item/netherite_hoe
+minecraft:item/netherite_horse_armor
 minecraft:item/netherite_ingot
 minecraft:item/netherite_leggings
 minecraft:item/netherite_nautilus_armor

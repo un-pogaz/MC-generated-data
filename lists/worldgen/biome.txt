@@ -121,6 +121,7 @@ minecraft:wooded_badlands
 #minecraft:required_ocean_monument_surrounding
 #minecraft:spawns_cold_variant_farm_animals
 #minecraft:spawns_cold_variant_frogs
+#minecraft:spawns_coral_variant_zombie_nautilus
 #minecraft:spawns_gold_rabbits
 #minecraft:spawns_snow_foxes
 #minecraft:spawns_warm_variant_farm_animals
@@ -128,6 +129,5 @@ minecraft:wooded_badlands
 #minecraft:spawns_white_rabbits
 #minecraft:stronghold_biased_to
 #minecraft:water_on_map_outlines
-#minecraft:without_patrol_spawns
 #minecraft:without_wandering_trader_spawns
 #minecraft:without_zombie_sieges

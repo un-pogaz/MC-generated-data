@@ -871,6 +871,7 @@ minecraft:netherite_boots  = 1
 minecraft:netherite_chestplate  = 1
 minecraft:netherite_helmet  = 1
 minecraft:netherite_hoe  = 1
+minecraft:netherite_horse_armor  = 1
 minecraft:netherite_ingot  = 64
 minecraft:netherite_leggings  = 1
 minecraft:netherite_nautilus_armor  = 1

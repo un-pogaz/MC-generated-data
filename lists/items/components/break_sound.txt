@@ -871,6 +871,7 @@ minecraft:netherite_boots  = minecraft:entity.item.break
 minecraft:netherite_chestplate  = minecraft:entity.item.break
 minecraft:netherite_helmet  = minecraft:entity.item.break
 minecraft:netherite_hoe  = minecraft:entity.item.break
+minecraft:netherite_horse_armor  = minecraft:entity.item.break
 minecraft:netherite_ingot  = minecraft:entity.item.break
 minecraft:netherite_leggings  = minecraft:entity.item.break
 minecraft:netherite_nautilus_armor  = minecraft:entity.item.break

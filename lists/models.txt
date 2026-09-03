@@ -3310,6 +3310,7 @@ minecraft:item/netherite_helmet_quartz_trim
 minecraft:item/netherite_helmet_redstone_trim
 minecraft:item/netherite_helmet_resin_trim
 minecraft:item/netherite_hoe
+minecraft:item/netherite_horse_armor
 minecraft:item/netherite_ingot
 minecraft:item/netherite_leggings
 minecraft:item/netherite_leggings_amethyst_trim

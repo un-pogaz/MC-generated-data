@@ -871,6 +871,7 @@ minecraft:netherite_boots  = common
 minecraft:netherite_chestplate  = common
 minecraft:netherite_helmet  = common
 minecraft:netherite_hoe  = common
+minecraft:netherite_horse_armor  = common
 minecraft:netherite_ingot  = common
 minecraft:netherite_leggings  = common
 minecraft:netherite_nautilus_armor  = common
