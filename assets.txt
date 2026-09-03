@@ -29,6 +29,7 @@ minecraft/lang/brb.json
 minecraft/lang/bs_ba.json
 minecraft/lang/ca_es.json
 minecraft/lang/cs_cz.json
+minecraft/lang/cv_cu.json
 minecraft/lang/cy_gb.json
 minecraft/lang/da_dk.json
 minecraft/lang/de_at.json
@@ -59,6 +60,7 @@ minecraft/lang/fi_fi.json
 minecraft/lang/fil_ph.json
 minecraft/lang/fo_fo.json
 minecraft/lang/fr_ca.json
+minecraft/lang/fr_ch.json
 minecraft/lang/fr_fr.json
 minecraft/lang/fra_de.json
 minecraft/lang/fur_it.json
@@ -2337,6 +2339,9 @@ minecraft/sounds/item/bucket/empty_lava2.ogg
 minecraft/sounds/item/bucket/empty_lava3.ogg
 minecraft/sounds/item/bucket/empty_powder_snow1.ogg
 minecraft/sounds/item/bucket/empty_powder_snow2.ogg
+minecraft/sounds/item/bucket/emptysulfurcube1.ogg
+minecraft/sounds/item/bucket/emptysulfurcube2.ogg
+minecraft/sounds/item/bucket/emptysulfurcube3.ogg
 minecraft/sounds/item/bucket/fill1.ogg
 minecraft/sounds/item/bucket/fill2.ogg
 minecraft/sounds/item/bucket/fill3.ogg
@@ -2351,6 +2356,9 @@ minecraft/sounds/item/bucket/fill_lava2.ogg
 minecraft/sounds/item/bucket/fill_lava3.ogg
 minecraft/sounds/item/bucket/fill_powder_snow1.ogg
 minecraft/sounds/item/bucket/fill_powder_snow2.ogg
+minecraft/sounds/item/bucket/fillsulfurcube1.ogg
+minecraft/sounds/item/bucket/fillsulfurcube2.ogg
+minecraft/sounds/item/bucket/fillsulfurcube3.ogg
 minecraft/sounds/item/bundle/drop_contents1.ogg
 minecraft/sounds/item/bundle/drop_contents2.ogg
 minecraft/sounds/item/bundle/drop_contents3.ogg
@@ -4149,7 +4157,6 @@ minecraft/sounds/mob/strider/step_lava5.ogg
 minecraft/sounds/mob/strider/step_lava6.ogg
 minecraft/sounds/mob/sulfur_cube/absorb1.ogg
 minecraft/sounds/mob/sulfur_cube/absorb2.ogg
-minecraft/sounds/mob/sulfur_cube/absorb3.ogg
 minecraft/sounds/mob/sulfur_cube/ball/bounce1.ogg
 minecraft/sounds/mob/sulfur_cube/ball/bounce2.ogg
 minecraft/sounds/mob/sulfur_cube/ball/bounce3.ogg
@@ -4162,13 +4169,6 @@ minecraft/sounds/mob/sulfur_cube/ball/hit1.ogg
 minecraft/sounds/mob/sulfur_cube/ball/hit2.ogg
 minecraft/sounds/mob/sulfur_cube/ball/hit3.ogg
 minecraft/sounds/mob/sulfur_cube/ball/hit4.ogg
-minecraft/sounds/mob/sulfur_cube/ball/hit5.ogg
-minecraft/sounds/mob/sulfur_cube/ball/hit6.ogg
-minecraft/sounds/mob/sulfur_cube/ball/hit7.ogg
-minecraft/sounds/mob/sulfur_cube/ball/kick1.ogg
-minecraft/sounds/mob/sulfur_cube/ball/kick2.ogg
-minecraft/sounds/mob/sulfur_cube/ball/kick3.ogg
-minecraft/sounds/mob/sulfur_cube/ball/kick4.ogg
 minecraft/sounds/mob/sulfur_cube/ball/push1.ogg
 minecraft/sounds/mob/sulfur_cube/ball/push2.ogg
 minecraft/sounds/mob/sulfur_cube/ball/push3.ogg

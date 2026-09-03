@@ -2223,6 +2223,9 @@ minecraft:item/bucket/empty_lava2
 minecraft:item/bucket/empty_lava3
 minecraft:item/bucket/empty_powder_snow1
 minecraft:item/bucket/empty_powder_snow2
+minecraft:item/bucket/emptysulfurcube1
+minecraft:item/bucket/emptysulfurcube2
+minecraft:item/bucket/emptysulfurcube3
 minecraft:item/bucket/fill1
 minecraft:item/bucket/fill2
 minecraft:item/bucket/fill3
@@ -2237,6 +2240,9 @@ minecraft:item/bucket/fill_lava2
 minecraft:item/bucket/fill_lava3
 minecraft:item/bucket/fill_powder_snow1
 minecraft:item/bucket/fill_powder_snow2
+minecraft:item/bucket/fillsulfurcube1
+minecraft:item/bucket/fillsulfurcube2
+minecraft:item/bucket/fillsulfurcube3
 minecraft:item/bundle/drop_contents1
 minecraft:item/bundle/drop_contents2
 minecraft:item/bundle/drop_contents3

@@ -74,6 +74,11 @@
     "region": "Česko",
     "bidirectional": false
   },
+  "cv_cu": {
+    "name": "Чӑвашла",
+    "region": "Чӑваш Ен, Раҫҫей",
+    "bidirectional": false
+  },
   "cy_gb": {
     "name": "Cymraeg",
     "region": "Cymru",
@@ -222,6 +227,11 @@
   "fr_ca": {
     "name": "Français",
     "region": "Canada",
+    "bidirectional": false
+  },
+  "fr_ch": {
+    "name": "Français",
+    "region": "Suisse",
     "bidirectional": false
   },
   "fr_fr": {
