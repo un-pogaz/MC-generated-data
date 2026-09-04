@@ -1,0 +1,20 @@
+{
+  "type": "literal",
+  "children": {
+    "target": {
+      "type": "argument",
+      "executable": true,
+      "parser": "brigadier:string",
+      "properties": {
+        "type": "word"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "admins"
+    }
+  }
+}

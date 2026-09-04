@@ -1,0 +1,19 @@
+{
+  "description": "Send a system message",
+  "name": "minecraft:server/system_message",
+  "params": [
+    {
+      "name": "message",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/system_message"
+      }
+    }
+  ],
+  "result": {
+    "name": "sent",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

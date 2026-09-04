@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/panda/step1",
+    "mob/panda/step2",
+    "mob/panda/step3",
+    "mob/panda/step4",
+    "mob/panda/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

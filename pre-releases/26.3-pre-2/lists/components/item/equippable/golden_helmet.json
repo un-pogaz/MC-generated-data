@@ -1,0 +1,5 @@
+{
+  "asset_id": "minecraft:gold",
+  "equip_sound": "minecraft:item.armor.equip_gold",
+  "slot": "head"
+}
