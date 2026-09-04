@@ -19,6 +19,7 @@ minecraft:context_float_provider
 minecraft:context_float_provider_type
 minecraft:context_int_provider
 minecraft:context_int_provider_type
+minecraft:context_key_set
 minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:creative_mode_tab

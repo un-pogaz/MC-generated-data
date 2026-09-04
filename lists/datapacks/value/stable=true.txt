@@ -12,6 +12,7 @@ minecraft:context_float_provider
 minecraft:context_float_provider_type
 minecraft:context_int_provider
 minecraft:context_int_provider_type
+minecraft:context_key_set
 minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:data_component_predicate_type
