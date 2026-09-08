@@ -1,0 +1,4 @@
+| Name                    | Count | Chance | Weight | Comment |
+| ----------------------- | ----- | ------ | ------ | ------- |
+| 1 time                  |    -- |     -- |     -- |         |
+| minecraft:hanging_roots |     1 |   100% |      1 |         |

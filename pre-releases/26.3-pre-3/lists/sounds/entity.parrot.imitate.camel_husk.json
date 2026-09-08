@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.camel_husk.ambient",
+      "pitch": 2.0,
+      "type": "event",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.camel_husk"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Set the server's simulation distance in chunks",
+  "name": "minecraft:serversettings/simulation_distance/set",
+  "params": [
+    {
+      "name": "distance",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "distance",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

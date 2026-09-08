@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/cinnabar/place1",
+    "block/cinnabar/place2",
+    "block/cinnabar/place3",
+    "block/cinnabar/place4",
+    "block/cinnabar/place5",
+    "block/cinnabar/place6",
+    "block/cinnabar/place7"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

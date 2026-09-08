@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/cinnabar/break1",
+    "block/cinnabar/break2",
+    "block/cinnabar/break3",
+    "block/cinnabar/break4",
+    "block/cinnabar/break5",
+    "block/cinnabar/break6",
+    "block/cinnabar/break7"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

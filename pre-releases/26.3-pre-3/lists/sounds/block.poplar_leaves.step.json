@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/leaf_litter/step1",
+    "block/leaf_litter/step2",
+    "block/leaf_litter/step3",
+    "block/leaf_litter/step4",
+    "block/leaf_litter/step5",
+    "block/leaf_litter/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

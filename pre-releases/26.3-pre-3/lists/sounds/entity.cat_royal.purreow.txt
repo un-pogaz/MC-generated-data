@@ -1,0 +1,3 @@
+minecraft:mob/cat/royal/ambient1
+minecraft:mob/cat/royal/ambient4
+minecraft:mob/cat/royal/ambient5

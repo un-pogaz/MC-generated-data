@@ -1,0 +1,6 @@
+minecraft:block/shelf_mushroom/place1
+minecraft:block/shelf_mushroom/place2
+minecraft:block/shelf_mushroom/place3
+minecraft:block/shelf_mushroom/place4
+minecraft:block/shelf_mushroom/place5
+minecraft:block/shelf_mushroom/place6

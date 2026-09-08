@@ -1,0 +1,6 @@
+minecraft:block/straw_bed/hit1
+minecraft:block/straw_bed/hit2
+minecraft:block/straw_bed/hit3
+minecraft:block/straw_bed/hit4
+minecraft:block/straw_bed/hit5
+minecraft:block/straw_bed/hit6

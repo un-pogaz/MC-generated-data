@@ -1,0 +1,8 @@
+minecraft:map
+minecraft:paper
+minecraft:compass
+minecraft:bread
+minecraft:stick
+
+minecraft:bundle
+empty

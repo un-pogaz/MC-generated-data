@@ -1,0 +1,60 @@
+{
+  "ambient": [
+    {
+      "count": 8,
+      "type": "minecraft:bat",
+      "weight": 10
+    }
+  ],
+  "monster": [
+    {
+      "count": 1,
+      "type": "minecraft:cave_spider",
+      "weight": 20
+    },
+    {
+      "count": 2,
+      "type": "minecraft:creeper",
+      "weight": 50
+    },
+    {
+      "count": 1,
+      "type": "minecraft:enderman",
+      "weight": 10
+    },
+    {
+      "count": 2,
+      "type": "minecraft:skeleton",
+      "weight": 50
+    },
+    {
+      "count": 1,
+      "type": "minecraft:slime",
+      "weight": 25
+    },
+    {
+      "count": {
+        "max_inclusive": 4,
+        "min_inclusive": 2,
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:sulfur_cube",
+      "weight": 100
+    },
+    {
+      "count": 1,
+      "type": "minecraft:witch",
+      "weight": 1
+    },
+    {
+      "count": 2,
+      "type": "minecraft:zombie",
+      "weight": 50
+    },
+    {
+      "count": 1,
+      "type": "minecraft:zombie_villager",
+      "weight": 5
+    }
+  ]
+}
