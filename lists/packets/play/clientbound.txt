@@ -1,4 +1,5 @@
 minecraft:add_entity
+minecraft:add_transient_block
 minecraft:animate
 minecraft:award_stats
 minecraft:block_changed_ack
