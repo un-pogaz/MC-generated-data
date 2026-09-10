@@ -1,0 +1,14 @@
+{
+  "description": "Deop all players",
+  "name": "minecraft:operators/clear",
+  "params": [],
+  "result": {
+    "name": "operators",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  }
+}

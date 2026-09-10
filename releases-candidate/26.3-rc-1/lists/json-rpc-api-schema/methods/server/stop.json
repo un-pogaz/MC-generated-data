@@ -1,0 +1,11 @@
+{
+  "description": "Stop server",
+  "name": "minecraft:server/stop",
+  "params": [],
+  "result": {
+    "name": "stopping",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

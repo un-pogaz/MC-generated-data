@@ -1,0 +1,2 @@
+minecraft:mob/pufferfish/blow_up1
+minecraft:mob/pufferfish/blow_up2

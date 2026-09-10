@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/warden/nearby_closer_1",
+    "mob/warden/nearby_closer_2",
+    "mob/warden/nearby_closer_3"
+  ],
+  "subtitle": "subtitles.entity.warden.nearby_closer"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "expires": {
+      "type": "string"
+    },
+    "player": {
+      "$ref": "#/components/schemas/player"
+    },
+    "reason": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

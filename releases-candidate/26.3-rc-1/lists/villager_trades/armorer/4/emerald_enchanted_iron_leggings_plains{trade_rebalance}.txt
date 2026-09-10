@@ -1,0 +1,6 @@
+wants: emerald x11
+gives: iron_leggings {enchantments: protection}
+xp: 15
+max use: 3
+reputation discount: 0.05
+condition: is plains variant

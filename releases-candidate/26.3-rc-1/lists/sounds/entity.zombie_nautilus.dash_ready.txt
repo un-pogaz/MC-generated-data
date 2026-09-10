@@ -1,0 +1,3 @@
+minecraft:mob/zombie_nautilus/dash_ready1
+minecraft:mob/zombie_nautilus/dash_ready2
+minecraft:mob/zombie_nautilus/dash_ready3

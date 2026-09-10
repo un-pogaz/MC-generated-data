@@ -1,0 +1,24 @@
+{
+  "type": "literal",
+  "children": {
+    "fail": {
+      "type": "literal",
+      "executable": true
+    },
+    "run": {
+      "type": "literal"
+    },
+    "value": {
+      "type": "argument",
+      "executable": true,
+      "parser": "brigadier:integer"
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

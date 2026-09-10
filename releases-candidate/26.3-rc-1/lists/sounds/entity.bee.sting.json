@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/bee/sting",
+    {
+      "name": "mob/bee/sting",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.sting"
+}

@@ -1,0 +1,4 @@
+minecraft:block/red_shrub/place1
+minecraft:block/red_shrub/place2
+minecraft:block/red_shrub/place3
+minecraft:block/red_shrub/place4

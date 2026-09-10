@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/cinnabar/hit1",
+    "block/cinnabar/hit2",
+    "block/cinnabar/hit3",
+    "block/cinnabar/hit4",
+    "block/cinnabar/hit5",
+    "block/cinnabar/hit6",
+    "block/cinnabar/hit7"
+  ],
+  "subtitle": "subtitles.block.generic.fall"
+}

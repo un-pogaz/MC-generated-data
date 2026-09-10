@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable automatic world saving on the server",
+  "name": "minecraft:serversettings/autosave/set",
+  "params": [
+    {
+      "name": "enable",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "enabled",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

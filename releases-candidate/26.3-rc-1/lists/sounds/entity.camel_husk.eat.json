@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/camel_husk/eat1",
+    "mob/camel_husk/eat2",
+    "mob/camel_husk/eat3",
+    "mob/camel_husk/eat4",
+    "mob/camel_husk/eat5"
+  ],
+  "subtitle": "subtitles.entity.camel_husk.eat"
+}

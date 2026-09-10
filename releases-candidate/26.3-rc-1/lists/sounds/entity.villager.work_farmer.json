@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/composter/fill_success1",
+    "block/composter/fill_success2",
+    "block/composter/fill_success3",
+    "block/composter/fill_success4"
+  ],
+  "subtitle": "subtitles.entity.villager.work_farmer"
+}
