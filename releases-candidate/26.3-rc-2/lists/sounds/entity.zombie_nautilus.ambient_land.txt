@@ -1,0 +1,6 @@
+minecraft:mob/zombie_nautilus/ambient_land1
+minecraft:mob/zombie_nautilus/ambient_land2
+minecraft:mob/zombie_nautilus/ambient_land3
+minecraft:mob/zombie_nautilus/ambient_land4
+minecraft:mob/zombie_nautilus/ambient_land5
+minecraft:mob/zombie_nautilus/ambient_land6

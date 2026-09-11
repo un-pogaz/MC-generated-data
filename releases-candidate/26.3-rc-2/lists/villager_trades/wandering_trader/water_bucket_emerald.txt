@@ -1,0 +1,5 @@
+wants: water_bucket
+gives: emerald x2
+xp: 1
+max use: 2
+reputation discount: 0.05

@@ -1,0 +1,3 @@
+minecraft:mob/horse/baby_horse/hurt1
+minecraft:mob/horse/baby_horse/hurt2
+minecraft:mob/horse/baby_horse/hurt3

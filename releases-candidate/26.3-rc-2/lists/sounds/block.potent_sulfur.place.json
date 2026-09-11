@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "block/potent_sulfur/place1",
+    "block/potent_sulfur/place2",
+    "block/potent_sulfur/place3",
+    "block/potent_sulfur/place4",
+    "block/potent_sulfur/place5",
+    "block/potent_sulfur/place6",
+    "block/potent_sulfur/place7",
+    "block/potent_sulfur/place8"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

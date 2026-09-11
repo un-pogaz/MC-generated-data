@@ -1,0 +1,6 @@
+wants: emerald x13
+gives: iron_chestplate {enchantments: protection}
+xp: 15
+max use: 3
+reputation discount: 0.05
+condition: is plains variant

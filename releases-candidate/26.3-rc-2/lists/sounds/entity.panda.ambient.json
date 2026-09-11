@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "mob/panda/idle1",
+    "mob/panda/idle2",
+    "mob/panda/idle3",
+    "mob/panda/idle4",
+    "mob/panda/nosebreath1",
+    "mob/panda/nosebreath2",
+    "mob/panda/nosebreath3",
+    "mob/panda/pant1",
+    "mob/panda/pant2"
+  ],
+  "subtitle": "subtitles.entity.panda.ambient"
+}

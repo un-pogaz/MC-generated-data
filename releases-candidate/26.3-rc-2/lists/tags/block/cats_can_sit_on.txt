@@ -1,0 +1,3 @@
+minecraft:furnace
+minecraft:chest
+#minecraft:beds

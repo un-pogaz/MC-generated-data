@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/shelf_mushroom/step1",
+    "block/shelf_mushroom/step2",
+    "block/shelf_mushroom/step3",
+    "block/shelf_mushroom/step4",
+    "block/shelf_mushroom/step5",
+    "block/shelf_mushroom/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

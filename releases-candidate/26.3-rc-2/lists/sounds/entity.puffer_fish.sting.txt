@@ -1,0 +1,2 @@
+minecraft:mob/pufferfish/sting1
+minecraft:mob/pufferfish/sting2

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.cat.hiss",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.cat.hiss"
+}

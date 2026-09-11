@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.nautilus.dash",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.zombie_nautilus.dash"
+}

@@ -1,0 +1,3 @@
+minecraft:mob/glow_squid/squirt1
+minecraft:mob/glow_squid/squirt2
+minecraft:mob/glow_squid/squirt3

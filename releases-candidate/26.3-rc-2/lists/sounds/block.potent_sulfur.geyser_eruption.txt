@@ -1,0 +1,8 @@
+minecraft:block/potent_sulfur/sulfur_spring/eruption1
+minecraft:block/potent_sulfur/sulfur_spring/eruption2
+minecraft:block/potent_sulfur/sulfur_spring/eruption3
+minecraft:block/potent_sulfur/sulfur_spring/eruption4
+minecraft:block/potent_sulfur/sulfur_spring/eruption5
+minecraft:block/potent_sulfur/sulfur_spring/eruption6
+minecraft:block/potent_sulfur/sulfur_spring/eruption7
+minecraft:block/potent_sulfur/sulfur_spring/eruption8

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/wandering_trader/drink_milk1",
+    "mob/wandering_trader/drink_milk2",
+    "mob/wandering_trader/drink_milk3",
+    "mob/wandering_trader/drink_milk4",
+    "mob/wandering_trader/drink_milk5"
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.drink_milk"
+}
