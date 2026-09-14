@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable hiding online player information from status queries",
+  "name": "minecraft:serversettings/hide_online_players/set",
+  "params": [
+    {
+      "name": "hide",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "hidden",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

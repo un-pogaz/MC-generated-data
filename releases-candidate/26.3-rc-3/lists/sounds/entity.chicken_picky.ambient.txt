@@ -1,0 +1,8 @@
+minecraft:mob/chicken/picky/ambient1
+minecraft:mob/chicken/picky/ambient2
+minecraft:mob/chicken/picky/ambient3
+minecraft:mob/chicken/picky/ambient4
+minecraft:mob/chicken/picky/ambient5
+minecraft:mob/chicken/picky/ambient6
+minecraft:mob/chicken/picky/ambient7
+minecraft:mob/chicken/picky/ambient8

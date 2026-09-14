@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/strider/idle1",
+    "mob/strider/idle2",
+    "mob/strider/idle3",
+    "mob/strider/idle4",
+    "mob/strider/idle5",
+    "mob/strider/idle6"
+  ],
+  "subtitle": "subtitles.entity.strider.idle"
+}

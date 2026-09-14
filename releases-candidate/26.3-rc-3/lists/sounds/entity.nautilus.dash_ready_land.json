@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/nautilus/dash_ready_land1",
+    "mob/nautilus/dash_ready_land2",
+    "mob/nautilus/dash_ready_land3",
+    "mob/nautilus/dash_ready_land4"
+  ],
+  "subtitle": "subtitles.entity.nautilus.dash_ready_land"
+}

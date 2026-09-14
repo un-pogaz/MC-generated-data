@@ -1,0 +1,2 @@
+minecraft:mob/baby_nautilus/eat1
+minecraft:mob/baby_nautilus/eat2

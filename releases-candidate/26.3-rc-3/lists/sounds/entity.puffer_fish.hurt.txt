@@ -1,0 +1,2 @@
+minecraft:mob/pufferfish/hurt1
+minecraft:mob/pufferfish/hurt2

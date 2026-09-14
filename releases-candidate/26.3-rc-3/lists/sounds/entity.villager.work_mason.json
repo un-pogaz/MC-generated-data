@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "ui/stonecutter/cut1",
+    {
+      "name": "ui/stonecutter/cut1",
+      "pitch": 0.92
+    },
+    "ui/stonecutter/cut2",
+    {
+      "name": "ui/stonecutter/cut2",
+      "pitch": 0.92
+    }
+  ],
+  "subtitle": "subtitles.entity.villager.work_mason"
+}

@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/zombie_nautilus/eat1",
+    "mob/zombie_nautilus/eat2"
+  ],
+  "subtitle": "subtitles.entity.zombie_nautilus.eat"
+}

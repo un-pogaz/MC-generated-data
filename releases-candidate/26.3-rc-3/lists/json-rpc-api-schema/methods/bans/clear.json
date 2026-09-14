@@ -1,0 +1,14 @@
+{
+  "description": "Clear all players in ban list",
+  "name": "minecraft:bans/clear",
+  "params": [],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/user_ban"
+      }
+    }
+  }
+}

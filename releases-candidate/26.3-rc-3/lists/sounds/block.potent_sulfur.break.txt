@@ -1,0 +1,7 @@
+minecraft:block/potent_sulfur/break1
+minecraft:block/potent_sulfur/break2
+minecraft:block/potent_sulfur/break3
+minecraft:block/potent_sulfur/break4
+minecraft:block/potent_sulfur/break5
+minecraft:block/potent_sulfur/break6
+minecraft:block/potent_sulfur/break7

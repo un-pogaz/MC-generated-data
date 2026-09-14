@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/cinnabar/step1",
+    "block/cinnabar/step2",
+    "block/cinnabar/step3",
+    "block/cinnabar/step4",
+    "block/cinnabar/step5",
+    "block/cinnabar/step6",
+    "block/cinnabar/step7"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

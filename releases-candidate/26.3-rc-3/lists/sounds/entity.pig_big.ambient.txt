@@ -1,0 +1,9 @@
+minecraft:mob/pig/big/ambient1
+minecraft:mob/pig/big/ambient2
+minecraft:mob/pig/big/ambient3
+minecraft:mob/pig/big/ambient4
+minecraft:mob/pig/big/ambient5
+minecraft:mob/pig/big/ambient6
+minecraft:mob/pig/big/ambient7
+minecraft:mob/pig/big/ambient8
+minecraft:mob/pig/big/ambient9

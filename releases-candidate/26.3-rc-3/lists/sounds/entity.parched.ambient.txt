@@ -1,0 +1,4 @@
+minecraft:mob/parched/ambient1
+minecraft:mob/parched/ambient2
+minecraft:mob/parched/ambient3
+minecraft:mob/parched/ambient4

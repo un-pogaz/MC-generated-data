@@ -1,0 +1,2 @@
+minecraft:mob/zombie_nautilus/eat1
+minecraft:mob/zombie_nautilus/eat2

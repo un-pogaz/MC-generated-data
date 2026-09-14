@@ -1,0 +1,6 @@
+minecraft:block/dried_ghast/place1
+minecraft:block/dried_ghast/place2
+minecraft:block/dried_ghast/place3
+minecraft:block/dried_ghast/place4
+minecraft:block/dried_ghast/place5
+minecraft:block/dried_ghast/place6
