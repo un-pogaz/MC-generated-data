@@ -1,4 +1,3 @@
-minecraft:armor_trims
 minecraft:banner_patterns
 minecraft:blocks
 minecraft:celestials

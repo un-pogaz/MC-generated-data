@@ -1,2 +1,0 @@
-minecraft:heavy_weighted_pressure_plate
-minecraft:light_weighted_pressure_plate

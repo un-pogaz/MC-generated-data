@@ -87,8 +87,8 @@ minecraft:cartographer/2/emerald_and_compass_village_snowy_map
 minecraft:cartographer/2/emerald_and_compass_village_taiga_map
 minecraft:cartographer/2/glass_pane_emerald
 minecraft:cartographer/3/compass_emerald
-minecraft:cartographer/3/emerald_and_compass_ocean_explorer_map
-minecraft:cartographer/3/emerald_and_compass_trial_chamber_map
+minecraft:cartographer/3/emerald_and_compass_buried_trial_chambers_map
+minecraft:cartographer/3/emerald_and_compass_ocean_monument_map
 minecraft:cartographer/4/emerald_black_banner
 minecraft:cartographer/4/emerald_blue_banner
 minecraft:cartographer/4/emerald_brown_banner
@@ -430,6 +430,8 @@ minecraft:wandering_trader/emerald_pink_dye
 minecraft:wandering_trader/emerald_pink_tulip
 minecraft:wandering_trader/emerald_podzol
 minecraft:wandering_trader/emerald_pointed_dripstone
+minecraft:wandering_trader/emerald_poplar_log
+minecraft:wandering_trader/emerald_poplar_sapling
 minecraft:wandering_trader/emerald_poppy
 minecraft:wandering_trader/emerald_pufferfish_bucket
 minecraft:wandering_trader/emerald_pumpkin
@@ -442,6 +444,7 @@ minecraft:wandering_trader/emerald_red_tulip
 minecraft:wandering_trader/emerald_rooted_dirt
 minecraft:wandering_trader/emerald_sand
 minecraft:wandering_trader/emerald_sea_pickle
+minecraft:wandering_trader/emerald_shelf_mushroom
 minecraft:wandering_trader/emerald_slime_ball
 minecraft:wandering_trader/emerald_small_dripleaf
 minecraft:wandering_trader/emerald_spruce_log

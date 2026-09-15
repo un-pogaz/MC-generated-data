@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:target",
-    "properties": {}
-  },
   "properties": {
     "power": [
       "0",

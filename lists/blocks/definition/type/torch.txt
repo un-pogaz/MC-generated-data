@@ -1,3 +1,0 @@
-minecraft:copper_torch
-minecraft:soul_torch
-minecraft:torch

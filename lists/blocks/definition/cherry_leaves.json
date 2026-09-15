@@ -1,8 +1,0 @@
-{
-  "leaf_particle": {
-    "type": "minecraft:cherry_leaves"
-  },
-  "leaf_particle_chance": 0.1,
-  "properties": {},
-  "type": "minecraft:untinted_particle_leaves"
-}

@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:blast_furnace",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

@@ -1,10 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:layered_cauldron",
-    "interactions": "powder_snow",
-    "precipitation": "snow",
-    "properties": {}
-  },
   "properties": {
     "level": [
       "1",

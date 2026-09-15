@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:hopper",
-    "properties": {}
-  },
   "properties": {
     "enabled": [
       "true",

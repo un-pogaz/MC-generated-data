@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:sapling",
-    "properties": {},
-    "tree": "cherry"
-  },
   "properties": {
     "stage": [
       "0",

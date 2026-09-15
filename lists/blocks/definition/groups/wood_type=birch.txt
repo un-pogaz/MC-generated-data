@@ -1,5 +1,0 @@
-minecraft:birch_fence_gate
-minecraft:birch_hanging_sign
-minecraft:birch_sign
-minecraft:birch_wall_hanging_sign
-minecraft:birch_wall_sign

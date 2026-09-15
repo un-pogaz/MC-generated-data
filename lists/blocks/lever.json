@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:lever",
-    "properties": {}
-  },
   "properties": {
     "face": [
       "floor",

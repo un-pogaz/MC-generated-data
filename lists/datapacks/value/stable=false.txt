@@ -1,4 +1,5 @@
 minecraft:banner_pattern
+minecraft:block_transformer
 minecraft:cat_sound_variant
 minecraft:cat_variant
 minecraft:chat_type
@@ -7,6 +8,7 @@ minecraft:chicken_variant
 minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:damage_type
+minecraft:decorated_pot_pattern
 minecraft:dialog
 minecraft:dimension
 minecraft:dimension_type
@@ -31,10 +33,13 @@ minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:world_clock
 minecraft:worldgen/biome
-minecraft:worldgen/configured_carver
-minecraft:worldgen/configured_feature
+minecraft:worldgen/block_state_provider
+minecraft:worldgen/carver
 minecraft:worldgen/density_function
+minecraft:worldgen/feature
 minecraft:worldgen/flat_level_generator_preset
+minecraft:worldgen/material_condition
+minecraft:worldgen/material_rule
 minecraft:worldgen/multi_noise_biome_source_parameter_list
 minecraft:worldgen/noise
 minecraft:worldgen/noise_settings

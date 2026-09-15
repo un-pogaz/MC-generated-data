@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:door",
-    "block_set_type": "cherry",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

@@ -1,5 +1,0 @@
-minecraft:warped_fence_gate
-minecraft:warped_hanging_sign
-minecraft:warped_sign
-minecraft:warped_wall_hanging_sign
-minecraft:warped_wall_sign

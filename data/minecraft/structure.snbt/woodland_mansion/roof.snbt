@@ -261,8 +261,8 @@
   ],
   palette: [
     {
-      Name: "minecraft:dark_oak_planks"
+      id: "minecraft:dark_oak_planks"
     }
   ],
-  DataVersion: 4903
+  DataVersion: 5023
 }

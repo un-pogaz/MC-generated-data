@@ -1,13 +1,13 @@
 {
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
+      "type": "minecraft:set_enchantments",
       "enchantments": {
-        "minecraft:unbreaking": 1.0
-      },
-      "function": "minecraft:set_enchantments"
+        "minecraft:unbreaking": 1
+      }
     },
     {
-      "function": "minecraft:filtered",
+      "type": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:chainmail_leggings",
         "predicates": {
@@ -19,16 +19,16 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
+        "type": "minecraft:discard"
       }
     }
   ],
   "gives": {
     "id": "minecraft:chainmail_leggings"
   },
-  "max_uses": 3.0,
+  "max_uses": 3,
   "merchant_predicate": {
-    "condition": "minecraft:entity_properties",
+    "type": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
       "minecraft:predicates": {
@@ -38,8 +38,8 @@
   },
   "reputation_discount": 0.05,
   "wants": {
-    "count": 11.0,
+    "count": 11,
     "id": "minecraft:emerald"
   },
-  "xp": 15.0
+  "xp": 15
 }

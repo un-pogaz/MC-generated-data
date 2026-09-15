@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:shulker_box",
-    "color": "yellow",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

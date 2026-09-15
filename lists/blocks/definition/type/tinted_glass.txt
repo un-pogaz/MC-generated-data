@@ -1,1 +1,0 @@
-minecraft:tinted_glass

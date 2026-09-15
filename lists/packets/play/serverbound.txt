@@ -45,6 +45,7 @@ minecraft:player_command
 minecraft:player_input
 minecraft:player_loaded
 minecraft:pong
+minecraft:punch
 minecraft:recipe_book_change_settings
 minecraft:recipe_book_seen_recipe
 minecraft:rename_item
@@ -62,7 +63,6 @@ minecraft:set_structure_block
 minecraft:set_test_block
 minecraft:sign_update
 minecraft:spectator_action
-minecraft:swing
 minecraft:teleport_to_entity
 minecraft:test_instance_block_action
 minecraft:use_item

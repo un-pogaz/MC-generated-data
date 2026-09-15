@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:wall_skull",
-    "kind": "dragon",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

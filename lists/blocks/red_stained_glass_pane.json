@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:stained_glass_pane",
-    "color": "red",
-    "properties": {}
-  },
   "properties": {
     "east": [
       "true",

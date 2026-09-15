@@ -1,4 +1,0 @@
-minecraft:birch_button
-minecraft:birch_door
-minecraft:birch_pressure_plate
-minecraft:birch_trapdoor

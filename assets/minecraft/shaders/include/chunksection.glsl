@@ -1,8 +1,9 @@
-#version 330
+#ifndef MINECRAFT_CHUNKSECTION_GLSL
+#define MINECRAFT_CHUNKSECTION_GLSL
 
 layout(std140) uniform ChunkSection {
-    mat4 ModelViewMat;
-    float ChunkVisibility;
-    ivec2 TextureSize;
     ivec3 ChunkPosition;
+    float ChunkVisibility;
 };
+
+#endif

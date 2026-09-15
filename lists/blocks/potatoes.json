@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:potato",
-    "properties": {}
-  },
   "properties": {
     "age": [
       "0",
