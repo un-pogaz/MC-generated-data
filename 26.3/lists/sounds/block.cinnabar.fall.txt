@@ -1,0 +1,7 @@
+minecraft:block/cinnabar/hit1
+minecraft:block/cinnabar/hit2
+minecraft:block/cinnabar/hit3
+minecraft:block/cinnabar/hit4
+minecraft:block/cinnabar/hit5
+minecraft:block/cinnabar/hit6
+minecraft:block/cinnabar/hit7

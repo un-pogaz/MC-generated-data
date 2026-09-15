@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    {
+      "name": "item/spyglass/stop",
+      "volume": 0.5
+    },
+    {
+      "name": "item/spyglass/stop",
+      "pitch": 0.8,
+      "volume": 0.5
+    },
+    {
+      "name": "item/spyglass/stop",
+      "pitch": 0.9,
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.item.spyglass.stop_using"
+}

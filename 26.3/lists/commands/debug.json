@@ -1,0 +1,37 @@
+{
+  "type": "literal",
+  "children": {
+    "function": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:function"
+        }
+      },
+      "permissions": {
+        "type": "minecraft:require",
+        "permission": {
+          "type": "minecraft:command_level",
+          "level": "admins"
+        }
+      }
+    },
+    "start": {
+      "type": "literal",
+      "executable": true
+    },
+    "stop": {
+      "type": "literal",
+      "executable": true
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "admins"
+    }
+  }
+}

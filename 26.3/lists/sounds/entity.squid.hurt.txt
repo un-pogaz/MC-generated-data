@@ -1,0 +1,4 @@
+minecraft:mob/squid/hurt1
+minecraft:mob/squid/hurt2
+minecraft:mob/squid/hurt3
+minecraft:mob/squid/hurt4

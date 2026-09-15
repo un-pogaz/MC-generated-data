@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "mode": [
+      "start",
+      "log",
+      "fail",
+      "accept"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+minecraft:block/leaf_litter/place1
+minecraft:block/leaf_litter/place2
+minecraft:block/leaf_litter/place3
+minecraft:block/leaf_litter/place4
+minecraft:block/leaf_litter/place5

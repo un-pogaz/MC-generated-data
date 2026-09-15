@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/sulfur_cube/small_sulfur_cube/eat1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/sulfur_cube/small_sulfur_cube/eat2",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.small_sulfur_cube.eat"
+}

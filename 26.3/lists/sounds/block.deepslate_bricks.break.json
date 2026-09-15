@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/deepslate_bricks/place1",
+      "volume": 0.85
+    },
+    {
+      "name": "block/deepslate_bricks/place2",
+      "volume": 0.85
+    },
+    {
+      "name": "block/deepslate_bricks/place3",
+      "volume": 0.85
+    },
+    {
+      "name": "block/deepslate_bricks/place4",
+      "volume": 0.85
+    },
+    {
+      "name": "block/deepslate_bricks/place5",
+      "volume": 0.85
+    },
+    {
+      "name": "block/deepslate_bricks/place6",
+      "volume": 0.85
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

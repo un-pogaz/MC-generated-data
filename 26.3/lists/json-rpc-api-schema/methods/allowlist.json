@@ -1,0 +1,14 @@
+{
+  "description": "Get the allowlist",
+  "name": "minecraft:allowlist",
+  "params": [],
+  "result": {
+    "name": "allowlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

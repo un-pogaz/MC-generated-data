@@ -1,0 +1,4 @@
+((permissions: admins))
+banlist
+banlist ips
+banlist players

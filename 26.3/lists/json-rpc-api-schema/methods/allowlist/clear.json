@@ -1,0 +1,14 @@
+{
+  "description": "Clear all players in allowlist",
+  "name": "minecraft:allowlist/clear",
+  "params": [],
+  "result": {
+    "name": "allowlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

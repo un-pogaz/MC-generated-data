@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/baby_cat/death",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_cat.death"
+}

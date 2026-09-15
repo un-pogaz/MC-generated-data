@@ -1,0 +1,124 @@
+{
+  "type": "literal",
+  "children": {
+    "block": {
+      "type": "literal",
+      "children": {
+        "computePos": {
+          "type": "argument",
+          "children": {
+            "float": {
+              "type": "literal",
+              "children": {
+                "provider": {
+                  "type": "argument",
+                  "children": {
+                    "scale": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "brigadier:float"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:context_float_provider"
+                }
+              }
+            },
+            "integer": {
+              "type": "literal",
+              "children": {
+                "provider": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:context_int_provider"
+                }
+              }
+            }
+          },
+          "parser": "minecraft:block_pos"
+        }
+      }
+    },
+    "default": {
+      "type": "literal",
+      "children": {
+        "float": {
+          "type": "literal",
+          "children": {
+            "provider": {
+              "type": "argument",
+              "children": {
+                "scale": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "brigadier:float"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:context_float_provider"
+            }
+          }
+        },
+        "integer": {
+          "type": "literal",
+          "children": {
+            "provider": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:context_int_provider"
+            }
+          }
+        }
+      }
+    },
+    "entity": {
+      "type": "literal",
+      "children": {
+        "computeTarget": {
+          "type": "argument",
+          "children": {
+            "float": {
+              "type": "literal",
+              "children": {
+                "provider": {
+                  "type": "argument",
+                  "children": {
+                    "scale": {
+                      "type": "argument",
+                      "executable": true,
+                      "parser": "brigadier:float"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:context_float_provider"
+                }
+              }
+            },
+            "integer": {
+              "type": "literal",
+              "children": {
+                "provider": {
+                  "type": "argument",
+                  "executable": true,
+                  "parser": "minecraft:context_int_provider"
+                }
+              }
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "entities",
+            "amount": "single"
+          }
+        }
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

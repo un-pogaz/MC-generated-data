@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/ball/slowsliding_push1
+minecraft:mob/sulfur_cube/ball/slowsliding_push2
+minecraft:mob/sulfur_cube/ball/slowsliding_push3
+minecraft:mob/sulfur_cube/ball/slowsliding_push4

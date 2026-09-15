@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable forcing players to use the server's default game mode",
+  "name": "minecraft:serversettings/force_game_mode/set",
+  "params": [
+    {
+      "name": "force",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "forced",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

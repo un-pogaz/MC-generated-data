@@ -1,0 +1,11 @@
+{
+  "description": "Get whether flight is allowed for players in Survival mode",
+  "name": "minecraft:serversettings/allow_flight",
+  "params": [],
+  "result": {
+    "name": "allowed",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}
