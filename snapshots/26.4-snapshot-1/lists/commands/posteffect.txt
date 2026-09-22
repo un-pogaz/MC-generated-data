@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+posteffect add <targets minecraft:entity[type="players", amount="multiple"]> <posteffect minecraft:resource_location>
+posteffect clear <targets minecraft:entity[type="players", amount="multiple"]>
+posteffect list <target minecraft:entity[type="players", amount="single"]>
+posteffect remove <targets minecraft:entity[type="players", amount="multiple"]> <posteffect minecraft:resource_location>

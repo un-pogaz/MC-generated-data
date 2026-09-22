@@ -1,0 +1,11 @@
+minecraft:mob/sulfur_cube/jump1
+minecraft:mob/sulfur_cube/jump2
+minecraft:mob/sulfur_cube/jump3
+minecraft:mob/sulfur_cube/jump4
+minecraft:mob/sulfur_cube/jump5
+minecraft:mob/sulfur_cube/jump6
+minecraft:mob/sulfur_cube/jump7
+minecraft:mob/sulfur_cube/jump8
+minecraft:mob/sulfur_cube/jump9
+minecraft:mob/sulfur_cube/jump10
+minecraft:mob/sulfur_cube/jump11

@@ -1,0 +1,11 @@
+{
+  "description": "Get the server's message of the day displayed to players",
+  "name": "minecraft:serversettings/motd",
+  "params": [],
+  "result": {
+    "name": "message",
+    "schema": {
+      "type": "string"
+    }
+  }
+}

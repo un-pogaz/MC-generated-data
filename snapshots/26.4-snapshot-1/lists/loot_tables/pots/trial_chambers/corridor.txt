@@ -1,0 +1,8 @@
+minecraft:emerald
+minecraft:arrow
+minecraft:iron_ingot
+minecraft:trial_key
+minecraft:music_disc_creator_music_box
+minecraft:diamond
+minecraft:emerald_block
+minecraft:diamond_block

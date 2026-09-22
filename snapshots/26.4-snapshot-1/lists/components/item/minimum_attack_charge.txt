@@ -1,0 +1,7 @@
+minecraft:copper_spear  = 1.0
+minecraft:diamond_spear  = 1.0
+minecraft:golden_spear  = 1.0
+minecraft:iron_spear  = 1.0
+minecraft:netherite_spear  = 1.0
+minecraft:stone_spear  = 1.0
+minecraft:wooden_spear  = 1.0

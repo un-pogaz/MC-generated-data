@@ -1,0 +1,2 @@
+minecraft:mob/pig/baby_pig/eat1
+minecraft:mob/pig/baby_pig/eat2

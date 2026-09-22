@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/baby_nautilus/ambient_land1",
+    "mob/baby_nautilus/ambient_land2",
+    "mob/baby_nautilus/ambient_land3",
+    "mob/baby_nautilus/ambient_land4"
+  ],
+  "subtitle": "subtitles.entity.baby_nautilus.ambient_land"
+}

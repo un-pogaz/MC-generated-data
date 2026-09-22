@@ -1,0 +1,3 @@
+minecraft:item/spear/attack1
+minecraft:item/spear/attack2
+minecraft:item/spear/attack3

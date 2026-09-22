@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/red_shrub/place1",
+    "block/red_shrub/place2",
+    "block/red_shrub/place3",
+    "block/red_shrub/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

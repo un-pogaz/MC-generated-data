@@ -1,0 +1,7 @@
+minecraft:block/sulfur_spike/land1
+minecraft:block/sulfur_spike/land2
+minecraft:block/sulfur_spike/land3
+minecraft:block/sulfur_spike/land4
+minecraft:block/sulfur_spike/land5
+minecraft:block/sulfur_spike/land6
+minecraft:block/sulfur_spike/land7

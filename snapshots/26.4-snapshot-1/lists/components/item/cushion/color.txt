@@ -1,0 +1,16 @@
+minecraft:black_cushion  = black
+minecraft:blue_cushion  = blue
+minecraft:brown_cushion  = brown
+minecraft:cyan_cushion  = cyan
+minecraft:gray_cushion  = gray
+minecraft:green_cushion  = green
+minecraft:light_blue_cushion  = light_blue
+minecraft:light_gray_cushion  = light_gray
+minecraft:lime_cushion  = lime
+minecraft:magenta_cushion  = magenta
+minecraft:orange_cushion  = orange
+minecraft:pink_cushion  = pink
+minecraft:purple_cushion  = purple
+minecraft:red_cushion  = red
+minecraft:white_cushion  = white
+minecraft:yellow_cushion  = yellow

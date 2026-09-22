@@ -1,0 +1,4 @@
+minecraft:beetroot  = {nutrition: 1}
+minecraft:bread  = {nutrition: 4}
+minecraft:carrot  = {nutrition: 1}
+minecraft:potato  = {nutrition: 1}

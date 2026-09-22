@@ -1,0 +1,7 @@
+minecraft:copper_spear  = {{value}}
+minecraft:diamond_spear  = {{value}}
+minecraft:golden_spear  = {{value}}
+minecraft:iron_spear  = {{value}}
+minecraft:netherite_spear  = {{value}}
+minecraft:stone_spear  = {{value}}
+minecraft:wooden_spear  = {{value}}

@@ -1,0 +1,36 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "children": {
+        "pos": {
+          "type": "argument",
+          "children": {
+            "rotation": {
+              "type": "argument",
+              "executable": true,
+              "parser": "minecraft:rotation"
+            }
+          },
+          "executable": true,
+          "parser": "minecraft:block_pos"
+        }
+      },
+      "executable": true,
+      "parser": "minecraft:entity",
+      "properties": {
+        "type": "players",
+        "amount": "multiple"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

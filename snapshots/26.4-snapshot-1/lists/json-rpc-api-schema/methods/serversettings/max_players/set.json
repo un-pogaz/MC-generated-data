@@ -1,0 +1,19 @@
+{
+  "description": "Set the maximum number of players allowed to connect to the server",
+  "name": "minecraft:serversettings/max_players/set",
+  "params": [
+    {
+      "name": "max",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "max",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}
