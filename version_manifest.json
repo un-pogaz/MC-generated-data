@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "26.3",
-    "snapshot": "26.4-snapshot-1"
+    "snapshot": "26.4-snapshot-2"
   },
   "versions": [
+    {
+      "id": "26.4-snapshot-2",
+      "type": "snapshot",
+      "url": "https://piston-meta.mojang.com/v1/packages/655c2da7d6815e84864a0f9a055c90e36337b0b4/26.4-snapshot-2.json",
+      "time": "2026-09-29T11:39:25+00:00",
+      "releaseTime": "2026-09-29T11:32:57+00:00"
+    },
     {
       "id": "26.4-snapshot-1",
       "type": "snapshot",
@@ -6678,6 +6685,9 @@
   ],
   "pack_format": {
     "data": {
+      "122.1": [
+        "26.4-snapshot-2"
+      ],
       "122.0": [
         "26.4-snapshot-1"
       ],
@@ -7528,6 +7538,9 @@
       ]
     },
     "resource": {
+      "99.0": [
+        "26.4-snapshot-2"
+      ],
       "98.0": [
         "26.4-snapshot-1"
       ],
@@ -8578,6 +8591,7 @@
   "versioning": {
     "26.4": {
       "snapshots": [
+        "26.4-snapshot-2",
         "26.4-snapshot-1"
       ],
       "pre-releases": [],
@@ -9821,6 +9835,7 @@
     ]
   },
   "versions_history": [
+    "26.4-snapshot-2",
     "26.4-snapshot-1",
     "26.3",
     "26.3-rc-3",
