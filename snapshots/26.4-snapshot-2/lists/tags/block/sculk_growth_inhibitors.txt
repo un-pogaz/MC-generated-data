@@ -1,0 +1,2 @@
+minecraft:sculk_sensor
+minecraft:sculk_shrieker

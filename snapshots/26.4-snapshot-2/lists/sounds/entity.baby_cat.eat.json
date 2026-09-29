@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/eat1",
+      "pitch": 2.0
+    },
+    {
+      "name": "mob/cat/eat2",
+      "pitch": 2.0
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_cat.eat"
+}

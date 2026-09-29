@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/glow_squid/squirt1",
+    "mob/glow_squid/squirt2",
+    "mob/glow_squid/squirt3"
+  ],
+  "subtitle": "subtitles.entity.glow_squid.squirt"
+}

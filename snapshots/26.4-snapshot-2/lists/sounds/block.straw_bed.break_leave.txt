@@ -1,0 +1,1 @@
+minecraft:block/straw_bed/break_leave

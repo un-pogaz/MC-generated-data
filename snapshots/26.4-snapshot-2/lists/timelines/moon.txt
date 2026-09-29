@@ -1,0 +1,3 @@
+[[tracks]]
+minecraft:gameplay/surface_slime_spawn_chance
+minecraft:visual/moon_phase

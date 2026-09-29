@@ -1,0 +1,6 @@
+wants: emerald x9
+gives: chainmail_helmet {enchantments: projectile_protection}
+xp: 30
+max use: 3
+reputation discount: 0.05
+condition: is jungle variant

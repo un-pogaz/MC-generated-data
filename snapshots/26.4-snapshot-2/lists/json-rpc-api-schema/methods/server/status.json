@@ -1,0 +1,11 @@
+{
+  "description": "Get server status",
+  "name": "minecraft:server/status",
+  "params": [],
+  "result": {
+    "name": "status",
+    "schema": {
+      "$ref": "#/components/schemas/server_state"
+    }
+  }
+}

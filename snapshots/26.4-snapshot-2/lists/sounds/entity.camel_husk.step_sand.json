@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel_husk/step_sand1",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel_husk/step_sand2",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel_husk/step_sand3",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel_husk/step_sand4",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel_husk/step_sand5",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel_husk/step_sand6",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

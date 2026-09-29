@@ -1,0 +1,8 @@
+minecraft:cave_vines_body
+minecraft:cave_vines_head
+minecraft:flower_flower_forest
+minecraft:flower_meadow
+minecraft:flower_plain
+minecraft:mangrove_propagule
+minecraft:podzol_beneath_tree
+minecraft:soil_beneath_tree

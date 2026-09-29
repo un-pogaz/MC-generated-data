@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "item/bucket/emptysulfurcube1",
+    "item/bucket/emptysulfurcube2",
+    "item/bucket/emptysulfurcube3"
+  ],
+  "subtitle": "subtitles.item.bucket.empty"
+}

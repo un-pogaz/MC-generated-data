@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wolf/baby/angry1",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/wolf/baby/angry2",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/wolf/baby/angry3",
+      "pitch": 0.75
+    },
+    {
+      "name": "mob/wolf/baby/angry4",
+      "pitch": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_wolf.growl"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "literal": {
+      "type": "string"
+    },
+    "translatable": {
+      "type": "string"
+    },
+    "translatableParams": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

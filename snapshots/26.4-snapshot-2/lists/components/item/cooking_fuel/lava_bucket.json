@@ -1,0 +1,4 @@
+{
+  "burn_time": "minecraft:cooking/time_lava_bucket",
+  "speed_multiplier": "minecraft:cooking/speed_default"
+}

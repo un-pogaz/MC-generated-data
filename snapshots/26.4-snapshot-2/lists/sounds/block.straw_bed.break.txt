@@ -1,0 +1,4 @@
+minecraft:block/straw_bed/break1
+minecraft:block/straw_bed/break2
+minecraft:block/straw_bed/break3
+minecraft:block/straw_bed/break4

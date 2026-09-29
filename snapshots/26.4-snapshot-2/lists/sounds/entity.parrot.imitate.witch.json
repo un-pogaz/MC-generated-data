@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.witch.ambient",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.witch"
+}

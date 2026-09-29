@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: horn_coral_block
+xp: 1
+max use: 8
+reputation discount: 0.05

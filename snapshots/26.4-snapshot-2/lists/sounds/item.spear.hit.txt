@@ -1,0 +1,3 @@
+minecraft:item/spear/hit1
+minecraft:item/spear/hit2
+minecraft:item/spear/hit3

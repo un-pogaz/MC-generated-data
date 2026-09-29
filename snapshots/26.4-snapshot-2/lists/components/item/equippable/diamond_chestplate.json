@@ -1,0 +1,5 @@
+{
+  "asset_id": "minecraft:diamond",
+  "equip_sound": "minecraft:item.armor.equip_diamond",
+  "slot": "chest"
+}

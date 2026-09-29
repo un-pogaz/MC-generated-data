@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "block/shelf_mushroom/break1",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/shelf_mushroom/break2",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/shelf_mushroom/break3",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/shelf_mushroom/break4",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/shelf_mushroom/break5",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/shelf_mushroom/break6",
+      "pitch": 1.2,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

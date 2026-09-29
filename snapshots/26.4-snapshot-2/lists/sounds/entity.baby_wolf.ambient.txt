@@ -1,0 +1,8 @@
+minecraft:mob/wolf/baby/ambient1
+minecraft:mob/wolf/baby/ambient2
+minecraft:mob/wolf/baby/ambient3
+minecraft:mob/wolf/baby/ambient4
+minecraft:mob/wolf/baby/ambient5
+minecraft:mob/wolf/baby/ambient6
+minecraft:mob/wolf/baby/ambient7
+minecraft:mob/wolf/baby/ambient8

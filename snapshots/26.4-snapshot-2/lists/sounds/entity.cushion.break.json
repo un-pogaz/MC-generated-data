@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/cushion/break1",
+    "entity/cushion/break2",
+    "entity/cushion/break3"
+  ],
+  "subtitle": "subtitles.entity.cushion.break"
+}

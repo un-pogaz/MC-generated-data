@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "item/spear/wood/hit1",
+    "item/spear/wood/hit2",
+    "item/spear/wood/hit3"
+  ],
+  "subtitle": "subtitles.item.spear_wood.hit"
+}

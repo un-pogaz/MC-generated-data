@@ -1,0 +1,2 @@
+((permissions: gamemasters))
+say <message minecraft:message>

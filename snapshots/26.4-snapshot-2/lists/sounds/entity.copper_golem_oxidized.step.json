@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step1"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step2"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step3"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step4"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step5"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step6"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step7"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step8"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/coppergolem/oxidized/step9"
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/hiss1",
+      "pitch": 2.0
+    },
+    {
+      "name": "mob/cat/hiss2",
+      "pitch": 2.0
+    },
+    {
+      "name": "mob/cat/hiss3",
+      "pitch": 2.0
+    }
+  ],
+  "subtitle": "subtitles.entity.baby_cat.hiss"
+}

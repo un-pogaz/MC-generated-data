@@ -1,0 +1,6 @@
+minecraft:mob/baby_nautilus/ambient1
+minecraft:mob/baby_nautilus/ambient2
+minecraft:mob/baby_nautilus/ambient3
+minecraft:mob/baby_nautilus/ambient4
+minecraft:mob/baby_nautilus/ambient5
+minecraft:mob/baby_nautilus/ambient6

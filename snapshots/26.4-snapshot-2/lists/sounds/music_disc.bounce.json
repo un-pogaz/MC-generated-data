@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "records/bounce",
+      "stream": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "copper_golem_pose": [
+      "standing",
+      "sitting",
+      "running",
+      "star"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

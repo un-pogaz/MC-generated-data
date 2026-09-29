@@ -1,0 +1,5 @@
+minecraft:mob/horse/baby_horse/eat1
+minecraft:mob/horse/baby_horse/eat2
+minecraft:mob/horse/baby_horse/eat3
+minecraft:mob/horse/baby_horse/eat4
+minecraft:mob/horse/baby_horse/eat5

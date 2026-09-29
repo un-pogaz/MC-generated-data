@@ -1,0 +1,2 @@
+minecraft:mob/pufferfish/death1
+minecraft:mob/pufferfish/death2

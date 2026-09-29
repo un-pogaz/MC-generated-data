@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "item/plant/netherwart1",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "item/plant/netherwart2",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "item/plant/netherwart3",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "item/plant/netherwart4",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "item/plant/netherwart5",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "item/plant/netherwart6",
+      "pitch": 0.9,
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

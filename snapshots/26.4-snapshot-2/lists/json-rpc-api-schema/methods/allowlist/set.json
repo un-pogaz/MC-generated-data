@@ -1,0 +1,25 @@
+{
+  "description": "Set the allowlist",
+  "name": "minecraft:allowlist/set",
+  "params": [
+    {
+      "name": "players",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/player"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "allowlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

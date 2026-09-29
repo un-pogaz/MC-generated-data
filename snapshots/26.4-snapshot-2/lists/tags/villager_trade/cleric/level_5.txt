@@ -1,0 +1,2 @@
+minecraft:cleric/5/nether_wart_emerald
+minecraft:cleric/5/emerald_experience_bottle

@@ -1,0 +1,11 @@
+{
+  "description": "Get whether players are forced to use the server's default game mode",
+  "name": "minecraft:serversettings/force_game_mode",
+  "params": [],
+  "result": {
+    "name": "forced",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

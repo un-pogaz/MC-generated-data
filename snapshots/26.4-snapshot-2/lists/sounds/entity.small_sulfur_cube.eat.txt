@@ -1,0 +1,2 @@
+minecraft:mob/sulfur_cube/small_sulfur_cube/eat1
+minecraft:mob/sulfur_cube/small_sulfur_cube/eat2

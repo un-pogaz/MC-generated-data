@@ -1,0 +1,4 @@
+minecraft:creeper_head  = {{value}}
+minecraft:piglin_head  = {{value}}
+minecraft:skeleton_skull  = {{value}}
+minecraft:zombie_head  = {{value}}

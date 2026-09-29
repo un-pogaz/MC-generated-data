@@ -1,0 +1,2 @@
+minecraft:swamp
+minecraft:mangrove_swamp

@@ -1,0 +1,5 @@
+wants: emerald x2
+gives: sea_pickle
+xp: 1
+max use: 5
+reputation discount: 0.05

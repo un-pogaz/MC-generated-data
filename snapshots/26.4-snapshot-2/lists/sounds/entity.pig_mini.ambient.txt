@@ -1,0 +1,6 @@
+minecraft:mob/pig/mini/ambient1
+minecraft:mob/pig/mini/ambient2
+minecraft:mob/pig/mini/ambient3
+minecraft:mob/pig/mini/ambient4
+minecraft:mob/pig/mini/ambient5
+minecraft:mob/pig/mini/ambient6

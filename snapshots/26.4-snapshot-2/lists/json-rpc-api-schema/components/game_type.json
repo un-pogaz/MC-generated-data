@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "enum": [
+    "survival",
+    "creative",
+    "adventure",
+    "spectator"
+  ]
+}

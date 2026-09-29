@@ -1,0 +1,26 @@
+"# markers #","##"
+"clock: minecraft:overworld",""
+"# tracks #","##"
+"period_ticks: 192000",""
+==,==
+"minecraft:gameplay/surface_slime_spawn_chance","ease: constant (modifier: maximum)"
+——,——
+"0","0.5"
+"24000","0.375"
+"48000","0.25"
+"72000","0.125"
+"96000","0.0"
+"120000","0.125"
+"144000","0.25"
+"168000","0.375"
+==,==
+"minecraft:visual/moon_phase","ease: linear (modifier: override)"
+——,——
+"0","full_moon"
+"24000","waning_gibbous"
+"48000","third_quarter"
+"72000","waning_crescent"
+"96000","new_moon"
+"120000","waxing_crescent"
+"144000","first_quarter"
+"168000","waxing_gibbous"

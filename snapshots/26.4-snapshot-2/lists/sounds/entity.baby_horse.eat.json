@@ -1,0 +1,22 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/baby_horse/eat1",
+      "pitch": 1.25
+    },
+    {
+      "name": "mob/horse/baby_horse/eat2",
+      "pitch": 1.25
+    },
+    {
+      "name": "mob/horse/baby_horse/eat3",
+      "pitch": 1.25
+    },
+    {
+      "name": "mob/horse/baby_horse/eat4",
+      "pitch": 1.25
+    },
+    "mob/horse/baby_horse/eat5"
+  ],
+  "subtitle": "subtitles.entity.baby_horse.eat"
+}

@@ -1,0 +1,5 @@
+wants: emerald x36
+gives: bell
+xp: 5
+max use: 12
+reputation discount: 0.2

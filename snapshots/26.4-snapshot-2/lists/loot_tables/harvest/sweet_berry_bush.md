@@ -1,0 +1,7 @@
+| Name                    | Count | Chance | Weight | Comment |
+| ----------------------- | ----- | ------ | ------ | ------- |
+| 1 time                  |    -- |     -- |     -- |         |
+| minecraft:sweet_berries |     1 |   100% |      1 |         |
+| – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
+| 1 time                  |    -- |     -- |     -- |         |
+| minecraft:sweet_berries |  1..2 |   100% |      1 |         |

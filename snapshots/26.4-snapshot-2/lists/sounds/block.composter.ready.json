@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/composter/ready1",
+    "block/composter/ready2",
+    "block/composter/ready3",
+    "block/composter/ready4"
+  ],
+  "subtitle": "subtitles.block.composter.ready"
+}

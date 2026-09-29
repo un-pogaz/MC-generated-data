@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/chicken/picky/ambient1",
+    "mob/chicken/picky/ambient2",
+    "mob/chicken/picky/ambient3",
+    "mob/chicken/picky/ambient4",
+    "mob/chicken/picky/ambient5",
+    "mob/chicken/picky/ambient6",
+    "mob/chicken/picky/ambient7",
+    "mob/chicken/picky/ambient8"
+  ],
+  "subtitle": "subtitles.entity.chicken.ambient"
+}

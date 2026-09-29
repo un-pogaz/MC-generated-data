@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/sponge/absorb1",
+    "block/sponge/absorb2",
+    "block/sponge/absorb3"
+  ],
+  "subtitle": "subtitles.block.sponge.absorb"
+}

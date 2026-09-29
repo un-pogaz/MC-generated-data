@@ -1,0 +1,5 @@
+wants: tropical_fish x6
+gives: emerald
+xp: 30
+max use: 12
+reputation discount: 0.05

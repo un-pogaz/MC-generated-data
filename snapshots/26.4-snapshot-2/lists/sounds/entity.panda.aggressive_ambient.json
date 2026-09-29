@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    "mob/panda/aggressive/aggressive1",
+    "mob/panda/aggressive/aggressive2",
+    "mob/panda/aggressive/aggressive3",
+    {
+      "name": "mob/panda/aggressive/aggressive4",
+      "volume": 0.8
+    },
+    "mob/panda/nosebreath2",
+    "mob/panda/nosebreath3",
+    "mob/panda/pant1",
+    "mob/panda/pant2"
+  ],
+  "subtitle": "subtitles.entity.panda.aggressive_ambient"
+}

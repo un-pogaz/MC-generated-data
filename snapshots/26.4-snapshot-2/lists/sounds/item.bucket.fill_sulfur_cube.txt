@@ -1,0 +1,3 @@
+minecraft:item/bucket/fillsulfurcube1
+minecraft:item/bucket/fillsulfurcube2
+minecraft:item/bucket/fillsulfurcube3

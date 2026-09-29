@@ -1,0 +1,7 @@
+wants: emerald x(LV+11+[0..35]), book
+gives: enchanted_book {enchantments: efficiency}
+xp: 30
+max use: 12
+reputation discount: 0.2
+double price enchantments: #minecraft:double_trade_price
+condition: is desert variant

@@ -1,0 +1,7 @@
+minecraft:mob/cat/baby_cat/ambient1
+minecraft:mob/cat/baby_cat/ambient2
+minecraft:mob/cat/baby_cat/ambient3
+minecraft:mob/cat/baby_cat/ambient4
+minecraft:mob/cat/baby_cat/ambient5
+minecraft:mob/cat/baby_cat/ambient6
+minecraft:mob/cat/baby_cat/ambient7
