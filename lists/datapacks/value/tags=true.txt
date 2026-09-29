@@ -89,7 +89,7 @@ minecraft:recipe_display
 minecraft:recipe_serializer
 minecraft:recipe_type
 minecraft:rule_block_entity_modifier
-minecraft:rule_test
+minecraft:rule_test_type
 minecraft:sensor_type
 minecraft:slot_display
 minecraft:slot_source
