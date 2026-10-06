@@ -1,0 +1,5 @@
+minecraft:mob/wolf/baby/step1
+minecraft:mob/wolf/baby/step2
+minecraft:mob/wolf/baby/step3
+minecraft:mob/wolf/baby/step4
+minecraft:mob/wolf/baby/step5

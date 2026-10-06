@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/leather",
+      "volume": 0.5
+    }
+  ]
+}

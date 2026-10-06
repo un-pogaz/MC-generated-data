@@ -1,0 +1,7 @@
+minecraft:beetroot_soup  = {id: "minecraft:bowl"}
+minecraft:honey_bottle  = {id: "minecraft:glass_bottle"}
+minecraft:milk_bucket  = {id: "minecraft:bucket"}
+minecraft:mushroom_stew  = {id: "minecraft:bowl"}
+minecraft:potion  = {id: "minecraft:glass_bottle"}
+minecraft:rabbit_stew  = {id: "minecraft:bowl"}
+minecraft:suspicious_stew  = {id: "minecraft:bowl"}

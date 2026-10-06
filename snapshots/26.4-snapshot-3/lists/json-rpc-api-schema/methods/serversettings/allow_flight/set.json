@@ -1,0 +1,19 @@
+{
+  "description": "Allow or disallow flight for players in Survival mode",
+  "name": "minecraft:serversettings/allow_flight/set",
+  "params": [
+    {
+      "name": "allow",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "allowed",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

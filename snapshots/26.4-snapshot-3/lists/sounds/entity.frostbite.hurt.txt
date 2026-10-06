@@ -1,0 +1,4 @@
+minecraft:mob/frostbite/hurt1
+minecraft:mob/frostbite/hurt2
+minecraft:mob/frostbite/hurt3
+minecraft:mob/frostbite/hurt4

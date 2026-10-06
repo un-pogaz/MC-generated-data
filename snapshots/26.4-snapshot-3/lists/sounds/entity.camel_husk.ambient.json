@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/camel_husk/ambient1",
+    "mob/camel_husk/ambient2",
+    "mob/camel_husk/ambient3",
+    "mob/camel_husk/ambient4",
+    "mob/camel_husk/ambient5",
+    "mob/camel_husk/ambient6",
+    "mob/camel_husk/ambient7",
+    "mob/camel_husk/ambient8"
+  ],
+  "subtitle": "subtitles.entity.camel_husk.ambient"
+}

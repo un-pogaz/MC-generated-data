@@ -1,0 +1,10 @@
+((permissions: gamemasters))
+compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider>
+compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider> <scale brigadier:float>
+compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider>
+compute default float <provider minecraft:context_float_provider>
+compute default float <provider minecraft:context_float_provider> <scale brigadier:float>
+compute default integer <provider minecraft:context_int_provider>
+compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider>
+compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> float <provider minecraft:context_float_provider> <scale brigadier:float>
+compute entity <computeTarget minecraft:entity[type="entities", amount="single"]> integer <provider minecraft:context_int_provider>

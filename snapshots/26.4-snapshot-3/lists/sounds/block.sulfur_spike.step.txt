@@ -1,0 +1,7 @@
+minecraft:block/sulfur/step1
+minecraft:block/sulfur/step2
+minecraft:block/sulfur/step3
+minecraft:block/sulfur/step4
+minecraft:block/sulfur/step5
+minecraft:block/sulfur/step6
+minecraft:block/sulfur/step7

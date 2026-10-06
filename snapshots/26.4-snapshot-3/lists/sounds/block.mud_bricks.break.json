@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/mud_bricks/break1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/break2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/break3",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/break4",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/break5",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/break6",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

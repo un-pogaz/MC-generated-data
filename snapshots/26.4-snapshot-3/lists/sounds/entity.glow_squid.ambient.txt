@@ -1,0 +1,5 @@
+minecraft:mob/glow_squid/ambient1
+minecraft:mob/glow_squid/ambient2
+minecraft:mob/glow_squid/ambient3
+minecraft:mob/glow_squid/ambient4
+minecraft:mob/glow_squid/ambient5

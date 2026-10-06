@@ -1,0 +1,2 @@
+minecraft:block/chest/close_locked
+minecraft:block/chest/open_locked

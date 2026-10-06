@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/turtle/egg/jump_egg1",
+    "mob/turtle/egg/jump_egg2",
+    "mob/turtle/egg/jump_egg3",
+    "mob/turtle/egg/jump_egg4"
+  ],
+  "subtitle": "subtitles.entity.zombie.destroy_egg"
+}

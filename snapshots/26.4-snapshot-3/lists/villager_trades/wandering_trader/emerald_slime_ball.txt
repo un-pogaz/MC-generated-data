@@ -1,0 +1,5 @@
+wants: emerald x4
+gives: slime_ball
+xp: 1
+max use: 5
+reputation discount: 0.05

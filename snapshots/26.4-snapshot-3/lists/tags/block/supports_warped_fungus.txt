@@ -1,0 +1,4 @@
+#minecraft:supports_vegetation
+#minecraft:nylium
+minecraft:mycelium
+minecraft:soul_soil
