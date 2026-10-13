@@ -43,6 +43,11 @@
     },
     {
       "count": 4,
+      "type": "minecraft:frostbite",
+      "weight": 25
+    },
+    {
+      "count": 4,
       "type": "minecraft:skeleton",
       "weight": 20
     },

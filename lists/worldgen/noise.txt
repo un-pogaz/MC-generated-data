@@ -17,6 +17,7 @@ minecraft:erosion_large
 minecraft:gravel
 minecraft:gravel_layer
 minecraft:ice
+minecraft:ice_cave_gradient
 minecraft:iceberg_pillar
 minecraft:iceberg_pillar_roof
 minecraft:iceberg_surface

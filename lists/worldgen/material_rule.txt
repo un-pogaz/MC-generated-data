@@ -9,6 +9,7 @@ minecraft:overworld/biome_surface/default
 minecraft:overworld/biome_surface/dripstone_caves
 minecraft:overworld/biome_surface/frozen_peaks
 minecraft:overworld/biome_surface/grove
+minecraft:overworld/biome_surface/ice_caves
 minecraft:overworld/biome_surface/ice_spikes
 minecraft:overworld/biome_surface/jagged_peaks
 minecraft:overworld/biome_surface/mangrove_swamp
@@ -23,6 +24,7 @@ minecraft:overworld/biome_surface/windswept_hills
 minecraft:overworld/biome_surface/windswept_savanna
 minecraft:overworld/copper_ore_vein
 minecraft:overworld/gravel_or_stone_if_ceiling
+minecraft:overworld/ice_cave_bands
 minecraft:overworld/iron_ore_vein
 minecraft:overworld/powder_snow_surface
 minecraft:overworld/powder_snow_under_surface

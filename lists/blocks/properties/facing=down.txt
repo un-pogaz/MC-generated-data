@@ -13,6 +13,7 @@ minecraft:exposed_lightning_rod
 minecraft:gray_shulker_box
 minecraft:green_shulker_box
 minecraft:hopper
+minecraft:ice_crystal
 minecraft:large_amethyst_bud
 minecraft:light_blue_shulker_box
 minecraft:light_gray_shulker_box

@@ -26,6 +26,7 @@ minecraft:endermite_spawn_egg  = {id: "minecraft:endermite"}
 minecraft:evoker_spawn_egg  = {id: "minecraft:evoker"}
 minecraft:fox_spawn_egg  = {id: "minecraft:fox"}
 minecraft:frog_spawn_egg  = {id: "minecraft:frog"}
+minecraft:frostbite_spawn_egg  = {id: "minecraft:frostbite"}
 minecraft:ghast_spawn_egg  = {id: "minecraft:ghast"}
 minecraft:glow_squid_spawn_egg  = {id: "minecraft:glow_squid"}
 minecraft:goat_spawn_egg  = {id: "minecraft:goat"}

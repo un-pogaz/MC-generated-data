@@ -1,0 +1,1 @@
+minecraft:entity/ice_ball/bow

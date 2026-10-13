@@ -13,7 +13,6 @@ minecraft:monster_room_deep
 []
 
 minecraft:ore_dirt
-minecraft:ore_gravel
 minecraft:ore_granite_upper
 minecraft:ore_granite_lower
 minecraft:ore_diorite_upper

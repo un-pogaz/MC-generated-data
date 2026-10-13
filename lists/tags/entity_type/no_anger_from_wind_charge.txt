@@ -7,3 +7,4 @@ minecraft:husk
 minecraft:spider
 minecraft:cave_spider
 minecraft:slime
+minecraft:frostbite

@@ -25,6 +25,7 @@ minecraft:frozen_ocean
 minecraft:frozen_peaks
 minecraft:frozen_river
 minecraft:grove
+minecraft:ice_caves
 minecraft:ice_spikes
 minecraft:jagged_peaks
 minecraft:jungle
@@ -146,6 +147,7 @@ minecraft:wooded_badlands
 #minecraft:spawns_coral_variant_zombie_nautilus
 #minecraft:spawns_gold_rabbits
 #minecraft:spawns_snow_foxes
+#minecraft:spawns_strays_without_powder_snow
 #minecraft:spawns_warm_variant_farm_animals
 #minecraft:spawns_warm_variant_frogs
 #minecraft:spawns_white_rabbits

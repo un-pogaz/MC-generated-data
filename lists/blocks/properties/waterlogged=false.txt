@@ -200,6 +200,8 @@ minecraft:heavy_core
 minecraft:horn_coral
 minecraft:horn_coral_fan
 minecraft:horn_coral_wall_fan
+minecraft:ice_crystal
+minecraft:icicle
 minecraft:iron_bars
 minecraft:iron_chain
 minecraft:iron_trapdoor

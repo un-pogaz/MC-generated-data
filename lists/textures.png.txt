@@ -568,6 +568,14 @@ minecraft:block/horn_coral
 minecraft:block/horn_coral_block
 minecraft:block/horn_coral_fan
 minecraft:block/ice
+minecraft:block/ice_crystal
+minecraft:block/icicle_down_base
+minecraft:block/icicle_down_frustum
+minecraft:block/icicle_down_middle
+minecraft:block/icicle_down_tip
+minecraft:block/icicle_down_tip_merge
+minecraft:block/icicle_side
+minecraft:block/icicle_top
 minecraft:block/iron_bars
 minecraft:block/iron_block
 minecraft:block/iron_chain
@@ -2006,6 +2014,9 @@ minecraft:entity/zombie/drowned
 minecraft:entity/zombie/drowned_baby
 minecraft:entity/zombie/drowned_outer_layer
 minecraft:entity/zombie/drowned_outer_layer_baby
+minecraft:entity/zombie/frostbite
+minecraft:entity/zombie/frostbite_baby
+minecraft:entity/zombie/frostbite_outer_layer
 minecraft:entity/zombie/husk
 minecraft:entity/zombie/husk_baby
 minecraft:entity/zombie/zombie
@@ -2336,18 +2347,24 @@ minecraft:gui/sprites/friends/accept
 minecraft:gui/sprites/friends/accept_highlighted
 minecraft:gui/sprites/friends/background  [mcmeta]
 minecraft:gui/sprites/friends/background_dark  [mcmeta]
-minecraft:gui/sprites/friends/button  [mcmeta]
-minecraft:gui/sprites/friends/button_disabled  [mcmeta]
-minecraft:gui/sprites/friends/button_highlighted  [mcmeta]
+minecraft:gui/sprites/friends/background_light
 minecraft:gui/sprites/friends/cancel
 minecraft:gui/sprites/friends/friends
 minecraft:gui/sprites/friends/illustrations_00
 minecraft:gui/sprites/friends/list_separator_top
-minecraft:gui/sprites/friends/loading  [mcmeta]
+minecraft:gui/sprites/friends/presence_all
+minecraft:gui/sprites/friends/presence_limited
+minecraft:gui/sprites/friends/presence_none
+minecraft:gui/sprites/friends/profile
+minecraft:gui/sprites/friends/profile_highlighted
 minecraft:gui/sprites/friends/reject
 minecraft:gui/sprites/friends/reject_highlighted
-minecraft:gui/sprites/friends/remove
 minecraft:gui/sprites/friends/send_request
+minecraft:gui/sprites/friends/sort_alphabetical
+minecraft:gui/sprites/friends/sort_presence
+minecraft:gui/sprites/friends/tab  [mcmeta]
+minecraft:gui/sprites/friends/tab_highlighted  [mcmeta]
+minecraft:gui/sprites/friends/tab_selected  [mcmeta]
 minecraft:gui/sprites/friends/toast_background  [mcmeta]
 minecraft:gui/sprites/gamemode_switcher/selection
 minecraft:gui/sprites/gamemode_switcher/slot
@@ -2465,8 +2482,8 @@ minecraft:gui/sprites/notification/4
 minecraft:gui/sprites/notification/5
 minecraft:gui/sprites/notification/more
 minecraft:gui/sprites/pause_menu/bug
-minecraft:gui/sprites/pause_menu/player_reporting
-minecraft:gui/sprites/pause_menu/social_interactions
+minecraft:gui/sprites/pause_menu/feedback
+minecraft:gui/sprites/pause_menu/other_players
 minecraft:gui/sprites/pending_invite/accept
 minecraft:gui/sprites/pending_invite/accept_highlighted
 minecraft:gui/sprites/pending_invite/reject
@@ -2555,7 +2572,6 @@ minecraft:gui/sprites/toast/now_playing  [mcmeta]
 minecraft:gui/sprites/toast/recipe
 minecraft:gui/sprites/toast/recipe_book
 minecraft:gui/sprites/toast/right_click
-minecraft:gui/sprites/toast/social_interactions
 minecraft:gui/sprites/toast/system  [mcmeta]
 minecraft:gui/sprites/toast/tree
 minecraft:gui/sprites/toast/tutorial  [mcmeta]
@@ -2579,6 +2595,7 @@ minecraft:gui/sprites/widget/checkbox_selected
 minecraft:gui/sprites/widget/checkbox_selected_highlighted
 minecraft:gui/sprites/widget/cross_button
 minecraft:gui/sprites/widget/cross_button_highlighted
+minecraft:gui/sprites/widget/loading  [mcmeta]
 minecraft:gui/sprites/widget/locked_button
 minecraft:gui/sprites/widget/locked_button_disabled
 minecraft:gui/sprites/widget/locked_button_highlighted
@@ -2965,6 +2982,7 @@ minecraft:item/flower_pot
 minecraft:item/fox_spawn_egg
 minecraft:item/friend_pottery_sherd
 minecraft:item/frog_spawn_egg
+minecraft:item/frostbite_spawn_egg
 minecraft:item/furnace_minecart
 minecraft:item/ghast_spawn_egg
 minecraft:item/ghast_tear
@@ -3026,6 +3044,9 @@ minecraft:item/horse_spawn_egg
 minecraft:item/host_armor_trim_smithing_template
 minecraft:item/howl_pottery_sherd
 minecraft:item/husk_spawn_egg
+minecraft:item/ice_ball
+minecraft:item/ice_crystal
+minecraft:item/icicle
 minecraft:item/ink_sac
 minecraft:item/iron_axe
 minecraft:item/iron_boots
@@ -3521,6 +3542,7 @@ minecraft:mob_effect/conduit_power
 minecraft:mob_effect/darkness
 minecraft:mob_effect/dolphins_grace
 minecraft:mob_effect/fire_resistance
+minecraft:mob_effect/freezing
 minecraft:mob_effect/glowing
 minecraft:mob_effect/haste
 minecraft:mob_effect/health_boost
@@ -3688,6 +3710,12 @@ minecraft:particle/explosion_9
 minecraft:particle/firefly
 minecraft:particle/flame
 minecraft:particle/flash
+minecraft:particle/freezing_0
+minecraft:particle/freezing_1
+minecraft:particle/freezing_2
+minecraft:particle/freezing_3
+minecraft:particle/freezing_4
+minecraft:particle/freezing_5
 minecraft:particle/generic_0
 minecraft:particle/generic_1
 minecraft:particle/generic_2

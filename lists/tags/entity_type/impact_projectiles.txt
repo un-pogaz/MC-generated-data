@@ -1,5 +1,6 @@
 #minecraft:arrows
 minecraft:firework_rocket
+minecraft:ice_ball
 minecraft:snowball
 minecraft:fireball
 minecraft:small_fireball

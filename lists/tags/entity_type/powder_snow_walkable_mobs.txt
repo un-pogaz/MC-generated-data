@@ -2,3 +2,4 @@ minecraft:rabbit
 minecraft:endermite
 minecraft:silverfish
 minecraft:fox
+minecraft:frostbite

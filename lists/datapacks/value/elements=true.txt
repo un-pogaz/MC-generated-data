@@ -1,5 +1,6 @@
 minecraft:advancement
 minecraft:banner_pattern
+minecraft:block_sound_set
 minecraft:block_transformer
 minecraft:cat_sound_variant
 minecraft:cat_variant

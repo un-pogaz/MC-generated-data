@@ -4,6 +4,7 @@ minecraft:birch_hanging_sign
 minecraft:cherry_hanging_sign
 minecraft:crimson_hanging_sign
 minecraft:dark_oak_hanging_sign
+minecraft:icicle
 minecraft:jungle_hanging_sign
 minecraft:mangrove_hanging_sign
 minecraft:oak_hanging_sign

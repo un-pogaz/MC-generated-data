@@ -531,6 +531,7 @@ minecraft:flowering_azalea_leaves
 minecraft:fox_spawn_egg
 minecraft:frog_spawn_egg
 minecraft:frogspawn
+minecraft:frostbite_spawn_egg
 minecraft:furnace
 minecraft:furnace_minecart
 minecraft:ghast_spawn_egg
@@ -634,6 +635,9 @@ minecraft:horn_coral_fan
 minecraft:horse_spawn_egg
 minecraft:husk_spawn_egg
 minecraft:ice
+minecraft:ice_ball
+minecraft:ice_crystal
+minecraft:icicle
 minecraft:infested_chiseled_stone_bricks
 minecraft:infested_cobblestone
 minecraft:infested_cracked_stone_bricks

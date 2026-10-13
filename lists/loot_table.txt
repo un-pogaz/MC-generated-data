@@ -103,6 +103,7 @@ minecraft:entities/endermite
 minecraft:entities/evoker
 minecraft:entities/fox
 minecraft:entities/frog
+minecraft:entities/frostbite
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/glow_squid

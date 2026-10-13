@@ -29,6 +29,7 @@ minecraft:gray_cushion
 minecraft:green_banner
 minecraft:green_cushion
 minecraft:honey_bottle
+minecraft:ice_ball
 minecraft:jungle_hanging_sign
 minecraft:jungle_sign
 minecraft:light_blue_banner

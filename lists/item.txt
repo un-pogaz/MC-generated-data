@@ -569,6 +569,7 @@ minecraft:fox_spawn_egg
 minecraft:friend_pottery_sherd
 minecraft:frog_spawn_egg
 minecraft:frogspawn
+minecraft:frostbite_spawn_egg
 minecraft:furnace
 minecraft:furnace_minecart
 minecraft:ghast_spawn_egg
@@ -681,6 +682,9 @@ minecraft:host_armor_trim_smithing_template
 minecraft:howl_pottery_sherd
 minecraft:husk_spawn_egg
 minecraft:ice
+minecraft:ice_ball
+minecraft:ice_crystal
+minecraft:icicle
 minecraft:infested_chiseled_stone_bricks
 minecraft:infested_cobblestone
 minecraft:infested_cracked_stone_bricks
@@ -1751,6 +1755,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:fox_food
 #minecraft:freeze_immune_wearables
 #minecraft:frog_food
+#minecraft:frostbite_preferred_weapons
 #minecraft:furnace_fuel_bottom_takeable
 #minecraft:furnace_minecart_fuel
 #minecraft:gaze_disguise_equipment
@@ -1772,6 +1777,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:iron_ores
 #minecraft:iron_tool_materials
 #minecraft:jungle_logs
+#minecraft:knocks_back_players_even_with_zero_damage
 #minecraft:lanterns
 #minecraft:lapis_ores
 #minecraft:leaves
@@ -1831,6 +1837,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:saplings
 #minecraft:shearable_from_copper_golem
 #minecraft:sheep_food
+#minecraft:sheep_wool_dyes
 #minecraft:shovels
 #minecraft:shulker_boxes
 #minecraft:signs

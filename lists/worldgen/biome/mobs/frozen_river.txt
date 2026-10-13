@@ -2,6 +2,7 @@ minecraft:bat
 minecraft:creeper
 minecraft:drowned
 minecraft:enderman
+minecraft:frostbite
 minecraft:glow_squid
 minecraft:salmon
 minecraft:skeleton

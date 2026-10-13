@@ -47,6 +47,7 @@ minecraft:firework
 minecraft:fishing
 minecraft:flame
 minecraft:flash
+minecraft:freezing
 minecraft:geyser_base
 minecraft:geyser_plume
 minecraft:geyser_poof

@@ -1,6 +1,7 @@
 minecraft:bat
 minecraft:creeper
 minecraft:enderman
+minecraft:frostbite
 minecraft:glow_squid
 minecraft:goat
 minecraft:skeleton

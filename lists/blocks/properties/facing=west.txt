@@ -151,6 +151,7 @@ minecraft:green_wool_stairs
 minecraft:grindstone
 minecraft:hopper
 minecraft:horn_coral_wall_fan
+minecraft:ice_crystal
 minecraft:iron_door
 minecraft:iron_trapdoor
 minecraft:jack_o_lantern

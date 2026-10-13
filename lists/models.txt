@@ -1135,6 +1135,19 @@ minecraft:block/horn_coral_block
 minecraft:block/horn_coral_fan
 minecraft:block/horn_coral_wall_fan
 minecraft:block/ice
+minecraft:block/ice_crystal
+minecraft:block/icicle
+minecraft:block/icicle_base
+minecraft:block/icicle_down_base
+minecraft:block/icicle_down_base_base
+minecraft:block/icicle_down_frustum
+minecraft:block/icicle_down_frustum_base
+minecraft:block/icicle_down_middle
+minecraft:block/icicle_down_middle_base
+minecraft:block/icicle_down_tip
+minecraft:block/icicle_down_tip_base
+minecraft:block/icicle_down_tip_merge
+minecraft:block/icicle_down_tip_merge_base
 minecraft:block/inner_stairs
 minecraft:block/iron_bars_cap
 minecraft:block/iron_bars_cap_alt
@@ -3414,6 +3427,7 @@ minecraft:item/fox_spawn_egg
 minecraft:item/friend_pottery_sherd
 minecraft:item/frog_spawn_egg
 minecraft:item/frogspawn
+minecraft:item/frostbite_spawn_egg
 minecraft:item/furnace_minecart
 minecraft:item/generated
 minecraft:item/ghast_spawn_egg
@@ -3533,6 +3547,9 @@ minecraft:item/horse_spawn_egg
 minecraft:item/host_armor_trim_smithing_template
 minecraft:item/howl_pottery_sherd
 minecraft:item/husk_spawn_egg
+minecraft:item/ice_ball
+minecraft:item/ice_crystal
+minecraft:item/icicle
 minecraft:item/ink_sac
 minecraft:item/iron_axe
 minecraft:item/iron_bars
