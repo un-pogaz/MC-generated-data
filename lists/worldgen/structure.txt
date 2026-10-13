@@ -64,7 +64,7 @@ minecraft:village_taiga
 #minecraft:on_abandoned_camp_flower_forest
 #minecraft:on_abandoned_camp_pale_garden
 #minecraft:on_abandoned_camp_swamp
-#minecraft:on_abandoned_camp_windswept
+#minecraft:on_abandoned_camp_windswept_forest
 #minecraft:on_ancient_city_maps
 #minecraft:on_buried_trial_chambers_maps
 #minecraft:on_desert_pyramid_maps
