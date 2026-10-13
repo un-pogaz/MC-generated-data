@@ -13,7 +13,7 @@
 | minecraft:leather_chestplate     |     1 |   4.3% |    1/23 |                                          |
 | minecraft:golden_helmet          |     1 |   4.3% |    1/23 |                                          |
 | minecraft:fishing_rod            |     1 |  21.7% |    5/23 | enchantments: #on_random_loot            |
-| minecraft:explorer_map           |     1 |  43.5% |   10/23 | destination: #minecraft:on_treasure_maps |
+| minecraft:buried_treasure_map    |     1 |  43.5% |   10/23 | destination: #minecraft:on_treasure_maps |
 | – – – – – – – – – – – – – – – –  | – – – | – – –  | – – – – | – – – – – – – – – – – – – – – – – – – –  |
 | 1 time                           |    -- |     -- |      -- |                                          |
 | empty                            |       |    80% | 148/185 |                                          |

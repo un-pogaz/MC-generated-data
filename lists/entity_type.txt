@@ -31,6 +31,7 @@ minecraft:copper_golem
 minecraft:cow
 minecraft:creaking
 minecraft:creeper
+minecraft:cushion
 minecraft:dark_oak_boat
 minecraft:dark_oak_chest_boat
 minecraft:dolphin
@@ -106,6 +107,8 @@ minecraft:piglin_brute
 minecraft:pillager
 minecraft:player
 minecraft:polar_bear
+minecraft:poplar_boat
+minecraft:poplar_chest_boat
 minecraft:pufferfish
 minecraft:rabbit
 minecraft:ravager
@@ -174,6 +177,7 @@ minecraft:zombified_piglin
 #minecraft:can_wear_nautilus_armor
 #minecraft:candidate_for_iron_golem_gift
 #minecraft:cannot_be_age_locked
+#minecraft:cannot_be_dismounted_by_item_usage
 #minecraft:cannot_be_pushed_onto_boats
 #minecraft:deflects_projectiles
 #minecraft:dismounts_underwater

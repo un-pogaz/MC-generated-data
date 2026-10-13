@@ -31,6 +31,8 @@ minecraft:pale_oak_log
 minecraft:pale_oak_wood
 minecraft:pearlescent_froglight
 minecraft:polished_basalt
+minecraft:poplar_log
+minecraft:poplar_wood
 minecraft:purpur_pillar
 minecraft:quartz_pillar
 minecraft:spruce_log
@@ -54,6 +56,8 @@ minecraft:stripped_oak_log
 minecraft:stripped_oak_wood
 minecraft:stripped_pale_oak_log
 minecraft:stripped_pale_oak_wood
+minecraft:stripped_poplar_log
+minecraft:stripped_poplar_wood
 minecraft:stripped_spruce_log
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae

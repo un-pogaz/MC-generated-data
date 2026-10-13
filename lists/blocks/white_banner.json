@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:banner",
-    "color": "white",
-    "properties": {}
-  },
   "properties": {
     "rotation": [
       "0",

@@ -1,4 +1,5 @@
 minecraft:add_entity
+minecraft:add_transient_block
 minecraft:animate
 minecraft:award_stats
 minecraft:block_changed_ack
@@ -74,6 +75,7 @@ minecraft:player_look_at
 minecraft:player_position
 minecraft:player_rotation
 minecraft:pong_response
+minecraft:post_effects
 minecraft:projectile_power
 minecraft:recipe_book_add
 minecraft:recipe_book_remove
@@ -124,6 +126,7 @@ minecraft:sound_entity
 minecraft:start_configuration
 minecraft:stop_sound
 minecraft:store_cookie
+minecraft:swing_animation
 minecraft:system_chat
 minecraft:tab_list
 minecraft:tag_query

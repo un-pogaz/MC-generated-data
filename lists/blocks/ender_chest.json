@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:ender_chest",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/straw_bed/step1",
+    "block/straw_bed/step2",
+    "block/straw_bed/step3",
+    "block/straw_bed/step4",
+    "block/straw_bed/step5",
+    "block/straw_bed/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

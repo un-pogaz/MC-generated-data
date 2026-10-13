@@ -1,2 +1,1 @@
 minecraft:deepslate
-minecraft:tuff

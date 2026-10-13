@@ -10,10 +10,13 @@ minecraft:block_predicate
 minecraft:block_state
 minecraft:column_pos
 minecraft:component
+minecraft:context_float_provider
+minecraft:context_int_provider
 minecraft:dialog
 minecraft:dimension
 minecraft:entity
 minecraft:entity_anchor
+minecraft:feature
 minecraft:float_range
 minecraft:function
 minecraft:game_profile
@@ -45,7 +48,9 @@ minecraft:resource_selector
 minecraft:rotation
 minecraft:score_holder
 minecraft:scoreboard_slot
+minecraft:slot_source
 minecraft:style
+minecraft:swing_animation
 minecraft:swizzle
 minecraft:team
 minecraft:team_color

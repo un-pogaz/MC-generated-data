@@ -1,4 +1,0 @@
-minecraft:copper_trapdoor
-minecraft:exposed_copper_trapdoor
-minecraft:oxidized_copper_trapdoor
-minecraft:weathered_copper_trapdoor

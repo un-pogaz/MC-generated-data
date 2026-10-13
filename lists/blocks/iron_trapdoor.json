@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:trapdoor",
-    "block_set_type": "iron",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

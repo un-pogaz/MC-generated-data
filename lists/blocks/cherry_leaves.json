@@ -1,12 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:untinted_particle_leaves",
-    "leaf_particle": {
-      "type": "minecraft:cherry_leaves"
-    },
-    "leaf_particle_chance": 0.1,
-    "properties": {}
-  },
   "properties": {
     "distance": [
       "1",

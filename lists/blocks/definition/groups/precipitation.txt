@@ -1,2 +1,0 @@
-minecraft:powder_snow_cauldron
-minecraft:water_cauldron

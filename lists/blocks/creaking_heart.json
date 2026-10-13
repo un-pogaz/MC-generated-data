@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:creaking_heart",
-    "properties": {}
-  },
   "properties": {
     "axis": [
       "x",

@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:copper_golem_statue",
-    "properties": {},
-    "weathering_state": "exposed"
-  },
   "properties": {
     "copper_golem_pose": [
       "standing",

@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:farmland",
-    "properties": {}
-  },
   "properties": {
     "moisture": [
       "0",

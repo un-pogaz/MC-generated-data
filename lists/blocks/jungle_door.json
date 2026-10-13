@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:door",
-    "block_set_type": "jungle",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

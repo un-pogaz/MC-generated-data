@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:liquid",
-    "fluid": "minecraft:lava",
-    "properties": {}
-  },
   "properties": {
     "level": [
       "0",

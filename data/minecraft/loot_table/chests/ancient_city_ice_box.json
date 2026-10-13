@@ -5,102 +5,94 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
+          "modifier": [
             {
+              "type": "minecraft:set_stew_effect",
               "effects": [
                 {
                   "type": "minecraft:night_vision",
                   "duration": {
                     "type": "minecraft:uniform",
-                    "max": 10.0,
-                    "min": 7.0
+                    "max": 10,
+                    "min": 7
                   }
                 },
                 {
                   "type": "minecraft:blindness",
                   "duration": {
                     "type": "minecraft:uniform",
-                    "max": 7.0,
-                    "min": 5.0
+                    "max": 7,
+                    "min": 5
                   }
                 }
-              ],
-              "function": "minecraft:set_stew_effect"
+              ]
             },
             {
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+                "max": 6,
+                "min": 2
+              }
             }
           ],
           "name": "minecraft:suspicious_stew"
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 10.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 10,
+              "min": 1
             }
-          ],
+          },
           "name": "minecraft:golden_carrot"
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 10.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 10,
+              "min": 1
             }
-          ],
+          },
           "name": "minecraft:baked_potato"
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 6,
+              "min": 2
             }
-          ],
+          },
           "name": "minecraft:packed_ice",
           "weight": 2
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 6,
+              "min": 2
             }
-          ],
+          },
           "name": "minecraft:snowball",
           "weight": 4
         }
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 10.0,
-        "min": 4.0
+        "max": 10,
+        "min": 4
       }
     }
   ],

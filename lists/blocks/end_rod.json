@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:end_rod",
-    "properties": {}
-  },
   "properties": {
     "facing": [
       "north",

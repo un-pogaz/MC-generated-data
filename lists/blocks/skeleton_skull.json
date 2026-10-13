@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:skull",
-    "kind": "skeleton",
-    "properties": {}
-  },
   "properties": {
     "powered": [
       "true",

@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:sweet_berry_bush",
-    "properties": {}
-  },
   "properties": {
     "age": [
       "0",

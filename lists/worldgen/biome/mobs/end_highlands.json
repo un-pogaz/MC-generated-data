@@ -1,8 +1,7 @@
 {
   "monster": [
     {
-      "maxCount": 4,
-      "minCount": 4,
+      "count": 4,
       "type": "minecraft:enderman",
       "weight": 10
     }

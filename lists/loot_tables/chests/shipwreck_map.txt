@@ -1,4 +1,4 @@
-minecraft:explorer_map
+minecraft:buried_treasure_map
 
 minecraft:compass
 minecraft:map

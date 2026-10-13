@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:chain",
-    "properties": {}
-  },
   "properties": {
     "axis": [
       "x",

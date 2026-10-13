@@ -1,4 +1,0 @@
-minecraft:copper_chain
-minecraft:exposed_copper_chain
-minecraft:oxidized_copper_chain
-minecraft:weathered_copper_chain

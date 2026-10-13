@@ -1,4 +1,0 @@
-minecraft:bamboo_button
-minecraft:bamboo_door
-minecraft:bamboo_pressure_plate
-minecraft:bamboo_trapdoor

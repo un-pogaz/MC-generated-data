@@ -1,9 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:ceiling_hanging_sign",
-    "properties": {},
-    "wood_type": "oak"
-  },
   "properties": {
     "attached": [
       "true",

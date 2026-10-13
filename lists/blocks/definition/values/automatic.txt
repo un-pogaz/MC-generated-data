@@ -1,3 +1,0 @@
-minecraft:chain_command_block  = true
-minecraft:command_block  = false
-minecraft:repeating_command_block  = false

@@ -812,7 +812,7 @@
                 "childs": {
                   "minecraft:story/iron_tools": {
                     "icon": "minecraft:iron_pickaxe",
-                    "title": "Isn't It Iron Pick",
+                    "title": "Isn't It Iron Pick?",
                     "description": "Upgrade your Pickaxe",
                     "frame": "task",
                     "childs": {

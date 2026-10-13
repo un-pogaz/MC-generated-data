@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:cake",
-    "properties": {}
-  },
   "properties": {
     "bites": [
       "0",

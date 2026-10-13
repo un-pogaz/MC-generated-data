@@ -90,6 +90,12 @@ minecraft:player_head
 minecraft:player_wall_head
 minecraft:polished_blackstone_button
 minecraft:polished_blackstone_pressure_plate
+minecraft:poplar_button
+minecraft:poplar_door
+minecraft:poplar_fence_gate
+minecraft:poplar_pressure_plate
+minecraft:poplar_shelf
+minecraft:poplar_trapdoor
 minecraft:powered_rail
 minecraft:repeater
 minecraft:skeleton_skull

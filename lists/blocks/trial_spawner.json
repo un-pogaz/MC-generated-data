@@ -1,8 +1,4 @@
 {
-  "definition": {
-    "type": "minecraft:trial_spawner",
-    "properties": {}
-  },
   "properties": {
     "ominous": [
       "true",

@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/cushion/get_up1",
+    "entity/cushion/get_up2",
+    "entity/cushion/get_up3"
+  ],
+  "subtitle": "subtitles.entity.cushion.get_up"
+}

@@ -19,6 +19,20 @@
     {
       nbt: {
         LootTable: "minecraft:pots/trial_chambers/corridor",
+        sherds: {
+          back: {
+            id: "minecraft:brick"
+          },
+          front: {
+            id: "minecraft:brick"
+          },
+          right: {
+            id: "minecraft:brick"
+          },
+          left: {
+            id: "minecraft:brick"
+          }
+        },
         id: "minecraft:decorated_pot"
       },
       pos: [0, 1, 0],
@@ -27,19 +41,19 @@
   ],
   palette: [
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "west_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     },
     {
-      Properties: {
+      id: "minecraft:decorated_pot",
+      properties: {
         waterlogged: "false",
         facing: "north",
         cracked: "false"
-      },
-      Name: "minecraft:decorated_pot"
+      }
     }
   ],
-  DataVersion: 4903
+  DataVersion: 5023
 }

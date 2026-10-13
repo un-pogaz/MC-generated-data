@@ -3,9 +3,9 @@
     "count": 4,
     "id": "minecraft:emerald"
   },
-  "max_uses": 12.0,
+  "max_uses": 12,
   "merchant_predicate": {
-    "condition": "minecraft:entity_properties",
+    "type": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
       "minecraft:predicates": {
@@ -24,5 +24,5 @@
   "wants": {
     "id": "minecraft:iron_block"
   },
-  "xp": 30.0
+  "xp": 30
 }
