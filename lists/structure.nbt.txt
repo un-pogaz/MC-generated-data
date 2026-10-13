@@ -520,6 +520,8 @@ minecraft:bastion/units/wall_units/edge_0_large
 minecraft:bastion/units/wall_units/unit_0
 minecraft:bastion/units/walls/connected_wall
 minecraft:bastion/units/walls/wall_base
+minecraft:desert_well/suspicious_sand
+minecraft:desert_well/well
 minecraft:empty
 minecraft:end_city/base_floor
 minecraft:end_city/base_roof

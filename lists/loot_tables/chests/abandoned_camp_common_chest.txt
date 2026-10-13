@@ -26,11 +26,11 @@ minecraft:copper_sword
 minecraft:spyglass
 minecraft:shears
 
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
-minecraft:abandoned_campsite_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
+minecraft:abandoned_camp_map
