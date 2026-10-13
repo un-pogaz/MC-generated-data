@@ -15,21 +15,21 @@ test resetthese
 test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]>
 test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]>
 test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool>
-test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer>
-test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer> <testsPerRow brigadier:integer>
+test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]>
+test run <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]> <testsPerRow brigadier:integer>
 test runclosest
 test runclosest <numberOfTimes brigadier:integer[min="0"]>
 test runclosest <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool>
 test runfailed
 test runfailed <numberOfTimes brigadier:integer[min="0"]>
 test runfailed <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool>
-test runfailed <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer>
-test runfailed <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer> <testsPerRow brigadier:integer>
+test runfailed <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]>
+test runfailed <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]> <testsPerRow brigadier:integer>
 test runfailed <onlyRequiredTests brigadier:bool>
 test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]>
 test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool>
-test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer>
-test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer> <testsPerRow brigadier:integer>
+test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]>
+test runfailed <onlyRequiredTests brigadier:bool> <numberOfTimes brigadier:integer[min="0"]> <untilFailed brigadier:bool> <rotationSteps brigadier:integer[max="3", min="0"]> <testsPerRow brigadier:integer>
 test runmultiple <tests minecraft:resource_selector[registry="minecraft:test_instance"]>
 test runmultiple <tests minecraft:resource_selector[registry="minecraft:test_instance"]> <amount brigadier:integer>
 test runthat
