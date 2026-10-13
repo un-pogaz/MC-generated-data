@@ -33,6 +33,7 @@ minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:world_clock
 minecraft:worldgen/biome
+minecraft:worldgen/block_state_provider
 minecraft:worldgen/carver
 minecraft:worldgen/density_function
 minecraft:worldgen/feature

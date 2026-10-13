@@ -1,4 +1,5 @@
 minecraft:activity
+minecraft:advancement
 minecraft:attribute
 minecraft:attribute_type
 minecraft:banner_pattern
@@ -14,6 +15,10 @@ minecraft:chicken_variant
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type
+minecraft:context_float_provider
+minecraft:context_float_provider_type
+minecraft:context_int_provider
+minecraft:context_int_provider_type
 minecraft:cow_sound_variant
 minecraft:cow_variant
 minecraft:creative_mode_tab
@@ -57,7 +62,6 @@ minecraft:jukebox_song
 minecraft:loot_condition_type
 minecraft:loot_function_type
 minecraft:loot_nbt_provider_type
-minecraft:loot_number_provider_type
 minecraft:loot_pool_entry_type
 minecraft:loot_score_provider_type
 minecraft:loot_table
@@ -66,7 +70,6 @@ minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
 minecraft:number_format_type
-minecraft:number_provider
 minecraft:outgoing_rpc_methods
 minecraft:painting_variant
 minecraft:particle_type
@@ -79,6 +82,7 @@ minecraft:pos_rule_test
 minecraft:position_source_type
 minecraft:potion
 minecraft:predicate
+minecraft:recipe
 minecraft:recipe_book_category
 minecraft:recipe_display
 minecraft:recipe_serializer
@@ -113,6 +117,7 @@ minecraft:wolf_variant
 minecraft:world_clock
 minecraft:worldgen/biome
 minecraft:worldgen/biome_source
+minecraft:worldgen/block_state_provider
 minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
 minecraft:worldgen/carver_type
