@@ -1,4 +1,4 @@
-minecraft:amethyst
+minecraft:amethyst_block
 minecraft:amethyst_cluster
 minecraft:ancient_debris
 minecraft:anvil
@@ -10,7 +10,9 @@ minecraft:bamboo_wood
 minecraft:bamboo_wood_hanging_sign
 minecraft:basalt
 minecraft:big_dripleaf
+minecraft:blue_ice
 minecraft:bone_block
+minecraft:brittle_ice
 minecraft:cactus_flower
 minecraft:calcite
 minecraft:candle
@@ -40,6 +42,7 @@ minecraft:dripstone_block
 minecraft:flowering_azalea
 minecraft:froglight
 minecraft:frogspawn
+minecraft:frosted_ice
 minecraft:fungus
 minecraft:gilded_blackstone
 minecraft:glass
@@ -79,6 +82,7 @@ minecraft:nether_wood_hanging_sign
 minecraft:netherite_block
 minecraft:netherrack
 minecraft:nylium
+minecraft:packed_ice
 minecraft:packed_mud
 minecraft:pink_petals
 minecraft:pointed_dripstone

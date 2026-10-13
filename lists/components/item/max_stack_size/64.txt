@@ -141,6 +141,7 @@ minecraft:brick_slab
 minecraft:brick_stairs
 minecraft:brick_wall
 minecraft:bricks
+minecraft:brittle_ice
 minecraft:brown_candle
 minecraft:brown_carpet
 minecraft:brown_concrete

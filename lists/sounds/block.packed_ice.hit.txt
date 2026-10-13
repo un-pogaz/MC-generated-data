@@ -1,0 +1,6 @@
+minecraft:block/packed_ice/hit1
+minecraft:block/packed_ice/hit2
+minecraft:block/packed_ice/hit3
+minecraft:block/packed_ice/hit4
+minecraft:block/packed_ice/hit5
+minecraft:block/packed_ice/hit6

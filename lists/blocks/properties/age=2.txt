@@ -1,4 +1,5 @@
 minecraft:beetroots
+minecraft:brittle_ice
 minecraft:cactus
 minecraft:carrots
 minecraft:cave_vines

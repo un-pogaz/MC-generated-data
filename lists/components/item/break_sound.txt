@@ -171,6 +171,7 @@ minecraft:brick_slab  = minecraft:entity.item.break
 minecraft:brick_stairs  = minecraft:entity.item.break
 minecraft:brick_wall  = minecraft:entity.item.break
 minecraft:bricks  = minecraft:entity.item.break
+minecraft:brittle_ice  = minecraft:entity.item.break
 minecraft:brown_banner  = minecraft:entity.item.break
 minecraft:brown_bed  = minecraft:entity.item.break
 minecraft:brown_bundle  = minecraft:entity.item.break

@@ -341,6 +341,10 @@ minecraft:block/brick_wall_post
 minecraft:block/brick_wall_side
 minecraft:block/brick_wall_side_tall
 minecraft:block/bricks
+minecraft:block/brittle_ice_0
+minecraft:block/brittle_ice_1
+minecraft:block/brittle_ice_2
+minecraft:block/brittle_ice_3
 minecraft:block/brown_bed_foot
 minecraft:block/brown_bed_head
 minecraft:block/brown_candle_cake

@@ -171,6 +171,7 @@ minecraft:brick_slab
 minecraft:brick_stairs
 minecraft:brick_wall
 minecraft:bricks
+minecraft:brittle_ice
 minecraft:brown_banner
 minecraft:brown_bed
 minecraft:brown_bundle
@@ -1776,6 +1777,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:ignored_by_piglin_babies
 #minecraft:iron_ores
 #minecraft:iron_tool_materials
+#minecraft:jukebox_containers
 #minecraft:jungle_logs
 #minecraft:knocks_back_players_even_with_zero_damage
 #minecraft:lanterns

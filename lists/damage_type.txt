@@ -77,6 +77,7 @@ minecraft:wither_skull
 #minecraft:is_projectile
 #minecraft:mace_smash
 #minecraft:no_anger
+#minecraft:no_hurt_sound
 #minecraft:no_impact
 #minecraft:no_knockback
 #minecraft:no_wolf_retaliation

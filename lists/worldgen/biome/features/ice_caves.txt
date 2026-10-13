@@ -13,6 +13,7 @@ minecraft:monster_room_deep
 
 []
 
+minecraft:ore_gravel
 minecraft:ore_diorite_upper
 minecraft:ore_diorite_lower
 minecraft:ore_andesite_upper
@@ -46,6 +47,7 @@ minecraft:disk_gravel
 minecraft:snow_layers
 minecraft:ice_crystals
 minecraft:icicle_cluster
+minecraft:ice_crevasse
 
 minecraft:spring_water
 minecraft:spring_lava

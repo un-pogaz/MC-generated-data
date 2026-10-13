@@ -171,6 +171,7 @@ minecraft:brick_slab  = common
 minecraft:brick_stairs  = common
 minecraft:brick_wall  = common
 minecraft:bricks  = common
+minecraft:brittle_ice  = common
 minecraft:brown_banner  = common
 minecraft:brown_bed  = common
 minecraft:brown_bundle  = common

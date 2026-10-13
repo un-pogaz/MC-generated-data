@@ -93,6 +93,7 @@ minecraft:ice_cave_ore_lapis
 minecraft:ice_cave_ore_lapis_buried
 minecraft:ice_cave_ore_redstone
 minecraft:ice_cave_ore_redstone_lower
+minecraft:ice_crevasse
 minecraft:ice_crystals
 minecraft:ice_patch
 minecraft:ice_spike

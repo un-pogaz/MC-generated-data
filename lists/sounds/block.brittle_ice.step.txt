@@ -1,0 +1,6 @@
+minecraft:block/brittle_ice/step1
+minecraft:block/brittle_ice/step2
+minecraft:block/brittle_ice/step3
+minecraft:block/brittle_ice/step4
+minecraft:block/brittle_ice/step5
+minecraft:block/brittle_ice/step6

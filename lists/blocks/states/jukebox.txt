@@ -1,2 +1,4 @@
-has_record=true
-has_record=false  [default]
+has_record=true,playlist_mode=true
+has_record=true,playlist_mode=false
+has_record=false,playlist_mode=true
+has_record=false,playlist_mode=false  [default]

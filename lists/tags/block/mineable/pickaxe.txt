@@ -448,3 +448,4 @@ minecraft:green_concrete_slab
 minecraft:red_concrete_slab
 minecraft:black_concrete_slab
 minecraft:ice_crystal
+minecraft:brittle_ice

@@ -171,6 +171,7 @@ minecraft:brick_slab  = 64
 minecraft:brick_stairs  = 64
 minecraft:brick_wall  = 64
 minecraft:bricks  = 64
+minecraft:brittle_ice  = 64
 minecraft:brown_banner  = 16
 minecraft:brown_bed  = 1
 minecraft:brown_bundle  = 1

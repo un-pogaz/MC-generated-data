@@ -137,6 +137,10 @@ minecraft:block/brain_coral_fan
 minecraft:block/brewing_stand
 minecraft:block/brewing_stand_base
 minecraft:block/bricks
+minecraft:block/brittle_ice_0
+minecraft:block/brittle_ice_1
+minecraft:block/brittle_ice_2
+minecraft:block/brittle_ice_3
 minecraft:block/brown_bed_foot_east
 minecraft:block/brown_bed_foot_south
 minecraft:block/brown_bed_foot_up
@@ -589,6 +593,7 @@ minecraft:block/jigsaw_bottom
 minecraft:block/jigsaw_lock
 minecraft:block/jigsaw_side
 minecraft:block/jigsaw_top
+minecraft:block/jukebox_bottom
 minecraft:block/jukebox_side
 minecraft:block/jukebox_top
 minecraft:block/jungle_door_bottom
