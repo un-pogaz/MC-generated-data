@@ -4,7 +4,7 @@ minecraft:bone
 minecraft:cobweb
 minecraft:compass
 minecraft:map
-minecraft:firework_rocket
+minecraft:gunpowder
 minecraft:fishing_rod
 minecraft:flint_and_steel
 minecraft:glass_bottle
@@ -25,3 +25,12 @@ minecraft:copper_spear
 minecraft:copper_sword
 minecraft:spyglass
 minecraft:shears
+
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map
+minecraft:abandoned_campsite_map

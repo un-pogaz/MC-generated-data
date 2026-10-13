@@ -65,17 +65,17 @@
   ],
   palette: [
     {
-      Name: "minecraft:polished_blackstone_bricks"
+      id: "minecraft:polished_blackstone_bricks"
     },
     {
-      Name: "minecraft:blackstone"
+      id: "minecraft:blackstone"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "north_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

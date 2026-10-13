@@ -1029,11 +1029,11 @@
   ],
   palette: [
     {
-      Properties: {
+      id: "minecraft:grass_block",
+      properties: {
         snowy: "false"
-      },
-      Name: "minecraft:grass_block"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

@@ -24,9 +24,7 @@
           },
           "then": {
             "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:dirt_path"
-            }
+            "state": "minecraft:dirt_path"
           }
         }
       ]

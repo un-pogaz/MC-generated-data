@@ -133,19 +133,19 @@
   ],
   palette: [
     {
-      Name: "minecraft:cobblestone"
+      id: "minecraft:cobblestone"
     },
     {
-      Properties: {
+      id: "minecraft:cobblestone_wall",
+      properties: {
         east: "none",
         waterlogged: "false",
         south: "none",
         north: "low",
         west: "low",
         up: "true"
-      },
-      Name: "minecraft:cobblestone_wall"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

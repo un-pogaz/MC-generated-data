@@ -23,14 +23,14 @@
   ],
   palette: [
     {
-      Name: "minecraft:potted_dead_bush"
+      id: "minecraft:potted_dead_bush"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "west_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

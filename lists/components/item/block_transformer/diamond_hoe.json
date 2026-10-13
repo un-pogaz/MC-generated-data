@@ -24,26 +24,9 @@
           },
           "then": {
             "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:farmland",
-              "Properties": {
-                "moisture": "0"
-              }
-            }
+            "state": "minecraft:farmland"
           }
-        }
-      ]
-    },
-    "disallowed_faces": [
-      "down"
-    ],
-    "item_damage_per_use": 1,
-    "sound": "minecraft:item.hoe.till"
-  },
-  {
-    "block_state_provider": {
-      "type": "minecraft:rule_based_state_provider",
-      "rules": [
+        },
         {
           "if_true": {
             "type": "minecraft:all_of",
@@ -65,9 +48,7 @@
           },
           "then": {
             "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:dirt"
-            }
+            "state": "minecraft:dirt"
           }
         }
       ]
@@ -89,9 +70,7 @@
           },
           "then": {
             "type": "minecraft:simple_state_provider",
-            "state": {
-              "Name": "minecraft:dirt"
-            }
+            "state": "minecraft:dirt"
           }
         }
       ]

@@ -77,20 +77,20 @@
   ],
   palette: [
     {
-      Name: "minecraft:smooth_sandstone"
+      id: "minecraft:smooth_sandstone"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "west_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "east_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

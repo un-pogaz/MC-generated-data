@@ -2109,29 +2109,29 @@
   ],
   palette: [
     {
-      Name: "minecraft:air"
+      id: "minecraft:air"
     },
     {
-      Name: "minecraft:dirt_path"
+      id: "minecraft:dirt_path"
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "up_north"
-      },
-      Name: "minecraft:jigsaw"
+      }
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "north_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     },
     {
-      Properties: {
+      id: "minecraft:jigsaw",
+      properties: {
         orientation: "south_up"
-      },
-      Name: "minecraft:jigsaw"
+      }
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }

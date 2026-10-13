@@ -133,8 +133,8 @@
   ],
   palette: [
     {
-      Name: "minecraft:coal_ore"
+      id: "minecraft:coal_ore"
     }
   ],
-  DataVersion: 5005
+  DataVersion: 5009
 }
