@@ -1,0 +1,19 @@
+{
+  "description": "Update game rule value",
+  "name": "minecraft:gamerules/update",
+  "params": [
+    {
+      "name": "gamerule",
+      "required": true,
+      "schema": {
+        "$ref": "#/components/schemas/untyped_game_rule"
+      }
+    }
+  ],
+  "result": {
+    "name": "gamerule",
+    "schema": {
+      "$ref": "#/components/schemas/typed_game_rule"
+    }
+  }
+}

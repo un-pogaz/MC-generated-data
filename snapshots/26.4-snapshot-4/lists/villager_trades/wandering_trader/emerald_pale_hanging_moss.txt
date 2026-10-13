@@ -1,0 +1,5 @@
+wants: emerald
+gives: pale_hanging_moss x3
+xp: 1
+max use: 4
+reputation discount: 0.05

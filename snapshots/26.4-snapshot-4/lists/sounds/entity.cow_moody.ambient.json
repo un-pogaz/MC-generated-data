@@ -1,0 +1,26 @@
+{
+  "sounds": [
+    "mob/cow/moody/ambient1",
+    "mob/cow/moody/ambient2",
+    {
+      "name": "mob/cow/moody/ambient3",
+      "weight": 3
+    },
+    "mob/cow/moody/ambient4",
+    {
+      "name": "mob/cow/moody/ambient5",
+      "weight": 3
+    },
+    {
+      "name": "mob/cow/moody/ambient6",
+      "weight": 2
+    },
+    "mob/cow/moody/ambient7",
+    "mob/cow/moody/ambient8",
+    {
+      "name": "mob/cow/moody/ambient9",
+      "weight": 3
+    }
+  ],
+  "subtitle": "subtitles.entity.cow.ambient"
+}

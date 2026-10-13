@@ -1,0 +1,7 @@
+minecraft:block/sulfur/hit1
+minecraft:block/sulfur/hit2
+minecraft:block/sulfur/hit3
+minecraft:block/sulfur/hit4
+minecraft:block/sulfur/hit5
+minecraft:block/sulfur/hit6
+minecraft:block/sulfur/hit7

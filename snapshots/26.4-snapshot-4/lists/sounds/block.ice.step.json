@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/ice/step1",
+    "block/ice/step2",
+    "block/ice/step3",
+    "block/ice/step4",
+    "block/ice/step5",
+    "block/ice/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

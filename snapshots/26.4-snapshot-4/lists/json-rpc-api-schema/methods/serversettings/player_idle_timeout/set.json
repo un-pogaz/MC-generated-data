@@ -1,0 +1,19 @@
+{
+  "description": "Set the number of seconds before idle players are automatically kicked from the server",
+  "name": "minecraft:serversettings/player_idle_timeout/set",
+  "params": [
+    {
+      "name": "seconds",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "seconds",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

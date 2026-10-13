@@ -1,0 +1,5 @@
+minecraft:blur
+minecraft:creeper
+minecraft:entity_outline
+minecraft:invert
+minecraft:spider

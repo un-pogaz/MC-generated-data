@@ -1,0 +1,3 @@
+minecraft:rotten_flesh
+
+minecraft:copper_ingot

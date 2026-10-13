@@ -1,0 +1,5 @@
+{
+  "asset_id": "minecraft:iron",
+  "equip_sound": "minecraft:item.armor.equip_iron",
+  "slot": "chest"
+}

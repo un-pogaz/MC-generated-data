@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/nautilus/ambient1",
+    "mob/nautilus/ambient2",
+    "mob/nautilus/ambient3",
+    "mob/nautilus/ambient4",
+    "mob/nautilus/ambient5",
+    "mob/nautilus/ambient6",
+    "mob/nautilus/ambient7",
+    "mob/nautilus/ambient8"
+  ],
+  "subtitle": "subtitles.entity.nautilus.ambient"
+}

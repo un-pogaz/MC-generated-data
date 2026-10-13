@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/wandering_trader/idle1",
+    "mob/wandering_trader/idle2",
+    "mob/wandering_trader/idle3",
+    "mob/wandering_trader/idle4",
+    "mob/wandering_trader/idle5"
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.ambient"
+}

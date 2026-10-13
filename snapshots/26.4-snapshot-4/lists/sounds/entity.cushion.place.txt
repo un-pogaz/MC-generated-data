@@ -1,0 +1,6 @@
+minecraft:entity/cushion/place1
+minecraft:entity/cushion/place2
+minecraft:entity/cushion/place3
+minecraft:entity/cushion/place4
+minecraft:entity/cushion/place5
+minecraft:entity/cushion/place6

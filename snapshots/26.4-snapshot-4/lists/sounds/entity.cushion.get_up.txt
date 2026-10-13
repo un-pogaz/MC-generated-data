@@ -1,0 +1,3 @@
+minecraft:entity/cushion/get_up1
+minecraft:entity/cushion/get_up2
+minecraft:entity/cushion/get_up3
