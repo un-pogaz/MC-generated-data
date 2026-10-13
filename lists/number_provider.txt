@@ -5,6 +5,10 @@ minecraft:compostable/low
 minecraft:compostable/low_medium
 minecraft:compostable/medium
 minecraft:compostable/medium_high
+minecraft:cooking/fast_burn_time_multiplier
+minecraft:cooking/fast_speed_multiplier
+minecraft:cooking/normal_burn_time_multiplier
+minecraft:cooking/normal_speed_multiplier
 minecraft:cooking/speed_default
 minecraft:cooking/time_bamboo
 minecraft:cooking/time_blaze_rod
