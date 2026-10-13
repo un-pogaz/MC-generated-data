@@ -9,6 +9,7 @@ minecraft:overworld/caves/pillars
 minecraft:overworld/caves/spaghetti_2d
 minecraft:overworld/caves/spaghetti_2d_thickness_modulator
 minecraft:overworld/caves/spaghetti_roughness_function
+minecraft:overworld/chunk_surface_level
 minecraft:overworld/continents
 minecraft:overworld/depth
 minecraft:overworld/erosion
@@ -28,6 +29,7 @@ minecraft:overworld/ridges_folded
 minecraft:overworld/sloped_cheese
 minecraft:overworld/temperature
 minecraft:overworld/vegetation
+minecraft:overworld_amplified/chunk_surface_level
 minecraft:overworld_amplified/depth
 minecraft:overworld_amplified/factor
 minecraft:overworld_amplified/final_density
@@ -35,6 +37,7 @@ minecraft:overworld_amplified/jaggedness
 minecraft:overworld_amplified/offset
 minecraft:overworld_amplified/preliminary_surface_level
 minecraft:overworld_amplified/sloped_cheese
+minecraft:overworld_large_biomes/chunk_surface_level
 minecraft:overworld_large_biomes/continents
 minecraft:overworld_large_biomes/depth
 minecraft:overworld_large_biomes/erosion
