@@ -1,0 +1,3 @@
+minecraft:item/spear/wood/attack1
+minecraft:item/spear/wood/attack2
+minecraft:item/spear/wood/attack3

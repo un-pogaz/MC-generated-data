@@ -1,0 +1,7 @@
+minecraft:apply_options
+minecraft:cookie_request
+minecraft:custom_query
+minecraft:key
+minecraft:login_disconnect
+minecraft:login_finished
+minecraft:setup_compression

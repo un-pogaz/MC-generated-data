@@ -1,0 +1,6 @@
+minecraft:block/blue_ice/step1
+minecraft:block/blue_ice/step2
+minecraft:block/blue_ice/step3
+minecraft:block/blue_ice/step4
+minecraft:block/blue_ice/step5
+minecraft:block/blue_ice/step6

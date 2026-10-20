@@ -1,0 +1,2 @@
+minecraft:water_bucket
+minecraft:bucket

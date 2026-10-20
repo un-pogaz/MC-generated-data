@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/icicle/land1",
+    "block/icicle/land2",
+    "block/icicle/land3",
+    "block/icicle/land4",
+    "block/icicle/land5",
+    "block/icicle/land6"
+  ],
+  "subtitle": "subtitles.block.icicle.land"
+}

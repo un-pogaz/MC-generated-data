@@ -1,0 +1,6 @@
+minecraft:block/packed_ice/step1
+minecraft:block/packed_ice/step2
+minecraft:block/packed_ice/step3
+minecraft:block/packed_ice/step4
+minecraft:block/packed_ice/step5
+minecraft:block/packed_ice/step6

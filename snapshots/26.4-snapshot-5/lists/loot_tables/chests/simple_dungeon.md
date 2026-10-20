@@ -1,0 +1,33 @@
+| Name                             | Count | Chance | Weight | Comment                       |
+| -------------------------------- | ----- | ------ | ------ | ----------------------------- |
+| 1 to 3 time                      |    -- |     -- |     -- |                               |
+| minecraft:leather                |  1..5 |  13.9% | 20/144 |                               |
+| minecraft:golden_apple           |     1 |  10.4% | 15/144 |                               |
+| minecraft:enchanted_golden_apple |     1 |   1.4% |  2/144 |                               |
+| minecraft:music_disc_otherside   |     1 |   1.4% |  2/144 |                               |
+| minecraft:music_disc_13          |     1 |  10.4% | 15/144 |                               |
+| minecraft:music_disc_cat         |     1 |  10.4% | 15/144 |                               |
+| minecraft:name_tag               |     1 |  13.9% | 20/144 |                               |
+| minecraft:golden_horse_armor     |     1 |   6.9% | 10/144 |                               |
+| minecraft:copper_horse_armor     |     1 |  10.4% | 15/144 |                               |
+| minecraft:iron_horse_armor       |     1 |  10.4% | 15/144 |                               |
+| minecraft:diamond_horse_armor    |     1 |   3.5% |  5/144 |                               |
+| minecraft:enchanted_book         |     1 |   6.9% | 10/144 | enchantments: #on_random_loot |
+| – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
+| 1 to 4 time                      |    -- |     -- |     -- |                               |
+| minecraft:iron_ingot             |  1..4 |     8% | 10/125 |                               |
+| minecraft:gold_ingot             |  1..4 |     4% |  5/125 |                               |
+| minecraft:bread                  |     1 |    16% | 20/125 |                               |
+| minecraft:wheat                  |  1..4 |    16% | 20/125 |                               |
+| minecraft:bucket                 |     1 |     8% | 10/125 |                               |
+| minecraft:redstone               |  1..4 |    12% | 15/125 |                               |
+| minecraft:coal                   |  1..4 |    12% | 15/125 |                               |
+| minecraft:melon_seeds            |  2..4 |     8% | 10/125 |                               |
+| minecraft:pumpkin_seeds          |  2..4 |     8% | 10/125 |                               |
+| minecraft:beetroot_seeds         |  2..4 |     8% | 10/125 |                               |
+| – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
+| 3 time                           |    -- |     -- |     -- |                               |
+| minecraft:bone                   |  1..8 |    25% |  10/40 |                               |
+| minecraft:gunpowder              |  1..8 |    25% |  10/40 |                               |
+| minecraft:rotten_flesh           |  1..8 |    25% |  10/40 |                               |
+| minecraft:string                 |  1..8 |    25% |  10/40 |                               |

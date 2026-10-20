@@ -1,0 +1,2 @@
+#minecraft:dangerous_for_teleportation
+minecraft:bedrock

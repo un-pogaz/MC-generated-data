@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/mud/break1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud/break2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud/break3",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud/break4",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud/break5",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud/break6",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

@@ -1,0 +1,10 @@
+minecraft:bat
+minecraft:cave_spider
+minecraft:creeper
+minecraft:enderman
+minecraft:skeleton
+minecraft:slime
+minecraft:sulfur_cube
+minecraft:witch
+minecraft:zombie
+minecraft:zombie_villager

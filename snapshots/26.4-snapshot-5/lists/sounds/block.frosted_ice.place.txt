@@ -1,0 +1,6 @@
+minecraft:block/frosted_ice/place1
+minecraft:block/frosted_ice/place2
+minecraft:block/frosted_ice/place3
+minecraft:block/frosted_ice/place4
+minecraft:block/frosted_ice/place5
+minecraft:block/frosted_ice/place6

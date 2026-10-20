@@ -1,0 +1,5 @@
+minecraft:mob/camel_husk/stand1
+minecraft:mob/camel_husk/stand2
+minecraft:mob/camel_husk/stand3
+minecraft:mob/camel_husk/stand4
+minecraft:mob/camel_husk/stand5

@@ -1,0 +1,1 @@
+minecraft:mob/cat/baby_cat/death

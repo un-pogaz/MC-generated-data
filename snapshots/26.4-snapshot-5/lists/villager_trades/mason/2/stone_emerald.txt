@@ -1,0 +1,5 @@
+wants: stone x20
+gives: emerald
+xp: 10
+max use: 16
+reputation discount: 0.05

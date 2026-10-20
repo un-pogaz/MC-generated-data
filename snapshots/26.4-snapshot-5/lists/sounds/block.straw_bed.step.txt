@@ -1,0 +1,6 @@
+minecraft:block/straw_bed/step1
+minecraft:block/straw_bed/step2
+minecraft:block/straw_bed/step3
+minecraft:block/straw_bed/step4
+minecraft:block/straw_bed/step5
+minecraft:block/straw_bed/step6

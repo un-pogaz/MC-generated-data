@@ -1,0 +1,4 @@
+((permissions: owners))
+publish
+publish <allowCommands brigadier:bool>
+publish <allowCommands brigadier:bool> <port brigadier:integer[max="65535", min="0"]>

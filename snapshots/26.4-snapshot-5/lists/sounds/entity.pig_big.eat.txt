@@ -1,0 +1,2 @@
+minecraft:mob/pig/big/eat1
+minecraft:mob/pig/big/eat2

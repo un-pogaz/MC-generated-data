@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "entity/cushion/place1",
+    "entity/cushion/place2",
+    "entity/cushion/place3",
+    "entity/cushion/place4",
+    "entity/cushion/place5",
+    "entity/cushion/place6"
+  ],
+  "subtitle": "subtitles.entity.cushion.place"
+}

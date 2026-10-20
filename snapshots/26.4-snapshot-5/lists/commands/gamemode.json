@@ -1,0 +1,28 @@
+{
+  "type": "literal",
+  "children": {
+    "gamemode": {
+      "type": "argument",
+      "children": {
+        "target": {
+          "type": "argument",
+          "executable": true,
+          "parser": "minecraft:entity",
+          "properties": {
+            "type": "players",
+            "amount": "multiple"
+          }
+        }
+      },
+      "executable": true,
+      "parser": "minecraft:gamemode"
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

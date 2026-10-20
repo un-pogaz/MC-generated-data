@@ -1,0 +1,4 @@
+| Name                  | Count | Chance | Weight | Comment |
+| --------------------- | ----- | ------ | ------ | ------- |
+| 1 time                |    -- |     -- |     -- |         |
+| minecraft:orange_wool |     1 |   100% |      1 |         |
