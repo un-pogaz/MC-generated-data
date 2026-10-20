@@ -3,3 +3,4 @@ minecraft:custom_query_answer
 minecraft:hello
 minecraft:key
 minecraft:login_acknowledged
+minecraft:options_applied

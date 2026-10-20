@@ -229,6 +229,7 @@ minecraft:oxidized_copper_golem_statue
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_stairs
 minecraft:oxidized_lightning_rod
+minecraft:packed_ice_brick_stairs
 minecraft:pale_oak_button
 minecraft:pale_oak_door
 minecraft:pale_oak_fence_gate

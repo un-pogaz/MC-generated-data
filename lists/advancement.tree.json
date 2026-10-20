@@ -108,6 +108,12 @@
             "title": "Postmortal",
             "description": "Use a Totem of Undying to cheat death",
             "frame": "goal"
+          },
+          "minecraft:adventure/what_goes_around_comes_around": {
+            "icon": "minecraft:ice_ball",
+            "title": "What Goes Around Comes Around",
+            "description": "Kill a Frostbite using an Ice Ball",
+            "frame": "task"
           }
         }
       },

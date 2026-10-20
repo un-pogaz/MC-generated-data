@@ -10,5 +10,6 @@
         }
       ]
     }
-  ]
+  ],
+  "sound": "minecraft:entity.generic.eat"
 }

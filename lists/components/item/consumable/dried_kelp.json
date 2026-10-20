@@ -1,3 +1,4 @@
 {
-  "consume_seconds": 0.8
+  "consume_seconds": 0.8,
+  "sound": "minecraft:entity.generic.eat"
 }

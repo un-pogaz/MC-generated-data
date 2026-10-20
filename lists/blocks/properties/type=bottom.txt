@@ -52,6 +52,7 @@ minecraft:oak_slab
 minecraft:orange_concrete_slab
 minecraft:orange_wool_slab
 minecraft:oxidized_cut_copper_slab
+minecraft:packed_ice_brick_slab
 minecraft:pale_oak_slab
 minecraft:petrified_oak_slab
 minecraft:pink_concrete_slab

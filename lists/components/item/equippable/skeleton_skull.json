@@ -1,4 +1,6 @@
 {
+  "equip_sound": "minecraft:item.armor.equip_generic",
+  "shearing_sound": "minecraft:item.shears.snip",
   "slot": "head",
   "swappable": false
 }

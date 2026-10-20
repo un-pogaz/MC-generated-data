@@ -63,6 +63,7 @@ minecraft:orange_concrete_stairs
 minecraft:orange_wool_stairs
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_stairs
+minecraft:packed_ice_brick_stairs
 minecraft:pale_oak_stairs
 minecraft:pale_oak_trapdoor
 minecraft:pink_concrete_stairs

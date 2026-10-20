@@ -15,6 +15,7 @@ adventure/root
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
+│ └>adventure/what_goes_around_comes_around
 └>adventure/lightning_rod_with_villager_no_fire
 └>adventure/minecraft_trials_edition
 │ └>adventure/blowback

@@ -144,10 +144,10 @@ minecraft:wooded_badlands
 #minecraft:required_ocean_monument_surrounding
 #minecraft:spawns_cold_variant_farm_animals
 #minecraft:spawns_cold_variant_frogs
+#minecraft:spawns_cold_variants_underground
 #minecraft:spawns_coral_variant_zombie_nautilus
 #minecraft:spawns_gold_rabbits
 #minecraft:spawns_snow_foxes
-#minecraft:spawns_strays_without_powder_snow
 #minecraft:spawns_warm_variant_farm_animals
 #minecraft:spawns_warm_variant_frogs
 #minecraft:spawns_white_rabbits

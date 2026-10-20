@@ -223,6 +223,7 @@ minecraft:block/chiseled_cinnabar
 minecraft:block/chiseled_copper
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
+minecraft:block/chiseled_packed_ice
 minecraft:block/chiseled_polished_blackstone
 minecraft:block/chiseled_quartz_block
 minecraft:block/chiseled_quartz_block_top
@@ -803,6 +804,7 @@ minecraft:block/oxidized_copper_trapdoor
 minecraft:block/oxidized_cut_copper
 minecraft:block/oxidized_lightning_rod
 minecraft:block/packed_ice
+minecraft:block/packed_ice_bricks
 minecraft:block/packed_mud
 minecraft:block/pale_hanging_moss
 minecraft:block/pale_hanging_moss_tip

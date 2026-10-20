@@ -11,5 +11,6 @@
       ],
       "probability": 0.8
     }
-  ]
+  ],
+  "sound": "minecraft:entity.generic.eat"
 }

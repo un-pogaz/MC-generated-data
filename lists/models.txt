@@ -508,6 +508,7 @@ minecraft:block/chiseled_cinnabar
 minecraft:block/chiseled_copper
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
+minecraft:block/chiseled_packed_ice
 minecraft:block/chiseled_polished_blackstone
 minecraft:block/chiseled_quartz_block
 minecraft:block/chiseled_red_sandstone
@@ -1140,8 +1141,6 @@ minecraft:block/horn_coral_fan
 minecraft:block/horn_coral_wall_fan
 minecraft:block/ice
 minecraft:block/ice_crystal
-minecraft:block/icicle
-minecraft:block/icicle_base
 minecraft:block/icicle_down_base
 minecraft:block/icicle_down_base_base
 minecraft:block/icicle_down_frustum
@@ -1697,6 +1696,16 @@ minecraft:block/oxidized_cut_copper_stairs_inner
 minecraft:block/oxidized_cut_copper_stairs_outer
 minecraft:block/oxidized_lightning_rod
 minecraft:block/packed_ice
+minecraft:block/packed_ice_brick_slab
+minecraft:block/packed_ice_brick_slab_top
+minecraft:block/packed_ice_brick_stairs
+minecraft:block/packed_ice_brick_stairs_inner
+minecraft:block/packed_ice_brick_stairs_outer
+minecraft:block/packed_ice_brick_wall_inventory
+minecraft:block/packed_ice_brick_wall_post
+minecraft:block/packed_ice_brick_wall_side
+minecraft:block/packed_ice_brick_wall_side_tall
+minecraft:block/packed_ice_bricks
 minecraft:block/packed_mud
 minecraft:block/pale_hanging_moss
 minecraft:block/pale_hanging_moss_tip
@@ -2576,6 +2585,8 @@ minecraft:block/template_hanging_sign_rot_0
 minecraft:block/template_hanging_sign_rot_1
 minecraft:block/template_hanging_sign_rot_2
 minecraft:block/template_hanging_sign_rot_3
+minecraft:block/template_icicle
+minecraft:block/template_icicle_base
 minecraft:block/template_item_frame
 minecraft:block/template_item_frame_map
 minecraft:block/template_lantern

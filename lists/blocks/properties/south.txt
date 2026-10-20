@@ -45,6 +45,7 @@ minecraft:nether_brick_wall
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
 minecraft:oxidized_copper_bars
+minecraft:packed_ice_brick_wall
 minecraft:pale_moss_carpet
 minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
