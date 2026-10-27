@@ -185,6 +185,7 @@ minecraft:zombified_piglin
 #minecraft:dismounts_underwater
 #minecraft:does_not_break_brittle_ice
 #minecraft:fall_damage_immune
+#minecraft:flying
 #minecraft:followable_friendly_mobs
 #minecraft:freeze_hurts_extra_types
 #minecraft:frog_food
@@ -211,6 +212,7 @@ minecraft:zombified_piglin
 #minecraft:sensitive_to_impaling
 #minecraft:sensitive_to_smite
 #minecraft:skeletons
+#minecraft:swimming
 #minecraft:undead
 #minecraft:wither_friends
 #minecraft:zombies

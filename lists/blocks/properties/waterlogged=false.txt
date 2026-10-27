@@ -402,6 +402,9 @@ minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone_slab
+minecraft:snow_brick_slab
+minecraft:snow_brick_stairs
+minecraft:snow_brick_wall
 minecraft:soul_campfire
 minecraft:soul_lantern
 minecraft:spruce_fence

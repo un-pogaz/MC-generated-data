@@ -79,6 +79,7 @@ minecraft:sandstone_stairs
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_stairs
+minecraft:snow_brick_stairs
 minecraft:spruce_stairs
 minecraft:stone_brick_stairs
 minecraft:stone_stairs

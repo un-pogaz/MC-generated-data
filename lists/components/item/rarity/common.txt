@@ -1239,6 +1239,10 @@ minecraft:smooth_stone_slab
 minecraft:sniffer_spawn_egg
 minecraft:snow
 minecraft:snow_block
+minecraft:snow_brick_slab
+minecraft:snow_brick_stairs
+minecraft:snow_brick_wall
+minecraft:snow_bricks
 minecraft:snow_golem_spawn_egg
 minecraft:snowball
 minecraft:snowy_village_map

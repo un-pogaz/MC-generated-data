@@ -9,3 +9,5 @@ minecraft:sweet_berry_bush
 minecraft:wither_rose
 minecraft:pointed_dripstone
 minecraft:powder_snow
+minecraft:sulfur_spike
+minecraft:icicle

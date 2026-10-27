@@ -716,7 +716,6 @@ minecraft:block/cube_mirrored
 minecraft:block/cube_mirrored_all
 minecraft:block/cube_north_west_mirrored
 minecraft:block/cube_north_west_mirrored_all
-minecraft:block/cube_top
 minecraft:block/custom_fence_inventory
 minecraft:block/custom_fence_post
 minecraft:block/custom_fence_side_east
@@ -2315,6 +2314,16 @@ minecraft:block/sniffer_egg_not_cracked
 minecraft:block/sniffer_egg_slightly_cracked
 minecraft:block/sniffer_egg_very_cracked
 minecraft:block/snow_block
+minecraft:block/snow_brick_slab
+minecraft:block/snow_brick_slab_top
+minecraft:block/snow_brick_stairs
+minecraft:block/snow_brick_stairs_inner
+minecraft:block/snow_brick_stairs_outer
+minecraft:block/snow_brick_wall_inventory
+minecraft:block/snow_brick_wall_post
+minecraft:block/snow_brick_wall_side
+minecraft:block/snow_brick_wall_side_tall
+minecraft:block/snow_bricks
 minecraft:block/snow_height10
 minecraft:block/snow_height12
 minecraft:block/snow_height14

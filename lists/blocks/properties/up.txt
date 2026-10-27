@@ -34,6 +34,7 @@ minecraft:resin_brick_wall
 minecraft:resin_clump
 minecraft:sandstone_wall
 minecraft:sculk_vein
+minecraft:snow_brick_wall
 minecraft:stone_brick_wall
 minecraft:sulfur_brick_wall
 minecraft:sulfur_wall

@@ -1,4 +1,4 @@
-wants: emerald x3
+wants: emerald
 gives: cake
 xp: 15
 max use: 12

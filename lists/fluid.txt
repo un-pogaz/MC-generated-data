@@ -10,4 +10,5 @@ minecraft:water
 #minecraft:supports_frogspawn
 #minecraft:supports_lily_pad
 #minecraft:supports_sugar_cane_adjacently
+#minecraft:swimmable
 #minecraft:water

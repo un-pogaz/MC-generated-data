@@ -27,6 +27,7 @@ minecraft:red_nether_brick_wall
 minecraft:red_sandstone_wall
 minecraft:resin_brick_wall
 minecraft:sandstone_wall
+minecraft:snow_brick_wall
 minecraft:stone_brick_wall
 minecraft:sulfur_brick_wall
 minecraft:sulfur_wall

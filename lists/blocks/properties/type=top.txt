@@ -83,6 +83,7 @@ minecraft:smooth_quartz_slab
 minecraft:smooth_red_sandstone_slab
 minecraft:smooth_sandstone_slab
 minecraft:smooth_stone_slab
+minecraft:snow_brick_slab
 minecraft:spruce_slab
 minecraft:stone_brick_slab
 minecraft:stone_slab
