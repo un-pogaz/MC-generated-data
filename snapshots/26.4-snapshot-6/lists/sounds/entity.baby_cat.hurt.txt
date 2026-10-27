@@ -1,0 +1,3 @@
+minecraft:mob/cat/baby_cat/hurt1
+minecraft:mob/cat/baby_cat/hurt2
+minecraft:mob/cat/baby_cat/hurt3

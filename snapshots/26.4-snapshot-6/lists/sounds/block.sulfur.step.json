@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/sulfur/step1",
+    "block/sulfur/step2",
+    "block/sulfur/step3",
+    "block/sulfur/step4",
+    "block/sulfur/step5",
+    "block/sulfur/step6",
+    "block/sulfur/step7"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

@@ -1,0 +1,3 @@
+minecraft:porkchop
+
+minecraft:leather

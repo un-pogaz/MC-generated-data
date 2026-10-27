@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.stray.ambient",
+      "pitch": 1.6,
+      "type": "event",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.stray"
+}

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/goat/step1",
+    "mob/goat/step2",
+    "mob/goat/step3",
+    "mob/goat/step4",
+    "mob/goat/step5",
+    "mob/goat/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

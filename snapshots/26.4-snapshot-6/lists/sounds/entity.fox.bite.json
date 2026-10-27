@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/bite1",
+      "pitch": 1.1,
+      "volume": 0.6
+    },
+    {
+      "name": "mob/fox/bite2",
+      "pitch": 1.1,
+      "volume": 0.6
+    },
+    {
+      "name": "mob/fox/bite3",
+      "pitch": 1.1,
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.bite"
+}

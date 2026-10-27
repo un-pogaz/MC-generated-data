@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/brittle_ice/step1",
+    "block/brittle_ice/step2",
+    "block/brittle_ice/step3",
+    "block/brittle_ice/step4",
+    "block/brittle_ice/step5",
+    "block/brittle_ice/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

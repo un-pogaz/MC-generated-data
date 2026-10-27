@@ -1,0 +1,6 @@
+minecraft:block/ice/step1
+minecraft:block/ice/step2
+minecraft:block/ice/step3
+minecraft:block/ice/step4
+minecraft:block/ice/step5
+minecraft:block/ice/step6

@@ -1,0 +1,2 @@
+#minecraft:aquatic
+minecraft:frog

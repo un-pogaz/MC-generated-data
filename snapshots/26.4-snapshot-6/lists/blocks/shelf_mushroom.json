@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "age": [
+      "0",
+      "1"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

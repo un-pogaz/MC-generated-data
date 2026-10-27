@@ -1,0 +1,19 @@
+{
+  "description": "Set the entity broadcast range as a percentage",
+  "name": "minecraft:serversettings/entity_broadcast_range/set",
+  "params": [
+    {
+      "name": "percentage_points",
+      "required": true,
+      "schema": {
+        "type": "integer"
+      }
+    }
+  ],
+  "result": {
+    "name": "percentage_points",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

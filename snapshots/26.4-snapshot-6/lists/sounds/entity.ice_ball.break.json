@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "entity/ice_ball/hit1",
+      "pitch": 2.0
+    },
+    {
+      "name": "entity/ice_ball/hit2",
+      "pitch": 2.0
+    },
+    {
+      "name": "entity/ice_ball/hit3",
+      "pitch": 2.0
+    },
+    {
+      "name": "entity/ice_ball/hit4",
+      "pitch": 2.0
+    }
+  ],
+  "subtitle": "subtitles.entity.ice_ball.break"
+}

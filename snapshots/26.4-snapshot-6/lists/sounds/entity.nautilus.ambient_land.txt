@@ -1,0 +1,7 @@
+minecraft:mob/nautilus/ambient_land1
+minecraft:mob/nautilus/ambient_land2
+minecraft:mob/nautilus/ambient_land3
+minecraft:mob/nautilus/ambient_land4
+minecraft:mob/nautilus/ambient_land5
+minecraft:mob/nautilus/ambient_land6
+minecraft:mob/nautilus/ambient_land7

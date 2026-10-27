@@ -1,0 +1,22 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "executable": true,
+      "parser": "minecraft:entity",
+      "properties": {
+        "type": "entities",
+        "amount": "multiple"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}
