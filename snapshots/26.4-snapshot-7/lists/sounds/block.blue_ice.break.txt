@@ -1,0 +1,6 @@
+minecraft:block/blue_ice/break1
+minecraft:block/blue_ice/break2
+minecraft:block/blue_ice/break3
+minecraft:block/blue_ice/break4
+minecraft:block/blue_ice/break5
+minecraft:block/blue_ice/break6

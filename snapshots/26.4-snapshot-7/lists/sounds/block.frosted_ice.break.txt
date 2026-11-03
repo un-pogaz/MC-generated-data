@@ -1,0 +1,6 @@
+minecraft:block/frosted_ice/break1
+minecraft:block/frosted_ice/break2
+minecraft:block/frosted_ice/break3
+minecraft:block/frosted_ice/break4
+minecraft:block/frosted_ice/break5
+minecraft:block/frosted_ice/break6

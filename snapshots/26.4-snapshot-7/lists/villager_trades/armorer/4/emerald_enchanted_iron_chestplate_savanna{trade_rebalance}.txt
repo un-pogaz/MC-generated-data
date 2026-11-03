@@ -1,0 +1,6 @@
+wants: emerald x7
+gives: iron_chestplate {enchantments: binding_curse}
+xp: 15
+max use: 3
+reputation discount: 0.05
+condition: is savanna variant

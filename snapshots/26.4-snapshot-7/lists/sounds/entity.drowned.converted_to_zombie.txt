@@ -1,0 +1,2 @@
+minecraft:mob/drowned/convert_to_zombie1
+minecraft:mob/drowned/convert_to_zombie2

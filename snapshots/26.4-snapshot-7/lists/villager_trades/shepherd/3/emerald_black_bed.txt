@@ -1,0 +1,5 @@
+wants: emerald x3
+gives: black_bed
+xp: 10
+max use: 12
+reputation discount: 0.05

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/frosted_ice/place1",
+    "block/frosted_ice/place2",
+    "block/frosted_ice/place3",
+    "block/frosted_ice/place4",
+    "block/frosted_ice/place5",
+    "block/frosted_ice/place6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

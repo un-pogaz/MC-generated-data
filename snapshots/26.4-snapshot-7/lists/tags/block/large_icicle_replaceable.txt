@@ -1,0 +1,4 @@
+minecraft:calcite
+minecraft:stone
+minecraft:deepslate
+minecraft:packed_ice

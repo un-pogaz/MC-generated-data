@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/composter/empty1",
+    "block/composter/empty2",
+    "block/composter/empty3"
+  ],
+  "subtitle": "subtitles.block.composter.empty"
+}

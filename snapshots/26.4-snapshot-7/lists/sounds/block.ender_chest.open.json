@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "block/enderchest/open",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.chest.open"
+}

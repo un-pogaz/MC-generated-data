@@ -1,0 +1,2 @@
+minecraft:mob/sulfur_cube/eject1
+minecraft:mob/sulfur_cube/eject2

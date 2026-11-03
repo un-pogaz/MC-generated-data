@@ -1,0 +1,6 @@
+minecraft:block/shelf_mushroom/break1
+minecraft:block/shelf_mushroom/break2
+minecraft:block/shelf_mushroom/break3
+minecraft:block/shelf_mushroom/break4
+minecraft:block/shelf_mushroom/break5
+minecraft:block/shelf_mushroom/break6

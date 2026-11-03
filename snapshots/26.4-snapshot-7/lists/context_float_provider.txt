@@ -1,0 +1,4 @@
+minecraft:brewing/speed_default
+minecraft:cooking/fast_speed_multiplier
+minecraft:cooking/normal_speed_multiplier
+minecraft:cooking/speed_default

@@ -1,0 +1,5 @@
+wants: emerald x4
+gives: glistering_melon_slice x3
+xp: 30
+max use: 12
+reputation discount: 0.05

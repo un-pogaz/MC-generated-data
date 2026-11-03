@@ -1,0 +1,9 @@
+minecraft:rotten_flesh
+
+minecraft:red_mushroom
+
+minecraft:iron_ingot
+minecraft:carrot
+minecraft:potato
+
+minecraft:music_disc_lava_chicken

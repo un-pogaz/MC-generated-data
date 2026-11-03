@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/chiseled_soulshale/place1",
+    "block/chiseled_soulshale/place2",
+    "block/chiseled_soulshale/place3",
+    "block/chiseled_soulshale/place4",
+    "block/chiseled_soulshale/place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

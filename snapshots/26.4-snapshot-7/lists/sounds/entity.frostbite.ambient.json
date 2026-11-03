@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/frostbite/ambient1",
+    "mob/frostbite/ambient2",
+    "mob/frostbite/ambient3",
+    "mob/frostbite/ambient4"
+  ],
+  "subtitle": "subtitles.entity.frostbite.ambient"
+}

@@ -1,0 +1,11 @@
+assets: minecraft:music/game/memories
+title: Memories
+author: fingerspit
+length: 4m 5s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.menu
+sound_event: minecraft:music.overworld.badlands
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.desert
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.forest

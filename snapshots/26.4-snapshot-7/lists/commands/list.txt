@@ -1,0 +1,3 @@
+((permissions: players))
+list
+list uuids

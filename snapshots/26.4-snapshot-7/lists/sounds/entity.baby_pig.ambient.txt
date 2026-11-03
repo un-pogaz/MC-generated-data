@@ -1,0 +1,6 @@
+minecraft:mob/pig/baby_pig/ambient1
+minecraft:mob/pig/baby_pig/ambient2
+minecraft:mob/pig/baby_pig/ambient3
+minecraft:mob/pig/baby_pig/ambient4
+minecraft:mob/pig/baby_pig/ambient5
+minecraft:mob/pig/baby_pig/ambient6

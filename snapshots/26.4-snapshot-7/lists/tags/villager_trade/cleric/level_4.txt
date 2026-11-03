@@ -1,0 +1,3 @@
+minecraft:cleric/4/turtle_scute_emerald
+minecraft:cleric/4/glass_bottle_emerald
+minecraft:cleric/4/emerald_ender_pearl

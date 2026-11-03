@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/frostbite/step1",
+    "mob/frostbite/step2",
+    "mob/frostbite/step3",
+    "mob/frostbite/step4",
+    "mob/frostbite/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

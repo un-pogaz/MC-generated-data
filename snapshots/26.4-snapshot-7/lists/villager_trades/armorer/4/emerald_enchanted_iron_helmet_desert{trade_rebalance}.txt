@@ -1,0 +1,6 @@
+wants: emerald x9
+gives: iron_helmet {enchantments: thorns}
+xp: 15
+max use: 3
+reputation discount: 0.05
+condition: is desert variant

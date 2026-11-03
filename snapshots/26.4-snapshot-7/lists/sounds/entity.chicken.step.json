@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/chicken/step1",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/chicken/step2",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

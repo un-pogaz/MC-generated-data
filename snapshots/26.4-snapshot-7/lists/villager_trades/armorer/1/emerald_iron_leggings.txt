@@ -1,0 +1,5 @@
+wants: emerald x7
+gives: iron_leggings
+xp: 1
+max use: 12
+reputation discount: 0.2

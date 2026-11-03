@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/icicle/hit1",
+    "block/icicle/hit2",
+    "block/icicle/hit3",
+    "block/icicle/hit4",
+    "block/icicle/hit5"
+  ],
+  "subtitle": "subtitles.block.generic.fall"
+}

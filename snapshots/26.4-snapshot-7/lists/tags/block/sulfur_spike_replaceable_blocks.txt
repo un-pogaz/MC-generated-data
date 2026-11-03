@@ -1,0 +1,2 @@
+minecraft:sulfur
+minecraft:cinnabar

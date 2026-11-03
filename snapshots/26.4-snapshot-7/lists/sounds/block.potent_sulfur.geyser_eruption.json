@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "block/potent_sulfur/sulfur_spring/eruption1",
+    "block/potent_sulfur/sulfur_spring/eruption2",
+    "block/potent_sulfur/sulfur_spring/eruption3",
+    "block/potent_sulfur/sulfur_spring/eruption4",
+    "block/potent_sulfur/sulfur_spring/eruption5",
+    "block/potent_sulfur/sulfur_spring/eruption6",
+    "block/potent_sulfur/sulfur_spring/eruption7",
+    "block/potent_sulfur/sulfur_spring/eruption8"
+  ],
+  "subtitle": "subtitles.block.potent_sulfur.geyser_eruption"
+}

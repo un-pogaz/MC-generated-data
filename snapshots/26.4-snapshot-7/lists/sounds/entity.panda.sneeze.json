@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/panda/sneeze1",
+    "mob/panda/sneeze2",
+    "mob/panda/sneeze3"
+  ],
+  "subtitle": "subtitles.entity.panda.sneeze"
+}

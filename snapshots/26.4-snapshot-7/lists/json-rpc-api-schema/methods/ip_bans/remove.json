@@ -1,0 +1,25 @@
+{
+  "description": "Remove ip from ban list",
+  "name": "minecraft:ip_bans/remove",
+  "params": [
+    {
+      "name": "ip",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/ip_ban"
+      }
+    }
+  }
+}

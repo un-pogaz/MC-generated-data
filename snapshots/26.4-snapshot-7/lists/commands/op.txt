@@ -1,0 +1,2 @@
+((permissions: admins))
+op <targets minecraft:game_profile>

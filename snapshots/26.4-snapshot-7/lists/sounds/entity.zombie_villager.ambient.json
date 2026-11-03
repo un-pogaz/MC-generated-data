@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/zombie_villager/say1",
+    "mob/zombie_villager/say2",
+    "mob/zombie_villager/say3"
+  ],
+  "subtitle": "subtitles.entity.zombie_villager.ambient"
+}

@@ -1,0 +1,6 @@
+minecraft:block/brittle_ice/place1
+minecraft:block/brittle_ice/place2
+minecraft:block/brittle_ice/place3
+minecraft:block/brittle_ice/place4
+minecraft:block/brittle_ice/place5
+minecraft:block/brittle_ice/place6

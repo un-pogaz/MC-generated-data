@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "block/chest/open"
+    }
+  ],
+  "subtitle": "subtitles.block.chest.open"
+}

@@ -1,0 +1,5 @@
+wants: emerald
+gives: glass x4
+xp: 10
+max use: 12
+reputation discount: 0.05

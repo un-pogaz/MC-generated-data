@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/shelf_mushroom/bounce1",
+    "block/shelf_mushroom/bounce2",
+    "block/shelf_mushroom/bounce3",
+    "block/shelf_mushroom/bounce4",
+    "block/shelf_mushroom/bounce5"
+  ],
+  "subtitle": "subtitles.block.generic.fall"
+}

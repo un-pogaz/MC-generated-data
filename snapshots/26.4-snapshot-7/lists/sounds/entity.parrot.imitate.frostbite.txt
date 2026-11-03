@@ -1,0 +1,4 @@
+minecraft:mob/frostbite/ambient1
+minecraft:mob/frostbite/ambient2
+minecraft:mob/frostbite/ambient3
+minecraft:mob/frostbite/ambient4

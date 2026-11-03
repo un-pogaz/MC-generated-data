@@ -1,0 +1,13 @@
+{
+  "description": "World upgrade progress. Rate limited to 1 notification per second",
+  "name": "minecraft:notification/world/upgrade_progress",
+  "params": [
+    {
+      "name": "progress",
+      "required": true,
+      "schema": {
+        "type": "number"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+minecraft:block/chiseled_soulshale/step1
+minecraft:block/chiseled_soulshale/step2
+minecraft:block/chiseled_soulshale/step3
+minecraft:block/chiseled_soulshale/step4
+minecraft:block/chiseled_soulshale/step5

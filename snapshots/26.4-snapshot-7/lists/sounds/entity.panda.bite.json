@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/panda/bite1",
+    "mob/panda/bite2",
+    "mob/panda/bite3"
+  ],
+  "subtitle": "subtitles.entity.panda.bite"
+}

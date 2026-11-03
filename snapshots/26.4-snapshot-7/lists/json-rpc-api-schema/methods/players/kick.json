@@ -1,0 +1,25 @@
+{
+  "description": "Kick players",
+  "name": "minecraft:players/kick",
+  "params": [
+    {
+      "name": "kick",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/kick_player"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "kicked",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

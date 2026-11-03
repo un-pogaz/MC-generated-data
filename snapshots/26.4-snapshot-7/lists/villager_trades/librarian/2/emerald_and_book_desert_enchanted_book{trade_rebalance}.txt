@@ -1,0 +1,7 @@
+wants: emerald xLV, book
+gives: enchanted_book {enchantments: #trades/desert_common}
+xp: 5
+max use: 12
+reputation discount: 0.2
+double price enchantments: #minecraft:double_trade_price
+condition: is desert variant
