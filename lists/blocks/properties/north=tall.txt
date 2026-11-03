@@ -1,6 +1,7 @@
 minecraft:andesite_wall
 minecraft:blackstone_wall
 minecraft:brick_wall
+minecraft:calcite_wall
 minecraft:cinnabar_brick_wall
 minecraft:cinnabar_wall
 minecraft:cobbled_deepslate_wall
@@ -18,6 +19,8 @@ minecraft:packed_ice_brick_wall
 minecraft:pale_moss_carpet
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
+minecraft:polished_calcite_brick_wall
+minecraft:polished_calcite_wall
 minecraft:polished_cinnabar_wall
 minecraft:polished_deepslate_wall
 minecraft:polished_sulfur_wall

@@ -1,33 +1,34 @@
 | Name                                           | Count | Chance | Weight | Comment                                         |
 | ---------------------------------------------- | ----- | ------ | ------ | ----------------------------------------------- |
 | 5 to 10 time                                   |    -- |     -- |     -- |                                                 |
-| minecraft:enchanted_golden_apple               |  1..2 |   1.2% |   1/84 |                                                 |
-| minecraft:music_disc_otherside                 |     1 |   1.2% |   1/84 |                                                 |
-| minecraft:compass                              |     1 |   2.4% |   2/84 |                                                 |
-| minecraft:sculk_catalyst                       |  1..2 |   2.4% |   2/84 |                                                 |
-| minecraft:diamond_hoe                          |     1 |   2.4% |   2/84 | enchantments: {levels: 30..50, #on_random_loot} |
-| minecraft:lead                                 |     1 |   2.4% |   2/84 |                                                 |
-| minecraft:diamond_horse_armor                  |     1 |   2.4% |   2/84 |                                                 |
-| minecraft:leather                              |  1..5 |   2.4% |   2/84 |                                                 |
-| minecraft:music_disc_13                        |     1 |   2.4% |   2/84 |                                                 |
-| minecraft:music_disc_cat                       |     1 |   2.4% |   2/84 |                                                 |
-| minecraft:diamond_leggings                     |     1 |   2.4% |   2/84 | enchantments: {levels: 30..50, #on_random_loot} |
-| minecraft:enchanted_book                       |     1 |   3.6% |   3/84 | enchantments: swift_sneak                       |
-| minecraft:sculk                                | 4..10 |   3.6% |   3/84 |                                                 |
-| minecraft:sculk_sensor                         |  1..3 |   3.6% |   3/84 |                                                 |
-| minecraft:candle                               |  1..4 |   3.6% |   3/84 |                                                 |
-| minecraft:amethyst_shard                       | 1..15 |   3.6% |   3/84 |                                                 |
-| minecraft:experience_bottle                    |  1..3 |   3.6% |   3/84 |                                                 |
-| minecraft:glow_berries                         | 1..15 |   3.6% |   3/84 |                                                 |
-| minecraft:iron_leggings                        |     1 |   3.6% |   3/84 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:echo_shard                           |  1..3 |   4.8% |   4/84 |                                                 |
-| minecraft:disc_fragment_5                      |  1..3 |   4.8% |   4/84 |                                                 |
-| minecraft:potion                               |  1..3 |     6% |   5/84 | regeneration (strong)                           |
-| minecraft:enchanted_book                       |     1 |     6% |   5/84 | enchantments: #on_random_loot                   |
-| minecraft:book                                 | 3..10 |     6% |   5/84 |                                                 |
-| minecraft:bone                                 | 1..15 |     6% |   5/84 |                                                 |
-| minecraft:soul_torch                           | 1..15 |     6% |   5/84 |                                                 |
-| minecraft:coal                                 | 6..15 |   8.3% |   7/84 |                                                 |
+| minecraft:enchanted_golden_apple               |  1..2 |   1.1% |   1/87 |                                                 |
+| minecraft:music_disc_otherside                 |     1 |   1.1% |   1/87 |                                                 |
+| minecraft:compass                              |     1 |   2.3% |   2/87 |                                                 |
+| minecraft:sculk_catalyst                       |  1..2 |   2.3% |   2/87 |                                                 |
+| minecraft:diamond_hoe                          |     1 |   2.3% |   2/87 | enchantments: {levels: 30..50, #on_random_loot} |
+| minecraft:lead                                 |     1 |   2.3% |   2/87 |                                                 |
+| minecraft:diamond_horse_armor                  |     1 |   2.3% |   2/87 |                                                 |
+| minecraft:leather                              |  1..5 |   2.3% |   2/87 |                                                 |
+| minecraft:music_disc_13                        |     1 |   2.3% |   2/87 |                                                 |
+| minecraft:music_disc_cat                       |     1 |   2.3% |   2/87 |                                                 |
+| minecraft:diamond_leggings                     |     1 |   2.3% |   2/87 | enchantments: {levels: 30..50, #on_random_loot} |
+| minecraft:enchanted_book                       |     1 |   3.4% |   3/87 | enchantments: swift_sneak                       |
+| minecraft:sculk                                | 4..10 |   3.4% |   3/87 |                                                 |
+| minecraft:sculk_sensor                         |  1..3 |   3.4% |   3/87 |                                                 |
+| minecraft:candle                               |  1..4 |   3.4% |   3/87 |                                                 |
+| minecraft:amethyst_shard                       | 1..15 |   3.4% |   3/87 |                                                 |
+| minecraft:experience_bottle                    |  1..3 |   3.4% |   3/87 |                                                 |
+| minecraft:glow_berries                         | 1..15 |   3.4% |   3/87 |                                                 |
+| minecraft:iron_leggings                        |     1 |   3.4% |   3/87 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:chiseled_soulshale                   |     1 |   3.4% |   3/87 |                                                 |
+| minecraft:echo_shard                           |  1..3 |   4.6% |   4/87 |                                                 |
+| minecraft:disc_fragment_5                      |  1..3 |   4.6% |   4/87 |                                                 |
+| minecraft:potion                               |  1..3 |   5.7% |   5/87 | regeneration (strong)                           |
+| minecraft:enchanted_book                       |     1 |   5.7% |   5/87 | enchantments: #on_random_loot                   |
+| minecraft:book                                 | 3..10 |   5.7% |   5/87 |                                                 |
+| minecraft:bone                                 | 1..15 |   5.7% |   5/87 |                                                 |
+| minecraft:soul_torch                           | 1..15 |   5.7% |   5/87 |                                                 |
+| minecraft:coal                                 | 6..15 |     8% |   7/87 |                                                 |
 | – – – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – |
 | 1 time                                         |    -- |     -- |     -- |                                                 |
 | empty                                          |       |  93.8% |  75/80 |                                                 |

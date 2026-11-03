@@ -7,3 +7,5 @@ minecraft:emerald
 minecraft:wheat
 
 minecraft:golden_apple
+
+minecraft:music_disc_flurry

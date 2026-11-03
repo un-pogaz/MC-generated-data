@@ -11,6 +11,7 @@ minecraft:blue_wool_slab
 minecraft:brick_slab
 minecraft:brown_concrete_slab
 minecraft:brown_wool_slab
+minecraft:calcite_slab
 minecraft:cherry_slab
 minecraft:chest
 minecraft:cinnabar_brick_slab
@@ -66,6 +67,8 @@ minecraft:piston_head
 minecraft:polished_andesite_slab
 minecraft:polished_blackstone_brick_slab
 minecraft:polished_blackstone_slab
+minecraft:polished_calcite_brick_slab
+minecraft:polished_calcite_slab
 minecraft:polished_cinnabar_slab
 minecraft:polished_deepslate_slab
 minecraft:polished_diorite_slab

@@ -17,6 +17,7 @@ minecraft:amethyst_shard
 minecraft:experience_bottle
 minecraft:glow_berries
 minecraft:iron_leggings
+minecraft:chiseled_soulshale
 minecraft:echo_shard
 minecraft:disc_fragment_5
 minecraft:potion

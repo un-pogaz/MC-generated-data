@@ -17,6 +17,7 @@ minecraft:blue_wool_stairs
 minecraft:brick_stairs
 minecraft:brown_concrete_stairs
 minecraft:brown_wool_stairs
+minecraft:calcite_stairs
 minecraft:cherry_door
 minecraft:cherry_stairs
 minecraft:cherry_trapdoor
@@ -90,6 +91,8 @@ minecraft:pitcher_plant
 minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_stairs
+minecraft:polished_calcite_brick_stairs
+minecraft:polished_calcite_stairs
 minecraft:polished_cinnabar_stairs
 minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs

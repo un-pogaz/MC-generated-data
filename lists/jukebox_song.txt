@@ -8,6 +8,7 @@ minecraft:chirp
 minecraft:creator
 minecraft:creator_music_box
 minecraft:far
+minecraft:flurry
 minecraft:lava_chicken
 minecraft:mall
 minecraft:mellohi

@@ -23,6 +23,7 @@ minecraft:cherry_sapling
 minecraft:cherry_wood
 minecraft:cherry_wood_hanging_sign
 minecraft:chiseled_bookshelf
+minecraft:chiseled_soulshale
 minecraft:cinnabar
 minecraft:cobweb
 minecraft:copper
@@ -126,7 +127,6 @@ minecraft:sweet_berry_bush
 minecraft:trial_spawner
 minecraft:tuff
 minecraft:tuff_bricks
-minecraft:twisting_vines
 minecraft:vault
 minecraft:vine
 minecraft:wart_block

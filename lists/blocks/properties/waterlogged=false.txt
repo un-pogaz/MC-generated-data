@@ -68,6 +68,9 @@ minecraft:brown_wool_stairs
 minecraft:bubble_coral
 minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
+minecraft:calcite_slab
+minecraft:calcite_stairs
+minecraft:calcite_wall
 minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:candle
@@ -326,6 +329,12 @@ minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_slab
 minecraft:polished_blackstone_stairs
 minecraft:polished_blackstone_wall
+minecraft:polished_calcite_brick_slab
+minecraft:polished_calcite_brick_stairs
+minecraft:polished_calcite_brick_wall
+minecraft:polished_calcite_slab
+minecraft:polished_calcite_stairs
+minecraft:polished_calcite_wall
 minecraft:polished_cinnabar_slab
 minecraft:polished_cinnabar_stairs
 minecraft:polished_cinnabar_wall

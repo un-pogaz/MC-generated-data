@@ -5,6 +5,7 @@ minecraft:basalt
 minecraft:birch_log
 minecraft:birch_wood
 minecraft:bone_block
+minecraft:calcite_pillar
 minecraft:cherry_log
 minecraft:cherry_wood
 minecraft:copper_chain

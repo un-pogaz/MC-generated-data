@@ -1,0 +1,5 @@
+minecraft:block/chiseled_soulshale/place1
+minecraft:block/chiseled_soulshale/place2
+minecraft:block/chiseled_soulshale/place3
+minecraft:block/chiseled_soulshale/place4
+minecraft:block/chiseled_soulshale/place5

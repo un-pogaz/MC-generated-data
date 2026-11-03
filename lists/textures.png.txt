@@ -174,6 +174,8 @@ minecraft:block/cake_inner
 minecraft:block/cake_side
 minecraft:block/cake_top
 minecraft:block/calcite
+minecraft:block/calcite_pillar_side
+minecraft:block/calcite_pillar_top
 minecraft:block/calibrated_sculk_sensor_amethyst
 minecraft:block/calibrated_sculk_sensor_input_side
 minecraft:block/calibrated_sculk_sensor_top
@@ -230,6 +232,7 @@ minecraft:block/chiseled_quartz_block_top
 minecraft:block/chiseled_red_sandstone
 minecraft:block/chiseled_resin_bricks
 minecraft:block/chiseled_sandstone
+minecraft:block/chiseled_soulshale
 minecraft:block/chiseled_stone_bricks
 minecraft:block/chiseled_sulfur
 minecraft:block/chiseled_tuff
@@ -574,12 +577,12 @@ minecraft:block/horn_coral_block
 minecraft:block/horn_coral_fan
 minecraft:block/ice
 minecraft:block/ice_crystal
-minecraft:block/icicle_down_base
-minecraft:block/icicle_down_frustum
-minecraft:block/icicle_down_middle
-minecraft:block/icicle_down_tip
-minecraft:block/icicle_down_tip_merge
+minecraft:block/icicle_base
+minecraft:block/icicle_frustum
+minecraft:block/icicle_middle
 minecraft:block/icicle_side
+minecraft:block/icicle_tip
+minecraft:block/icicle_tip_merge
 minecraft:block/icicle_top
 minecraft:block/iron_bars
 minecraft:block/iron_block
@@ -878,6 +881,9 @@ minecraft:block/polished_basalt_side
 minecraft:block/polished_basalt_top
 minecraft:block/polished_blackstone
 minecraft:block/polished_blackstone_bricks
+minecraft:block/polished_calcite
+minecraft:block/polished_calcite_bricks
+minecraft:block/polished_calcite_slab_side
 minecraft:block/polished_cinnabar
 minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
@@ -3175,6 +3181,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_creator
 minecraft:item/music_disc_creator_music_box
 minecraft:item/music_disc_far
+minecraft:item/music_disc_flurry
 minecraft:item/music_disc_lava_chicken
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi

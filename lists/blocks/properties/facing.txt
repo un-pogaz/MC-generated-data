@@ -57,6 +57,7 @@ minecraft:brown_shulker_box
 minecraft:brown_wall_banner
 minecraft:brown_wool_stairs
 minecraft:bubble_coral_wall_fan
+minecraft:calcite_stairs
 minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:carved_pumpkin
@@ -253,6 +254,8 @@ minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_button
 minecraft:polished_blackstone_stairs
+minecraft:polished_calcite_brick_stairs
+minecraft:polished_calcite_stairs
 minecraft:polished_cinnabar_stairs
 minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs

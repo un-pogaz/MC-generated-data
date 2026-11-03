@@ -11,6 +11,7 @@ minecraft:skeleton
 minecraft:slime
 minecraft:spider
 minecraft:squid
+minecraft:stray
 minecraft:witch
 minecraft:zombie
 minecraft:zombie_villager

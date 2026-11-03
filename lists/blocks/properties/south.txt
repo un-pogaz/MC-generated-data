@@ -8,6 +8,7 @@ minecraft:blue_stained_glass_pane
 minecraft:brick_wall
 minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
+minecraft:calcite_wall
 minecraft:cherry_fence
 minecraft:chorus_plant
 minecraft:cinnabar_brick_wall
@@ -51,6 +52,8 @@ minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
+minecraft:polished_calcite_brick_wall
+minecraft:polished_calcite_wall
 minecraft:polished_cinnabar_wall
 minecraft:polished_deepslate_wall
 minecraft:polished_sulfur_wall
