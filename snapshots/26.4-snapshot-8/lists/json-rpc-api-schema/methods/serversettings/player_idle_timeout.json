@@ -1,0 +1,11 @@
+{
+  "description": "Get the number of seconds before idle players are automatically kicked from the server",
+  "name": "minecraft:serversettings/player_idle_timeout",
+  "params": [],
+  "result": {
+    "name": "seconds",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

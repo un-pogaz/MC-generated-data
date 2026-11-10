@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+schedule clear <function minecraft:resource_location(suggestion=ask_server)>
+schedule function <function minecraft:function(suggestion=ask_server)> <time minecraft:time>
+schedule function <function minecraft:function(suggestion=ask_server)> <time minecraft:time> append
+schedule function <function minecraft:function(suggestion=ask_server)> <time minecraft:time> replace

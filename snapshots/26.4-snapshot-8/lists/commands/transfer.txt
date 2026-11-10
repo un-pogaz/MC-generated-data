@@ -1,0 +1,4 @@
+((permissions: admins))
+transfer <hostname minecraft:string>
+transfer <hostname minecraft:string> <port minecraft:integer[max="65535", min="1"]>
+transfer <hostname minecraft:string> <port minecraft:integer[max="65535", min="1"]> <players minecraft:entity[players_only=true, single_result=false]>

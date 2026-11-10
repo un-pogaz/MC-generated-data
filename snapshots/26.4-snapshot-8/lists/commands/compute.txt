@@ -1,0 +1,10 @@
+((permissions: gamemasters))
+compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider[context="minecraft:command_compute_position"]>
+compute block <computePos minecraft:block_pos> float <provider minecraft:context_float_provider[context="minecraft:command_compute_position"]> <scale minecraft:float>
+compute block <computePos minecraft:block_pos> integer <provider minecraft:context_int_provider[context="minecraft:command_compute_position"]>
+compute default float <provider minecraft:context_float_provider[context="minecraft:command_compute_default"]>
+compute default float <provider minecraft:context_float_provider[context="minecraft:command_compute_default"]> <scale minecraft:float>
+compute default integer <provider minecraft:context_int_provider[context="minecraft:command_compute_default"]>
+compute entity <computeTarget minecraft:entity[players_only=false, single_result=true]> float <provider minecraft:context_float_provider[context="minecraft:command_compute_entity"]>
+compute entity <computeTarget minecraft:entity[players_only=false, single_result=true]> float <provider minecraft:context_float_provider[context="minecraft:command_compute_entity"]> <scale minecraft:float>
+compute entity <computeTarget minecraft:entity[players_only=false, single_result=true]> integer <provider minecraft:context_int_provider[context="minecraft:command_compute_entity"]>

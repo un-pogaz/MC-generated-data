@@ -1,0 +1,51 @@
+{
+  "type": "literal",
+  "children": {
+    "entity": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:resource",
+        "registry": "minecraft:entity_type"
+      },
+      "children": {
+        "pos": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:vec3",
+            "auto_center": true
+          },
+          "children": {
+            "nbt": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:nbt_compound_tag"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "custom_suggestion": {
+        "type": "minecraft:summonable_entities"
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

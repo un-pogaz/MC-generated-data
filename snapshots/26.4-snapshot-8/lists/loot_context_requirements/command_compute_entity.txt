@@ -1,0 +1,6 @@
+[required]
+minecraft:origin
+minecraft:target_entity
+
+[allowed]
+minecraft:this_entity

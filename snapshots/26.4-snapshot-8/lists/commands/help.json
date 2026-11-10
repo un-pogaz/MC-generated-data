@@ -1,0 +1,19 @@
+{
+  "type": "literal",
+  "children": {
+    "command": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:string"
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:always_pass"
+  }
+}

@@ -1,0 +1,7 @@
+minecraft:block/cinnabar/step1
+minecraft:block/cinnabar/step2
+minecraft:block/cinnabar/step3
+minecraft:block/cinnabar/step4
+minecraft:block/cinnabar/step5
+minecraft:block/cinnabar/step6
+minecraft:block/cinnabar/step7

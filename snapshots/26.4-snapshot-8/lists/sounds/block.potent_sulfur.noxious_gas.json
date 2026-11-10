@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    "block/potent_sulfur/noxious_gas/ambient1",
+    "block/potent_sulfur/noxious_gas/ambient2",
+    "block/potent_sulfur/noxious_gas/ambient3",
+    "block/potent_sulfur/noxious_gas/ambient4",
+    "block/potent_sulfur/noxious_gas/ambient5",
+    "block/potent_sulfur/noxious_gas/ambient6",
+    "block/potent_sulfur/noxious_gas/ambient7",
+    "block/potent_sulfur/noxious_gas/ambient8",
+    "block/potent_sulfur/noxious_gas/ambient9",
+    "block/potent_sulfur/noxious_gas/ambient10",
+    "block/potent_sulfur/noxious_gas/ambient11",
+    "block/potent_sulfur/noxious_gas/ambient12",
+    "block/potent_sulfur/noxious_gas/ambient13",
+    "block/potent_sulfur/noxious_gas/ambient14"
+  ],
+  "subtitle": "subtitles.block.potent_sulfur.noxious_gas"
+}

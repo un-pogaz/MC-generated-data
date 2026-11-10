@@ -1,0 +1,6 @@
+[required]
+minecraft:target_entity
+minecraft:tool
+
+[allowed]
+minecraft:interacting_entity

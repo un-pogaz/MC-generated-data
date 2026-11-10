@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/icicle/place1",
+    "block/icicle/place2",
+    "block/icicle/place3",
+    "block/icicle/place4",
+    "block/icicle/place5",
+    "block/icicle/place6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

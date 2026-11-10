@@ -1,0 +1,25 @@
+((permissions: gamemasters))
+stopsound <targets minecraft:entity[players_only=true, single_result=false]>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> * <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> ambient
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> ambient <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> block
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> block <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> hostile
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> hostile <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> master
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> master <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> music
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> music <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> neutral
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> neutral <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> player
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> player <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> record
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> record <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> ui
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> ui <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> voice
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> voice <sound minecraft:resource_location(suggestion=available_sounds)>
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> weather
+stopsound <targets minecraft:entity[players_only=true, single_result=false]> weather <sound minecraft:resource_location(suggestion=available_sounds)>

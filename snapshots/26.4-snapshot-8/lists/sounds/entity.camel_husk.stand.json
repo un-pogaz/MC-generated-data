@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/camel_husk/stand1",
+    "mob/camel_husk/stand2",
+    "mob/camel_husk/stand3",
+    "mob/camel_husk/stand4",
+    "mob/camel_husk/stand5"
+  ],
+  "subtitle": "subtitles.entity.camel_husk.stand"
+}

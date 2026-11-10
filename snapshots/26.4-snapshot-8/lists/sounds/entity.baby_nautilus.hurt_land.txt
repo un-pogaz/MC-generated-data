@@ -1,0 +1,4 @@
+minecraft:mob/baby_nautilus/hurt_land1
+minecraft:mob/baby_nautilus/hurt_land2
+minecraft:mob/baby_nautilus/hurt_land3
+minecraft:mob/baby_nautilus/hurt_land4

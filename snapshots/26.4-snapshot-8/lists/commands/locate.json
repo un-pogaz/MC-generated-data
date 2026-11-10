@@ -1,0 +1,69 @@
+{
+  "type": "literal",
+  "children": {
+    "biome": {
+      "type": "literal",
+      "children": {
+        "biome": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:resource_or_tag",
+            "registry": "minecraft:worldgen/biome"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "poi": {
+      "type": "literal",
+      "children": {
+        "poi": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:resource_or_tag",
+            "registry": "minecraft:point_of_interest_type"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "structure": {
+      "type": "literal",
+      "children": {
+        "structure": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:resource_or_tag",
+            "registry": "minecraft:worldgen/structure"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

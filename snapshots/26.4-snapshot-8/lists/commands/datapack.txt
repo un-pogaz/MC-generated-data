@@ -1,0 +1,12 @@
+((permissions: owners))
+datapack create <id minecraft:string> <description minecraft:component>
+((permissions: gamemasters))
+datapack disable <name minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> after <existing minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> before <existing minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> first
+datapack enable <name minecraft:string(suggestion=ask_server)> last
+datapack list
+datapack list available
+datapack list enabled

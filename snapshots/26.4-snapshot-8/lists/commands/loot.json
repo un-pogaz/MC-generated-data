@@ -1,0 +1,1139 @@
+{
+  "type": "literal",
+  "children": {
+    "give": {
+      "type": "literal",
+      "children": {
+        "players": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:entity",
+            "players_only": true,
+            "single_result": false
+          },
+          "children": {
+            "fish": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:fishing"
+                  },
+                  "children": {
+                    "pos": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_pos"
+                      },
+                      "children": {
+                        "mainhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "offhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "tool": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "kill": {
+              "type": "literal",
+              "children": {
+                "target": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:entity",
+                    "players_only": false,
+                    "single_result": true
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "loot": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:chest"
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "mine": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:block_pos"
+                  },
+                  "children": {
+                    "mainhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "offhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "tool": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:item_stack"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "insert": {
+      "type": "literal",
+      "children": {
+        "targetPos": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:block_pos"
+          },
+          "children": {
+            "fish": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:fishing"
+                  },
+                  "children": {
+                    "pos": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_pos"
+                      },
+                      "children": {
+                        "mainhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "offhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "tool": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "kill": {
+              "type": "literal",
+              "children": {
+                "target": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:entity",
+                    "players_only": false,
+                    "single_result": true
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "loot": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:chest"
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "mine": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:block_pos"
+                  },
+                  "children": {
+                    "mainhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "offhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "tool": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:item_stack"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "replace": {
+      "type": "literal",
+      "children": {
+        "block": {
+          "type": "literal",
+          "children": {
+            "targetPos": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "slot": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:item_slot"
+                  },
+                  "children": {
+                    "count": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:integer",
+                        "min": 0
+                      },
+                      "children": {
+                        "fish": {
+                          "type": "literal",
+                          "children": {
+                            "loot_table": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:loot_table",
+                                "context": "minecraft:fishing"
+                              },
+                              "children": {
+                                "pos": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:block_pos"
+                                  },
+                                  "children": {
+                                    "mainhand": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "offhand": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "tool": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:item_stack"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "kill": {
+                          "type": "literal",
+                          "children": {
+                            "target": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": true
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "loot": {
+                          "type": "literal",
+                          "children": {
+                            "loot_table": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:loot_table",
+                                "context": "minecraft:chest"
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "mine": {
+                          "type": "literal",
+                          "children": {
+                            "pos": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "mainhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "offhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "tool": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:item_stack"
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "fish": {
+                      "type": "literal",
+                      "children": {
+                        "loot_table": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:loot_table",
+                            "context": "minecraft:fishing"
+                          },
+                          "children": {
+                            "pos": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "mainhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "offhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "tool": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:item_stack"
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "kill": {
+                      "type": "literal",
+                      "children": {
+                        "target": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:entity",
+                            "players_only": false,
+                            "single_result": true
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "loot": {
+                      "type": "literal",
+                      "children": {
+                        "loot_table": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:loot_table",
+                            "context": "minecraft:chest"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "mine": {
+                      "type": "literal",
+                      "children": {
+                        "pos": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:block_pos"
+                          },
+                          "children": {
+                            "mainhand": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "offhand": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "tool": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:item_stack"
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "entity": {
+          "type": "literal",
+          "children": {
+            "entities": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:entity",
+                "players_only": false,
+                "single_result": false
+              },
+              "children": {
+                "slot": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:item_slot"
+                  },
+                  "children": {
+                    "count": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:integer",
+                        "min": 0
+                      },
+                      "children": {
+                        "fish": {
+                          "type": "literal",
+                          "children": {
+                            "loot_table": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:loot_table",
+                                "context": "minecraft:fishing"
+                              },
+                              "children": {
+                                "pos": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:block_pos"
+                                  },
+                                  "children": {
+                                    "mainhand": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "offhand": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "tool": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:item_stack"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "kill": {
+                          "type": "literal",
+                          "children": {
+                            "target": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": true
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "loot": {
+                          "type": "literal",
+                          "children": {
+                            "loot_table": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:loot_table",
+                                "context": "minecraft:chest"
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "mine": {
+                          "type": "literal",
+                          "children": {
+                            "pos": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "mainhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "offhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "tool": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:item_stack"
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "fish": {
+                      "type": "literal",
+                      "children": {
+                        "loot_table": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:loot_table",
+                            "context": "minecraft:fishing"
+                          },
+                          "children": {
+                            "pos": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "mainhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "offhand": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "tool": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:item_stack"
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "kill": {
+                      "type": "literal",
+                      "children": {
+                        "target": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:entity",
+                            "players_only": false,
+                            "single_result": true
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "loot": {
+                      "type": "literal",
+                      "children": {
+                        "loot_table": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:loot_table",
+                            "context": "minecraft:chest"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "mine": {
+                      "type": "literal",
+                      "children": {
+                        "pos": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:block_pos"
+                          },
+                          "children": {
+                            "mainhand": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "offhand": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "tool": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:item_stack"
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "spawn": {
+      "type": "literal",
+      "children": {
+        "targetPos": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:vec3",
+            "auto_center": true
+          },
+          "children": {
+            "fish": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:fishing"
+                  },
+                  "children": {
+                    "pos": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_pos"
+                      },
+                      "children": {
+                        "mainhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "offhand": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "tool": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "kill": {
+              "type": "literal",
+              "children": {
+                "target": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:entity",
+                    "players_only": false,
+                    "single_result": true
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "loot": {
+              "type": "literal",
+              "children": {
+                "loot_table": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:loot_table",
+                    "context": "minecraft:chest"
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "mine": {
+              "type": "literal",
+              "children": {
+                "pos": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:block_pos"
+                  },
+                  "children": {
+                    "mainhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "offhand": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "tool": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:item_stack"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

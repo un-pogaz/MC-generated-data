@@ -1,0 +1,2 @@
+[required]
+minecraft:this_entity

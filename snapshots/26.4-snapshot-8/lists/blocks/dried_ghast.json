@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "hydration": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

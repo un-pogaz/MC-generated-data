@@ -1,0 +1,6 @@
+wants: emerald x2
+gives: black_banner
+xp: 15
+max use: 12
+reputation discount: 0.05
+condition: is swamp variant

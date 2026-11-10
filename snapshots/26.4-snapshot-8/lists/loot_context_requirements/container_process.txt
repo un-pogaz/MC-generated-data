@@ -1,0 +1,5 @@
+[required]
+minecraft:block_entity
+minecraft:block_state
+minecraft:container
+minecraft:origin

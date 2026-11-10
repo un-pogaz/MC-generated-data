@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_weathered_close1"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_weathered_close2"
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/copper_chest/copper_chest_weathered_close3"
+    }
+  ],
+  "subtitle": "subtitles.block.copper_chest.close"
+}

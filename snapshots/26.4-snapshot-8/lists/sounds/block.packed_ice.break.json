@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/packed_ice/break1",
+    "block/packed_ice/break2",
+    "block/packed_ice/break3",
+    "block/packed_ice/break4",
+    "block/packed_ice/break5",
+    "block/packed_ice/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

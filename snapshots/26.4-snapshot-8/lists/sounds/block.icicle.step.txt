@@ -1,0 +1,6 @@
+minecraft:block/icicle/step1
+minecraft:block/icicle/step2
+minecraft:block/icicle/step3
+minecraft:block/icicle/step4
+minecraft:block/icicle/step5
+minecraft:block/icicle/step6

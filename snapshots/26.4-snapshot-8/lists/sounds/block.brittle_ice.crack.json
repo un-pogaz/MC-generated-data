@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/brittle_ice/crack1",
+    "block/brittle_ice/crack2",
+    "block/brittle_ice/crack3",
+    "block/brittle_ice/crack4",
+    "block/brittle_ice/crack5"
+  ],
+  "subtitle": "subtitles.block.brittle_ice.crack"
+}

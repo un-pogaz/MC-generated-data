@@ -1,0 +1,37 @@
+{
+  "type": "literal",
+  "children": {
+    "allowCommands": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:bool"
+      },
+      "children": {
+        "port": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:integer",
+            "max": 65535,
+            "min": 0
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "owners"
+    }
+  }
+}

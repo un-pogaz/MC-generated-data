@@ -1,0 +1,17 @@
+((permissions: gamemasters))
+random reset *
+random reset * <seed minecraft:integer>
+random reset * <seed minecraft:integer> <includeWorldSeed minecraft:bool>
+random reset * <seed minecraft:integer> <includeWorldSeed minecraft:bool> <includeSequenceId minecraft:bool>
+random reset <sequence minecraft:resource_location(suggestion=ask_server)>
+random reset <sequence minecraft:resource_location(suggestion=ask_server)> <seed minecraft:integer>
+random reset <sequence minecraft:resource_location(suggestion=ask_server)> <seed minecraft:integer> <includeWorldSeed minecraft:bool>
+random reset <sequence minecraft:resource_location(suggestion=ask_server)> <seed minecraft:integer> <includeWorldSeed minecraft:bool> <includeSequenceId minecraft:bool>
+((permissions: players))
+random roll <range minecraft:int_range>
+((permissions: gamemasters))
+random roll <range minecraft:int_range> <sequence minecraft:resource_location(suggestion=ask_server)>
+((permissions: players))
+random value <range minecraft:int_range>
+((permissions: gamemasters))
+random value <range minecraft:int_range> <sequence minecraft:resource_location(suggestion=ask_server)>

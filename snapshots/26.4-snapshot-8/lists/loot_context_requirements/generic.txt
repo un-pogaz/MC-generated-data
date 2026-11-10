@@ -1,0 +1,17 @@
+[required]
+minecraft:additional_cost_component_allowed
+minecraft:attacking_entity
+minecraft:block_entity
+minecraft:block_state
+minecraft:container
+minecraft:damage_source
+minecraft:direct_attacking_entity
+minecraft:enchantment_active
+minecraft:enchantment_level
+minecraft:explosion_radius
+minecraft:interacting_entity
+minecraft:last_damage_player
+minecraft:origin
+minecraft:target_entity
+minecraft:this_entity
+minecraft:tool

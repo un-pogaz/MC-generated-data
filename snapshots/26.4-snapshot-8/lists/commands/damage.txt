@@ -1,0 +1,6 @@
+((permissions: gamemasters))
+damage <target minecraft:entity[players_only=false, single_result=true]> <amount minecraft:float[min="0.0"]>
+damage <target minecraft:entity[players_only=false, single_result=true]> <amount minecraft:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]>
+damage <target minecraft:entity[players_only=false, single_result=true]> <amount minecraft:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]> at <location minecraft:vec3[auto_center=true]>
+damage <target minecraft:entity[players_only=false, single_result=true]> <amount minecraft:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]> by <entity minecraft:entity[players_only=false, single_result=true]>
+damage <target minecraft:entity[players_only=false, single_result=true]> <amount minecraft:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]> by <entity minecraft:entity[players_only=false, single_result=true]> from <cause minecraft:entity[players_only=false, single_result=true]>

@@ -1,0 +1,9 @@
+((permissions: gamemasters))
+function <name minecraft:function(suggestion=ask_server)>
+function <name minecraft:function(suggestion=ask_server)> <arguments minecraft:nbt_compound_tag>
+function <name minecraft:function(suggestion=ask_server)> with block <source minecraft:block_pos>
+function <name minecraft:function(suggestion=ask_server)> with block <source minecraft:block_pos> <path minecraft:nbt_path>
+function <name minecraft:function(suggestion=ask_server)> with entity <source minecraft:entity[players_only=false, single_result=true]>
+function <name minecraft:function(suggestion=ask_server)> with entity <source minecraft:entity[players_only=false, single_result=true]> <path minecraft:nbt_path>
+function <name minecraft:function(suggestion=ask_server)> with storage <source minecraft:resource_location(suggestion=ask_server)>
+function <name minecraft:function(suggestion=ask_server)> with storage <source minecraft:resource_location(suggestion=ask_server)> <path minecraft:nbt_path>

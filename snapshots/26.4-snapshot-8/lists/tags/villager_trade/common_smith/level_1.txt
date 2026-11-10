@@ -1,0 +1,1 @@
+minecraft:smith/1/coal_emerald

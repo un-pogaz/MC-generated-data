@@ -1,0 +1,71 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:entity",
+        "players_only": false,
+        "single_result": false
+      },
+      "children": {
+        "add": {
+          "type": "literal",
+          "children": {
+            "name": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:string"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "list": {
+          "type": "literal",
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "remove": {
+          "type": "literal",
+          "children": {
+            "name": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:string"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:ask_server"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

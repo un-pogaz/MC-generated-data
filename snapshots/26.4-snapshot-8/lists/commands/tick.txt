@@ -1,0 +1,10 @@
+((permissions: admins))
+tick freeze
+tick query
+tick rate <rate minecraft:float[max="10000.0", min="1.0"](suggestion=[20])>
+tick sprint stop
+tick sprint <time minecraft:time[min="1"](suggestion=[60s|1d|3d])>
+tick step
+tick step stop
+tick step <time minecraft:time[min="1"](suggestion=[1t|1s])>
+tick unfreeze

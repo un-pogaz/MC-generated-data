@@ -1,0 +1,8 @@
+[required]
+minecraft:block_state
+minecraft:origin
+
+[allowed]
+minecraft:block_entity
+minecraft:interacting_entity
+minecraft:tool

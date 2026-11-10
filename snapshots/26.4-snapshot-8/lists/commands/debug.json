@@ -1,0 +1,51 @@
+{
+  "type": "literal",
+  "children": {
+    "function": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:function"
+          },
+          "custom_suggestion": {
+            "type": "minecraft:ask_server"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:require",
+        "permission": {
+          "type": "minecraft:command_level",
+          "level": "admins"
+        }
+      }
+    },
+    "start": {
+      "type": "literal",
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "stop": {
+      "type": "literal",
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "admins"
+    }
+  }
+}

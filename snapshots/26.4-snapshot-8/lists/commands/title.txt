@@ -1,0 +1,7 @@
+((permissions: gamemasters))
+title <targets minecraft:entity[players_only=true, single_result=false]> actionbar <title minecraft:component>
+title <targets minecraft:entity[players_only=true, single_result=false]> clear
+title <targets minecraft:entity[players_only=true, single_result=false]> reset
+title <targets minecraft:entity[players_only=true, single_result=false]> subtitle <title minecraft:component>
+title <targets minecraft:entity[players_only=true, single_result=false]> times <fadeIn minecraft:time> <stay minecraft:time> <fadeOut minecraft:time>
+title <targets minecraft:entity[players_only=true, single_result=false]> title <title minecraft:component>

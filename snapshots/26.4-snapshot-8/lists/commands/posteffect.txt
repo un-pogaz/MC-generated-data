@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+posteffect add <targets minecraft:entity[players_only=true, single_result=false]> <posteffect minecraft:resource_location(suggestion=post_effects)>
+posteffect clear <targets minecraft:entity[players_only=true, single_result=false]>
+posteffect list <target minecraft:entity[players_only=true, single_result=true]>
+posteffect remove <targets minecraft:entity[players_only=true, single_result=false]> <posteffect minecraft:resource_location(suggestion=post_effects)>

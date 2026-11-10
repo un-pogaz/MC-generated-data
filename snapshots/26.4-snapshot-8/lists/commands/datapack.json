@@ -1,0 +1,168 @@
+{
+  "type": "literal",
+  "children": {
+    "create": {
+      "type": "literal",
+      "children": {
+        "id": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:string"
+          },
+          "children": {
+            "description": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:component"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:require",
+        "permission": {
+          "type": "minecraft:command_level",
+          "level": "owners"
+        }
+      }
+    },
+    "disable": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:string"
+          },
+          "custom_suggestion": {
+            "type": "minecraft:ask_server"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "enable": {
+      "type": "literal",
+      "children": {
+        "name": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:string"
+          },
+          "children": {
+            "after": {
+              "type": "literal",
+              "children": {
+                "existing": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:string"
+                  },
+                  "custom_suggestion": {
+                    "type": "minecraft:ask_server"
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "before": {
+              "type": "literal",
+              "children": {
+                "existing": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:string"
+                  },
+                  "custom_suggestion": {
+                    "type": "minecraft:ask_server"
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "first": {
+              "type": "literal",
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "last": {
+              "type": "literal",
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "custom_suggestion": {
+            "type": "minecraft:ask_server"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "list": {
+      "type": "literal",
+      "children": {
+        "available": {
+          "type": "literal",
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "enabled": {
+          "type": "literal",
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

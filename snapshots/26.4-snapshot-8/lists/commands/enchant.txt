@@ -1,0 +1,3 @@
+((permissions: gamemasters))
+enchant <targets minecraft:entity[players_only=false, single_result=false]> <enchantment minecraft:resource[registry="minecraft:enchantment"]>
+enchant <targets minecraft:entity[players_only=false, single_result=false]> <enchantment minecraft:resource[registry="minecraft:enchantment"]> <level minecraft:integer[min="0"]>

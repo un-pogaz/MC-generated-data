@@ -1,0 +1,7 @@
+[required]
+minecraft:block_state
+minecraft:origin
+
+[allowed]
+minecraft:block_entity
+minecraft:this_entity

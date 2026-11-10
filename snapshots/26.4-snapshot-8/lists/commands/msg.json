@@ -1,0 +1,31 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:entity",
+        "players_only": true,
+        "single_result": false
+      },
+      "children": {
+        "message": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:message"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:always_pass"
+  }
+}

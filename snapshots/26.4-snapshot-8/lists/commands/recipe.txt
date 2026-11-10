@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+recipe give <targets minecraft:entity[players_only=true, single_result=false]> *
+recipe give <targets minecraft:entity[players_only=true, single_result=false]> <recipe minecraft:resource[registry="minecraft:recipe"](suggestion=ask_server)>
+recipe take <targets minecraft:entity[players_only=true, single_result=false]> *
+recipe take <targets minecraft:entity[players_only=true, single_result=false]> <recipe minecraft:resource[registry="minecraft:recipe"](suggestion=ask_server)>

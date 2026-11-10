@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+clear
+clear <targets minecraft:entity[players_only=true, single_result=false]>
+clear <targets minecraft:entity[players_only=true, single_result=false]> <item minecraft:item_predicate>
+clear <targets minecraft:entity[players_only=true, single_result=false]> <item minecraft:item_predicate> <maxCount minecraft:integer[min="0"]>

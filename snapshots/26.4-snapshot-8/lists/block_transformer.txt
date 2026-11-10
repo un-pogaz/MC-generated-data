@@ -1,0 +1,3 @@
+minecraft:axe
+minecraft:hoe
+minecraft:shovel

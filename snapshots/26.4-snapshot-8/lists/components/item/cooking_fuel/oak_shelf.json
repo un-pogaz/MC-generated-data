@@ -1,0 +1,4 @@
+{
+  "burn_time": "minecraft:cooking/time_wood_blocks",
+  "speed_multiplier": "minecraft:cooking/speed_default"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "literal",
+  "children": {
+    "uuids": {
+      "type": "literal",
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:always_pass"
+  }
+}

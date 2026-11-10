@@ -1,0 +1,15 @@
+{
+  "allowed": [
+    "minecraft:attacking_entity",
+    "minecraft:damage_source",
+    "minecraft:direct_attacking_entity",
+    "minecraft:last_damage_player",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:damage_source",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ]
+}

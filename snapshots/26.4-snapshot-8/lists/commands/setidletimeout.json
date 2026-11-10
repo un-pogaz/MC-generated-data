@@ -1,0 +1,23 @@
+{
+  "type": "literal",
+  "children": {
+    "minutes": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:integer",
+        "min": 0
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "admins"
+    }
+  }
+}

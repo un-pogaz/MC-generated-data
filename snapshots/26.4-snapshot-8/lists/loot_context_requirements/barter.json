@@ -1,0 +1,8 @@
+{
+  "allowed": [
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:this_entity"
+  ]
+}

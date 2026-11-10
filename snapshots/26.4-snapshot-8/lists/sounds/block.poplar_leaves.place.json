@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/leaf_litter/place1",
+    "block/leaf_litter/place2",
+    "block/leaf_litter/place3",
+    "block/leaf_litter/place4",
+    "block/leaf_litter/place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

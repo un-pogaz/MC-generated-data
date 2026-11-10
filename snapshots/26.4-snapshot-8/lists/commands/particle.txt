@@ -1,0 +1,8 @@
+((permissions: gamemasters))
+particle <name minecraft:particle>
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]>
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]> <delta minecraft:vec3[auto_center=false]> <speed minecraft:float[min="0.0"]> <count minecraft:integer[min="0"]>
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]> <delta minecraft:vec3[auto_center=false]> <speed minecraft:float[min="0.0"]> <count minecraft:integer[min="0"]> force
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]> <delta minecraft:vec3[auto_center=false]> <speed minecraft:float[min="0.0"]> <count minecraft:integer[min="0"]> force <viewers minecraft:entity[players_only=true, single_result=false]>
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]> <delta minecraft:vec3[auto_center=false]> <speed minecraft:float[min="0.0"]> <count minecraft:integer[min="0"]> normal
+particle <name minecraft:particle> <pos minecraft:vec3[auto_center=true]> <delta minecraft:vec3[auto_center=false]> <speed minecraft:float[min="0.0"]> <count minecraft:integer[min="0"]> normal <viewers minecraft:entity[players_only=true, single_result=false]>

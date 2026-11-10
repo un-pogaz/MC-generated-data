@@ -1,0 +1,3 @@
+minecraft:entity/cushion/sit1
+minecraft:entity/cushion/sit2
+minecraft:entity/cushion/sit3

@@ -1,0 +1,3 @@
+((permissions: gamemasters))
+dialog clear <targets minecraft:entity[players_only=true, single_result=false]>
+dialog show <targets minecraft:entity[players_only=true, single_result=false]> <dialog minecraft:dialog>

@@ -1,0 +1,9 @@
+[required]
+minecraft:block_state
+minecraft:origin
+minecraft:tool
+
+[allowed]
+minecraft:block_entity
+minecraft:explosion_radius
+minecraft:this_entity

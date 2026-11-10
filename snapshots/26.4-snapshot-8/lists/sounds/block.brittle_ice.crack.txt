@@ -1,0 +1,5 @@
+minecraft:block/brittle_ice/crack1
+minecraft:block/brittle_ice/crack2
+minecraft:block/brittle_ice/crack3
+minecraft:block/brittle_ice/crack4
+minecraft:block/brittle_ice/crack5

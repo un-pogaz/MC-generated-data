@@ -1,0 +1,11 @@
+((permissions: gamemasters))
+effect clear
+effect clear <targets minecraft:entity[players_only=false, single_result=false]>
+effect clear <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> infinite
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> infinite <amplifier minecraft:integer[max="255", min="0"]>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> infinite <amplifier minecraft:integer[max="255", min="0"]> <hideParticles minecraft:bool>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> <seconds minecraft:integer[max="1000000", min="1"]>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> <seconds minecraft:integer[max="1000000", min="1"]> <amplifier minecraft:integer[max="255", min="0"]>
+effect give <targets minecraft:entity[players_only=false, single_result=false]> <effect minecraft:resource_or_tag[registry="minecraft:mob_effect"]> <seconds minecraft:integer[max="1000000", min="1"]> <amplifier minecraft:integer[max="255", min="0"]> <hideParticles minecraft:bool>

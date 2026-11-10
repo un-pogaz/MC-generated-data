@@ -1,0 +1,15 @@
+{
+  "allowed": [
+    "minecraft:block_entity",
+    "minecraft:block_state",
+    "minecraft:origin",
+    "minecraft:this_entity",
+    "minecraft:tool"
+  ],
+  "required": [
+    "minecraft:block_state",
+    "minecraft:origin",
+    "minecraft:this_entity",
+    "minecraft:tool"
+  ]
+}

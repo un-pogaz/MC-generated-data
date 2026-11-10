@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/sulfur/break1",
+    "block/sulfur/break2",
+    "block/sulfur/break3",
+    "block/sulfur/break4",
+    "block/sulfur/break5",
+    "block/sulfur/break6",
+    "block/sulfur/break7"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

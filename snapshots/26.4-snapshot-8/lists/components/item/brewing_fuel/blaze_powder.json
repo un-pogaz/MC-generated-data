@@ -1,0 +1,4 @@
+{
+  "speed_multiplier": "minecraft:brewing/speed_default",
+  "uses": "minecraft:brewing/uses_default"
+}
