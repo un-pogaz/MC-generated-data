@@ -28,6 +28,7 @@ minecraft/lang/br_fr.json
 minecraft/lang/brb.json
 minecraft/lang/bs_ba.json
 minecraft/lang/ca_es.json
+minecraft/lang/cbk_zam.json
 minecraft/lang/cs_cz.json
 minecraft/lang/cv_cu.json
 minecraft/lang/cy_gb.json
@@ -86,6 +87,7 @@ minecraft/lang/isv.json
 minecraft/lang/it_it.json
 minecraft/lang/ja_jp.json
 minecraft/lang/jbo_en.json
+minecraft/lang/jv_id.json
 minecraft/lang/ka_ge.json
 minecraft/lang/kk_kz.json
 minecraft/lang/kn_in.json

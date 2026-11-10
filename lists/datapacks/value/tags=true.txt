@@ -15,6 +15,7 @@ minecraft:chicken_sound_variant
 minecraft:chicken_variant
 minecraft:chunk_status
 minecraft:command_argument_type
+minecraft:command_suggestion_type
 minecraft:consume_effect_type
 minecraft:context_float_provider
 minecraft:context_float_provider_type

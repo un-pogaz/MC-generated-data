@@ -1,26 +1,26 @@
 ((permissions: gamemasters))
 bossbar add <id minecraft:resource_location> <name minecraft:component>
-bossbar get <id minecraft:resource_location> max
-bossbar get <id minecraft:resource_location> players
-bossbar get <id minecraft:resource_location> value
-bossbar get <id minecraft:resource_location> visible
+bossbar get <id minecraft:resource_location(suggestion=ask_server)> max
+bossbar get <id minecraft:resource_location(suggestion=ask_server)> players
+bossbar get <id minecraft:resource_location(suggestion=ask_server)> value
+bossbar get <id minecraft:resource_location(suggestion=ask_server)> visible
 bossbar list
-bossbar remove <id minecraft:resource_location>
-bossbar set <id minecraft:resource_location> color blue
-bossbar set <id minecraft:resource_location> color green
-bossbar set <id minecraft:resource_location> color pink
-bossbar set <id minecraft:resource_location> color purple
-bossbar set <id minecraft:resource_location> color red
-bossbar set <id minecraft:resource_location> color white
-bossbar set <id minecraft:resource_location> color yellow
-bossbar set <id minecraft:resource_location> max <max brigadier:integer[min="1"]>
-bossbar set <id minecraft:resource_location> name <name minecraft:component>
-bossbar set <id minecraft:resource_location> players
-bossbar set <id minecraft:resource_location> players <targets minecraft:entity[type="players", amount="multiple"]>
-bossbar set <id minecraft:resource_location> style notched_10
-bossbar set <id minecraft:resource_location> style notched_12
-bossbar set <id minecraft:resource_location> style notched_20
-bossbar set <id minecraft:resource_location> style notched_6
-bossbar set <id minecraft:resource_location> style progress
-bossbar set <id minecraft:resource_location> value <value brigadier:integer[min="0"]>
-bossbar set <id minecraft:resource_location> visible <visible brigadier:bool>
+bossbar remove <id minecraft:resource_location(suggestion=ask_server)>
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color blue
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color green
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color pink
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color purple
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color red
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color white
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> color yellow
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> max <max minecraft:integer[min="1"]>
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> name <name minecraft:component>
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> players
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> players <targets minecraft:entity[players_only=true, single_result=false]>
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> style notched_10
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> style notched_12
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> style notched_20
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> style notched_6
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> style progress
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> value <value minecraft:integer[min="0"]>
+bossbar set <id minecraft:resource_location(suggestion=ask_server)> visible <visible minecraft:bool>

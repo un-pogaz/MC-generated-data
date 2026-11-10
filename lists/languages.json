@@ -69,6 +69,11 @@
     "region": "Catalunya",
     "bidirectional": false
   },
+  "cbk_zam": {
+    "name": "Chavacano de Zamboanga",
+    "region": "Filipinas",
+    "bidirectional": false
+  },
   "cs_cz": {
     "name": "Čeština",
     "region": "Česko",
@@ -359,6 +364,11 @@
     "region": "la jbogu'e",
     "bidirectional": false
   },
+  "jv_id": {
+    "name": "Basa Jawa",
+    "region": "Jawa, Indhonésiyah",
+    "bidirectional": false
+  },
   "ka_ge": {
     "name": "ქართული",
     "region": "საქართველო",
@@ -395,7 +405,7 @@
     "bidirectional": false
   },
   "la_la": {
-    "name": "Latina",
+    "name": "Lingua Latina",
     "region": "Latium",
     "bidirectional": false
   },

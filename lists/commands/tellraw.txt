@@ -1,2 +1,2 @@
 ((permissions: gamemasters))
-tellraw <targets minecraft:entity[type="players", amount="multiple"]> <message minecraft:component>
+tellraw <targets minecraft:entity[players_only=true, single_result=false]> <message minecraft:component>

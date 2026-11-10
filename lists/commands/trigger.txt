@@ -1,4 +1,4 @@
 ((permissions: players))
-trigger <objective minecraft:objective>
-trigger <objective minecraft:objective> add <value brigadier:integer>
-trigger <objective minecraft:objective> set <value brigadier:integer>
+trigger <objective minecraft:objective(suggestion=ask_server)>
+trigger <objective minecraft:objective(suggestion=ask_server)> add <value minecraft:integer>
+trigger <objective minecraft:objective(suggestion=ask_server)> set <value minecraft:integer>

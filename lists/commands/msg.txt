@@ -1,2 +1,2 @@
 ((permissions: players))
-msg <targets minecraft:entity[type="players", amount="multiple"]> <message minecraft:message>
+msg <targets minecraft:entity[players_only=true, single_result=false]> <message minecraft:message>

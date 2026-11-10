@@ -1,2 +1,2 @@
 ((permissions: admins))
-pardon-ip <target brigadier:string[type="word"]>
+pardon-ip <target minecraft:string(suggestion=ask_server)>

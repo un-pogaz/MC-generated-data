@@ -1,0 +1,10 @@
+{
+  "allowed": [
+    "minecraft:enchantment_level",
+    "minecraft:tool"
+  ],
+  "required": [
+    "minecraft:enchantment_level",
+    "minecraft:tool"
+  ]
+}

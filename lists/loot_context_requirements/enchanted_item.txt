@@ -1,0 +1,3 @@
+[required]
+minecraft:enchantment_level
+minecraft:tool

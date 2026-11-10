@@ -1,3 +1,3 @@
 ((permissions: admins))
-ban-ip <target brigadier:string[type="word"]>
-ban-ip <target brigadier:string[type="word"]> <reason minecraft:message>
+ban-ip <target minecraft:string>
+ban-ip <target minecraft:string> <reason minecraft:message>

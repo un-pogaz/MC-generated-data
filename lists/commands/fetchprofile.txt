@@ -1,4 +1,4 @@
 ((permissions: gamemasters))
-fetchprofile entity <entity minecraft:entity[type="entities", amount="single"]>
+fetchprofile entity <entity minecraft:entity[players_only=false, single_result=true]>
 fetchprofile id <id minecraft:uuid>
-fetchprofile name <name brigadier:string[type="greedy"]>
+fetchprofile name <name minecraft:string>

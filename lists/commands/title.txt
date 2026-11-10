@@ -1,7 +1,7 @@
 ((permissions: gamemasters))
-title <targets minecraft:entity[type="players", amount="multiple"]> actionbar <title minecraft:component>
-title <targets minecraft:entity[type="players", amount="multiple"]> clear
-title <targets minecraft:entity[type="players", amount="multiple"]> reset
-title <targets minecraft:entity[type="players", amount="multiple"]> subtitle <title minecraft:component>
-title <targets minecraft:entity[type="players", amount="multiple"]> times <fadeIn minecraft:time[min="0"]> <stay minecraft:time[min="0"]> <fadeOut minecraft:time[min="0"]>
-title <targets minecraft:entity[type="players", amount="multiple"]> title <title minecraft:component>
+title <targets minecraft:entity[players_only=true, single_result=false]> actionbar <title minecraft:component>
+title <targets minecraft:entity[players_only=true, single_result=false]> clear
+title <targets minecraft:entity[players_only=true, single_result=false]> reset
+title <targets minecraft:entity[players_only=true, single_result=false]> subtitle <title minecraft:component>
+title <targets minecraft:entity[players_only=true, single_result=false]> times <fadeIn minecraft:time> <stay minecraft:time> <fadeOut minecraft:time>
+title <targets minecraft:entity[players_only=true, single_result=false]> title <title minecraft:component>

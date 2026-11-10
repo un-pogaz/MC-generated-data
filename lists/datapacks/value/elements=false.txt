@@ -6,6 +6,7 @@ minecraft:block_entity_type
 minecraft:block_predicate_type
 minecraft:chunk_status
 minecraft:command_argument_type
+minecraft:command_suggestion_type
 minecraft:consume_effect_type
 minecraft:context_float_provider_type
 minecraft:context_int_provider_type

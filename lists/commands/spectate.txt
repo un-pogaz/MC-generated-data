@@ -1,4 +1,4 @@
 ((permissions: gamemasters))
 spectate
-spectate <target minecraft:entity[type="entities", amount="single"]>
-spectate <target minecraft:entity[type="entities", amount="single"]> <player minecraft:entity[type="players", amount="single"]>
+spectate <target minecraft:entity[players_only=false, single_result=true]>
+spectate <target minecraft:entity[players_only=false, single_result=true]> <player minecraft:entity[players_only=true, single_result=true]>

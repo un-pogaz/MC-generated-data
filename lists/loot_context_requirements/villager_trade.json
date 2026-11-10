@@ -1,0 +1,12 @@
+{
+  "allowed": [
+    "minecraft:additional_cost_component_allowed",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:additional_cost_component_allowed",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ]
+}

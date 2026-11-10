@@ -1,13 +1,13 @@
 ((permissions: gamemasters))
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> everything
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> from <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> only <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> only <advancement minecraft:resource_key[registry="minecraft:advancement"]> <criterion brigadier:string[type="greedy"]>
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> through <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement grant <targets minecraft:entity[type="players", amount="multiple"]> until <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> everything
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> from <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> only <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> only <advancement minecraft:resource_key[registry="minecraft:advancement"]> <criterion brigadier:string[type="greedy"]>
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> through <advancement minecraft:resource_key[registry="minecraft:advancement"]>
-advancement revoke <targets minecraft:entity[type="players", amount="multiple"]> until <advancement minecraft:resource_key[registry="minecraft:advancement"]>
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> everything
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> from <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> only <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> only <advancement minecraft:resource[registry="minecraft:advancement"]> <criterion minecraft:string(suggestion=ask_server)>
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> through <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement grant <targets minecraft:entity[players_only=true, single_result=false]> until <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> everything
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> from <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> only <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> only <advancement minecraft:resource[registry="minecraft:advancement"]> <criterion minecraft:string(suggestion=ask_server)>
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> through <advancement minecraft:resource[registry="minecraft:advancement"]>
+advancement revoke <targets minecraft:entity[players_only=true, single_result=false]> until <advancement minecraft:resource[registry="minecraft:advancement"]>

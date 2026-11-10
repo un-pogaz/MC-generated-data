@@ -2377,6 +2377,7 @@ minecraft:gui/sprites/friends/send_request
 minecraft:gui/sprites/friends/sort_alphabetical
 minecraft:gui/sprites/friends/sort_presence
 minecraft:gui/sprites/friends/tab  [mcmeta]
+minecraft:gui/sprites/friends/tab_focused  [mcmeta]
 minecraft:gui/sprites/friends/tab_highlighted  [mcmeta]
 minecraft:gui/sprites/friends/tab_selected  [mcmeta]
 minecraft:gui/sprites/friends/toast_background  [mcmeta]

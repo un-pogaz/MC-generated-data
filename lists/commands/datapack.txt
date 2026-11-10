@@ -1,12 +1,12 @@
 ((permissions: owners))
-datapack create <id brigadier:string[type="phrase"]> <description minecraft:component>
+datapack create <id minecraft:string> <description minecraft:component>
 ((permissions: gamemasters))
-datapack disable <name brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> after <existing brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> before <existing brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> first
-datapack enable <name brigadier:string[type="phrase"]> last
+datapack disable <name minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> after <existing minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> before <existing minecraft:string(suggestion=ask_server)>
+datapack enable <name minecraft:string(suggestion=ask_server)> first
+datapack enable <name minecraft:string(suggestion=ask_server)> last
 datapack list
 datapack list available
 datapack list enabled

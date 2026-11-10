@@ -1,4 +1,4 @@
 ((permissions: gamemasters))
 return fail
 return run >>redirect{*}
-return <value brigadier:integer>
+return <value minecraft:integer>

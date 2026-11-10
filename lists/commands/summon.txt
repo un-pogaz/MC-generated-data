@@ -1,4 +1,4 @@
 ((permissions: gamemasters))
-summon <entity minecraft:resource[registry="minecraft:entity_type"]>
-summon <entity minecraft:resource[registry="minecraft:entity_type"]> <pos minecraft:vec3>
-summon <entity minecraft:resource[registry="minecraft:entity_type"]> <pos minecraft:vec3> <nbt minecraft:nbt_compound_tag>
+summon <entity minecraft:resource[registry="minecraft:entity_type"](suggestion=summonable_entities)>
+summon <entity minecraft:resource[registry="minecraft:entity_type"](suggestion=summonable_entities)> <pos minecraft:vec3[auto_center=true]>
+summon <entity minecraft:resource[registry="minecraft:entity_type"](suggestion=summonable_entities)> <pos minecraft:vec3[auto_center=true]> <nbt minecraft:nbt_compound_tag>

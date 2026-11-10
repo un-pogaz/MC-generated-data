@@ -1,4 +1,4 @@
 ((permissions: admins))
-debug function <name minecraft:function>
+debug function <name minecraft:function(suggestion=ask_server)>
 debug start
 debug stop
