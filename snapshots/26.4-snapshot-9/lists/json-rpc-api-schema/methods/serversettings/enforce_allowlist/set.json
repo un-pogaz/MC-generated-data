@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable allowlist enforcement (when enabled, players are kicked immediately upon removal from allowlist)",
+  "name": "minecraft:serversettings/enforce_allowlist/set",
+  "params": [
+    {
+      "name": "enforce",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "enforced",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

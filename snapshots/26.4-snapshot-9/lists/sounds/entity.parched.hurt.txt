@@ -1,0 +1,4 @@
+minecraft:mob/parched/hurt1
+minecraft:mob/parched/hurt2
+minecraft:mob/parched/hurt3
+minecraft:mob/parched/hurt4

@@ -1,0 +1,2 @@
+minecraft:insert_into_container
+minecraft:drop_item

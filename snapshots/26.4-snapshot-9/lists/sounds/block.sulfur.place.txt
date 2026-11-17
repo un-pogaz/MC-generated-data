@@ -1,0 +1,8 @@
+minecraft:block/sulfur/place1
+minecraft:block/sulfur/place2
+minecraft:block/sulfur/place3
+minecraft:block/sulfur/place4
+minecraft:block/sulfur/place5
+minecraft:block/sulfur/place6
+minecraft:block/sulfur/place7
+minecraft:block/sulfur/place8

@@ -1,0 +1,6 @@
+minecraft:horse
+minecraft:zombie_horse
+minecraft:mule
+minecraft:donkey
+minecraft:camel
+minecraft:camel_husk

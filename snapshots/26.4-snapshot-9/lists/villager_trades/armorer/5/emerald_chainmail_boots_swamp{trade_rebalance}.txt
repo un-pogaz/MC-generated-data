@@ -1,0 +1,6 @@
+wants: emerald x8
+gives: chainmail_boots {enchantments: depth_strider}
+xp: 30
+max use: 3
+reputation discount: 0.05
+condition: is swamp variant

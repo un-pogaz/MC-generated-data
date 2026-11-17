@@ -1,0 +1,6 @@
+minecraft:block/icicle/land1
+minecraft:block/icicle/land2
+minecraft:block/icicle/land3
+minecraft:block/icicle/land4
+minecraft:block/icicle/land5
+minecraft:block/icicle/land6

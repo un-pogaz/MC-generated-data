@@ -1,0 +1,25 @@
+{
+  "description": "Set all oped players",
+  "name": "minecraft:operators/set",
+  "params": [
+    {
+      "name": "operators",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/operator"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "operators",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+minecraft:block/sulfur/break1
+minecraft:block/sulfur/break2
+minecraft:block/sulfur/break3
+minecraft:block/sulfur/break4
+minecraft:block/sulfur/break5
+minecraft:block/sulfur/break6
+minecraft:block/sulfur/break7

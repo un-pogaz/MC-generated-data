@@ -1,0 +1,4 @@
+minecraft:mob/parched/step1
+minecraft:mob/parched/step2
+minecraft:mob/parched/step3
+minecraft:mob/parched/step4

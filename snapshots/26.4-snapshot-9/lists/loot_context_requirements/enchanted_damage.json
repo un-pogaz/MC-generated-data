@@ -1,0 +1,16 @@
+{
+  "allowed": [
+    "minecraft:attacking_entity",
+    "minecraft:damage_source",
+    "minecraft:direct_attacking_entity",
+    "minecraft:enchantment_level",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:damage_source",
+    "minecraft:enchantment_level",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ]
+}

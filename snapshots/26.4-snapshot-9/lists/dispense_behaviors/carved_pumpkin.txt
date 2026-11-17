@@ -1,0 +1,2 @@
+minecraft:spawn_golem_from_carved_pumpkin
+minecraft:equip

@@ -1,0 +1,4 @@
+minecraft:mob/cow/moody/hit1
+minecraft:mob/cow/moody/hit2
+minecraft:mob/cow/moody/hit3
+minecraft:mob/cow/moody/hit4

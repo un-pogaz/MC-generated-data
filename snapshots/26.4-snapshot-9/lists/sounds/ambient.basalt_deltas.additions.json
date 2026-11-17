@@ -1,0 +1,145 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/basalt_deltas/basaltground1",
+      "volume": 0.55,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/basaltground2",
+      "volume": 0.55,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/basaltground3",
+      "volume": 0.55,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click1",
+      "volume": 0.19,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click2",
+      "volume": 0.19,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click3",
+      "volume": 0.19,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click4",
+      "volume": 0.25,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click5",
+      "volume": 0.25,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click6",
+      "volume": 0.01,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click7",
+      "volume": 0.01,
+      "weight": 25
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/click8",
+      "volume": 0.01,
+      "weight": 25
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/debris1",
+      "volume": 0.35,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/debris2",
+      "volume": 0.35,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/debris3",
+      "volume": 0.35,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/heavy_click1",
+      "volume": 0.25,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/heavy_click2",
+      "volume": 0.25,
+      "weight": 20
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/long_debris1",
+      "volume": 0.35,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/long_debris2",
+      "volume": 0.35,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/plode1",
+      "volume": 0.5,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/plode2",
+      "volume": 0.5,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/plode3",
+      "volume": 0.5,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/twist1",
+      "volume": 0.66
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/twist2",
+      "volume": 0.66
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/twist3",
+      "volume": 0.77
+    },
+    {
+      "name": "ambient/nether/basalt_deltas/twist4",
+      "volume": 0.66
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind1",
+      "volume": 0.3,
+      "weight": 25
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind2",
+      "volume": 0.25,
+      "weight": 25
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind3",
+      "volume": 0.25,
+      "weight": 25
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind4",
+      "volume": 0.3,
+      "weight": 25
+    }
+  ]
+}

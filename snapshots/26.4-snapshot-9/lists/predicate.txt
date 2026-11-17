@@ -1,0 +1,3 @@
+minecraft:block/fast_cooking
+minecraft:tool/can_shear
+minecraft:tool/can_silk_touch

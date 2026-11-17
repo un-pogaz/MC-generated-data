@@ -1,0 +1,4 @@
+[required]
+minecraft:enchantment_level
+minecraft:origin
+minecraft:this_entity

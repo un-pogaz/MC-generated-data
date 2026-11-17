@@ -1,0 +1,4 @@
+minecraft:block/red_shrub/break1
+minecraft:block/red_shrub/break2
+minecraft:block/red_shrub/break3
+minecraft:block/red_shrub/break4
