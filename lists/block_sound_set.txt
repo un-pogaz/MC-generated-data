@@ -40,6 +40,7 @@ minecraft:deepslate_bricks
 minecraft:deepslate_tiles
 minecraft:dried_ghast
 minecraft:dripstone_block
+minecraft:fire
 minecraft:flowering_azalea
 minecraft:froglight
 minecraft:frogspawn

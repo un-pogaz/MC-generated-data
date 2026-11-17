@@ -39,6 +39,7 @@ minecraft:damage_resistant
 minecraft:damage_type
 minecraft:death_protection
 minecraft:debug_stick_state
+minecraft:dispense_behavior
 minecraft:dye
 minecraft:dyed_color
 minecraft:enchantable

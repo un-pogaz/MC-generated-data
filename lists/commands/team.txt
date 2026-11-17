@@ -1,6 +1,6 @@
 ((permissions: gamemasters))
-team add <team minecraft:string>
-team add <team minecraft:string> <displayName minecraft:component>
+team add <team minecraft:word>
+team add <team minecraft:word> <displayName minecraft:component>
 team empty <team minecraft:team>
 team join <team minecraft:team>
 team join <team minecraft:team> <members minecraft:score_holder[multiple=true](suggestion=ask_server)>

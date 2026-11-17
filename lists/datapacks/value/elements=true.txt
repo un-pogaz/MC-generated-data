@@ -16,6 +16,7 @@ minecraft:decorated_pot_pattern
 minecraft:dialog
 minecraft:dimension
 minecraft:dimension_type
+minecraft:dispense_behavior
 minecraft:enchantment
 minecraft:enchantment_provider
 minecraft:frog_variant

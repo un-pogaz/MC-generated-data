@@ -65,6 +65,7 @@ minecraft:wither_skull
 #minecraft:bypasses_shield
 #minecraft:bypasses_wolf_armor
 #minecraft:can_break_armor_stand
+#minecraft:cannot_hurt_perching_ender_dragon
 #minecraft:damages_helmet
 #minecraft:ignites_armor_stands
 #minecraft:is_drowning

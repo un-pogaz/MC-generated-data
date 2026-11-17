@@ -576,7 +576,7 @@ minecraft:block/horn_coral
 minecraft:block/horn_coral_block
 minecraft:block/horn_coral_fan
 minecraft:block/ice
-minecraft:block/ice_crystal
+minecraft:block/ice_crystal  [mcmeta]
 minecraft:block/icicle_base
 minecraft:block/icicle_frustum
 minecraft:block/icicle_middle
@@ -2535,6 +2535,8 @@ minecraft:gui/sprites/recipe_book/page_backward_highlighted
 minecraft:gui/sprites/recipe_book/page_forward
 minecraft:gui/sprites/recipe_book/page_forward_highlighted
 minecraft:gui/sprites/recipe_book/slot_craftable
+minecraft:gui/sprites/recipe_book/slot_highlight_back
+minecraft:gui/sprites/recipe_book/slot_highlight_front
 minecraft:gui/sprites/recipe_book/slot_many_craftable
 minecraft:gui/sprites/recipe_book/slot_many_uncraftable
 minecraft:gui/sprites/recipe_book/slot_uncraftable
@@ -2657,7 +2659,7 @@ minecraft:gui/title/background/panorama_overlay
 minecraft:gui/title/edition
 minecraft:gui/title/minceraft
 minecraft:gui/title/minecraft
-minecraft:gui/title/mojangstudios
+minecraft:gui/title/mojangstudios  [mcmeta]
 minecraft:gui/title/realms
 minecraft:item/abandoned_camp_map
 minecraft:item/acacia_boat

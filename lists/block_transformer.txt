@@ -1,3 +1,4 @@
 minecraft:axe
 minecraft:hoe
+minecraft:honeycomb
 minecraft:shovel

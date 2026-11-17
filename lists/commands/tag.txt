@@ -1,4 +1,4 @@
 ((permissions: gamemasters))
-tag <targets minecraft:entity[players_only=false, single_result=false]> add <name minecraft:string>
+tag <targets minecraft:entity[players_only=false, single_result=false]> add <name minecraft:word>
 tag <targets minecraft:entity[players_only=false, single_result=false]> list
-tag <targets minecraft:entity[players_only=false, single_result=false]> remove <name minecraft:string(suggestion=ask_server)>
+tag <targets minecraft:entity[players_only=false, single_result=false]> remove <name minecraft:word(suggestion=ask_server)>

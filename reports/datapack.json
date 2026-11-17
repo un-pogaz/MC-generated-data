@@ -209,6 +209,16 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:dispense_behavior": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:dispense_behavior_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:enchantment": {
       "elements": true,
       "stable": false,

@@ -1,6 +1,6 @@
 ((permissions: gamemasters))
-scoreboard objectives add <objective minecraft:string> <criteria minecraft:objective_criteria>
-scoreboard objectives add <objective minecraft:string> <criteria minecraft:objective_criteria> <displayName minecraft:component>
+scoreboard objectives add <objective minecraft:word> <criteria minecraft:objective_criteria>
+scoreboard objectives add <objective minecraft:word> <criteria minecraft:objective_criteria> <displayName minecraft:component>
 scoreboard objectives list
 scoreboard objectives modify <objective minecraft:objective> displayautoupdate <value minecraft:bool>
 scoreboard objectives modify <objective minecraft:objective> displayname <displayName minecraft:component>

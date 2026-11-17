@@ -8,7 +8,7 @@ test create <id minecraft:resource_location> <width minecraft:integer>
 test create <id minecraft:resource_location> <width minecraft:integer> <height minecraft:integer> <depth minecraft:integer>
 test locate <tests minecraft:resource_selector[registry="minecraft:test_instance"](suggestion=ask_server)>
 test pos
-test pos <var minecraft:string>
+test pos <var minecraft:word>
 test resetclosest
 test resetthat
 test resetthese

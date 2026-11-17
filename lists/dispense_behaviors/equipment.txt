@@ -1,0 +1,2 @@
+minecraft:equip
+minecraft:drop_item

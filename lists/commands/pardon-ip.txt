@@ -1,2 +1,2 @@
 ((permissions: admins))
-pardon-ip <target minecraft:string(suggestion=ask_server)>
+pardon-ip <target minecraft:word(suggestion=ask_server)>
