@@ -1,0 +1,1005 @@
+{
+  "type": "literal",
+  "children": {
+    "begin": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:block_pos"
+      },
+      "children": {
+        "end": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:block_pos"
+          },
+          "children": {
+            "destination": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "filtered": {
+                  "type": "literal",
+                  "children": {
+                    "filter": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_predicate"
+                      },
+                      "children": {
+                        "force": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "move": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "normal": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                },
+                "masked": {
+                  "type": "literal",
+                  "children": {
+                    "force": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "move": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "normal": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                },
+                "replace": {
+                  "type": "literal",
+                  "children": {
+                    "force": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "move": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "normal": {
+                      "type": "literal",
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                },
+                "strict": {
+                  "type": "literal",
+                  "children": {
+                    "filtered": {
+                      "type": "literal",
+                      "children": {
+                        "filter": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:block_predicate"
+                          },
+                          "children": {
+                            "force": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "move": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "normal": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "masked": {
+                      "type": "literal",
+                      "children": {
+                        "force": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "move": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "normal": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "replace": {
+                      "type": "literal",
+                      "children": {
+                        "force": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "move": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "normal": {
+                          "type": "literal",
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "to": {
+              "type": "literal",
+              "children": {
+                "targetDimension": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:dimension"
+                  },
+                  "children": {
+                    "destination": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_pos"
+                      },
+                      "children": {
+                        "filtered": {
+                          "type": "literal",
+                          "children": {
+                            "filter": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_predicate"
+                              },
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "masked": {
+                          "type": "literal",
+                          "children": {
+                            "force": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "move": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "normal": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "replace": {
+                          "type": "literal",
+                          "children": {
+                            "force": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "move": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "normal": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "strict": {
+                          "type": "literal",
+                          "children": {
+                            "filtered": {
+                              "type": "literal",
+                              "children": {
+                                "filter": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:block_predicate"
+                                  },
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "masked": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "replace": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "from": {
+      "type": "literal",
+      "children": {
+        "sourceDimension": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:dimension"
+          },
+          "children": {
+            "begin": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "end": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:block_pos"
+                  },
+                  "children": {
+                    "destination": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:block_pos"
+                      },
+                      "children": {
+                        "filtered": {
+                          "type": "literal",
+                          "children": {
+                            "filter": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_predicate"
+                              },
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "masked": {
+                          "type": "literal",
+                          "children": {
+                            "force": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "move": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "normal": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "replace": {
+                          "type": "literal",
+                          "children": {
+                            "force": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "move": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "normal": {
+                              "type": "literal",
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "strict": {
+                          "type": "literal",
+                          "children": {
+                            "filtered": {
+                              "type": "literal",
+                              "children": {
+                                "filter": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:block_predicate"
+                                  },
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "masked": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            },
+                            "replace": {
+                              "type": "literal",
+                              "children": {
+                                "force": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "move": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "normal": {
+                                  "type": "literal",
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "to": {
+                      "type": "literal",
+                      "children": {
+                        "targetDimension": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:dimension"
+                          },
+                          "children": {
+                            "destination": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "filtered": {
+                                  "type": "literal",
+                                  "children": {
+                                    "filter": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:block_predicate"
+                                      },
+                                      "children": {
+                                        "force": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "move": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "normal": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        }
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "masked": {
+                                  "type": "literal",
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "replace": {
+                                  "type": "literal",
+                                  "children": {
+                                    "force": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "move": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "normal": {
+                                      "type": "literal",
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                },
+                                "strict": {
+                                  "type": "literal",
+                                  "children": {
+                                    "filtered": {
+                                      "type": "literal",
+                                      "children": {
+                                        "filter": {
+                                          "type": "argument",
+                                          "argument": {
+                                            "type": "minecraft:block_predicate"
+                                          },
+                                          "children": {
+                                            "force": {
+                                              "type": "literal",
+                                              "executable": true,
+                                              "permissions": {
+                                                "type": "minecraft:always_pass"
+                                              }
+                                            },
+                                            "move": {
+                                              "type": "literal",
+                                              "executable": true,
+                                              "permissions": {
+                                                "type": "minecraft:always_pass"
+                                              }
+                                            },
+                                            "normal": {
+                                              "type": "literal",
+                                              "executable": true,
+                                              "permissions": {
+                                                "type": "minecraft:always_pass"
+                                              }
+                                            }
+                                          },
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        }
+                                      },
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "masked": {
+                                      "type": "literal",
+                                      "children": {
+                                        "force": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "move": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "normal": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        }
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    },
+                                    "replace": {
+                                      "type": "literal",
+                                      "children": {
+                                        "force": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "move": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        },
+                                        "normal": {
+                                          "type": "literal",
+                                          "executable": true,
+                                          "permissions": {
+                                            "type": "minecraft:always_pass"
+                                          }
+                                        }
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

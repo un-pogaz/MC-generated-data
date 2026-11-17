@@ -1,0 +1,3 @@
+[required]
+minecraft:origin
+minecraft:this_entity

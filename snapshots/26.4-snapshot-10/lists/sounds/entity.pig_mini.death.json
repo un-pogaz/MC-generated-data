@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/pig/mini/death"
+  ],
+  "subtitle": "subtitles.entity.pig.death"
+}

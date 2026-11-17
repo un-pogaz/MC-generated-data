@@ -1,0 +1,68 @@
+((permissions: gamemasters))
+playsound <sound minecraft:resource_location(suggestion=available_sounds)>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ambient <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> block <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> hostile <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> master <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> music <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> neutral <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> player <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> record <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> ui <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> voice <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather <targets minecraft:entity[players_only=true, single_result=false]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]>
+playsound <sound minecraft:resource_location(suggestion=available_sounds)> weather <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:vec3[auto_center=true]> <volume minecraft:float[min="0.0"]> <pitch minecraft:float[max="2.0", min="0.0"]> <minVolume minecraft:float[max="1.0", min="0.0"]>

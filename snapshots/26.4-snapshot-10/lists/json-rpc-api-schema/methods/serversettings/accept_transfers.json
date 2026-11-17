@@ -1,0 +1,11 @@
+{
+  "description": "Get whether the server accepts player transfers from other servers",
+  "name": "minecraft:serversettings/accept_transfers",
+  "params": [],
+  "result": {
+    "name": "accepted",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/warden/agitated_1",
+    "mob/warden/agitated_2",
+    "mob/warden/agitated_3",
+    "mob/warden/agitated_4",
+    "mob/warden/agitated_5",
+    "mob/warden/agitated_6"
+  ],
+  "subtitle": "subtitles.entity.warden.agitated"
+}

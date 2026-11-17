@@ -1,0 +1,9 @@
+{
+  "type": "string",
+  "enum": [
+    "peaceful",
+    "easy",
+    "normal",
+    "hard"
+  ]
+}

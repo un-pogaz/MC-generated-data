@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/ice_crystal/step1",
+    "block/ice_crystal/step2",
+    "block/ice_crystal/step3",
+    "block/ice_crystal/step4",
+    "block/ice_crystal/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

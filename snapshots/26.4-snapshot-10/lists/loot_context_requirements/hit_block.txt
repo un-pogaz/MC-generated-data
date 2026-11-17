@@ -1,0 +1,5 @@
+[required]
+minecraft:block_state
+minecraft:enchantment_level
+minecraft:origin
+minecraft:this_entity

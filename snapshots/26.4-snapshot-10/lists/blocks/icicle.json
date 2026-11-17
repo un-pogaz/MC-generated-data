@@ -1,0 +1,23 @@
+{
+  "properties": {
+    "attached": [
+      "true",
+      "false"
+    ],
+    "thickness": [
+      "tip_merge",
+      "tip",
+      "frustum",
+      "middle",
+      "base"
+    ],
+    "vertical_direction": [
+      "up",
+      "down"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

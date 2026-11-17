@@ -1,0 +1,3 @@
+minecraft:slime
+minecraft:magma_cube
+minecraft:sulfur_cube

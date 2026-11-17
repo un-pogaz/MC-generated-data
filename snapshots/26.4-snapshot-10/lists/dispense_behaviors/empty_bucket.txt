@@ -1,0 +1,2 @@
+minecraft:fill_bucket
+minecraft:drop_item

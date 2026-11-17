@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/small_sulfur_cube/hit1
+minecraft:mob/sulfur_cube/small_sulfur_cube/hit2
+minecraft:mob/sulfur_cube/small_sulfur_cube/hit3
+minecraft:mob/sulfur_cube/small_sulfur_cube/hit4

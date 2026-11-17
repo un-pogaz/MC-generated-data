@@ -1,0 +1,14 @@
+minecraft:block/potent_sulfur/noxious_gas/ambient1
+minecraft:block/potent_sulfur/noxious_gas/ambient2
+minecraft:block/potent_sulfur/noxious_gas/ambient3
+minecraft:block/potent_sulfur/noxious_gas/ambient4
+minecraft:block/potent_sulfur/noxious_gas/ambient5
+minecraft:block/potent_sulfur/noxious_gas/ambient6
+minecraft:block/potent_sulfur/noxious_gas/ambient7
+minecraft:block/potent_sulfur/noxious_gas/ambient8
+minecraft:block/potent_sulfur/noxious_gas/ambient9
+minecraft:block/potent_sulfur/noxious_gas/ambient10
+minecraft:block/potent_sulfur/noxious_gas/ambient11
+minecraft:block/potent_sulfur/noxious_gas/ambient12
+minecraft:block/potent_sulfur/noxious_gas/ambient13
+minecraft:block/potent_sulfur/noxious_gas/ambient14

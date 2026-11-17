@@ -1,0 +1,3 @@
+((permissions: gamemasters))
+ride <target minecraft:entity[players_only=false, single_result=true]> dismount
+ride <target minecraft:entity[players_only=false, single_result=true]> mount <vehicle minecraft:entity[players_only=false, single_result=true]>

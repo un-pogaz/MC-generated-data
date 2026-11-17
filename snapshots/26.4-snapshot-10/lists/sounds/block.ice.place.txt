@@ -1,0 +1,6 @@
+minecraft:block/ice/place1
+minecraft:block/ice/place2
+minecraft:block/ice/place3
+minecraft:block/ice/place4
+minecraft:block/ice/place5
+minecraft:block/ice/place6

@@ -1,0 +1,31 @@
+{
+  "ambient": [
+    {
+      "count": 8,
+      "type": "minecraft:bat",
+      "weight": 10
+    }
+  ],
+  "creature": [
+    {
+      "count": {
+        "max_inclusive": 8,
+        "min_inclusive": 4,
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:mooshroom",
+      "weight": 8
+    }
+  ],
+  "underground_water_creature": [
+    {
+      "count": {
+        "max_inclusive": 6,
+        "min_inclusive": 4,
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:glow_squid",
+      "weight": 10
+    }
+  ]
+}

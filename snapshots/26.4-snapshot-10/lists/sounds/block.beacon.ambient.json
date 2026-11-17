@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 7,
+      "name": "block/beacon/ambient",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.beacon.ambient"
+}

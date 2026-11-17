@@ -1,0 +1,6 @@
+minecraft:block/shelf_mushroom/step1
+minecraft:block/shelf_mushroom/step2
+minecraft:block/shelf_mushroom/step3
+minecraft:block/shelf_mushroom/step4
+minecraft:block/shelf_mushroom/step5
+minecraft:block/shelf_mushroom/step6

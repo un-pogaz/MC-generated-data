@@ -1,0 +1,2 @@
+minecraft:charge_respawn_anchor
+minecraft:drop_item

@@ -1,0 +1,25 @@
+{
+  "description": "Deop players",
+  "name": "minecraft:operators/remove",
+  "params": [
+    {
+      "name": "remove",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/player"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "operators",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/operator"
+      }
+    }
+  }
+}
