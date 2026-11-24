@@ -1,0 +1,11 @@
+{
+  "allowed": [
+    "minecraft:interacting_entity",
+    "minecraft:target_entity",
+    "minecraft:tool"
+  ],
+  "required": [
+    "minecraft:target_entity",
+    "minecraft:tool"
+  ]
+}

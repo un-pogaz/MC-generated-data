@@ -1,0 +1,289 @@
+{
+  "type": "literal",
+  "children": {
+    "targets": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:entity",
+        "players_only": true,
+        "single_result": false
+      },
+      "children": {
+        "*": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "ambient": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "block": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "hostile": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "master": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "music": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "neutral": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "player": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "record": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "ui": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "voice": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "weather": {
+          "type": "literal",
+          "children": {
+            "sound": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:available_sounds"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+minecraft:item/bucket/emptysulfurcube1
+minecraft:item/bucket/emptysulfurcube2
+minecraft:item/bucket/emptysulfurcube3

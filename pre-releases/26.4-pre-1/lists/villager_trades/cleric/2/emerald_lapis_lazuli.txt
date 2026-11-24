@@ -1,0 +1,5 @@
+wants: emerald
+gives: lapis_lazuli
+xp: 5
+max use: 12
+reputation discount: 0.05

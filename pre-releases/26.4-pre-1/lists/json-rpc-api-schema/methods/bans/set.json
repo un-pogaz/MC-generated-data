@@ -1,0 +1,25 @@
+{
+  "description": "Set the banlist",
+  "name": "minecraft:bans/set",
+  "params": [
+    {
+      "name": "bans",
+      "required": true,
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/user_ban"
+        }
+      }
+    }
+  ],
+  "result": {
+    "name": "banlist",
+    "schema": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/user_ban"
+      }
+    }
+  }
+}

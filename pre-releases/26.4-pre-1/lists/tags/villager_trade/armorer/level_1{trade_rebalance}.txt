@@ -1,0 +1,2 @@
+minecraft:smith/1/coal_emerald
+minecraft:armorer/1/iron_ingot_emerald

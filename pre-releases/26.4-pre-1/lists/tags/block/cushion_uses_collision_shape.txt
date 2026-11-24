@@ -1,0 +1,3 @@
+#minecraft:cauldrons
+minecraft:hopper
+minecraft:composter

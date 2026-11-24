@@ -1,0 +1,5 @@
+((permissions: gamemasters))
+spawnpoint
+spawnpoint <targets minecraft:entity[players_only=true, single_result=false]>
+spawnpoint <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:block_pos>
+spawnpoint <targets minecraft:entity[players_only=true, single_result=false]> <pos minecraft:block_pos> <rotation minecraft:rotation>

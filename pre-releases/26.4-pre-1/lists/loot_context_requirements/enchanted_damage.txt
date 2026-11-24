@@ -1,0 +1,9 @@
+[required]
+minecraft:damage_source
+minecraft:enchantment_level
+minecraft:origin
+minecraft:this_entity
+
+[allowed]
+minecraft:attacking_entity
+minecraft:direct_attacking_entity

@@ -1,0 +1,5 @@
+wants: emerald
+gives: gunpowder x4
+xp: 1
+max use: 2
+reputation discount: 0.05

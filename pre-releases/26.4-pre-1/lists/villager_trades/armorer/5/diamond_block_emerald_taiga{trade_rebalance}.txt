@@ -1,0 +1,6 @@
+wants: diamond_block
+gives: emerald x42
+xp: 30
+max use: 12
+reputation discount: 0.05
+condition: is taiga variant

@@ -1,0 +1,7 @@
+minecraft:block/cinnabar/place1
+minecraft:block/cinnabar/place2
+minecraft:block/cinnabar/place3
+minecraft:block/cinnabar/place4
+minecraft:block/cinnabar/place5
+minecraft:block/cinnabar/place6
+minecraft:block/cinnabar/place7

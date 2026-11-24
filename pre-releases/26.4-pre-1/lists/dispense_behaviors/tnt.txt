@@ -1,0 +1,2 @@
+minecraft:equip_sulfur_cube
+minecraft:spawn_tnt

@@ -1,0 +1,2 @@
+minecraft:transform_block  {{data}}
+minecraft:drop_item

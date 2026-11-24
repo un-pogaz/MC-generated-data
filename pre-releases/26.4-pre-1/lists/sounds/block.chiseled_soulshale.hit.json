@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/chiseled_soulshale/hit1",
+    "block/chiseled_soulshale/hit2",
+    "block/chiseled_soulshale/hit3",
+    "block/chiseled_soulshale/hit4",
+    "block/chiseled_soulshale/hit5"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/red_shrub/break1",
+    "block/red_shrub/break2",
+    "block/red_shrub/break3",
+    "block/red_shrub/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

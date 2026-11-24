@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/ice_crystal/break1",
+    "block/ice_crystal/break2",
+    "block/ice_crystal/break3",
+    "block/ice_crystal/break4",
+    "block/ice_crystal/break5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

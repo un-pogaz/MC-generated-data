@@ -1,0 +1,20 @@
+{
+  "type": "literal",
+  "children": {
+    "flush": {
+      "type": "literal",
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "executable": true,
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "owners"
+    }
+  }
+}

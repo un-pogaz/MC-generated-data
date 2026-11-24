@@ -1,0 +1,3 @@
+((permissions: admins))
+ban-ip <target minecraft:word>
+ban-ip <target minecraft:word> <reason minecraft:message>

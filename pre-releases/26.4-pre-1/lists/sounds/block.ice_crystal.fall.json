@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/ice_crystal/hit1",
+    "block/ice_crystal/hit2",
+    "block/ice_crystal/hit3",
+    "block/ice_crystal/hit4",
+    "block/ice_crystal/hit5"
+  ],
+  "subtitle": "subtitles.block.generic.fall"
+}

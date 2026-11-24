@@ -1,0 +1,9 @@
+((permissions: gamemasters))
+teleport <destination minecraft:entity[players_only=false, single_result=true]>
+teleport <location minecraft:vec3[auto_center=true]>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <destination minecraft:entity[players_only=false, single_result=true]>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <location minecraft:vec3[auto_center=true]>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <location minecraft:vec3[auto_center=true]> facing entity <facingEntity minecraft:entity[players_only=false, single_result=true]>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <location minecraft:vec3[auto_center=true]> facing entity <facingEntity minecraft:entity[players_only=false, single_result=true]> <facingAnchor minecraft:entity_anchor>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <location minecraft:vec3[auto_center=true]> facing <facingLocation minecraft:vec3[auto_center=true]>
+teleport <targets minecraft:entity[players_only=false, single_result=false]> <location minecraft:vec3[auto_center=true]> <rotation minecraft:rotation>

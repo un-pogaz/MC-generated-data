@@ -1,0 +1,11 @@
+{
+  "description": "Get the server's view distance in chunks",
+  "name": "minecraft:serversettings/view_distance",
+  "params": [],
+  "result": {
+    "name": "distance",
+    "schema": {
+      "type": "integer"
+    }
+  }
+}

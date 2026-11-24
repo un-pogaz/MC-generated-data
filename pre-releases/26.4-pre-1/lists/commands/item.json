@@ -1,0 +1,1090 @@
+{
+  "type": "literal",
+  "children": {
+    "fill": {
+      "type": "literal",
+      "children": {
+        "block": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "entity": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:entity",
+                "players_only": false,
+                "single_result": false
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "modify": {
+      "type": "literal",
+      "children": {
+        "block": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "modifier": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:loot_modifier",
+                        "context": "minecraft:command_modifier"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "entity": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:entity",
+                "players_only": false,
+                "single_result": false
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "modifier": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:loot_modifier",
+                        "context": "minecraft:command_modifier"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "override": {
+      "type": "literal",
+      "children": {
+        "block": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "entity": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:entity",
+                "players_only": false,
+                "single_result": false
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "replace": {
+      "type": "literal",
+      "children": {
+        "block": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:block_pos"
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "entity": {
+          "type": "literal",
+          "children": {
+            "target": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:entity",
+                "players_only": false,
+                "single_result": false
+              },
+              "children": {
+                "slots": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:slot_source",
+                    "context": "minecraft:command_slot_source"
+                  },
+                  "children": {
+                    "from": {
+                      "type": "literal",
+                      "children": {
+                        "block": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:block_pos"
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "entity": {
+                          "type": "literal",
+                          "children": {
+                            "source": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": false,
+                                "single_result": false
+                              },
+                              "children": {
+                                "sourceSlots": {
+                                  "type": "argument",
+                                  "argument": {
+                                    "type": "minecraft:slot_source",
+                                    "context": "minecraft:command_slot_source"
+                                  },
+                                  "children": {
+                                    "modifier": {
+                                      "type": "argument",
+                                      "argument": {
+                                        "type": "minecraft:loot_modifier",
+                                        "context": "minecraft:command_modifier"
+                                      },
+                                      "executable": true,
+                                      "permissions": {
+                                        "type": "minecraft:always_pass"
+                                      }
+                                    }
+                                  },
+                                  "executable": true,
+                                  "permissions": {
+                                    "type": "minecraft:always_pass"
+                                  }
+                                }
+                              },
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    },
+                    "with": {
+                      "type": "literal",
+                      "children": {
+                        "item": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:item_stack"
+                          },
+                          "children": {
+                            "count": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:integer",
+                                "max": 99,
+                                "min": 1
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

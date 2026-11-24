@@ -1,0 +1,9 @@
+{
+  "type": "literal",
+  "permissions": {
+    "type": "minecraft:always_pass"
+  },
+  "redirect": [
+    "teammsg"
+  ]
+}

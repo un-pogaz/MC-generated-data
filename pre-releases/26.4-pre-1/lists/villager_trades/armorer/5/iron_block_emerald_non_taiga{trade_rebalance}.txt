@@ -1,0 +1,6 @@
+wants: iron_block
+gives: emerald x4
+xp: 30
+max use: 12
+reputation discount: 0.05
+condition: is desert/jungle/plains/savanna/snow/swamp variant

@@ -1,0 +1,9 @@
+((permissions: gamemasters))
+experience add <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer>
+experience add <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer> levels
+experience add <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer> points
+experience query <target minecraft:entity[players_only=true, single_result=true]> levels
+experience query <target minecraft:entity[players_only=true, single_result=true]> points
+experience set <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer[min="0"]>
+experience set <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer[min="0"]> levels
+experience set <target minecraft:entity[players_only=true, single_result=false]> <amount minecraft:integer[min="0"]> points

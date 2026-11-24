@@ -1,0 +1,11 @@
+{
+  "allowed": [
+    "minecraft:origin",
+    "minecraft:target_entity",
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:origin",
+    "minecraft:target_entity"
+  ]
+}

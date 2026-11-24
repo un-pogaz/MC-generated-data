@@ -1,0 +1,4 @@
+minecraft:block/straw_bed/place1
+minecraft:block/straw_bed/place2
+minecraft:block/straw_bed/place3
+minecraft:block/straw_bed/place4
