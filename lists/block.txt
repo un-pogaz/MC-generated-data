@@ -1604,6 +1604,7 @@ minecraft:zombie_wall_head
 #minecraft:wall_corals
 #minecraft:wall_hanging_signs
 #minecraft:wall_post_override
+#minecraft:wall_side_shape_override
 #minecraft:wall_signs
 #minecraft:walls
 #minecraft:warped_stems
