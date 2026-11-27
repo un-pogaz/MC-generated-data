@@ -1,0 +1,7 @@
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active1
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active2
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active3
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active4
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active5
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active6
+minecraft:block/potent_sulfur/geyser_continuous/eruption_active7

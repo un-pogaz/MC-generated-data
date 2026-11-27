@@ -1,0 +1,5 @@
+minecraft:block/chiseled_soulshale/break1
+minecraft:block/chiseled_soulshale/break2
+minecraft:block/chiseled_soulshale/break3
+minecraft:block/chiseled_soulshale/break4
+minecraft:block/chiseled_soulshale/break5

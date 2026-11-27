@@ -1,0 +1,4 @@
+minecraft:mob/sulfur_cube/ball/highresistance_hit1
+minecraft:mob/sulfur_cube/ball/highresistance_hit2
+minecraft:mob/sulfur_cube/ball/highresistance_hit3
+minecraft:mob/sulfur_cube/ball/highresistance_hit4

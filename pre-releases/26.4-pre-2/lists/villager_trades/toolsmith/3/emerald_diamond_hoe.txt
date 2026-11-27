@@ -1,0 +1,5 @@
+wants: emerald x4
+gives: diamond_hoe
+xp: 10
+max use: 3
+reputation discount: 0.2

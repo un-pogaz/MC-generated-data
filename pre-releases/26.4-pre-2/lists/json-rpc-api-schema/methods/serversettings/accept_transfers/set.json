@@ -1,0 +1,19 @@
+{
+  "description": "Enable or disable accepting player transfers from other servers",
+  "name": "minecraft:serversettings/accept_transfers/set",
+  "params": [
+    {
+      "name": "accept",
+      "required": true,
+      "schema": {
+        "type": "boolean"
+      }
+    }
+  ],
+  "result": {
+    "name": "accepted",
+    "schema": {
+      "type": "boolean"
+    }
+  }
+}

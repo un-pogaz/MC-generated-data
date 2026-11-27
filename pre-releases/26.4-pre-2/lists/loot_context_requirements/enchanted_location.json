@@ -1,0 +1,14 @@
+{
+  "allowed": [
+    "minecraft:enchantment_active",
+    "minecraft:enchantment_level",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ],
+  "required": [
+    "minecraft:enchantment_active",
+    "minecraft:enchantment_level",
+    "minecraft:origin",
+    "minecraft:this_entity"
+  ]
+}

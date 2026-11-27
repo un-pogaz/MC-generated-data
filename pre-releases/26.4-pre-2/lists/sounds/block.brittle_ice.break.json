@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/brittle_ice/break1",
+    "block/brittle_ice/break2",
+    "block/brittle_ice/break3",
+    "block/brittle_ice/break4",
+    "block/brittle_ice/break5",
+    "block/brittle_ice/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

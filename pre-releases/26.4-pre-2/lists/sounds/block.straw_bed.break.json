@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/straw_bed/break1",
+    "block/straw_bed/break2",
+    "block/straw_bed/break3",
+    "block/straw_bed/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

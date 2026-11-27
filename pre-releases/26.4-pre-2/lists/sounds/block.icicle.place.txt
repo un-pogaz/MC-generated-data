@@ -1,0 +1,6 @@
+minecraft:block/icicle/place1
+minecraft:block/icicle/place2
+minecraft:block/icicle/place3
+minecraft:block/icicle/place4
+minecraft:block/icicle/place5
+minecraft:block/icicle/place6

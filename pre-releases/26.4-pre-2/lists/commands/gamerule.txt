@@ -1,0 +1,237 @@
+((permissions: gamemasters))
+gamerule advance_time
+gamerule advance_time <value minecraft:bool>
+gamerule advance_weather
+gamerule advance_weather <value minecraft:bool>
+gamerule allow_entering_nether_using_portals
+gamerule allow_entering_nether_using_portals <value minecraft:bool>
+gamerule block_drops
+gamerule block_drops <value minecraft:bool>
+gamerule block_explosion_drop_decay
+gamerule block_explosion_drop_decay <value minecraft:bool>
+gamerule command_block_output
+gamerule command_block_output <value minecraft:bool>
+gamerule command_blocks_work
+gamerule command_blocks_work <value minecraft:bool>
+gamerule drowning_damage
+gamerule drowning_damage <value minecraft:bool>
+gamerule elytra_movement_check
+gamerule elytra_movement_check <value minecraft:bool>
+gamerule ender_pearls_vanish_on_death
+gamerule ender_pearls_vanish_on_death <value minecraft:bool>
+gamerule entity_drops
+gamerule entity_drops <value minecraft:bool>
+gamerule fall_damage
+gamerule fall_damage <value minecraft:bool>
+gamerule fire_damage
+gamerule fire_damage <value minecraft:bool>
+gamerule fire_spread_radius_around_player
+gamerule fire_spread_radius_around_player <value minecraft:integer[min="-1"]>
+gamerule forgive_dead_players
+gamerule forgive_dead_players <value minecraft:bool>
+gamerule freeze_damage
+gamerule freeze_damage <value minecraft:bool>
+gamerule global_sound_events
+gamerule global_sound_events <value minecraft:bool>
+gamerule immediate_respawn
+gamerule immediate_respawn <value minecraft:bool>
+gamerule keep_inventory
+gamerule keep_inventory <value minecraft:bool>
+gamerule lava_source_conversion
+gamerule lava_source_conversion <value minecraft:bool>
+gamerule limited_crafting
+gamerule limited_crafting <value minecraft:bool>
+gamerule locator_bar
+gamerule locator_bar <value minecraft:bool>
+gamerule log_admin_commands
+gamerule log_admin_commands <value minecraft:bool>
+gamerule max_block_modifications
+gamerule max_block_modifications <value minecraft:integer[min="1"]>
+gamerule max_command_forks
+gamerule max_command_forks <value minecraft:integer[min="0"]>
+gamerule max_command_sequence_length
+gamerule max_command_sequence_length <value minecraft:integer[min="0"]>
+gamerule max_entity_cramming
+gamerule max_entity_cramming <value minecraft:integer[min="0"]>
+gamerule max_minecart_speed
+gamerule max_minecart_speed <value minecraft:integer[max="1000", min="1"]>
+gamerule max_snow_accumulation_height
+gamerule max_snow_accumulation_height <value minecraft:integer[max="8", min="0"]>
+gamerule minecraft:advance_time
+gamerule minecraft:advance_time <value minecraft:bool>
+gamerule minecraft:advance_weather
+gamerule minecraft:advance_weather <value minecraft:bool>
+gamerule minecraft:allow_entering_nether_using_portals
+gamerule minecraft:allow_entering_nether_using_portals <value minecraft:bool>
+gamerule minecraft:block_drops
+gamerule minecraft:block_drops <value minecraft:bool>
+gamerule minecraft:block_explosion_drop_decay
+gamerule minecraft:block_explosion_drop_decay <value minecraft:bool>
+gamerule minecraft:command_block_output
+gamerule minecraft:command_block_output <value minecraft:bool>
+gamerule minecraft:command_blocks_work
+gamerule minecraft:command_blocks_work <value minecraft:bool>
+gamerule minecraft:drowning_damage
+gamerule minecraft:drowning_damage <value minecraft:bool>
+gamerule minecraft:elytra_movement_check
+gamerule minecraft:elytra_movement_check <value minecraft:bool>
+gamerule minecraft:ender_pearls_vanish_on_death
+gamerule minecraft:ender_pearls_vanish_on_death <value minecraft:bool>
+gamerule minecraft:entity_drops
+gamerule minecraft:entity_drops <value minecraft:bool>
+gamerule minecraft:fall_damage
+gamerule minecraft:fall_damage <value minecraft:bool>
+gamerule minecraft:fire_damage
+gamerule minecraft:fire_damage <value minecraft:bool>
+gamerule minecraft:fire_spread_radius_around_player
+gamerule minecraft:fire_spread_radius_around_player <value minecraft:integer[min="-1"]>
+gamerule minecraft:forgive_dead_players
+gamerule minecraft:forgive_dead_players <value minecraft:bool>
+gamerule minecraft:freeze_damage
+gamerule minecraft:freeze_damage <value minecraft:bool>
+gamerule minecraft:global_sound_events
+gamerule minecraft:global_sound_events <value minecraft:bool>
+gamerule minecraft:immediate_respawn
+gamerule minecraft:immediate_respawn <value minecraft:bool>
+gamerule minecraft:keep_inventory
+gamerule minecraft:keep_inventory <value minecraft:bool>
+gamerule minecraft:lava_source_conversion
+gamerule minecraft:lava_source_conversion <value minecraft:bool>
+gamerule minecraft:limited_crafting
+gamerule minecraft:limited_crafting <value minecraft:bool>
+gamerule minecraft:locator_bar
+gamerule minecraft:locator_bar <value minecraft:bool>
+gamerule minecraft:log_admin_commands
+gamerule minecraft:log_admin_commands <value minecraft:bool>
+gamerule minecraft:max_block_modifications
+gamerule minecraft:max_block_modifications <value minecraft:integer[min="1"]>
+gamerule minecraft:max_command_forks
+gamerule minecraft:max_command_forks <value minecraft:integer[min="0"]>
+gamerule minecraft:max_command_sequence_length
+gamerule minecraft:max_command_sequence_length <value minecraft:integer[min="0"]>
+gamerule minecraft:max_entity_cramming
+gamerule minecraft:max_entity_cramming <value minecraft:integer[min="0"]>
+gamerule minecraft:max_minecart_speed
+gamerule minecraft:max_minecart_speed <value minecraft:integer[max="1000", min="1"]>
+gamerule minecraft:max_snow_accumulation_height
+gamerule minecraft:max_snow_accumulation_height <value minecraft:integer[max="8", min="0"]>
+gamerule minecraft:mob_drops
+gamerule minecraft:mob_drops <value minecraft:bool>
+gamerule minecraft:mob_explosion_drop_decay
+gamerule minecraft:mob_explosion_drop_decay <value minecraft:bool>
+gamerule minecraft:mob_griefing
+gamerule minecraft:mob_griefing <value minecraft:bool>
+gamerule minecraft:natural_health_regeneration
+gamerule minecraft:natural_health_regeneration <value minecraft:bool>
+gamerule minecraft:player_movement_check
+gamerule minecraft:player_movement_check <value minecraft:bool>
+gamerule minecraft:players_nether_portal_creative_delay
+gamerule minecraft:players_nether_portal_creative_delay <value minecraft:integer[min="0"]>
+gamerule minecraft:players_nether_portal_default_delay
+gamerule minecraft:players_nether_portal_default_delay <value minecraft:integer[min="0"]>
+gamerule minecraft:players_sleeping_percentage
+gamerule minecraft:players_sleeping_percentage <value minecraft:integer[min="0"]>
+gamerule minecraft:projectiles_can_break_blocks
+gamerule minecraft:projectiles_can_break_blocks <value minecraft:bool>
+gamerule minecraft:pvp
+gamerule minecraft:pvp <value minecraft:bool>
+gamerule minecraft:raids
+gamerule minecraft:raids <value minecraft:bool>
+gamerule minecraft:random_tick_speed
+gamerule minecraft:random_tick_speed <value minecraft:integer[min="0"]>
+gamerule minecraft:reduced_debug_info
+gamerule minecraft:reduced_debug_info <value minecraft:bool>
+gamerule minecraft:respawn_radius
+gamerule minecraft:respawn_radius <value minecraft:integer[min="0"]>
+gamerule minecraft:send_command_feedback
+gamerule minecraft:send_command_feedback <value minecraft:bool>
+gamerule minecraft:show_advancement_messages
+gamerule minecraft:show_advancement_messages <value minecraft:bool>
+gamerule minecraft:show_death_messages
+gamerule minecraft:show_death_messages <value minecraft:bool>
+gamerule minecraft:spawn_mobs
+gamerule minecraft:spawn_mobs <value minecraft:bool>
+gamerule minecraft:spawn_monsters
+gamerule minecraft:spawn_monsters <value minecraft:bool>
+gamerule minecraft:spawn_patrols
+gamerule minecraft:spawn_patrols <value minecraft:bool>
+gamerule minecraft:spawn_phantoms
+gamerule minecraft:spawn_phantoms <value minecraft:bool>
+gamerule minecraft:spawn_wandering_traders
+gamerule minecraft:spawn_wandering_traders <value minecraft:bool>
+gamerule minecraft:spawn_wardens
+gamerule minecraft:spawn_wardens <value minecraft:bool>
+gamerule minecraft:spawner_blocks_work
+gamerule minecraft:spawner_blocks_work <value minecraft:bool>
+gamerule minecraft:spectators_generate_chunks
+gamerule minecraft:spectators_generate_chunks <value minecraft:bool>
+gamerule minecraft:spread_vines
+gamerule minecraft:spread_vines <value minecraft:bool>
+gamerule minecraft:tnt_explodes
+gamerule minecraft:tnt_explodes <value minecraft:bool>
+gamerule minecraft:tnt_explosion_drop_decay
+gamerule minecraft:tnt_explosion_drop_decay <value minecraft:bool>
+gamerule minecraft:universal_anger
+gamerule minecraft:universal_anger <value minecraft:bool>
+gamerule minecraft:water_source_conversion
+gamerule minecraft:water_source_conversion <value minecraft:bool>
+gamerule mob_drops
+gamerule mob_drops <value minecraft:bool>
+gamerule mob_explosion_drop_decay
+gamerule mob_explosion_drop_decay <value minecraft:bool>
+gamerule mob_griefing
+gamerule mob_griefing <value minecraft:bool>
+gamerule natural_health_regeneration
+gamerule natural_health_regeneration <value minecraft:bool>
+gamerule player_movement_check
+gamerule player_movement_check <value minecraft:bool>
+gamerule players_nether_portal_creative_delay
+gamerule players_nether_portal_creative_delay <value minecraft:integer[min="0"]>
+gamerule players_nether_portal_default_delay
+gamerule players_nether_portal_default_delay <value minecraft:integer[min="0"]>
+gamerule players_sleeping_percentage
+gamerule players_sleeping_percentage <value minecraft:integer[min="0"]>
+gamerule projectiles_can_break_blocks
+gamerule projectiles_can_break_blocks <value minecraft:bool>
+gamerule pvp
+gamerule pvp <value minecraft:bool>
+gamerule raids
+gamerule raids <value minecraft:bool>
+gamerule random_tick_speed
+gamerule random_tick_speed <value minecraft:integer[min="0"]>
+gamerule reduced_debug_info
+gamerule reduced_debug_info <value minecraft:bool>
+gamerule respawn_radius
+gamerule respawn_radius <value minecraft:integer[min="0"]>
+gamerule send_command_feedback
+gamerule send_command_feedback <value minecraft:bool>
+gamerule show_advancement_messages
+gamerule show_advancement_messages <value minecraft:bool>
+gamerule show_death_messages
+gamerule show_death_messages <value minecraft:bool>
+gamerule spawn_mobs
+gamerule spawn_mobs <value minecraft:bool>
+gamerule spawn_monsters
+gamerule spawn_monsters <value minecraft:bool>
+gamerule spawn_patrols
+gamerule spawn_patrols <value minecraft:bool>
+gamerule spawn_phantoms
+gamerule spawn_phantoms <value minecraft:bool>
+gamerule spawn_wandering_traders
+gamerule spawn_wandering_traders <value minecraft:bool>
+gamerule spawn_wardens
+gamerule spawn_wardens <value minecraft:bool>
+gamerule spawner_blocks_work
+gamerule spawner_blocks_work <value minecraft:bool>
+gamerule spectators_generate_chunks
+gamerule spectators_generate_chunks <value minecraft:bool>
+gamerule spread_vines
+gamerule spread_vines <value minecraft:bool>
+gamerule tnt_explodes
+gamerule tnt_explodes <value minecraft:bool>
+gamerule tnt_explosion_drop_decay
+gamerule tnt_explosion_drop_decay <value minecraft:bool>
+gamerule universal_anger
+gamerule universal_anger <value minecraft:bool>
+gamerule water_source_conversion
+gamerule water_source_conversion <value minecraft:bool>

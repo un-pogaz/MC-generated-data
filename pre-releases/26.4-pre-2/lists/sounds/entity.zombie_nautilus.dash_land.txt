@@ -1,0 +1,4 @@
+minecraft:mob/zombie_nautilus/dash_land1
+minecraft:mob/zombie_nautilus/dash_land2
+minecraft:mob/zombie_nautilus/dash_land3
+minecraft:mob/zombie_nautilus/dash_land4

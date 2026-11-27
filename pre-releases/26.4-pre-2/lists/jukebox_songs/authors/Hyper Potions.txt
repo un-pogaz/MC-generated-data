@@ -1,0 +1,2 @@
+minecraft:flurry
+minecraft:lava_chicken

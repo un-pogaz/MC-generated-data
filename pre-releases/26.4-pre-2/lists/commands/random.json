@@ -1,0 +1,186 @@
+{
+  "type": "literal",
+  "children": {
+    "reset": {
+      "type": "literal",
+      "children": {
+        "*": {
+          "type": "literal",
+          "children": {
+            "seed": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:integer"
+              },
+              "children": {
+                "includeWorldSeed": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:bool"
+                  },
+                  "children": {
+                    "includeSequenceId": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:bool"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "sequence": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:resource_location"
+          },
+          "children": {
+            "seed": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:integer"
+              },
+              "children": {
+                "includeWorldSeed": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:bool"
+                  },
+                  "children": {
+                    "includeSequenceId": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:bool"
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "custom_suggestion": {
+            "type": "minecraft:ask_server"
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:require",
+        "permission": {
+          "type": "minecraft:command_level",
+          "level": "gamemasters"
+        }
+      }
+    },
+    "roll": {
+      "type": "literal",
+      "children": {
+        "range": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:int_range"
+          },
+          "children": {
+            "sequence": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:ask_server"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:require",
+                "permission": {
+                  "type": "minecraft:command_level",
+                  "level": "gamemasters"
+                }
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "value": {
+      "type": "literal",
+      "children": {
+        "range": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:int_range"
+          },
+          "children": {
+            "sequence": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:resource_location"
+              },
+              "custom_suggestion": {
+                "type": "minecraft:ask_server"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:require",
+                "permission": {
+                  "type": "minecraft:command_level",
+                  "level": "gamemasters"
+                }
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:always_pass"
+  }
+}

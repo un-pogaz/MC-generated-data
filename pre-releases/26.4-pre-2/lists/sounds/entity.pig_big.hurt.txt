@@ -1,0 +1,3 @@
+minecraft:mob/pig/big/hit1
+minecraft:mob/pig/big/hit2
+minecraft:mob/pig/big/hit3

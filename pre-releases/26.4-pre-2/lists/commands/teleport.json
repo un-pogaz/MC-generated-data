@@ -1,0 +1,134 @@
+{
+  "type": "literal",
+  "children": {
+    "destination": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:entity",
+        "players_only": false,
+        "single_result": true
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "location": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:vec3",
+        "auto_center": true
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    },
+    "targets": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:entity",
+        "players_only": false,
+        "single_result": false
+      },
+      "children": {
+        "destination": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:entity",
+            "players_only": false,
+            "single_result": true
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "location": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:vec3",
+            "auto_center": true
+          },
+          "children": {
+            "facing": {
+              "type": "literal",
+              "children": {
+                "entity": {
+                  "type": "literal",
+                  "children": {
+                    "facingEntity": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:entity",
+                        "players_only": false,
+                        "single_result": true
+                      },
+                      "children": {
+                        "facingAnchor": {
+                          "type": "argument",
+                          "argument": {
+                            "type": "minecraft:entity_anchor"
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                },
+                "facingLocation": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:vec3",
+                    "auto_center": true
+                  },
+                  "executable": true,
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            },
+            "rotation": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:rotation"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

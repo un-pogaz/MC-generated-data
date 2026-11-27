@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/blastfurnace/blastfurnace1",
+    "block/blastfurnace/blastfurnace2",
+    "block/blastfurnace/blastfurnace3",
+    "block/blastfurnace/blastfurnace4",
+    "block/blastfurnace/blastfurnace5"
+  ],
+  "subtitle": "subtitles.block.blastfurnace.fire_crackle"
+}

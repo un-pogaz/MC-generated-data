@@ -1,0 +1,3 @@
+minecraft:charge_respawn_anchor
+minecraft:equip_sulfur_cube
+minecraft:drop_item

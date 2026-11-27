@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/ice_crystal/place1",
+    "block/ice_crystal/place2",
+    "block/ice_crystal/place3",
+    "block/ice_crystal/place4",
+    "block/ice_crystal/place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

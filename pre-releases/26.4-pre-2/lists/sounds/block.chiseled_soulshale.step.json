@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/chiseled_soulshale/step1",
+    "block/chiseled_soulshale/step2",
+    "block/chiseled_soulshale/step3",
+    "block/chiseled_soulshale/step4",
+    "block/chiseled_soulshale/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

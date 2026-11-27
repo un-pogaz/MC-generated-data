@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frostbite/ambient1",
+      "pitch": 1.8,
+      "volume": 0.7
+    },
+    {
+      "name": "mob/frostbite/ambient2",
+      "pitch": 1.8,
+      "volume": 0.7
+    },
+    {
+      "name": "mob/frostbite/ambient3",
+      "pitch": 1.8,
+      "volume": 0.7
+    },
+    {
+      "name": "mob/frostbite/ambient4",
+      "pitch": 1.8,
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.frostbite"
+}

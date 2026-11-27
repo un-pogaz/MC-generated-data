@@ -1,0 +1,3 @@
+minecraft:butcher/2/coal_emerald
+minecraft:butcher/2/emerald_cooked_porkchop
+minecraft:butcher/2/emerald_cooked_chicken

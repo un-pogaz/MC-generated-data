@@ -1,0 +1,116 @@
+{
+  "type": "literal",
+  "children": {
+    "name": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:particle"
+      },
+      "children": {
+        "pos": {
+          "type": "argument",
+          "argument": {
+            "type": "minecraft:vec3",
+            "auto_center": true
+          },
+          "children": {
+            "delta": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:vec3",
+                "auto_center": false
+              },
+              "children": {
+                "speed": {
+                  "type": "argument",
+                  "argument": {
+                    "type": "minecraft:float",
+                    "min": 0.0
+                  },
+                  "children": {
+                    "count": {
+                      "type": "argument",
+                      "argument": {
+                        "type": "minecraft:integer",
+                        "min": 0
+                      },
+                      "children": {
+                        "force": {
+                          "type": "literal",
+                          "children": {
+                            "viewers": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": true,
+                                "single_result": false
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        },
+                        "normal": {
+                          "type": "literal",
+                          "children": {
+                            "viewers": {
+                              "type": "argument",
+                              "argument": {
+                                "type": "minecraft:entity",
+                                "players_only": true,
+                                "single_result": false
+                              },
+                              "executable": true,
+                              "permissions": {
+                                "type": "minecraft:always_pass"
+                              }
+                            }
+                          },
+                          "executable": true,
+                          "permissions": {
+                            "type": "minecraft:always_pass"
+                          }
+                        }
+                      },
+                      "executable": true,
+                      "permissions": {
+                        "type": "minecraft:always_pass"
+                      }
+                    }
+                  },
+                  "permissions": {
+                    "type": "minecraft:always_pass"
+                  }
+                }
+              },
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "executable": true,
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:require",
+    "permission": {
+      "type": "minecraft:command_level",
+      "level": "gamemasters"
+    }
+  }
+}

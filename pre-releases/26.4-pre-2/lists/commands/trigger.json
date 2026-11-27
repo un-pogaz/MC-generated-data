@@ -1,0 +1,59 @@
+{
+  "type": "literal",
+  "children": {
+    "objective": {
+      "type": "argument",
+      "argument": {
+        "type": "minecraft:objective"
+      },
+      "children": {
+        "add": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:integer"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        },
+        "set": {
+          "type": "literal",
+          "children": {
+            "value": {
+              "type": "argument",
+              "argument": {
+                "type": "minecraft:integer"
+              },
+              "executable": true,
+              "permissions": {
+                "type": "minecraft:always_pass"
+              }
+            }
+          },
+          "permissions": {
+            "type": "minecraft:always_pass"
+          }
+        }
+      },
+      "custom_suggestion": {
+        "type": "minecraft:ask_server"
+      },
+      "executable": true,
+      "permissions": {
+        "type": "minecraft:always_pass"
+      }
+    }
+  },
+  "permissions": {
+    "type": "minecraft:always_pass"
+  }
+}

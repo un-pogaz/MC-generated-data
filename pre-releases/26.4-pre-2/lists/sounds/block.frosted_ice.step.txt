@@ -1,0 +1,6 @@
+minecraft:block/frosted_ice/step1
+minecraft:block/frosted_ice/step2
+minecraft:block/frosted_ice/step3
+minecraft:block/frosted_ice/step4
+minecraft:block/frosted_ice/step5
+minecraft:block/frosted_ice/step6

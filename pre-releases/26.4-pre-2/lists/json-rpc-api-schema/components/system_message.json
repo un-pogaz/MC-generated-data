@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "message": {
+      "$ref": "#/components/schemas/message"
+    },
+    "overlay": {
+      "type": "boolean"
+    },
+    "receivingPlayers": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/player"
+      }
+    }
+  }
+}

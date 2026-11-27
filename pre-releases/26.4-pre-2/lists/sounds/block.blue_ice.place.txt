@@ -1,0 +1,6 @@
+minecraft:block/blue_ice/place1
+minecraft:block/blue_ice/place2
+minecraft:block/blue_ice/place3
+minecraft:block/blue_ice/place4
+minecraft:block/blue_ice/place5
+minecraft:block/blue_ice/place6

@@ -1,0 +1,4 @@
+((permissions: owners))
+publish
+publish <allowCommands minecraft:bool>
+publish <allowCommands minecraft:bool> <port minecraft:integer[max="65535", min="0"]>

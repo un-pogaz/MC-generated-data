@@ -1,0 +1,16 @@
+{
+  "on_consume_effects": [
+    {
+      "type": "minecraft:apply_effects",
+      "effects": [
+        {
+          "duration": 100,
+          "id": "minecraft:poison",
+          "show_icon": true
+        }
+      ],
+      "probability": 0.6
+    }
+  ],
+  "sound": "minecraft:entity.generic.eat"
+}
